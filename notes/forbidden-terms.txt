@@ -1,0 +1,17 @@
+# Proper nouns that must never appear in the manuscript.
+# Matched case-insensitively as whole words/phrases.
+Immortan
+Furiosa
+Rockatansky
+Gas Town
+Gastown
+Bullet Farm
+The Citadel
+Thunderdome
+War Boy
+War Boys
+Aunty Entity
+Columbus
+Tallahassee
+Zombieland
+Mad Max

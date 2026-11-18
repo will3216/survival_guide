@@ -1,0 +1,22 @@
+# The authoritative chapter list. One filename per line, in reading order.
+# The linter errors on any file listed here that does not exist.
+01-triage.md
+02-run-or-dig-in.md
+03-body.md
+04-water.md
+05-weather.md
+06-food.md
+07-first-people.md
+08-gear.md
+09-scavenging.md
+10-machine.md
+11-voices.md
+12-rot.md
+13-growing.md
+14-economy.md
+15-groups.md
+16-grief.md
+17-silhouette.md
+18-gods.md
+19-holidays.md
+20-teaching.md
