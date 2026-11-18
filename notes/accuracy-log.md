@@ -34,11 +34,26 @@ its chapter is written.
     dosage) because precision would be irresponsible without context the
     reader can't supply.
 
-Each chapter's section starts as `_No entries yet._` and is replaced with a
-bulleted list of entries as the chapter is written. A chapter with no
-load-bearing real-world claims may legitimately stay `_No entries yet._`
-forever, but check before assuming that — most chapters make at least one
-claim worth logging.
+Each chapter's section starts as `_No entries yet._`. That string means
+exactly one thing: **nobody has written this chapter, or nobody has logged
+it yet.** It is a placeholder, not a verdict, and it must not be left in
+place once a chapter is written and reviewed for claims.
+
+When a chapter is written, its section gets one of two outcomes, and
+leaving it ambiguous between them is the bug this format exists to prevent:
+
+- **Claims exist.** Replace `_No entries yet._` with the bulleted list of
+  entries, one per claim, in the format above.
+- **No load-bearing claims exist.** Replace `_No entries yet._` with
+  `_Reviewed — nothing load-bearing to log._` This string means a human
+  checked this chapter for real-world claims and found none worth an
+  entry. It is not the default and must never be left in place without
+  that check having happened.
+
+`_No entries yet._` must never be the final state of a written chapter's
+section. If a chapter is done and its section still reads `_No entries
+yet._`, that is a sign the accuracy review was skipped, not that the
+chapter made no claims.
 
 ---
 

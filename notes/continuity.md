@@ -30,6 +30,11 @@ belonged to eleven groups over the years; six are named in the book.
 | Mother Furnace | A god he invented by committee in an afternoon, for morale. Still worshipped. A six-spoke iron shape. | 11, 18 |
 | Ais | The apprentice he is writing this book for. Named rarely. Chapter 20 is addressed to her directly. | 20 |
 
+The Chapters column is a convenience cross-reference, not a mechanical
+source of truth — nothing lints it. If a chapter reveals a character
+appears in chapters not listed here, update this column by hand in the
+same commit as that chapter.
+
 ---
 
 ## Timeline
@@ -57,11 +62,9 @@ gets two names across chapters. This section starts empty by design — later
 chapters extend it as they introduce places. Do not pre-populate it with
 places no chapter has used yet.
 
-*(No places recorded yet. The next chapter to introduce a settlement, ruin,
-or landmark adds a row below.)*
-
 | Name | What it is | First used in chapter |
 |------|------------|------------------------|
+| The Bell Country | The settlement he founded and lost, nine years in the making and five in the losing. Named here because it is already named in the Cast table above — that mention is its first use. | 14 |
 
 ---
 
