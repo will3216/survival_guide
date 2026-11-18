@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 30,
+  "count": 33,
   "slots": [
     {
       "id": "01-gag-01",
@@ -302,6 +302,36 @@
       "alt": "A simple flowchart of engine triage running top to bottom — a step zero box listing the obvious checks, then four numbered boxes in order for fuel, spark, air and compression, with the compression box marked as the point to stop.",
       "prompt": "A simple top-to-bottom flowchart drawn in flat black line art on cream as a civil-defence pamphlet figure, with generous empty margins and no decoration. At the top, a wide rounded box containing five small schematic icons in a row standing for the obvious checks: a fuel can, a small lever tap, a toggle switch, a battery with two posts, and a gear lever. Below it a plain vertical arrow leading down into a column of four plain rectangular boxes connected by vertical arrows, each box containing one simple icon: a fuel line with an inline filter, a spark plug, a pleated air filter, and a piston in a cylinder. To the right of each box, a short horizontal arrow looping back up to the box above, drawn thin, to indicate one change at a time. Beside the fourth box, a plain octagonal stop shape. Orange callout numerals in orange circles beside the top box and each of the four boxes, numbered zero, one, two, three and four, and the octagon outlined in orange. Orange used only for the numerals, their circles, and that octagon outline. No shading, no background scenery, no text.",
       "path": "illustrations/10-plate-02.png"
+    },
+    {
+      "id": "11-gag-01",
+      "class": "gag",
+      "chapter": "11",
+      "source": "11-voices.md",
+      "caption": "Figure 11.1 — Six things, framed.",
+      "alt": "A hand-lettered scrap of paper in an ornate frame, hung with a garland like a holy relic, with a battered handheld radio propped against the frame's foot, its case taped shut.",
+      "prompt": "A pamphlet marginal vignette in flat black line art on cream with generous empty space. Centre: a small torn scrap of paper, hand-lettered with six short illegible scribbled lines standing for a list, mounted inside an ornate heavy frame far too grand for it, hung on a plain wall from a nail. A simple garland of leaves is draped across the top corners of the frame, and two small candle stubs sit on a narrow ledge below it. Propped against the foot of the frame on the ledge, drawn slightly cropped, a squat battered handheld two-way radio with a stubby aerial, its case wrapped around twice with tape and a small painted rectangle on the tape bearing an illegible scribble. The two candle flames are the only orange in the image. No shading, no background scenery, no text.",
+      "path": "illustrations/11-gag-01.png"
+    },
+    {
+      "id": "11-plate-01",
+      "class": "plate",
+      "chapter": "11",
+      "source": "11-voices.md",
+      "caption": "Figure 11.2 — The drop and its marks. 1 the container, capped and waterproof, off the path. 2 the note, dated. 3 the mark meaning something is in it, on the way in and never on the drop. 4 collected. 5 the old mark rubbed out.",
+      "alt": "A cutaway of a capped pipe set into a bank beside a path, holding a rolled dated note, with two small agreed scratch-marks shown on a fence post at the path's turn further back.",
+      "prompt": "A civil-defence pamphlet instructional diagram in flat black line art on cream with generous empty margins. Main subject, left of centre: a cutaway view of a short capped pipe set horizontally into an earth bank beside a narrow path, the bank drawn in simple hatched section, the screw cap drawn clearly at the open end, and inside the pipe a rolled sheet of paper with a small illegible scribbled date on its outer face. A low shrub partly screens the pipe from the path. To the right and further back along the path, a plain wooden fence post at a bend, drawn smaller for distance, carrying two simple scratch marks low on its shaded side: a short single vertical stroke, and below it a small circle, with a third faint half-erased stroke beside them. A thin dashed line indicates the path running from the post to the bank. Orange callout numerals in orange circles at five points: the capped pipe, the rolled note, the vertical stroke on the post, the circle on the post, and the half-erased stroke. Orange used only for the numerals and their circles. No shading, no background scenery, no text.",
+      "path": "illustrations/11-plate-01.png"
+    },
+    {
+      "id": "11-plate-02",
+      "class": "plate",
+      "chapter": "11",
+      "source": "11-voices.md",
+      "caption": "Figure 11.3 — Height against power. 1 the small set in the valley: the ridge is in the way and the signal will not bend round it. 2 the same set, carried to the top. 3 a bigger set in the valley.",
+      "alt": "Two figures with identical handheld radios, one standing in a valley with a ridge blocking the path of its signal and one on the hilltop whose signal arc reaches far across the ground beyond, with orange arcs showing the reach of each.",
+      "prompt": "A civil-defence pamphlet diagram in flat black line art on cream with generous empty margins, drawn as a side-on cross-section of landscape: a simple valley floor on the left rising to a rounded ridge in the centre and falling away to open ground with two small simple buildings on the right. Standing on the valley floor, a cartoonish figure holding a small handheld radio with a stubby aerial, drawn in three-quarter view. Standing on top of the ridge, a second cartoonish figure holding an identical small radio. From each radio, straight thin rays fan outward at a shallow angle, and arcs mark how far each reaches: the valley figure's rays strike the inside of the ridge and stop at a short arc, while the ridge figure's rays clear the ridge entirely and end in a wide arc out beyond the buildings. Below the valley figure, a small inset vignette at half size shows the same valley figure holding a noticeably larger boxy radio with a long aerial, its rays again stopping against the ridge at an arc only slightly beyond the first. The three range arcs are orange, and orange callout numerals in orange circles mark the valley figure, the ridge figure, and the inset. Orange used only for the numerals, their circles, and the three arcs. No shading, no background scenery, no text.",
+      "path": "illustrations/11-plate-02.png"
     }
   ]
 }
