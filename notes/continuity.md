@@ -81,7 +81,8 @@ authority on staying alive and **will never find out**.
 | The Spoke | The first group that took him in after the Collapse. Competent, boring, alive. He fetched and carried for them and did not appreciate it at the time. | 01–02 |
 | Edda Mull | His neighbour two doors along the landing, eighty-one, on the first morning. Filled her bath before she looked out of the window. Dead before that spring, of age and of nothing being made any more. Chapter 01 only; do not revive her. | 01 |
 | Halla Dorn | The Spoke's bag keeper. Said the group's whole evacuation policy in one sentence in a doorway of the bag room, because he was standing in it with a bag in each hand and she wanted past: decide by noon, say it out loud, move while the light is still on your side. He does not know the sentence became the most quoted thing in the book; to him she was a woman who weighed bags monthly. Alive when he left the Spoke; her later fate is unwritten and available. | 02 |
-| The Ninth Hand | A blood cult he did chores for, two years. He hauled, swept and carried; he thought the robes were a uniform issue. He will tell you it wasn't that bad. It was that bad. He saw the machinery from underneath without the vocabulary to name it, which is how most people meet it. | 03, 15 |
+| The Ninth Hand | A blood cult he did chores for, two years. He hauled, swept and carried; he thought the robes were a uniform issue. He will tell you it wasn't that bad. It was that bad. He saw the machinery from underneath without the vocabulary to name it, which is how most people meet it. | 03, 04, 15 |
+| Pell Hask | The Ninth Hand's orator at the nightly water ceremony. Had a good voice for it — low, and knew to leave gaps. Spoke standing on the cracked cistern lid, which the narrator had asked him twice not to do. The narrator records nothing else about him and does not say what became of him. Chapter 04 only so far; available. | 04 |
 | Isak Roon | A net-mender at the water, in the narrator's own present (Y40). The one person the narrator asked to check a chapter before he wrote it out fair: he kept chapter 03 eight days and gave back four corrections, all of which went in. Has better hands than the narrator's. Not a healer by trade — a man who has had to stop bleeding in a hurry. Alive and available to later chapters. | 03 |
 | Vera Ott | A mechanic. His teacher, and he was her hands — she told him which way to turn things for six years. Taught him the machine chapters. Had no patience for him. Dies in chapter 16; he reports it as plainly as a broken pump. | 08–10, 16 |
 | The Bellwright | Founded the Bell Country. A legend to everyone else — the man whose name is on it, quoted and sung about. To the narrator, a man with strong opinions about drainage who was usually right about gradients and wrong about people. The narrator hauled water past him for years and mostly remembers being asked to move a barrow. He does not know the Bellwright became a legend. | 13–16 |
@@ -251,11 +252,18 @@ directly. Use them; do not reinvent or contradict them.
   re-coining it** — refer back to it as something already established, do not
   present it as new.
 
-- **Chapter 02 gives no water-carry figure, on purpose.** It states the
-  sourced household figure (roughly four litres per person per day) and says
-  plainly that three days of that is not a thing a person carries, then
-  refuses to supply a carry number and defers to chapter 04. **Chapter 04 owes
-  the honest answer.** Do not let an earlier chapter invent the figure.
+- **The water-carry debt is paid (chapter 04).** Chapter 02 deliberately gave
+  no carry figure and deferred to chapter 04. Chapter 04 pays it by arithmetic
+  rather than by a new number: a litre weighs a kilogram, four litres a day is
+  four kilograms, chapter 02's one-third-of-body-weight load ceiling is
+  twenty-three kilos at seventy, the rest of chapter 02's six-item bag takes
+  six or seven of that, so the honest water budget is **six to eight litres —
+  a day and a half** — and three days of water (twelve kilos) cannot be
+  carried alongside a bag at all. The conclusion the chapter draws is that the
+  number a person needs is not a volume: it is the distance to the next water.
+  Later chapters may cite the six-to-eight-litre ceiling and the "carry to the
+  next water, not for three days" framing rather than re-deriving them.
+  **Chapter 08 (gear) in particular should not re-coin this.**
 
 - **The clever house down the valley from the Spoke.** They deliberated for
   three days and did not leave. He walked back through in the spring and read
@@ -304,6 +312,27 @@ directly. Use them; do not reinvent or contradict them.
   naming the small bleeding roll as what the tourniquet guidance is for. Later
   chapters may refer back to all of this rather than re-teaching it.
 
+- **Chapter 04's own canon, now fixed.** He carried the bucket at the Ninth
+  Hand's nightly water ceremony for most of two years, because he was on the
+  rota the month it was invented and nobody told him he was finished. The
+  ceremony was handprints in slip and ash on the cistern wall; the house's sign
+  was nine fingers, so the print was meant to be the left hand with the thumb
+  folded under, and most of the valley — including him, for two years — used
+  the right. **Pell Hask** spoke from the cistern lid, which the narrator had
+  twice asked him not to stand on because it was cracked across the short way
+  and the crack had opened to a finger's width. On the night two valleys still
+  hold a ceremony for, he was facing the cistern, looking at the crack. He says
+  the theatre was doing real work — four hundred people queued in good order
+  nightly for two years and he never saw a fight at that cistern — without
+  noticing that he has said anything. He does not know there is a version of
+  that night, and the contradiction is never argued. He has also been put out
+  of action for nine days by clear water from a stone basin, which is where
+  **Rule 28** comes from. The settling-and-decanting method (doubled cloth, a
+  night standing, decant off the middle with a tube, two jars with the dirty
+  one marked) is his, and T. confirms in chapter 04 that it is still done
+  exactly that way. Chapter 04 also reuses Edda Mull's filled bath from chapter
+  01 as a stored-water source.
+
 ---
 
 ## Rule ledger
@@ -324,6 +353,7 @@ chapter whose number is not a row below.
 | 9 | Water first. Always. | 04 |
 | 11 | The second floor is not safer. It is only harder to leave. | 02 |
 | 23 | Pack the bag for the stairs, not for the road. | 02 |
+| 28 | Clear is not clean. | 04 |
 | 80 | *Reserved. Spent in chapter 20. Do not cite before then.* | 20 |
 
 **Rule 80 is reserved.** It is the final rule — the soft rule that outranks

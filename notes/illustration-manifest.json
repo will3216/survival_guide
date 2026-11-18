@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 9,
+  "count": 12,
   "slots": [
     {
       "id": "01-gag-01",
@@ -92,6 +92,36 @@
       "alt": "Diagram of a plain limb outline with a wide strap and windlass placed high above a marked wound, with a blank time label tied to the strap.",
       "prompt": "An instructional diagram in flat black line art on cream, drawn as a civil-defence pamphlet figure. A single plain featureless leg outline shown in flat profile from hip to foot, with the knee joint indicated by a thin dashed line only. A small plain oval low on the shin carries orange callout numeral 1. A wide flat strap is drawn encircling the thigh well above the dashed knee line, carrying orange callout numeral 2. A short rod threaded through the strap and shown mid-turn carries orange callout numeral 3, with a small curved arrow indicating the turn. A small rectangular label tied to the strap carries orange callout numeral 4 and is blank. Plain limb outline only, no wound detail, no red, no depiction of blood of any kind. Orange used only for the four callout numerals and the one arrow. Generous empty cream space, single subject, no background scenery, no text beyond the numerals.",
       "path": "illustrations/03-plate-02.png"
+    },
+    {
+      "id": "04-gag-01",
+      "class": "gag",
+      "chapter": "04",
+      "source": "04-water.md",
+      "caption": "Figure 4.1 — The Ninth Hand's water ceremony. 1 the oration. 2 the crack.",
+      "alt": "A solemn crowd of robed figures presses handprints onto a cistern wall while a man orates from its lid; at the frame's edge a man with a bucket stares at the lid's crack.",
+      "prompt": "A cartoonish flat black line drawing on cream. Centre: a low round stone cistern with a flat lid, its wall covered in overlapping pressed handprints, a tall thin robed man standing on the lid with both arms raised mid-oration, carrying orange callout numeral 1 in an orange circle beside him. A jagged crack runs across the lid under his feet, carrying orange callout numeral 2 in an orange circle. Around the cistern a dozen robed figures stand extremely solemn with heads bowed and one hand each raised. At the far right edge of the frame, turned fully away from the crowd and facing the cistern, a cartoonish bean-bodied older man in a flat cap and long tarp coat holds a full bucket in both hands and peers down at the crack with an expression of mild professional annoyance. Orange used only for the two callout numerals. Empty cream ground, no background scenery, no text beyond the numerals.",
+      "path": "illustrations/04-gag-01.png"
+    },
+    {
+      "id": "04-plate-01",
+      "class": "plate",
+      "chapter": "04",
+      "source": "04-water.md",
+      "caption": "Figure 4.2 — The barrel filter, cut away. 1 cloth. 2 charcoal. 3 fine sand. 4 gravel over the outlet. 5 the stage everyone skips.",
+      "alt": "Cutaway diagram of a cut barrel packed in three layers with a cloth over the top and a spout feeding a lidded pot on a fire below.",
+      "prompt": "Cutaway diagram in flat black line art on cream, drawn as a civil-defence pamphlet figure. A cut barrel standing upright with its near wall removed to show three distinct packed layers, each hatched differently and separated by a horizontal line. A square of doubled cloth is stretched over the barrel's open mouth with water being poured onto it, carrying orange callout numeral 1 in an orange circle. The top layer inside is coarse granular charcoal, numeral 2. The middle layer is fine stippled sand, drawn thickest of the three, numeral 3. The bottom layer is large rounded gravel, numeral 4, sitting over a short spout in the barrel's lower wall. Below the spout a drip falls into a plain lidded pot on a small flat fire, carrying orange callout numeral 5. Single subject, generous empty cream space, no background scenery, no text beyond the five numerals.",
+      "path": "illustrations/04-plate-01.png"
+    },
+    {
+      "id": "04-plate-02",
+      "class": "plate",
+      "chapter": "04",
+      "source": "04-water.md",
+      "caption": "Figure 4.3 — Treating it. 1 clear. 2 cloudy. 3 strain and settle. 4 boil one minute, three up high. 5 or treat, stood thirty minutes.",
+      "alt": "A flowchart branching from a clear jar and a cloudy jar into a straining and settling step and then into a boiling pot or a dosed and covered jar.",
+      "prompt": "A decision flowchart in flat black line art on cream, drawn as a civil-defence pamphlet figure, using glyphs only and no words. Two plain rectangular boxes at the top: the left box holds a jar with a clean empty interior and two straight ripple lines, carrying orange callout numeral 1 in an orange circle; the right box holds an identical jar drawn with dense stipple throughout, carrying orange callout numeral 2. A downward arrow from the right box leads to a middle box showing a square of cloth over a funnel above a tall jar with a thick settled band of stipple at its bottom, carrying orange callout numeral 3. Arrows from the left box and from the middle box converge and then split into two boxes at the",
+      "path": "illustrations/04-plate-02.png"
     }
   ]
 }
