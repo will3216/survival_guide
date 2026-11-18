@@ -82,6 +82,7 @@ authority on staying alive and **will never find out**.
 | Edda Mull | His neighbour two doors along the landing, eighty-one, on the first morning. Filled her bath before she looked out of the window. Dead before that spring, of age and of nothing being made any more. Chapter 01 only; do not revive her. | 01 |
 | Halla Dorn | The Spoke's bag keeper. Said the group's whole evacuation policy in one sentence in a doorway of the bag room, because he was standing in it with a bag in each hand and she wanted past: decide by noon, say it out loud, move while the light is still on your side. He does not know the sentence became the most quoted thing in the book; to him she was a woman who weighed bags monthly. Alive when he left the Spoke; her later fate is unwritten and available. | 02 |
 | The Ninth Hand | A blood cult he did chores for, two years. He hauled, swept and carried; he thought the robes were a uniform issue. He will tell you it wasn't that bad. It was that bad. He saw the machinery from underneath without the vocabulary to name it, which is how most people meet it. | 03, 15 |
+| Isak Roon | A net-mender at the water, in the narrator's own present (Y40). The one person the narrator asked to check a chapter before he wrote it out fair: he kept chapter 03 eight days and gave back four corrections, all of which went in. Has better hands than the narrator's. Not a healer by trade — a man who has had to stop bleeding in a hurry. Alive and available to later chapters. | 03 |
 | Vera Ott | A mechanic. His teacher, and he was her hands — she told him which way to turn things for six years. Taught him the machine chapters. Had no patience for him. Dies in chapter 16; he reports it as plainly as a broken pump. | 08–10, 16 |
 | The Bellwright | Founded the Bell Country. A legend to everyone else — the man whose name is on it, quoted and sung about. To the narrator, a man with strong opinions about drainage who was usually right about gradients and wrong about people. The narrator hauled water past him for years and mostly remembers being asked to move a barrow. He does not know the Bellwright became a legend. | 13–16 |
 | The Bell Country | The settlement he hauled water for. Founded and lost by other people. Nine years in the making and five in the losing; chapter 15 is its collapse seen from the bottom, by someone who noticed it first in where the water went. | 13–16, 18–19 |
@@ -271,6 +272,38 @@ directly. Use them; do not reinvent or contradict them.
   This is editor's-era canon and belongs to T.'s voice only — no chapter from
   1 to 20 may know any of it.
 
+- **Chapter 03's own canon, now fixed.** In his third year, with the Ninth
+  Hand, the narrator put his right arm through a window reaching for somebody
+  on the far side of it, pressed the bleed with a folded cap and lifted the cap
+  off about every ten seconds for twenty minutes to see whether it had stopped.
+  An unnamed woman of the Ninth Hand knelt, moved his hand two inches onto one
+  spot, put her weight on it and held it there without speaking — the origin of
+  **Rule 7**. His right thumb has not bent properly since (the window's doing,
+  not hers), his left collarbone sits half an inch high and his right little
+  finger points at the next one along, the last two from a cart and from
+  splinting without immobilising the joints above and below. He does not notice
+  that reaching through a window for somebody was brave; he records it as the
+  origin of a procedural error. He also does not know who he pulled through,
+  and the manuscript never says.
+
+- **Chapter 03 is the one chapter he had checked.** He says so plainly, once,
+  in the opening: he took it to **Isak Roon**, the net-mender, who kept it eight
+  days and returned four corrections, all of which are in. This is the only
+  place in the book where he submits his own work to anyone, and later chapters
+  should not repeat the device. T.'s single appreciative beat in chapter 03
+  reads the submission — not the technique — as what makes the chapter
+  trustworthy, and then confirms the chapter is what T. was taught, nearly word
+  for word, and correct.
+
+- **The bleeding debt is paid.** Chapter 03 carries the long version of direct
+  pressure chapter 01 promised (one spot, heel of the hand, second hand stacked,
+  arms locked, weight not muscle, ten minutes at least, never lifting off),
+  wound packing, and the tourniquet — high and tight above the wound, never over
+  a joint, tightened until bleeding stops, **time written down**, and **never
+  loosened by whoever applied it**. It also pays chapter 02's go-bag line by
+  naming the small bleeding roll as what the tourniquet guidance is for. Later
+  chapters may refer back to all of this rather than re-teaching it.
+
 ---
 
 ## Rule ledger
@@ -287,6 +320,7 @@ chapter whose number is not a row below.
 | # | Rule | Chapter |
 |---|------|---------|
 | 4 | Count before you move. | 01 |
+| 7 | Pressure is a place, not a motion. | 03 |
 | 9 | Water first. Always. | 04 |
 | 11 | The second floor is not safer. It is only harder to leave. | 02 |
 | 23 | Pack the bag for the stairs, not for the road. | 02 |

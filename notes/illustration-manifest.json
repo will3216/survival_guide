@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 6,
+  "count": 9,
   "slots": [
     {
       "id": "01-gag-01",
@@ -62,6 +62,36 @@
       "alt": "Cutaway diagram of a packed canvas shoulder bag with six numbered contents.",
       "prompt": "Cutaway diagram of a single canvas bag with two buckles and a patch on its lower left corner, shown in flat side profile with the near wall of the bag removed so the contents are visible, stacked in clear separated compartments. Six contents, each marked with an orange callout numeral in an orange circle: 1 two water bottles of different shapes at the bottom, 2 a head-strap lamp and a small second torch, 3 a folded layer of clothing inside a sealed pouch, 4 a flat folded document wallet, 5 a small tin of pills with a folded paper list beside it, 6 a single sheathed knife along the spine of the bag. Heavy water low and close to the back panel. Single subject, generous empty cream space around the bag, no background scenery, no text beyond the six callout numerals.",
       "path": "illustrations/02-plate-01.png"
+    },
+    {
+      "id": "03-gag-01",
+      "class": "gag",
+      "chapter": "03",
+      "source": "03-body.md",
+      "caption": "Figure 3.3 — Things the author has splinted with. 1 fence pale. 2 road sign. 3 flatbread, twice. 4 oar. 5 regrettable.",
+      "alt": "A cheerful man standing with an absurd assortment of objects strapped to all four limbs as splints, including a road sign and a guitar neck.",
+      "prompt": "A cartoonish bean-bodied older man in a flat cap and long tarp coat, standing facing forward with arms held out from his sides, grinning, entirely pleased with himself. Strapped to his limbs with cord and torn cloth are absurdly mismatched splints, each tagged with an orange callout numeral in an orange circle: 1 a wooden fence pale on his left forearm, 2 a large flat diamond road sign bound to his right thigh, 3 a thick rolled flatbread lashed to his left shin, 4 a long boat oar running the length of his right arm and far past his hand, 5 the neck of a guitar strapped to his left thigh. The splints are oversized and poorly matched and he stands stiffly because of it. Orange used only for the five callout numerals and one cord binding. Empty cream ground, single subject, no background scenery, no text beyond the numerals.",
+      "path": "illustrations/03-gag-01.png"
+    },
+    {
+      "id": "03-plate-01",
+      "class": "plate",
+      "chapter": "03",
+      "source": "03-body.md",
+      "caption": "Figure 3.1 — Direct pressure and packing. 1 heel of the hand, one spot. 2 second hand stacked. 3 material fed fully in. 4 both hands on top, held still.",
+      "alt": "Two-panel diagram of hands demonstrating stacked direct pressure and wound packing on a plain limb outline, no wound or blood depicted.",
+      "prompt": "A two-panel instructional diagram in flat black line art on cream, divided by a single vertical rule, drawn as a civil-defence pamphlet figure. Left panel: a plain featureless limb outline lying horizontally, with one hand placed heel-down on a small folded square of cloth and the second hand stacked flat on top of it, forearms shown vertical and locked; orange callout numeral 1 in an orange circle at the lower hand, numeral 2 at the upper hand. Right panel: the same plain limb outline with a small plain oval marked on it and a single index finger shown feeding a folded strip of dressing material into the oval, a coil of further dressing waiting beside it; orange callout numeral 3 at the finger, numeral 4 at a pair of stacked hands drawn pressing above. Hands and plain limb outlines only, no faces, no figures, no wound detail, no red, no depiction of blood of any kind. Orange used only for the four callout numerals. Generous empty cream space, no background scenery, no text beyond the numerals.",
+      "path": "illustrations/03-plate-01.png"
+    },
+    {
+      "id": "03-plate-02",
+      "class": "plate",
+      "chapter": "03",
+      "source": "03-body.md",
+      "caption": "Figure 3.2 — Tourniquet placement. 1 the wound. 2 the strap, high and above the joint, never across it. 3 the windlass, turned until bleeding stops. 4 the time it went on.",
+      "alt": "Diagram of a plain limb outline with a wide strap and windlass placed high above a marked wound, with a blank time label tied to the strap.",
+      "prompt": "An instructional diagram in flat black line art on cream, drawn as a civil-defence pamphlet figure. A single plain featureless leg outline shown in flat profile from hip to foot, with the knee joint indicated by a thin dashed line only. A small plain oval low on the shin carries orange callout numeral 1. A wide flat strap is drawn encircling the thigh well above the dashed knee line, carrying orange callout numeral 2. A short rod threaded through the strap and shown mid-turn carries orange callout numeral 3, with a small curved arrow indicating the turn. A small rectangular label tied to the strap carries orange callout numeral 4 and is blank. Plain limb outline only, no wound detail, no red, no depiction of blood of any kind. Orange used only for the four callout numerals and the one arrow. Generous empty cream space, single subject, no background scenery, no text beyond the numerals.",
+      "path": "illustrations/03-plate-02.png"
     }
   ]
 }
