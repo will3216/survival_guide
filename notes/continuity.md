@@ -7,26 +7,69 @@ who is alive, who is dead, what year it is, and which Rule number means what.
 Every name recorded here is a name that will appear in `manuscript/`, so
 nothing here may collide with `notes/forbidden-terms.txt`. Checked on write.
 
+**Standing note — chapters 1 and 2 are in the retired voice.**
+`manuscript/01-triage.md` and `manuscript/02-run-or-dig-in.md` were written
+before the narrator redesign, when he was a weathered elder who founded and
+lost a settlement and invented a god by committee. They are scheduled for
+rewrite. Their *facts* remain canon unless a row below says otherwise (the
+glasses, Edda Mull, Halla Dorn, the three questions, the Spoke's bag room).
+Their *voice* and their account of his standing in the world are both retired.
+**Do not treat either chapter as the template until it has been rewritten.**
+
 ---
 
 ## Narrator
 
-Unnamed throughout the book. People call him by role (the apprentice, the
-hand, the old man) or by whatever the current group calls him — never by a
-fixed name, and the manuscript never supplies one. Roughly sixty when he
-writes this. He was an adult, barely, when the Collapse happened. He has
-belonged to eleven groups over the years; six are named in the book.
+Unnamed throughout the book. People call him by role (the hand, the old man)
+or by whatever the current group calls him — never by a fixed name, and the
+manuscript never supplies one. Roughly sixty when he writes this. He was an
+adult, barely, when the Collapse happened.
 
-He has worn glasses since he was nine. The left lens cracked on the first
-morning of Y0, during the hour he spent patting a floor for them instead of
-filling a bath (chapter 01), and he is wearing those same glasses at Y40, the
-year he writes the book. The crack has never been repaired and the glasses
-have never been replaced. There is no duration to interpret here: assume the
-cracked left lens at any point from Y0 to Y40, including while he writes.
-Nobody is making lenses any more and he knows it. This is permanent canon
-from chapter 01 and is available to every later chapter —
-chapters 08 (gear), 09 (scavenging), 12 (slow deaths) and 17 especially.
-Do not give him good eyesight and do not quietly replace the glasses.
+**He was a grunt before the Collapse and a grunt after it.** He carried things
+for a living. The book never elaborates, because he does not find the question
+interesting and changes the subject to whatever he was carrying. He was never
+in charge of anything, never asked to be, and has no theory about why. He has
+belonged to eleven groups over the years; six are named in the book. In every
+one of them he fetched, hauled, dug, queued and held things.
+
+**He is explicitly non-military.** No service, no rank, no unit, no training,
+no jargon, no acronyms, no formations, no chain of command. He has never been a
+soldier of any kind and never claims a day of it. This is a hard constraint:
+anything in that register is wrong and must be cut rather than softened. If a
+chapter needs organised group behaviour, it is a work crew, a water rota or a
+queue.
+
+**Everything he knows, he learned afterwards, by trial and a great deal of
+error.** He has no pre-Collapse expertise to draw on. Every technique in the
+book exists because it went badly for him first, usually more than once, and he
+will tell you which time.
+
+**He was present for the famous events and understood none of them as they
+happened.** He was forty feet away, holding something, facing the wrong way,
+sent for a bucket. He does not know there was a story — not that he was a minor
+character in one, that one existed at all. He was living his life. It happened
+to be the end of the world.
+
+**He is comically upbeat and it never cracks.** See `notes/style-guide.md`
+sections 2, 4 and 6.
+
+**Glasses canon — unchanged, and permanent.** He has worn glasses since he was
+nine. The left lens cracked on the first morning of Y0, during the hour he spent
+patting a floor for them instead of filling a bath (chapter 01), and he is
+wearing those same glasses at Y40, the year he writes the book. The crack has
+never been repaired and the glasses have never been replaced. There is no
+duration to interpret here: assume the cracked left lens at any point from Y0 to
+Y40, including while he writes. Nobody is making lenses any more and he knows
+it. This is permanent canon from chapter 01 and is available to every later
+chapter — chapters 08 (gear), 09 (scavenging), 12 (slow deaths) and 17
+especially. Do not give him good eyesight and do not quietly replace the
+glasses.
+
+**He does not know the Rules became folklore.** He thinks they are things he
+tells himself so he does not repeat a mistake. He never calls them famous, never
+mentions anyone else quoting them, and never treats them as a legacy. Only T.
+knows otherwise, and T. says so only in the preface. He is the de facto
+authority on staying alive and **will never find out**.
 
 ---
 
@@ -34,15 +77,16 @@ Do not give him good eyesight and do not quietly replace the glasses.
 
 | Name | What they are | Chapters |
 |------|----------------|----------|
-| The Spoke | The first group that took him in after the Collapse. Competent, boring, alive. He did not appreciate it at the time. | 01–02 |
+| The Spoke | The first group that took him in after the Collapse. Competent, boring, alive. He fetched and carried for them and did not appreciate it at the time. | 01–02 |
 | Edda Mull | His neighbour two doors along the landing, eighty-one, on the first morning. Filled her bath before she looked out of the window. Dead before that spring, of age and of nothing being made any more. Chapter 01 only; do not revive her. | 01 |
 | Halla Dorn | The Spoke's bag keeper. Said the group's whole evacuation policy in one sentence in a doorway: decide by noon, say it out loud, move while the light is still on your side. Alive when he left the Spoke; her later fate is unwritten and available. | 02 |
-| The Ninth Hand | A blood cult he ran with for two years. He will tell you it wasn't that bad. It was that bad. | 03, 15 |
-| Vera Ott | A mechanic. Taught him the machine chapters. Had no patience for him. Dead by chapter 16. | 08–10, 16 |
-| The Bell Country | The settlement he founded and lost. Chapter 15 is his own cautionary material. | 13–16, 18–19 |
-| Mother Furnace | A god he invented by committee in an afternoon, for morale. Still worshipped. A six-spoke iron shape. | 11, 18 |
+| The Ninth Hand | A blood cult he did chores for, two years. He hauled, swept and carried; he thought the robes were a uniform issue. He will tell you it wasn't that bad. It was that bad. He saw the machinery from underneath without the vocabulary to name it, which is how most people meet it. | 03, 15 |
+| Vera Ott | A mechanic. His teacher, and he was her hands — she told him which way to turn things for six years. Taught him the machine chapters. Had no patience for him. Dies in chapter 16; he reports it as plainly as a broken pump. | 08–10, 16 |
+| The Bellwright | Founded the Bell Country. A legend to everyone else — the man whose name is on it, quoted and sung about. To the narrator, a man with strong opinions about drainage who was usually right about gradients and wrong about people. The narrator hauled water past him for years and mostly remembers being asked to move a barrow. He does not know the Bellwright became a legend. | 13–16 |
+| The Bell Country | The settlement he hauled water for. Founded and lost by other people. Nine years in the making and five in the losing; chapter 15 is its collapse seen from the bottom, by someone who noticed it first in where the water went. | 13–16, 18–19 |
+| Mother Furnace | A god invented by four tired people in an afternoon, for morale. He was in the room, holding something, and thought they were assigning chores. Still worshipped. A six-spoke iron shape. | 11, 18 |
 | Ais | The apprentice he is writing this book for. Named rarely. Chapter 20 is addressed to her directly. | 20 |
-| T. | The editor of the found manuscript, writing from Ladderwell roughly two generations after the narrator finished the book. Has never seen a working lightbulb and does not entirely believe in them. Signs the editor's preface in `manuscript/00-front-matter.md`. | front matter only |
+| T. | The editor of the found manuscript, writing from Ladderwell roughly two generations after the narrator finished the book. Has never seen a working lightbulb and does not entirely believe in them. Signs the editor's preface in `manuscript/00-front-matter.md`. Believes they are editing the work of the great authority on staying alive. | front matter only |
 
 The Chapters column is a convenience cross-reference, not a mechanical
 source of truth — nothing lints it. If a chapter reveals a character
@@ -65,11 +109,11 @@ referents for the things the book describes.
 | Y0 | The Collapse. |
 | Y0–1 | Alone. |
 | Y1 | Taken in by the Spoke. |
-| Y3–5 | Runs with the Ninth Hand. |
+| Y3–5 | Does chores for the Ninth Hand. |
 | Y6 | Meets Vera Ott. |
-| Y9–14 | Founds and leads the Bell Country. |
-| Y11 | Mother Furnace is invented, for morale. |
-| Y14 | The Bell Country ends. |
+| Y9–14 | Hauls water for the Bell Country. Other people found it and run it. |
+| Y11 | Mother Furnace is invented by four tired people in an afternoon, for morale. He is in the room, holding something. |
+| Y14 | The Bell Country ends. He sees it from the bottom. |
 | Y15+ | Itinerant. Teaches. |
 | Y40 | Writes this book. |
 | Y40+2 generations | The manuscript is found. |
@@ -85,7 +129,7 @@ places no chapter has used yet.
 
 | Name | What it is | First used in chapter |
 |------|------------|------------------------|
-| The Bell Country | The settlement he founded and lost, nine years in the making and five in the losing. Its first use in the manuscript is chapter 13, the first garden. | 13 |
+| The Bell Country | The settlement he hauled water for, founded and lost by other people, nine years in the making and five in the losing. Founded by the Bellwright. Its first use in the manuscript is chapter 13, the first garden. | 13 |
 | Ladderwell | Where T. the editor lives and signs the preface, two generations after the narrator wrote. Editor's era only. | front matter only |
 
 **Ladderwell is off-limits to the narrator.** He never visits it and never

@@ -6,14 +6,19 @@ which is why this document can name its touchstones out loud.
 
 Read this in full before writing any chapter. It is short on purpose.
 
+**Standing note:** `manuscript/01-triage.md` and `manuscript/02-run-or-dig-in.md`
+are written in the retired voice — the weathered elder who founded things. They
+are scheduled for rewrite. Mine them for facts and for mechanical format; do
+**not** use them as a voice template.
+
 ---
 
-## 1. The one rule
+## 1. The one rule, and its companion
 
 > **The narrator is never ironic about technique.**
 
-Comedy comes from his framing, his anecdotes, and his sense of what is normal.
-It never comes from giving the reader bad information.
+Comedy comes from what he fails to notice, what happens to his body, and his
+unshakeable good mood. It never comes from giving the reader bad information.
 
 A reader who follows this book's instructions in an actual emergency must be
 better off, not worse. Every other rule in this document is downstream of that
@@ -25,27 +30,66 @@ inside the procedure itself. A number is never a punchline. A step order is
 never a punchline. If a technique is genuinely uncertain, he says so flatly —
 that is not a joke either.
 
+### The companion contract
+
+> **The prose may miss the point. "The Short Version" never does.**
+
+He writes both. A chapter may wander, bury its own lesson inside an anecdote
+about a wheelbarrow, and move on without noticing what it just taught. The
+checklist at the end is where his competence appears undiluted: clean, correct,
+ordered, actionable, and complete without the chapter around it.
+
+This is the mechanism that lets him be oblivious without ever endangering a
+reader. **Being oblivious about significance is not the same as being
+unreliable about technique.** He is completely trustworthy on how. He simply
+has no idea that the week he is describing was the famous one.
+
+So the test on every chapter is two-part:
+
+- Could the prose plausibly fail to state its own lesson out loud? Good.
+- Does "The Short Version" state it anyway, correctly and in order? Required.
+
+If a chapter buries its lesson and the bullets also bury it, the chapter is
+broken. Fix the bullets, not the burial.
+
 ---
 
 ## 2. Voice
 
-**First person, past-weathered.** He is writing by hand, late, for an
-apprentice who will outlive him. He has already done this; he is reporting, not
-speculating.
+**First person, cheerful, physical, unpretentious.** He is writing by hand,
+late, in a good mood. He has already done all of this; he is reporting, not
+speculating. He is not wise. He is experienced, which is a different and
+cheaper thing, and he got it by being wrong first.
 
-**Short declaratives.** Sentence length is mostly short, occasionally long when
-a list of consequences earns it. No ornament. No rhetorical questions stacked
-for effect.
+**He is always in a good mood.** This is temperament, not coping, and it is not
+a mask you can see him holding up. Setbacks are *interesting* rather than
+tragic. A roof falling in is a thing that happened and can be worked around, and
+the working-around is the enjoyable part. It is the reason he survived twenty
+years of things that killed better men, and he has never once connected those
+two facts.
 
-**He never winks.** No jokes are *told*. A worldview is *reported*. The humor is
-the gap between how extraordinary a thing is and how ordinary he finds it. If a
+**Short declaratives.** Mostly short, occasionally long when a list of
+consequences earns it. No ornament. No rhetorical questions stacked for effect.
+
+**He under-reports.** The worse the event, the more casually it is mentioned.
+A sprained wrist can get three sentences; a winter that took nine people gets a
+clause on the way to the real subject, which is drainage. Scale the language
+*down* as the event scales up. This is the single most reliable lever in the
+book.
+
+**He does not editorialize about significance, because he does not perceive
+it.** He is not being modest and he is not withholding. The category does not
+exist for him. Nothing in his prose should imply that he knows which bits
+matter.
+
+**He never winks.** No jokes are *told*. A worldview is *reported*. If a
 sentence could be read aloud as a bit, cut it back until it reads as testimony.
 
-**He addresses the reader directly**, and assumes they are an idiot he has
-decided to help anyway. Affectionate contempt, trending toward affection. He is
-blunt because he does not want them to die, not because he is above them. "You"
-is normal. "Do this." "Do not do this." "You will not do this, and then you will,
-and then you will remember I said it."
+**He addresses the reader directly, as one working person to another.** Not as
+an idiot he is condescending to, not as a disciple. As the person on the other
+end of the plank. He assumes they have a job to do and would like to get it
+right. "You" is normal. "Do this." "Do not do this." "This takes two people and
+I am sorry about that."
 
 **Specificity over flourish.** A named person and a real number beat an
 adjective, every time. Not "it was bitterly cold" but "Marta read minus eleven
@@ -84,35 +128,167 @@ The telling is not.
 
 ---
 
-## 4. The dark aside
+## 4. Where the horror lives
 
-**One per chapter. Maximum. Often zero.**
+There is no designated dark aside any more. There is no budget to spend and no
+trapdoor to open. **The horror arrives in things he says brightly and walks
+straight past.**
 
-One or two sentences. Dropped without comment and never revisited — no
-follow-up paragraph, no callback later in the chapter, no return in a later
-chapter. A trapdoor, not a theme. The next sentence after a dark aside goes
-straight back to the technique, as though nothing happened, because to him
-nothing did.
+The mechanic: a terrible fact is delivered in the same tone, the same sentence
+length and the same cheerful register as a note about hinge grease, and then the
+paragraph carries on to the practical point as though the terrible fact were a
+minor convenience. The reader flinches. He does not. He is already explaining
+the next step, because to him there was nothing to flinch at.
 
-> Good: "We buried four that winter. The ground was easier than I expected,
-> which is its own kind of bad news."
+> Good: "The ground that winter was easier to dig than I expected, which saved
+> us a lot of time, and I have used the same trick since on anything frozen —
+> wait for the thaw to get an inch in and then go at it before the crust comes
+> back. We got all four of them down in a morning."
 
-> Bad: anything that spends a paragraph on it, or that asks the reader to feel
-> something specific.
+That is the shape. The fact is load-bearing to the *technique*, not to the
+*feeling*. He mentions four graves because they are why he knows about frozen
+ground. He is pleased about the morning.
 
-Tests for an aside before you keep it:
+> Bad: "We buried four that winter. I still think about them. You never really
+> get used to it, and I will not pretend otherwise."
 
-- Is it two sentences or fewer?
-- Does the paragraph after it ignore it completely?
-- Does it report a fact rather than instruct the reader how to feel about it?
-- Is it the only one in the chapter?
+That is a narrator pausing to be sad. It is not over-budget; it is **off-voice**.
+He does not pause and he does not get sad, and the moment he does, the whole
+device stops working — because the reader is now being told what to feel instead
+of being left alone with it.
 
-Any "no" means cut it or shrink it. Banned in all cases: the second dark aside
-(see section 7).
+Tests before you keep a dark line:
+
+- Is it in the same register as the practical sentences around it?
+- Does it serve the technique, or does it serve the mood? Technique only.
+- Does the next sentence carry on without acknowledging it?
+- Is the reader doing the grieving, rather than being invited to?
+
+Any "no" means rewrite it brighter or cut it.
+
+### Grief
+
+Chapter 16 kills Vera Ott. **The cheerfulness does not crack.** He reports her
+death as plainly as a broken pump and moves to the next practical point. He does
+not eulogise her, he does not slow down, and he does not change the length of
+his sentences. He will probably mention something she was good at, because it is
+relevant to the procedure under discussion.
+
+The reader grieves because he will not. That is the whole design. This holds for
+the entire book: **there is no chapter in which he becomes a different man.**
 
 ---
 
-## 5. The Rules
+## 5. What he does not notice
+
+A running technique, not an occasional joke. **Every chapter** should have him
+fail to register at least one of these:
+
+1. That the event he is describing is the one people tell stories about.
+2. That the person he is describing became someone.
+3. That the thing he did was difficult, brave, or clever.
+4. That the lesson he just delivered was a lesson.
+
+**Never signposted. The reader does the work.**
+
+How to write it: give the reader everything they need to see it, give him no
+reaction to it at all, and keep the sentence pointed at something else. The
+oblivious detail should arrive as a subordinate clause on the way to a practical
+observation, never as the subject of the sentence.
+
+> Good: "The man doing the shouting had a good voice for it and later had a
+> holiday named after him. He was standing on the cistern lid, which I had
+> asked him twice not to do, because the lid was cracked."
+>
+> He cares about the lid. The holiday is a clause.
+
+> Good: "She was eleven and she carried a full jerrycan up the bank without
+> being asked. I remember thinking she would be useful."
+>
+> No follow-up. The reader can place her; he cannot.
+
+> Good: "I went back in for the pump because nobody else was going to and the
+> smoke was only in the top half of the room. It took two trips. The second trip
+> is the one I would skip if I did it again, because by then I had the pump and
+> was going back for the handle."
+>
+> The brave thing is reported as a logistics error.
+
+> Bad: "I did not realise at the time that this was the night everyone would
+> talk about for forty years."
+>
+> He knows he did not realise. That is a narrator looking back, and he does not
+> look back. Cut it.
+
+> Bad: "Which, I suppose, is a lesson in itself."
+>
+> Signposting. He does not know lessons are a category.
+
+> Bad: "They tell it differently now. I was there, and I can tell you it was
+> mostly standing about."
+>
+> Close, but he has noticed that there is a version. He may contradict the
+> famous account (section 6) but he must never know that it is famous.
+
+The reader's pleasure is in being the only one in the room who can see it.
+Every nudge takes that away.
+
+---
+
+## 6. The three comedy engines
+
+Three, braided and rotating by chapter. Do not run all three hard in the same
+chapter; pick one to carry it and let a second show up once. **No bitterness in
+any of them.** Not a trace, not under the surface, not "if you read it a certain
+way." He is having a nice time.
+
+### 6.1 Bodily consequences
+
+Every technique in this book exists because it happened to him first.
+Motorcycles are fun, and you will be hit by one. He has been set on fire
+slightly, has fallen through two roofs, and was once run over while chasing
+someone who turned out to be a coat on a fence.
+
+The joke is never the pain. The joke is the cheerful causal chain: a chapter
+about load-bearing walls exists because of a specific ceiling, and he will tell
+you which ceiling, and he enjoyed the ceiling. Injuries are credentials and he
+hands them over gladly. He never asks for sympathy and never notices its
+absence.
+
+Keep the medicine honest. A funny injury does not get funny treatment — section
+1 applies inside the anecdote as hard as it applies anywhere.
+
+### 6.2 Proximity to glory, facing the wrong way
+
+He was forty feet from famous moments and remembers the weather.
+
+His account of a legendary event is **boring, specific, and quietly contradicts
+the version everyone knows** — without him ever indicating that there is a
+version. He was holding something. He was round the side. He had been sent for
+a bucket and came back to find it over. The detail he supplies is the one no
+song would keep: the order people arrived in, what the ground was like, who was
+annoyed.
+
+The contradiction must never be argued. It is simply a different, duller,
+first-hand set of facts, offered because it is relevant to drainage.
+
+### 6.3 Unglamorous expertise
+
+He is genuinely excellent at drainage, knots, queueing, load-bearing and rot.
+He has never once thought of himself as an expert at anything.
+
+Play it absolutely straight: real depth, real precision, delivered with the
+enthusiasm of a man describing a good hinge. The comedy is the mismatch between
+how much he knows and how little he thinks it is worth. He will interrupt a
+historic event to explain a gradient. He will describe a cult's collapse in
+terms of where the water went.
+
+He has opinions about queueing that are correct and slightly too detailed, and
+he will share them during a famine.
+
+---
+
+## 7. The Rules
 
 The Rules are the book's recurring device: terse, deadpan, personally earned,
 and **actually correct**. A Rule is compressed real advice. The comedy is in the
@@ -125,6 +301,13 @@ compression, never in the content being wrong.
 - **Correct.** Never invent a Rule that is funny but wrong. If the funny version
   of a Rule would get the reader hurt, you write the correct version and find
   the comedy somewhere else in the chapter. This is section 1 applied.
+
+**He does not know they became folklore.** He thinks they are things he tells
+himself so he does not repeat a mistake. He never calls them famous, never
+refers to anyone else quoting them, and never treats them as a legacy. T.'s
+preface is the only place the reader learns they are quoted daily, in every
+house, by people who have never read the book and get them wrong. He is the de
+facto authority on staying alive and will never find out.
 
 **Numbering is non-sequential and never reconciled.** Rule 4 can be followed by
 Rule 61 and then Rule 9. He does not remember them in order and makes no
@@ -145,7 +328,7 @@ different advice.
 
 ---
 
-## 6. The chapter skeleton
+## 8. The chapter skeleton
 
 Copy this literally. The headings `## What It Costs You` and
 `## The Short Version` are matched character-for-character by the linter —
@@ -181,12 +364,16 @@ Notes on the parts:
 
 - The **epigraph** is a Rule, in a blockquote, on its own. It is the chapter's
   thesis in one flat line.
+- The **opening** is usually something going wrong with his body.
 - The **instruction headings** are yours: use as many `##` headings as the
   material needs, titled in his voice rather than as textbook labels.
-- **What It Costs You** is not a disclaimer section. It is where he is honest
-  about the price, the failure modes, and what the technique trades away.
+- **What It Costs You** is not a disclaimer section, and it is not an emotional
+  outlet either. It is where he is honest about the price, the failure modes,
+  and what the technique trades away.
 - **The Short Version** must stand alone. A reader who has read nothing else
-  should be able to act on it. Count the bullets: 5 minimum, 9 maximum.
+  should be able to act on it. Count the bullets: 5 minimum, 9 maximum. This is
+  where section 1's companion contract is paid: whatever the prose failed to
+  notice, the bullets say plainly.
 - **The Short Version must be the last text in the file.** The linter counts
   every line starting with `- ` between that heading and end-of-file, with no
   regard for section boundaries — so nothing with a leading `- `, in any later
@@ -202,7 +389,7 @@ parser has no block-scalar handling and will not read it.
 
 ---
 
-## 7. Banned moves
+## 9. Banned moves
 
 - **No winking at the reader.** No nudge, no "but I digress," no acknowledgment
   that any of this is funny.
@@ -215,13 +402,29 @@ parser has no block-scalar handling and will not read it.
 - **No describing the Collapse's cause.** He does not know and does not care,
   and the book is stronger for it. No theories, no hints, no "when the X
   happened." It happened. He was there. That is all.
-- **No second dark aside.** One per chapter is the ceiling (section 4).
 - **No irony about technique.** Restated here because it is the one that
   matters (section 1).
+- **No bitterness.** Not about the people who got the songs, not about the
+  people who gave the orders, not about the world. Nothing is owed to him and he
+  has never thought to check.
+- **No self-pity.** He does not note what he lost, what he went without, or what
+  it did to him. He notes what he learned from it, usually about drainage.
+- **No moment where he realizes something about himself.** No recognition, no
+  reckoning, no quiet understanding arriving late. He is not on a journey and
+  there is nothing to work out.
+- **No passage where he becomes a different man.** Not under grief, not at the
+  end of a Part, not in chapter 20. The voice on the last page is the voice on
+  the first.
+- **No signposting of what the reader is meant to notice.** No "which tells you
+  something," no "I did not know it then," no "looking back." If the reader
+  needs to be pointed at it, it is not working and the fix is in the detail, not
+  in a nudge.
+- **No claim of military service, rank, unit or training.** No jargon, no
+  formations, no acronyms. He carried things. See `notes/continuity.md`.
 
 ---
 
-## 8. Word budget
+## 10. Word budget
 
 **1,800–3,200 words per chapter**, enforced by `scripts/lint_manuscript.py`
 (`WORDS_MIN` / `WORDS_MAX`). The count is taken after HTML comments are
