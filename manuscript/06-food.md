@@ -57,7 +57,7 @@ Most tins are still fine. The ones that are not can kill a healthy adult, so thi
 
 **Do not open a tin that is bulging, domed or springy at the ends** — gas inside means something living in there has been making it. **Do not open one that is leaking, sticky or rusted through.** **Do not open one with a damaged seam:** a dent crossing it, a sharp crease, a cracked or pulled seam, anything where the sealed edge has been hit. A dent in the flat of a tin is a dent. A dent on the seam is a door.
 
-And if you have it open before you noticed: **if it spurts, foams or spits when the seal goes, if the liquid has gone milky or the contents slimy or discoloured, or if it smells wrong at all, stop there.** Do not taste it to check. Tasting is not a test: the amount that hurts you is smaller than the amount you can taste, and what would fix you afterwards is not being made any more.
+And if you have it open before you noticed: **if it spurts or foams when the seal goes, if the liquid has gone milky or the contents slimy or discoloured, or if it smells wrong at all, stop there.** Do not taste it to check. Tasting is not a test: the amount that hurts you is smaller than the amount you can taste, and what would fix you afterwards is not being made any more.
 
 A suspect tin does not go on the fire, because a sealed tin in a fire bursts, and it does not go to the dog or the hens, because it will do to them what it would have done to you. Bury it deep, away from water and from anywhere people or animals dig, unopened if it still is, and wash your hands and whatever it touched.
 
@@ -106,7 +106,7 @@ Then the lid, which is not a nicety. An open pot spends most of its fuel turning
 
 Here is the whole of it. It converts fuel into time, the best trade in this book.
 
-1. **Soak.** Cover the beans or whole grains with two or three times their own depth of water for eight to twelve hours, overnight for preference. In hot weather soak shorter or change the water, because a long warm soak sours. **Throw the soaking water away.**
+1. **Soak.** Cover beans or whole grains with two or three times their depth of water, eight to twelve hours, overnight. In hot weather soak shorter or change the water: a long warm soak sours. **Throw the soaking water away** and cook in fresh — what came out of the beans is in it, wind-making sugars and some of what makes kidney beans poisonous.
 2. **Fill the pot and put the lid on.** Fresh water a couple of fingers above the food. A full pot holds heat far better than a half-empty one, so fill it or use a smaller pot. Keep acid — tomato, vinegar, sour fruit — out until the beans are soft, or the skins stop giving.
 3. **Boil hard for ten minutes at the least.** A real rolling boil, not a simmer. Some dried beans, red kidney beans worst of all, are genuinely poisonous until they have had that hard boil, and holding them warm but below the boil makes that worse rather than better. **This is the step you may not shorten, and it is why the rest of the method is safe at all.**
 4. **Into the box, straight off the boil.** Have it built and waiting: a crate or tight-lidded barrel packed with dry hay, straw, wool or crumpled paper. Nest the pot with a hand's depth of packing all round and as much underneath as over, for the same reason the ground takes your heat at night. Press it into every gap, blanket on top, lid down.
