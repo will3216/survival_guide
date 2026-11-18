@@ -187,6 +187,12 @@ Notes on the parts:
   about the price, the failure modes, and what the technique trades away.
 - **The Short Version** must stand alone. A reader who has read nothing else
   should be able to act on it. Count the bullets: 5 minimum, 9 maximum.
+- **The Short Version must be the last text in the file.** The linter counts
+  every line starting with `- ` between that heading and end-of-file, with no
+  regard for section boundaries — so nothing with a leading `- `, in any later
+  section, may follow it. A trailing note, a footnote, a second list, an
+  afterthought bullet: each one silently pushes the count past 9 and fails the
+  build. End the chapter on the last bullet.
 
 Chapters also carry `<!-- ILLO ... -->` illustration blocks; their format is
 owned by `notes/illustration-style.md` (Task 7), not by this skeleton. One
