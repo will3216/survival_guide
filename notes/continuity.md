@@ -86,6 +86,7 @@ authority on staying alive and **will never find out**.
 | Marta Lunn | On the work crew with him in his second year, with a thermometer wired to the outside of her bag. She is the reason he knows it was four degrees above freezing the day he got hypothermic in a ditch. Chapter 05 only so far; available, and nothing is recorded about her beyond the thermometer. | 05 |
 | Pell Hask | The Ninth Hand's orator at the nightly water ceremony. Had a good voice for it — low, and knew to leave gaps. Spoke standing on the cracked cistern lid, which the narrator had asked him twice not to do. The narrator records nothing else about him and does not say what became of him. Chapter 04 only so far; available. | 04 |
 | Isak Roon | A net-mender at the water, in the narrator's own present (Y40). The one person the narrator asked to check a chapter before he wrote it out fair: he kept chapter 03 eight days and gave back four corrections, all of which went in. Has better hands than the narrator's. Not a healer by trade — a man who has had to stop bleeding in a hurry. Alive and available to later chapters. | 03 |
+| Benno Kell | The man who sent the narrator down a ladder into a pre-Collapse cache under a garage in his third year, with a sack and a list, and who had the folder of receipts out of there as well. Chapter 08 only so far; nothing else is recorded about him and he is available. | 08 |
 | Arno Bligh | The man who paid the narrator, before the Collapse, to carry four hundred pounds of dried beans up an outside stair — a fortnight of afternoons, two sacks a trip. Had a pantry the length of the room, one pot and no fuel, and starved that winter with the lot still stacked. Chapter 06 only; dead, and stays dead. | 06 |
 | Hesper Vane | A girl the narrator taught to soak and bank a pot, on a back step in the eleventh year, because her lid sat proud of the rim by the thickness of a nail. She fed a valley for thirty years and the editor's era sells beans by the half-vane and calls the straw box by her name. The narrator records only the lid and never mentions her again. Available to later chapters, but his obliviousness about her is fixed. | 06 |
 | Vera Ott | A mechanic. His teacher, and he was her hands — she told him which way to turn things for six years. Taught him the machine chapters. Had no patience for him. Dies in chapter 16; he reports it as plainly as a broken pump. | 08–10, 16 |
@@ -188,6 +189,17 @@ named.
   not point forward at it, because the chapter it should point at is not yet
   assigned; whichever chapter takes the debt should check whether chapter 05
   wants a pointer added at the same time.
+
+- **The frostbite debt is not paid by chapter 08, and now rests with chapter 12.**
+  Chapter 08 as briefed carries no boots, gloves or cold-injury material at all —
+  its six categories are a container, a cutting edge, cordage, fire, light and
+  water carriage — and it had no room for a real rewarming protocol without
+  giving the reader a half-treatment, which is worse than none. So **chapter 12
+  (the slow deaths) owes the real treatment of frozen tissue**: what to rewarm and
+  how, what not to do, and the refreeze problem, said plainly as the long version
+  of chapter 05's single clause. Chapter 12 should also check at that point whether
+  chapter 05 wants a pointer added. This note is the record of the decision, so the
+  debt is not lost by having been offered to two chapters and taken by neither.
 
 ---
 
@@ -472,6 +484,45 @@ directly. Use them; do not reinvent or contradict them.
   the planks. Chapter 07 cites **Rule 19** for not opening a trade with your
   best thing and does not re-derive it.
 
+- **Chapter 08's own canon, now fixed.** In his third year **Benno Kell** sent him
+  down a ladder into a pre-Collapse cache under a garage; he made four trips, came
+  down the last three rungs of the fourth on his elbows and opened his shin on the
+  bracket, and the shin is from that bracket. The cache held something over eleven
+  thousand dollars of equipment by its own receipts and **not one maintained item**:
+  cells left in the lamps had wept into the housings and crusted the contacts, the
+  canvas had been folded away damp twelve years earlier and came apart in sheets,
+  the fuel had turned to varnish. The one thing he kept is the **laminated inventory
+  list**, which he has written on the back of in pencil for twenty-odd years, so the
+  back is the front now; it is where his own kit list lives and it is available to
+  later chapters as an object. The organising principle is his and is not to be
+  re-coined: **gear is a loan against your future strength and every item pays rent
+  in grams**, and a thing earns its weight only by doing what hands cannot, doing
+  more than one job, or saving you carrying something heavier. The **six categories
+  that always earn it** — a container you can put on a fire, a cutting edge,
+  cordage, a means of fire needing no fuel of its own, light, and a way to carry
+  water that is not the pot — are coined here, in that order, and T.'s beat
+  establishes that the editor's era teaches exactly that list, in that order, to
+  children before they can read it back. **Rule 6** is coined here and earned: he
+  carried two identical lamps on the same cells for a year and they went out four
+  days apart in the same November. **Rule 55** is coined here and earned by the
+  cache. Also his and available without re-deriving: hone little and often because
+  reground steel does not come back; no blade stored in a leather sheath; nothing
+  put away wet or folded damp; rubber stored slack, dark and cool; cells out of
+  anything not in use today; fuel as the shortest-lived thing in a cache; and the
+  three repairability tests (can you see how it comes apart, does it fail gradually
+  or all at once, is it made of what is still being made). The chapter reuses
+  chapter 02's one-flight-of-stairs test and chapter 04's fifth-and-third load
+  figures rather than re-coining either, and picks up the standing-dead-wood point
+  chapter 05 dropped for budget (dry tinder comes from wood still standing, because
+  the floor is where the water is); it leaves chapter 05's reflector point unused.
+  **The cracked left lens is in his kit list, between the awl and the spare lace**,
+  with the glare worked around by keeping a hat brim between the lens and the light
+  and setting the lamp beside or behind him — and with no remark anywhere about
+  nobody making lenses. He presents a kit that fits on a spread coat as a mild
+  embarrassment and does not connect either it or twenty years of unbroken
+  maintenance to his being sixty. **Vera Ott does not appear in chapter 08** despite
+  the Cast column; her first appearance is now chapter 09 or later.
+
 ---
 
 ## Rule ledger
@@ -488,6 +539,7 @@ chapter whose number is not a row below.
 | # | Rule | Chapter |
 |---|------|---------|
 | 4 | Count before you move. | 01 |
+| 6 | Two methods, not two objects. | 08 |
 | 7 | Pressure is a place, not a motion. | 03 |
 | 9 | Water first. Always. | 04 |
 | 11 | The second floor is not safer. It is only harder to leave. | 02 |
@@ -499,6 +551,7 @@ chapter whose number is not a row below.
 | 31 | Know the way out before you go in. | 07 |
 | 34 | Build small. Heat is the rent. | 05 |
 | 42 | Learn three plants completely before you learn twenty badly. | 06 |
+| 55 | Gear you do not maintain is gear you do not have. | 08 |
 | 80 | *Reserved. Spent in chapter 20. Do not cite before then.* | 20 |
 
 **Rule 80 is reserved.** It is the final rule — the soft rule that outranks

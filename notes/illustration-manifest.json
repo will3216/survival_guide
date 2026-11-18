@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 21,
+  "count": 24,
   "slots": [
     {
       "id": "01-gag-01",
@@ -212,6 +212,36 @@
       "alt": "A wide view of a small walled settlement in a valley seen from a ridge, with six numbered details picked out — a water queue, children playing, penned animals, the gate and its bar, a patched roof, and a latrine trench downstream of the water.",
       "prompt": "A single wide landscape scene in flat black line art on cream, drawn as a civil-defence pamphlet figure, viewed from a low ridge looking down into a shallow valley. In the middle distance a small walled settlement of six or seven simple low buildings inside a timber fence. Six details are picked out, each ringed in orange and carrying an orange callout numeral in an orange circle: 1 a short line of figures with cans and buckets at a stream below the settlement; 2 three small child figures playing in an open yard; 3 four penned goats and a dog beside a trough; 4 the main gate, drawn large enough to show its bar and hinge on the inner face, with the ground worn pale on both sides of it; 5 a roof with a neat patch on it and a taut straight washing line beneath; 6 a latrine trench behind a low screen, set downstream of the point where the water is drawn, with a small orange arrow on the stream showing which way it flows. Orange used only for the six rings, the flow arrow and the six numerals. In the near foreground at the lower left corner, small and seen from behind, a cartoonish bean-bodied older man in a flat cap and long tarp coat sitting on his heels behind a tussock with a bucket beside him, looking down at the settlement. Generous empty cream sky above, no background clutter, no text beyond the six numerals.",
       "path": "illustrations/07-plate-01.png"
+    },
+    {
+      "id": "08-gag-01",
+      "class": "gag",
+      "chapter": "08",
+      "source": "08-gear.md",
+      "caption": "Figure 8.1 — The cache under the garage. Eleven thousand dollars, four trips, one useful card.",
+      "alt": "A cutaway of an underground cache full of magnificent ruined equipment — rags of canvas, leaking lamps, cracked rubber — with a laminated inventory card glowing on the wall and a man halfway down the ladder with an armful.",
+      "prompt": "A cutaway cross-section of a square underground cache below a garage floor, drawn in flat black line art on cream as a pamphlet figure. The chamber is lined with handsome timber shelving in neat labelled rows, crowded with equipment drawn with obvious pride of ownership: lanterns, stacked tins, coils, boxes, hanging tools. All of it is visibly ruined — the canvas packs hang in long rags and tatters, the lanterns have dark crusted stains weeping from their battery hatches and small puddles beneath them, coils of hose and belting are drawn snapped and square-edged with cracks, the tools are stippled all over with rough pitting, and two fuel cans sit with thick drips congealed down their sides. Pinned to the end of one shelf, a single small rectangular laminated card, drawn in orange with short radiating emphasis lines, the only orange in the image. Descending the wooden ladder at the right of the chamber, seen from behind and in three-quarter profile, a cartoonish bean-bodied older man in a flat cap and long tarp coat with a huge untidy armful of the stuff clamped against his chest, one boot feeling for the next rung and his head turned away from the card. Generous empty cream space in the garage above, no background clutter, no text.",
+      "path": "illustrations/08-gag-01.png"
+    },
+    {
+      "id": "08-gag-02",
+      "class": "gag",
+      "chapter": "08",
+      "source": "08-gear.md",
+      "caption": "Figure 8.3 — Everything, laid out flat. The cracked glasses are between the awl and the spare lace.",
+      "alt": "A small kit laid out in neat rows on a spread coat — a lidded pot, knife and file, awl, cracked spectacles, a lace, coils of cord, a striking rod and tin, a lamp, two bottles and a bladder, a sewing roll and a hat.",
+      "prompt": "A flat overhead view of a small kit laid out in four tidy rows on a long tarp coat spread open on bare ground, drawn in flat black line art on cream as a pamphlet figure, every object separate and clearly silhouetted with generous cream space between them and a wide margin of empty coat around the whole arrangement. The objects, in order: a squat lidded pot with a wire bail; a plain knife and a small rectangular file; a short awl with a wooden handle; a pair of round wire-framed spectacles with a single crack drawn right across the left lens, that crack the only orange line in the image; a single bootlace; one long coil of rope and a dozen short cut lengths laid in a neat fan; a short striking rod and a small flat tin with its lid beside it holding matches and a stub candle; a simple lidded lantern; two flat-sided bottles and one slack collapsible bladder; an unrolled cloth sewing roll showing a needle, a spool of thread, a twist of wire and two small patches; a flat cap. The arrangement is conspicuously small for the amount of empty space around it. No figure, no background scenery, no shading, no text.",
+      "path": "illustrations/08-gag-02.png"
+    },
+    {
+      "id": "08-plate-01",
+      "class": "plate",
+      "chapter": "08",
+      "source": "08-gear.md",
+      "caption": "Figure 8.2 — The six that always earn it. 1 a container you can boil in. 2 a cutting edge. 3 cordage. 4 a means of fire needing no fuel. 5 light. 6 a way to carry water.",
+      "alt": "Six labelled icons in two rows — a lidded metal pot, a sheathed knife, a coil of cord, a fire-striking rod with sparks, a lamp, and two water vessels — each numbered.",
+      "prompt": "Six icons arranged in two rows of three on an open cream ground, drawn in flat black line art as a civil-defence pamphlet figure, each icon a single clean object with generous empty space around it, each carrying an orange callout numeral in an orange circle set just below it. Icon 1, a squat metal pot with a clamped lid and a wire bail handle, three short flame shapes beneath it. Icon 2, a plain straight-bladed knife lying flat beside a small rectangular sharpening file. Icon 3, a neatly coiled hank of rope with two short cut lengths laid beside the coil. Icon 4, a short cylindrical striking rod held against a flat scraper with a small burst of sparks, drawn above a bundle of snapped dry twigs. Icon 5, a simple lidded lantern with a bail handle and, next to it, a stub candle with a flame. Icon 6, a flat-sided bottle and a slack collapsible bladder with a screw cap, side by side. Orange used only for the six numerals and their circles. No background scenery, no shading, no text beyond the six numerals.",
+      "path": "illustrations/08-plate-01.png"
     }
   ]
 }
