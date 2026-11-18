@@ -153,6 +153,6 @@ Radio costs you cells, weight, and a kind of hope that is worse than the weight.
 - Rule 14: agree a schedule and a place. Same spot, same day, said out loud and repeated back, with an agreed fallback week. No cells, nothing to break, nothing overheard.
 - Contrast, movement and regularity are what read as human at distance. Three of anything means distress: three blasts, three flashes, three fires. Space them, repeat, listen between.
 - Point signals where people actually are — high ground, open ground, across a track or ridge — and make them far bigger than feels sensible. A whistle beats shouting on effort and range.
-- Handheld radio is line of sight: a hill between you beats any set, and height beats power, so get the aerial up before looking for a bigger set. Agree listening times and write them on it.
-- Rule 72: listen longer than you transmit. Everybody in range hears you and you cannot take it back, and most of what you need is already being said.
+- Handheld radio is line of sight: a hill between you beats any set, and height beats power, so get the aerial up first. Found cells are weak: keep them out of the set, mark them charged, and agree listening times.
+- Rule 72: listen longer than you transmit — transmitting drains many times what listening does, everybody in range hears you and you cannot take it back, and most of what you need is already being said.
 - Copy the piece of map you need and keep the original flat and dry. Log time, direction and one landmark at every junction, measure your own pace, and reset at anything you can identify.
