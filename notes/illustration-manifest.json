@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 12,
+  "count": 15,
   "slots": [
     {
       "id": "01-gag-01",
@@ -122,6 +122,36 @@
       "alt": "A flowchart branching from a clear jar and a cloudy jar into a straining and settling step and then into a boiling pot or a dosed and covered jar.",
       "prompt": "A decision flowchart in flat black line art on cream, drawn as a civil-defence pamphlet figure, using glyphs only and no words. Two plain rectangular boxes at the top: the left box holds a jar with a clean empty interior and two straight ripple lines, carrying orange callout numeral 1 in an orange circle; the right box holds an identical jar drawn with dense stipple throughout, carrying orange callout numeral 2. A downward arrow from the right box leads to a middle box showing a square of cloth over a funnel above a tall jar with a thick settled band of stipple at its bottom, carrying orange callout numeral 3. Arrows from the left box and from the middle box converge and then split into two boxes at the bottom: the left-hand one shows a lidded pot with vigorous bubbles over a small flat fire, numeral 4; the right-hand one shows a covered jar with a single drop poised above it and a plain circular clock face alongside, numeral 5. Clean orthogonal connecting arrows. Orange used only for the five callout numerals. Generous empty cream space, no background scenery, no text beyond the numerals.",
       "path": "illustrations/04-plate-02.png"
+    },
+    {
+      "id": "05-gag-01",
+      "class": "gag",
+      "chapter": "05",
+      "source": "05-weather.md",
+      "caption": "Figure 5.3 — My first shelter. Eleven days, slept nine, never once got warm.",
+      "alt": "An enormous, beautifully built shelter with its builder asleep on the ground outside the door.",
+      "prompt": "A cartoonish flat black line drawing on cream. Centre and filling most of the frame, an enormous, elaborate, beautifully constructed lean-to shelter of lashed poles and neatly layered thatch, drawn with obvious craftsmanship, far too large, with a wide gaping doorway through which a few small flat snowflakes are drifting and settling on the floor inside. In the bottom left corner, outside and beside the doorway, a cartoonish bean-bodied older man in a flat cap, cracked spectacles and a long tarp coat lies curled on the bare ground, fast asleep, with a small contented smile and an expression of mild cheerful regret. Two or three small orange breath-puffs rise from him. Orange used only for the breath-puffs. Empty cream ground, no background scenery, no text.",
+      "path": "illustrations/05-gag-01.png"
+    },
+    {
+      "id": "05-plate-01",
+      "class": "plate",
+      "chapter": "05",
+      "source": "05-weather.md",
+      "caption": "Figure 5.1 — Insulation, in order. 1 the thin layer against the skin. 2 the loft, which is only trapped air. 3 the shell that keeps wind and rain out of 2. 4 what goes under you, which outranks all three.",
+      "alt": "Cross-section diagram of three clothing layers over a torso, with a thick emphasised band of ground insulation beneath.",
+      "prompt": "A cross-section diagram in flat black line art on cream, drawn as a civil-defence pamphlet figure. A simplified torso seen in section at the top, wrapped in three concentric bands drawn at clearly different thicknesses and hatched differently: a thin innermost band carrying orange callout numeral 1 in an orange circle, a thick fluffy middle band of loose stipple carrying orange callout numeral 2, and a smooth outermost band carrying orange callout numeral 3, with small arrows of wind and rain glancing off it. Beneath the torso, a deep horizontal band of loose compressed vegetation drawn thicker than any clothing layer and outlined entirely in orange, carrying orange callout numeral 4 in an orange circle, separating the figure from a flat hatched ground line below. Small downward arrows run from the figure into the ground line to show heat leaving. Single subject, generous empty cream space, no background scenery, no text beyond the four numerals.",
+      "path": "illustrations/05-plate-01.png"
+    },
+    {
+      "id": "05-plate-02",
+      "class": "plate",
+      "chapter": "05",
+      "source": "05-weather.md",
+      "caption": "Figure 5.2 — Heat exhaustion against heat stroke. 1 the skin. 2 pulse and breathing. 3 the mind, which is the row that decides. 4 what you do about it.",
+      "alt": "A two-column comparison chart of heat exhaustion and heat stroke, the mental-state row boxed and emphasised.",
+      "prompt": "A two-column comparison chart in flat black line art on cream, drawn as a civil-defence pamphlet figure, using glyphs only and no words. Two equal columns divided by a single vertical rule, crossed by four horizontal rows. Row 1 carries orange callout numeral 1 in an orange circle and shows, left, a face with heavy sweat droplets and flat shading for pallor, and right, a face with radiating heat lines and no droplets. Row 2 carries numeral 2 and shows, left, a shallow fluttering waveform, and right, a tall spiking waveform. Row 3 carries numeral 3, is enclosed in a heavy orange box drawn around the whole row, and shows, left, a head in profile with a clear steady spiral inside it, and right, a head in profile with a broken scribbled tangle inside it. Row 4 carries numeral 4 and shows, left, a reclining figure under a simple shade canopy beside a cup, and right, a figure immersed to the neck in a tub of water with wavy-line fanning arrows. Generous empty cream space, no background scenery, no text beyond the four numerals.",
+      "path": "illustrations/05-plate-02.png"
     }
   ]
 }

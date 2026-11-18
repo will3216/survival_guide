@@ -82,6 +82,7 @@ authority on staying alive and **will never find out**.
 | Edda Mull | His neighbour two doors along the landing, eighty-one, on the first morning. Filled her bath before she looked out of the window. Dead before that spring, of age and of nothing being made any more. Chapter 01 only; do not revive her. | 01 |
 | Halla Dorn | The Spoke's bag keeper. Said the group's whole evacuation policy in one sentence in a doorway of the bag room, because he was standing in it with a bag in each hand and she wanted past: decide by noon, say it out loud, move while the light is still on your side. He does not know the sentence became the most quoted thing in the book; to him she was a woman who weighed bags monthly. Alive when he left the Spoke; her later fate is unwritten and available. | 02 |
 | The Ninth Hand | A blood cult he did chores for, two years. He hauled, swept and carried; he thought the robes were a uniform issue. He will tell you it wasn't that bad. It was that bad. He saw the machinery from underneath without the vocabulary to name it, which is how most people meet it. | 03, 04, 15 |
+| Marta Lunn | On the work crew with him in his second year, with a thermometer wired to the outside of her bag. She is the reason he knows it was four degrees above freezing the day he got hypothermic in a ditch. Chapter 05 only so far; available, and nothing is recorded about her beyond the thermometer. | 05 |
 | Pell Hask | The Ninth Hand's orator at the nightly water ceremony. Had a good voice for it — low, and knew to leave gaps. Spoke standing on the cracked cistern lid, which the narrator had asked him twice not to do. The narrator records nothing else about him and does not say what became of him. Chapter 04 only so far; available. | 04 |
 | Isak Roon | A net-mender at the water, in the narrator's own present (Y40). The one person the narrator asked to check a chapter before he wrote it out fair: he kept chapter 03 eight days and gave back four corrections, all of which went in. Has better hands than the narrator's. Not a healer by trade — a man who has had to stop bleeding in a hurry. Alive and available to later chapters. | 03 |
 | Vera Ott | A mechanic. His teacher, and he was her hands — she told him which way to turn things for six years. Taught him the machine chapters. Had no patience for him. Dies in chapter 16; he reports it as plainly as a broken pump. | 08–10, 16 |
@@ -346,6 +347,30 @@ directly. Use them; do not reinvent or contradict them.
   anything else that has stood in an open container, as washing water until
   treated.
 
+- **Chapter 05's own canon, now fixed.** For his first two years he believed
+  cold killed by being cold and watched the thermometer. In his second year he
+  got hypothermic at **four degrees above freezing** — a figure he has from
+  **Marta Lunn**, who had a thermometer wired to the outside of her bag —
+  after a morning to the waist in a ditch in steady rain, soaked through to
+  the shirt, sitting out of the wind, eating, in an extremely good mood.
+  Somebody got him dry and **he does not know who**, which he offers as a
+  symptom rather than a regret. **Rule 16** is coined here and earned by that
+  lunch. **Rule 34** is coined here and earned by his first shelter: it slept
+  nine, took eleven days, was beautifully made, never got warm once, and he
+  ended up sleeping by the door on the ground. He has **lost more people to
+  enclosed fires than to the cold they were escaping**, said once and walked
+  straight past on the way to the flue; that line is this chapter's dark beat
+  and should not be re-used as if it were new. Also his and available to later
+  chapters: *something under you before something over you* (ground
+  conduction, loft crushed by your own weight, a hand's depth of dry packing
+  and two over snow), the shivering-stops-is-worse recognition, the
+  trunk-not-limbs rewarming order, and the heat-exhaustion-against-heat-stroke
+  distinction turning on **altered mental state**. T.'s single beat here is
+  exasperated: T. burns four pages of notes rather than transcribe them, then
+  corrects the ditch-versus-drain wording instead of the point. Chapter 05
+  re-cites **Rule 9** (chapter 04) for drinking ahead of thirst in heat and
+  does not re-derive any water figure.
+
 ---
 
 ## Rule ledger
@@ -365,8 +390,10 @@ chapter whose number is not a row below.
 | 7 | Pressure is a place, not a motion. | 03 |
 | 9 | Water first. Always. | 04 |
 | 11 | The second floor is not safer. It is only harder to leave. | 02 |
+| 16 | Wet is colder than cold. | 05 |
 | 23 | Pack the bag for the stairs, not for the road. | 02 |
 | 28 | Clear is not clean. | 04 |
+| 34 | Build small. Heat is the rent. | 05 |
 | 80 | *Reserved. Spent in chapter 20. Do not cite before then.* | 20 |
 
 **Rule 80 is reserved.** It is the final rule — the soft rule that outranks
