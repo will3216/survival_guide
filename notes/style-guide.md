@@ -423,7 +423,7 @@ parser has no block-scalar handling and will not read it.
 - **No claim of military service, rank, unit or training.** No jargon, no
   formations, no acronyms. He carried things. See `notes/continuity.md`.
 
-### 9.1 Four sentences the budget may not touch
+### 9.1 Five sentences the budget may not touch
 
 Chapters 2, 3 and 4 each went out missing a sentence a trim had judged
 decorative, and each needed a fix round to put it back. It was the same
@@ -440,7 +440,15 @@ in a room with a fire was covered at all. The chapter still said what to do
 when two people got a headache. Nobody had written down what to do when it was
 one, because the pointer had been doing that job.
 
-So four kinds of sentence are **protected**, and if the chapter is long they
+The fifth arrived by being the same mistake three times. Chapter 3 cut "The
+alternative is nothing" after a review had singled it out. Chapter 4 cut the
+stone basin and the nine days after a review had singled them out. Chapter 5
+cut T.'s exit line, "He wants to talk about mats.", after a review had named it
+as the right exit. In all three cases the sentence had already been identified
+by a reader as doing work, and in all three cases a later round removed it for
+budget without mentioning that it had.
+
+So five kinds of sentence are **protected**, and if the chapter is long they
 are paid for from somewhere else:
 
 1. **The only statement of a reason** for an instruction or a prohibition. If
@@ -460,9 +468,14 @@ are paid for from somewhere else:
    has to a case this chapter does not otherwise handle. Cut the pointer and
    the case is gone, silently, because nothing in either chapter looks wrong
    afterwards.
+5. **A sentence a review has praised by name.** Once a reviewer has pointed at
+   a specific line and said what it does, that line is spoken for. A later
+   round may still cut it — reviewers are not always right, and a chapter over
+   budget has to lose something — but only deliberately, and the report says
+   which line went and why. Cutting it silently is the failure, not cutting it.
 
 The practical half. **A trim is not costless until you have read your own
-deletions against those four categories.** Diff what you took out, not what you
+deletions against those five categories.** Diff what you took out, not what you
 left in, and say in the report that you did. Prose compresses; reasons,
 qualifiers and costs do not.
 
@@ -473,6 +486,13 @@ ask whether anything else in this chapter covers that case.** If nothing does,
 either the pointer stays or this chapter starts covering the case itself. Do not
 settle it by deciding the other chapter is still there. It is; the reader's
 route to it is not.
+
+The fifth needs a different extra move, because no structural check will ever
+reach it: a praised sentence looks exactly like any other sentence. **Diff your
+deletions against the reviews you were sent as well as against the four
+structural categories.** A review's compliments are not decoration; they are a
+list of the sentences a reader found load-bearing, and that is the only record
+of them that exists.
 
 ---
 

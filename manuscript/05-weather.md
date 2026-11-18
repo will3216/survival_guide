@@ -12,7 +12,7 @@ Four degrees above freezing, wet, sitting still, cheerful: that is where people 
 
 Which brings me to mats: the ground is worse than either.
 
-> **— T.** He has just written down the thing that keeps half of us alive. I was taught *wet is colder than cold* before I was taught my letters. Here it is a remark about a shirt, between a sandwich and a paragraph about mats. I had four pages of notes on this passage and I have burned them, because what I kept writing down was not editing. One correction, and not the one that matters: the ditch is a drain on the next page.
+> **— T.** He has just written down the thing that keeps half of us alive. I was taught *wet is colder than cold* before I was taught my letters. Here it is a remark about a shirt, between a sandwich and a paragraph about mats. I had four pages of notes on this passage and I have burned them, because what I kept writing down was not editing. One correction, and not the one that matters: the ditch is a drain on the next page. He wants to talk about mats.
 
 ## Loft, Layers, and the Ground
 
@@ -135,7 +135,7 @@ Then keep it small, and the real reason is fuel: every log is somebody's walk, a
 
 A fire indoors is a different animal. I have lost more people to enclosed fires than to the cold they were escaping, so the flue is the first thing and the fire is the second. Carbon monoxide has no colour, no smell and no taste, and anything burning makes it — most of all anything burning badly: a starved stove, a brazier, an engine, and charcoal, which is the worst and must never be lit indoors. What it does to you is a headache, then sickness, then weakness, then confusion, then an enormous sleepiness. Read that list again, because it is exactly the list for a cold, wet, exhausted person at the end of a hard day. That is why it kills indoors rather than out: the symptoms are indistinguishable from the reason you came inside, so the person feeling them lies down, which is also the last decision they make.
 
-So: an opening low for air in, an opening high for smoke out, both unblocked, and still unblocked at three in the morning when somebody is cold. Never charcoal, never an engine or generator in a room or doorway. A headache indoors with a fire burning is enough on its own. One person is enough: get out into open air. Two at once and everybody goes, including whoever feels fine, and the place is aired before anyone goes back. This is chapter 1's second question — *can I breathe where I am standing?*
+So: an opening low for air in, an opening high for smoke out, both unblocked, and still unblocked at three in the morning when somebody is cold. Never charcoal, never a brazier, never an engine or generator in a room or a doorway. A headache indoors with a fire burning is enough on its own. One person is enough: get out into open air. Two at once and everybody goes, including whoever feels fine, and the place is aired before anyone goes back. This is chapter 1's second question — *can I breathe where I am standing?*
 
 ## What It Costs You
 
@@ -150,8 +150,8 @@ And ventilation costs you heat, deliberately, every night, forever. That is the 
 ## The Short Version
 
 - Rule 16: wet is colder than cold. Water conducts heat about twenty-five times better than air, so wet clothing takes heat several times faster than dry, and wind strips the warmed air away. Soaked at four degrees above freezing will do it.
-- Insulation is trapped air, so thickness is everything: loose layers, nothing tight or crushed, damp-moving inside, loft in the middle, windproof outside. Vent before you sweat.
-- Something under you before something over you: the ground takes heat faster than air, and your weight crushes the loft beneath. A hand's depth of dry packing, two over snow, shoulders to hips at least. Rule 34: build small, heat is the rent.
+- Insulation is trapped air, so thickness is everything: nothing tight or crushed, damp-moving inside, loft in the middle, windproof outside. Vent before you sweat. A shelter is the same problem and you are the heater: Rule 34, build small, heat is the rent.
+- Something under you before something over you: the ground takes heat faster than air, and your weight crushes the loft beneath. A hand's depth of dry packing, two over snow, shoulders to hips at least.
 - Hypothermia is fumbling hands, stumbling, mumbling, a changed mood, bad decisions. Then the shivering stops, and that is worse, not better, especially with confusion. They will say they are fine.
 - Rewarm gently: wet clothes off, insulation under and over, head covered, gentle warmth to chest, armpits, neck and groin, warm sweet drinks only if fully awake and swallowing.
 - No alcohol — it opens the skin, and the warmth you feel is heat leaving. No rubbing or walking them about: it drives cold blood inward, and rough handling can stop a very cold heart.
