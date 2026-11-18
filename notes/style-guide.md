@@ -7,9 +7,10 @@ which is why this document can name its touchstones out loud.
 Read this in full before writing any chapter. It is short on purpose.
 
 **Standing note:** `manuscript/01-triage.md` and `manuscript/02-run-or-dig-in.md`
-are written in the retired voice — the weathered elder who founded things. They
-are scheduled for rewrite. Mine them for facts and for mechanical format; do
-**not** use them as a voice template.
+were rewritten in this voice on 2026-11-18 and are the working template for
+chapters 3–20. Read them alongside this document: they are what the rules below
+look like on the page. Nothing of the retired elder-founder voice remains in
+either file.
 
 ---
 

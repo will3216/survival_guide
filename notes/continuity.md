@@ -7,14 +7,15 @@ who is alive, who is dead, what year it is, and which Rule number means what.
 Every name recorded here is a name that will appear in `manuscript/`, so
 nothing here may collide with `notes/forbidden-terms.txt`. Checked on write.
 
-**Standing note — chapters 1 and 2 are in the retired voice.**
-`manuscript/01-triage.md` and `manuscript/02-run-or-dig-in.md` were written
-before the narrator redesign, when he was a weathered elder who founded and
-lost a settlement and invented a god by committee. They are scheduled for
-rewrite. Their *facts* remain canon unless a row below says otherwise (the
-glasses, Edda Mull, Halla Dorn, the three questions, the Spoke's bag room).
-Their *voice* and their account of his standing in the world are both retired.
-**Do not treat either chapter as the template until it has been rewritten.**
+**Standing note — chapters 1 and 2 are the voice template.**
+`manuscript/01-triage.md` and `manuscript/02-run-or-dig-in.md` were rewritten
+in the redesigned voice on 2026-11-18 and are now the template chapters 3–20
+are written against. Read them for register before writing a chapter: he does
+not grade his own past, does not defend his credentials, and does not pause to
+be sad. Chapter 01 is carried by bodily consequences, chapter 02 by proximity
+to glory facing the wrong way; each carries two T. interventions, at least one
+of them exasperated. Nothing of the retired elder-founder voice survives in
+either file.
 
 ---
 
@@ -79,7 +80,7 @@ authority on staying alive and **will never find out**.
 |------|----------------|----------|
 | The Spoke | The first group that took him in after the Collapse. Competent, boring, alive. He fetched and carried for them and did not appreciate it at the time. | 01–02 |
 | Edda Mull | His neighbour two doors along the landing, eighty-one, on the first morning. Filled her bath before she looked out of the window. Dead before that spring, of age and of nothing being made any more. Chapter 01 only; do not revive her. | 01 |
-| Halla Dorn | The Spoke's bag keeper. Said the group's whole evacuation policy in one sentence in a doorway: decide by noon, say it out loud, move while the light is still on your side. Alive when he left the Spoke; her later fate is unwritten and available. | 02 |
+| Halla Dorn | The Spoke's bag keeper. Said the group's whole evacuation policy in one sentence in a doorway of the bag room, because he was standing in it with a bag in each hand and she wanted past: decide by noon, say it out loud, move while the light is still on your side. He does not know the sentence became the most quoted thing in the book; to him she was a woman who weighed bags monthly. Alive when he left the Spoke; her later fate is unwritten and available. | 02 |
 | The Ninth Hand | A blood cult he did chores for, two years. He hauled, swept and carried; he thought the robes were a uniform issue. He will tell you it wasn't that bad. It was that bad. He saw the machinery from underneath without the vocabulary to name it, which is how most people meet it. | 03, 15 |
 | Vera Ott | A mechanic. His teacher, and he was her hands — she told him which way to turn things for six years. Taught him the machine chapters. Had no patience for him. Dies in chapter 16; he reports it as plainly as a broken pump. | 08–10, 16 |
 | The Bellwright | Founded the Bell Country. A legend to everyone else — the man whose name is on it, quoted and sung about. To the narrator, a man with strong opinions about drainage who was usually right about gradients and wrong about people. The narrator hauled water past him for years and mostly remembers being asked to move a barrow. He does not know the Bellwright became a legend. | 13–16 |
@@ -229,6 +230,46 @@ directly. Use them; do not reinvent or contradict them.
   Nonsense) — the Rules having outgrown the book and become folklore is a
   gift to both a chapter about group governance and a chapter about
   ritual and oral transmission.
+
+- **Chapter 01's own small canon, now fixed.** Edda Mull's two lines are
+  "Fill it now. It stops later." and, when he asked her later how she thought
+  of the bath, that she had to do something with her hands or she was going to
+  start screaming and the bath was the nearest big thing. He searched the
+  floor in tea-tray squares, left to right, finishing each square — the
+  technique the chapter teaches and the one thing in the morning he does not
+  think worth remarking on. He cut both palms on broken glass on the floor
+  and noticed an hour later when he dropped a cup. The glasses were in his breast
+  pocket the whole time, folded; the lens cracked in the pocket when he knelt
+  on it. Any later chapter may reuse these; none may contradict them.
+
+- **The one-flight-of-stairs load test belongs to chapter 02 and is spent
+  there.** Put the loaded bag on, carry it up one flight and down again, and
+  whatever you take out at the top was never leaving the house with you. It is
+  coined in chapter 02 alongside Rule 23 and the roughly-one-third-of-body-
+  weight degradation figure. **Chapter 08 (gear) reuses it rather than
+  re-coining it** — refer back to it as something already established, do not
+  present it as new.
+
+- **Chapter 02 gives no water-carry figure, on purpose.** It states the
+  sourced household figure (roughly four litres per person per day) and says
+  plainly that three days of that is not a thing a person carries, then
+  refuses to supply a carry number and defers to chapter 04. **Chapter 04 owes
+  the honest answer.** Do not let an earlier chapter invent the figure.
+
+- **The clever house down the valley from the Spoke.** They deliberated for
+  three days and did not leave. He walked back through in the spring and read
+  their plan off the kitchen wall in marker, numbered one to nine, and records
+  only that it was a good plan to about step four. Available as a measuring
+  stick; the household is dead and stays dead, and he never names them.
+
+- **T.'s era, as chapters 01–02 establish it.** Counting before you move is
+  taught to children with a song about fingers; the three questions are said
+  over a sick child and in the yard before a journey by people who do not know
+  where they came from; T. was taught Halla Dorn's sentence before learning to
+  read and has said it over a sick child twice; T.'s own household still walks
+  the house twice a year as the Spoke did, and says the drill still works.
+  This is editor's-era canon and belongs to T.'s voice only — no chapter from
+  1 to 20 may know any of it.
 
 ---
 

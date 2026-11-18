@@ -8,9 +8,9 @@
       "class": "gag",
       "chapter": "01",
       "source": "01-triage.md",
-      "caption": "Figure 1.1 — The author, qualifying himself.",
-      "alt": "A man kneels in debris patting the floor with both hands while catastrophe unfolds unnoticed in the window behind him.",
-      "prompt": "A cartoonish bean-bodied older man in a flat cap and long tarp coat, on his hands and knees on a debris-strewn floor, patting the boards with both oversized hands, head down, entirely absorbed. Behind him a simple rectangular window frame shows an orange-tinted skyline of tilted buildings and smoke columns, drawn small and flat. He is not looking at it. Minimal props: an overturned chair, scattered angular glass shards. Orange used only for the window beyond the glass.",
+      "caption": "Figure 1.1 — Searching a floor properly, in squares, left to right.",
+      "alt": "A man kneels in debris patting the floor in neat squares while catastrophe unfolds unnoticed in the window behind him.",
+      "prompt": "A cartoonish bean-bodied older man in a flat cap and long tarp coat, on his hands and knees on a debris-strewn floor, patting the boards with both oversized hands, head down, cheerful and entirely absorbed. Faint flat orange grid squares are chalked on the floorboards and one square is ticked off. Behind him a simple rectangular window frame shows a flat skyline of tilted buildings and smoke columns, drawn small. He is turned away from it. Minimal props: an overturned chair, scattered angular glass shards, a dropped cup. Orange used only for the floor grid and the ticks.",
       "path": "illustrations/01-gag-01.png"
     },
     {
@@ -18,7 +18,7 @@
       "class": "gag",
       "chapter": "01",
       "source": "01-triage.md",
-      "caption": "Figure 1.3 — The whole method, as originally issued.",
+      "caption": "Figure 1.3 — The whole method, as first written down.",
       "alt": "A tiny three-box flowchart of the three questions, drawn in pen on the back of a creased envelope.",
       "prompt": "A creased, slightly torn paper envelope lying flat, drawn in flat black line art, with a hand-drawn three-box flowchart scrawled on its back in the same ink. Three plain rectangles connected by downward arrows, each containing a simple glyph instead of words — a drop for bleeding, a pair of lungs for air, a small stick figure with a question mark over it. One orange thumbprint smudge at the envelope's corner. Loose, hasty, marginal. No background scenery.",
       "path": "illustrations/01-gag-02.png"
@@ -38,9 +38,9 @@
       "class": "gag",
       "chapter": "02",
       "source": "02-run-or-dig-in.md",
-      "caption": "Figure 2.1 — The two errors, drawn to scale. Left: too early. Right: too late.",
-      "alt": "Two panels side by side; in one a bored man sits on a hill with a packed bag, in the other only a pair of empty boots stands in a doorway.",
-      "prompt": "A two-panel comparison drawn as a flat civil-defence pamphlet figure, divided by a single vertical black rule. Left panel: a cartoonish bean-bodied man in a flat cap and long tarp coat sitting on a small bare hummock beside a canvas two-buckled bag, chin on fist, visibly bored, one orange callout numeral 1 in an orange circle beside him. Right panel: an empty plain door frame with a single pair of worn boots standing neatly in the opening and nobody in them, one orange callout numeral 2 in an orange circle beside the frame. Both panels otherwise empty cream ground, no background scenery, no text beyond the two callout numerals.",
+      "caption": "Figure 2.1 — The two errors, drawn to scale. 1 too early. 2 too late.",
+      "alt": "Two panels side by side; in one a cheerfully bored man sits on a hill with a packed bag, in the other only a pair of empty boots stands in a doorway.",
+      "prompt": "A two-panel comparison drawn as a flat civil-defence pamphlet figure, divided by a single vertical black rule. Left panel: a cartoonish bean-bodied man in a flat cap and long tarp coat sitting on a small bare hummock beside a canvas two-buckled bag, chin on fist, cheerfully bored, swinging one boot, one orange callout numeral 1 in an orange circle beside him. Right panel: an empty plain door frame with a single pair of worn boots standing neatly in the opening and nobody in them, one orange callout numeral 2 in an orange circle beside the frame. Both panels otherwise empty cream ground, no background scenery, no text beyond the two callout numerals.",
       "path": "illustrations/02-gag-01.png"
     },
     {
@@ -48,9 +48,9 @@
       "class": "gag",
       "chapter": "02",
       "source": "02-run-or-dig-in.md",
-      "caption": "Figure 2.3 — The author's first bag. It went one flight.",
-      "alt": "An absurdly overpacked bag with a cast-iron pan lashed to the outside and a bulge of unnecessary objects.",
-      "prompt": "A single canvas two-buckled bag with a patch on its lower left corner, drawn in flat side profile, grotesquely overstuffed so the fabric bulges and the buckles strain, with far too many objects lashed to the outside with cord — a large cast-iron frying pan, a kettle, a folding stool, a stack of books, a mantel clock, a boot with no pair. The bag leans over under its own weight. One orange cord binding is the only orange in the figure. Empty cream ground, single subject, no background scenery, no text.",
+      "caption": "Figure 2.3 — The author's first bag, on its only journey.",
+      "alt": "A man crouched under an absurdly overpacked bag with a cast-iron pan lashed to it, halfway up a staircase, cheerful.",
+      "prompt": "A cartoonish bean-bodied older man in a flat cap and long tarp coat, seen from behind and three-quarter, bent far forward halfway up a plain flight of stairs under a canvas two-buckled bag with a patch on its lower left corner, grotesquely overstuffed so the fabric bulges and the buckles strain. Far too many objects are lashed to the outside with cord — a large cast-iron frying pan, a kettle, a folding stool, a stack of books, a mantel clock, a single boot with no pair. His posture is cheerful and unbothered, one hand giving a small wave. One orange cord binding is the only orange in the figure. Empty cream ground, no background scenery beyond the stairs, no text.",
       "path": "illustrations/02-gag-02.png"
     },
     {
@@ -58,7 +58,7 @@
       "class": "plate",
       "chapter": "02",
       "source": "02-run-or-dig-in.md",
-      "caption": "Figure 2.2 — The bag, cut away. 1 water, in more than one container. 2 light, plus a spare on a different battery. 3 dry warm layer, bagged dry. 4 documents, copied. 5 medication, with the written names. 6 one good knife.",
+      "caption": "Figure 2.2 — The bag, cut away. 1 water, in more than one container, low and against the back panel. 2 light, plus a spare on different batteries. 3 dry warm layer, bagged dry. 4 documents, copied. 5 medication, with the written names. 6 one good knife.",
       "alt": "Cutaway diagram of a packed canvas shoulder bag with six numbered contents.",
       "prompt": "Cutaway diagram of a single canvas bag with two buckles and a patch on its lower left corner, shown in flat side profile with the near wall of the bag removed so the contents are visible, stacked in clear separated compartments. Six contents, each marked with an orange callout numeral in an orange circle: 1 two water bottles of different shapes at the bottom, 2 a head-strap lamp and a small second torch, 3 a folded layer of clothing inside a sealed pouch, 4 a flat folded document wallet, 5 a small tin of pills with a folded paper list beside it, 6 a single sheathed knife along the spine of the bag. Heavy water low and close to the back panel. Single subject, generous empty cream space around the bag, no background scenery, no text beyond the six callout numerals.",
       "path": "illustrations/02-plate-01.png"
