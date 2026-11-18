@@ -26,7 +26,7 @@ belonged to eleven groups over the years; six are named in the book.
 | The Spoke | The first group that took him in after the Collapse. Competent, boring, alive. He did not appreciate it at the time. | 01–02 |
 | The Ninth Hand | A blood cult he ran with for two years. He will tell you it wasn't that bad. It was that bad. | 03, 15 |
 | Vera Ott | A mechanic. Taught him the machine chapters. Had no patience for him. Dead by chapter 16. | 08–10, 16 |
-| The Bell Country | The settlement he founded and lost. Chapter 15 is his own cautionary material. | 14–16 |
+| The Bell Country | The settlement he founded and lost. Chapter 15 is his own cautionary material. | 13–16, 18–19 |
 | Mother Furnace | A god he invented by committee in an afternoon, for morale. Still worshipped. A six-spoke iron shape. | 11, 18 |
 | Ais | The apprentice he is writing this book for. Named rarely. Chapter 20 is addressed to her directly. | 20 |
 
@@ -64,7 +64,7 @@ places no chapter has used yet.
 
 | Name | What it is | First used in chapter |
 |------|------------|------------------------|
-| The Bell Country | The settlement he founded and lost, nine years in the making and five in the losing. Named here because it is already named in the Cast table above — that mention is its first use. | 14 |
+| The Bell Country | The settlement he founded and lost, nine years in the making and five in the losing. Its first use in the manuscript is chapter 13, the first garden. | 13 |
 
 ---
 
