@@ -24,6 +24,7 @@ belonged to eleven groups over the years; six are named in the book.
 | Name | What they are | Chapters |
 |------|----------------|----------|
 | The Spoke | The first group that took him in after the Collapse. Competent, boring, alive. He did not appreciate it at the time. | 01–02 |
+| Edda Mull | His neighbour two doors along the landing, eighty-one, on the first morning. Filled her bath before she looked out of the window. Dead before that spring, of age and of nothing being made any more. Chapter 01 only; do not revive her. | 01 |
 | The Ninth Hand | A blood cult he ran with for two years. He will tell you it wasn't that bad. It was that bad. | 03, 15 |
 | Vera Ott | A mechanic. Taught him the machine chapters. Had no patience for him. Dead by chapter 16. | 08–10, 16 |
 | The Bell Country | The settlement he founded and lost. Chapter 15 is his own cautionary material. | 13–16, 18–19 |

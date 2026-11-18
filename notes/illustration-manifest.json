@@ -1,6 +1,37 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 0,
-  "slots": []
+  "count": 3,
+  "slots": [
+    {
+      "id": "01-gag-01",
+      "class": "gag",
+      "chapter": "01",
+      "source": "01-triage.md",
+      "caption": "Figure 1.1 — The author, qualifying himself.",
+      "alt": "A man kneels in debris patting the floor with both hands while catastrophe unfolds unnoticed in the window behind him.",
+      "prompt": "A cartoonish bean-bodied older man in a flat cap and long tarp coat, on his hands and knees on a debris-strewn floor, patting the boards with both oversized hands, head down, entirely absorbed. Behind him a simple rectangular window frame shows an orange-tinted skyline of tilted buildings and smoke columns, drawn small and flat. He is not looking at it. Minimal props: an overturned chair, scattered angular glass shards. Orange used only for the window beyond the glass.",
+      "path": "illustrations/01-gag-01.png"
+    },
+    {
+      "id": "01-gag-02",
+      "class": "gag",
+      "chapter": "01",
+      "source": "01-triage.md",
+      "caption": "Figure 1.3 — The whole method, as originally issued.",
+      "alt": "A tiny three-box flowchart of the three questions, drawn in pen on the back of a creased envelope.",
+      "prompt": "A creased, slightly torn paper envelope lying flat, drawn in flat black line art, with a hand-drawn three-box flowchart scrawled on its back in the same ink. Three plain rectangles connected by downward arrows, each containing a simple glyph instead of words — a drop for bleeding, a pair of lungs for air, a small stick figure with a question mark over it. One orange thumbprint smudge at the envelope's corner. Loose, hasty, marginal. No background scenery.",
+      "path": "illustrations/01-gag-02.png"
+    },
+    {
+      "id": "01-plate-01",
+      "class": "plate",
+      "chapter": "01",
+      "source": "01-triage.md",
+      "caption": "Figure 1.2 — The order to think in: three minutes of air, three hours of shelter, three days of water, three weeks of food. The numbers are a mnemonic, not a timetable.",
+      "alt": "A four-tread staircase diagram, the treads numbered one to four for air, shelter, water and food.",
+      "prompt": "A clean four-tread staircase diagram seen in flat side profile, drawn as a civil-defence pamphlet figure. The treads descend left to right and are labelled in order with orange callout numerals 1 to 4 in orange circles: tread 1 air, tread 2 shelter, tread 3 water, tread 4 food. Each tread carries a tiny flat glyph above it — a pair of lungs, a simple lean-to roof, a water drop, a tin can. Generous empty cream space around the staircase, single subject, no background scenery, no text beyond the callout numerals.",
+      "path": "illustrations/01-plate-01.png"
+    }
+  ]
 }
