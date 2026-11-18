@@ -8,7 +8,7 @@ I want to be exact about this, because it is the only credential I have. I spent
 
 Edda came past my door twice. The second time she stopped in it and said that my bath was the largest container I owned and I should be filling it. She had already filled hers. She had filled hers before she looked out of the window, which I have thought about for forty years. She said, "Fill it now, it stops later," and went back to her own door and started on the buckets.
 
-I did not fill it. I found a shard of mirror and a chair leg and I went over that floor like I was being paid by the square foot. When I finally got to the taps they gave me about four inches of brown water and then a long noise like something being disappointed in me. Edda had a full tub, two buckets and a kettle. I had four inches and, eventually, my glasses, cracked across the left lens. I wore that cracked left lens for nineteen more years.
+I did not fill it. I found a shard of mirror and a chair leg and I went over that floor like I was being paid by the square foot. When I finally got to the taps they gave me about four inches of brown water and then a long noise like something being disappointed in me. Edda had a full tub, two buckets and a kettle. I had four inches and, eventually, my glasses, cracked across the left lens. I am wearing them now, writing this.
 
 Edda was dead before the spring. Nothing in this chapter would have changed that — she was eighty-one, and the world had stopped making the things that kept her alive.
 
