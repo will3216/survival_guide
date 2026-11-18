@@ -29,11 +29,19 @@ belonged to eleven groups over the years; six are named in the book.
 | The Bell Country | The settlement he founded and lost. Chapter 15 is his own cautionary material. | 13–16, 18–19 |
 | Mother Furnace | A god he invented by committee in an afternoon, for morale. Still worshipped. A six-spoke iron shape. | 11, 18 |
 | Ais | The apprentice he is writing this book for. Named rarely. Chapter 20 is addressed to her directly. | 20 |
+| T. | The editor of the found manuscript, writing from Ladderwell roughly two generations after the narrator finished the book. Has never seen a working lightbulb and does not entirely believe in them. Signs the editor's preface in `manuscript/00-front-matter.md`. | front matter only |
 
 The Chapters column is a convenience cross-reference, not a mechanical
 source of truth — nothing lints it. If a chapter reveals a character
 appears in chapters not listed here, update this column by hand in the
 same commit as that chapter.
+
+**T. is not Ais.** T. never met the narrator and never met Ais, and knows
+Ais only as a name in the manuscript (per the editor's preface and
+controller ruling). T. never appears inside a numbered chapter — the
+preface is T.'s only appearance — but chapter 20's writer should know T.
+exists: T. is the living proof of chapter 20's thesis, a reader with no
+referents for the things the book describes.
 
 ---
 
@@ -65,6 +73,50 @@ places no chapter has used yet.
 | Name | What it is | First used in chapter |
 |------|------------|------------------------|
 | The Bell Country | The settlement he founded and lost, nine years in the making and five in the losing. Its first use in the manuscript is chapter 13, the first garden. | 13 |
+| Ladderwell | Where T. the editor lives and signs the preface, two generations after the narrator wrote. Editor's era only. | front matter only |
+
+**Ladderwell is off-limits to the narrator.** He never visits it and never
+names it — it belongs to T.'s era, two generations after his own, and
+chapters 1 through 20 are all his voice. **No chapter from 1 to 20 may
+mention Ladderwell.** This is exactly the collision this table exists to
+prevent: a chapter writer reaching for a place name should check here
+first.
+
+---
+
+## Debts owed by later chapters
+
+Obligations the front matter (`manuscript/00-front-matter.md`) created for
+chapters not yet written. Check this section before finishing the chapter
+named.
+
+- **Chapter 13 owes four lines about a refrigerator.** The editor's
+  preface says the narrator gives four lines, in his chapter on keeping
+  food, to "a thing called a refrigerator: a box that was cold inside, all
+  the time, by itself, in every house" — and that the editor has read
+  those four lines more often than anything else ever written. Chapter 13
+  is "Growing Things, Keeping Things." It must contain four lines
+  describing a refrigerator that read, to someone two generations later,
+  like the kind of thing worth re-reading with longing — not a throwaway
+  mention. The preface has already promised the reader this passage
+  exists.
+
+---
+
+## Available canon for later chapters
+
+Facts the front matter established that later chapters may draw on
+directly. Use them; do not reinvent or contradict them.
+
+- **The Rules are folk-quoted, and quoted wrong.** The editor's preface
+  states the Rules are repeated daily, in the yard and over the fire, by
+  people who have never read the book and would not read it if handed it
+  — and that they get them wrong, and the editor has stopped correcting
+  them. This is available canon for **chapter 15** (How Groups Decide
+  Things) and **chapter 19** (Holidays, Songs, and Other Load-Bearing
+  Nonsense) — the Rules having outgrown the book and become folklore is a
+  gift to both a chapter about group governance and a chapter about
+  ritual and oral transmission.
 
 ---
 
