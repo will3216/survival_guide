@@ -90,7 +90,7 @@ prompt: Cutaway diagram in flat black line art on cream, drawn as a
 
 ## Filtering Is Not Treating, and Three Other Lies
 
-A filter is a sieve: it takes out what it is too fine to pass — grit, silt, leaf, and, with a bought one of fine enough pore, the larger organisms. What it does not take out is viruses, smaller than any pore you can buy, nor dissolved chemicals, fuel, salt or what came off a field. And a filter clogs and stops, and one that has stopped does not announce it. So filtering makes water clearer and easier to treat. It does not make it safe. You need both, in that order: filter first, treat second, and the treating is not optional. That is Rule 28: **clear is not clean** — the lie that gets most people, because clarity is the only test most of us can run.
+A filter is a sieve: it takes out what it is too fine to pass — grit, silt, leaf, and, with a bought one of fine enough pore, the larger organisms. What it does not take out is viruses, smaller than any pore you can buy, nor dissolved chemicals, fuel, salt or what came off a field. And a filter clogs and stops, and one that has stopped does not announce it. So filtering makes water clearer and easier to treat. It does not make it safe. You need both, in that order: filter first, treat second, and the treating is not optional. That is Rule 28: **clear is not clean** — the lie that gets most people, because clarity is the only test most of us can run. I have drunk beautiful water out of a stone basin and been no use to anybody for nine days.
 
 **That running water is safe.** Moving water is cleaner than standing water, which is not the same sentence as clean. A stream is a drain for everything uphill, and you cannot see uphill.
 

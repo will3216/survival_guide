@@ -423,6 +423,36 @@ parser has no block-scalar handling and will not read it.
 - **No claim of military service, rank, unit or training.** No jargon, no
   formations, no acronyms. He carried things. See `notes/continuity.md`.
 
+### 9.1 Three sentences the budget may not touch
+
+Chapters 2, 3 and 4 each went out missing a sentence a trim had judged
+decorative, and each needed a fix round to put it back. It was the same
+sentence every time, wearing a different coat. Chapter 2 lost the word
+*nearly*. Chapter 3 lost "The alternative is nothing," the one place in the
+chapter that named the comparator. Chapter 4 lost the nine days in bed that
+earned Rule 28. None of them read as load-bearing on the way out of the
+document, and all three were.
+
+So three kinds of sentence are **protected**, and if the chapter is long they
+are paid for from somewhere else:
+
+1. **The only statement of a reason** for an instruction or a prohibition. If
+   cutting it leaves the reader told to do something and not told why, it stays
+   — especially for anything a frightened reader will want to break.
+2. **Any qualifier on a factual claim.** *Roughly, about, nearly, reliably,
+   genuinely, measurably, at least.* A hedge is not padding; it is the width of
+   the claim, and removing it makes the book assert something the source does
+   not.
+3. **The earned cost behind a Rule** — the body, the nine days, the thing that
+   happened to him. Section 7 requires a Rule to sound like something that cost
+   him. A Rule with the cost cut out is a different and weaker device: an
+   assertion, which is what this book is not.
+
+The practical half. **A trim is not costless until you have read your own
+deletions against those three categories.** Diff what you took out, not what
+you left in, and say in the report that you did. Prose compresses; reasons,
+qualifiers and costs do not.
+
 ---
 
 ## 10. Word budget

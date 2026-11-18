@@ -285,7 +285,9 @@ directly. Use them; do not reinvent or contradict them.
   the theatre was doing real work — four hundred people queued in good order
   nightly for two years and he never saw a fight at that cistern — without
   noticing that he has said anything. He does not know there is a version of
-  that night, and the contradiction is never argued. **Rule 28** is coined here.
+  that night, and the contradiction is never argued. **Rule 28** is coined here,
+  and earned: he drank beautiful water out of a stone basin and was no use to
+  anybody for nine days.
   The settling-and-decanting method (doubled cloth, a night standing, decant
   off the middle with a tube, two jars with the dirty one marked) is his, and
   T. confirms in chapter 04 that it is still done exactly that way. The
