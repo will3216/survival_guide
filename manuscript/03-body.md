@@ -4,9 +4,9 @@
 
 I put my right arm through a window in my third year, getting hold of somebody on the wrong side of it, and the glass opened the forearm from wrist to halfway to the elbow. That part was straightforward. What I did next is why this chapter exists.
 
-I had a folded cap in my other hand, so I put the cap on the arm and leaned on it, which was correct. Then I lifted the cap off to see whether it had stopped. It had not. I put it back, counted to about ten, lifted it off again. Twenty minutes of that in a doorway, and the arm was still going at the end, because I had taken the only thing that was working off it five or six times to look.
+I had a folded cap in my other hand, so I put the cap on the arm and leaned on it, which was correct. Then I lifted the cap off to see whether it had stopped. It had not. I put it back, counted to about ten, lifted it off again. Twenty minutes of that in a doorway, and the arm was still going at the end, because I had taken the only thing working off it five or six times to look.
 
-A woman from the Ninth Hand knelt, took my wrist, moved my hand two inches to the left onto one spot, put her weight on it and held it there without saying anything for a long while. That is the whole of Rule 7 and I have nothing to add. The thumb on that hand has not bent properly since, which is the window's doing and not hers.
+A woman from the Ninth Hand knelt, took my wrist, moved my hand two inches left onto one spot, put her weight on it and held it there without saying anything for a long while. That is the whole of Rule 7 and I have nothing to add. The thumb on that hand has not bent properly since, which is the window's doing and not hers.
 
 Now, before the rest of it. I have been more careful with this chapter than with anything else in the book, and would rather say so than have you guess it. I took it to Isak Roon, who mends nets down at the water and has better hands than mine, and asked him to read it as a man who has had to stop bleeding in a hurry. He kept it eight days and gave me four corrections. All four are in. If I am wrong elsewhere in this book it costs you an afternoon. Here it does not, so I got checked.
 
@@ -16,7 +16,7 @@ Now, before the rest of it. I have been more careful with this chapter than with
 
 Chapter 1 put that question first on purpose, ahead of air. Here is the long version.
 
-A serious bleed is one of the few disasters in this book you fix with your hands and your weight and nothing else. It is also quick. So it goes first — before cleaning, before a bandage, before moving them.
+A serious bleed is one of the few disasters in this book you fix with your hands and your weight, nothing else. It is also quick. So it goes first — before cleaning, before a bandage, before moving them.
 
 Look as well as feel, and look under things: dark red spreading through cloth, a boot or sleeve filling, a pool nobody can account for. A badly hurt person often does not know where they are hurt.
 
@@ -42,9 +42,9 @@ That is enough for most of what you will meet. The pressing is the treatment.
 3. Then both hands on top and press as above, a good three minutes without moving before wondering whether it worked. Three minutes is the earliest you may look at a packed wound, not leave to stop pressing at three.
 4. Leave the packing in. Whatever happens next, it stays.
 
-Never pack a wound in the chest, the belly, the head or an eye. There is no bottom to press against and you will do harm. The belly and the head are the last heading in this chapter. The chest you can do a little for.
+Never pack a wound in the chest, the belly, the head or an eye. There is no bottom to press against and you will do harm. The belly and head are the last heading in this chapter. The chest you can do a little for.
 
-**An open chest wound.** Cover it with cloth, not plastic. Cloth is the point: a cover that seals the hole can make the breathing worse instead of better, and cloth will not seal. Do not pack it. Let them sit or lean whichever way they breathe best, usually sitting up, and never flat to tidy them — and if they start going into shock, they still sit where they breathe. Then watch the breathing against the cover: faster, shallower, more frightened or greyer **after the cover went on**, lift a corner. If lifting helps, leave it loose. A cover you have lifted twice should stay off.
+**An open chest wound.** Cover it with cloth, not plastic. Cloth is the point: a cover that seals the hole can make the breathing worse instead of better, and cloth will not seal. Lay it on. Do not lean on it. Do not pack it. Let them sit whichever way they breathe best, usually upright, never flat to tidy them — and if shock starts, they still sit where they breathe. Then watch the breathing against the cover: faster, shallower, more frightened or greyer **after the cover went on**, lift a corner. If lifting helps, leave it loose. A cover you have lifted twice should stay off. That is all hands can do.
 
 <!-- ILLO
 id: 03-plate-01
@@ -77,7 +77,7 @@ A tourniquet is for an arm or a leg bleeding faster than pressure will hold, or 
 2. **Never over a joint.** Not the knee, not the elbow. If the wound is at or near one, go above it.
 3. **Tighten until the bleeding stops.** That is the only measure there is — not until it looks tight, not until they tell you to stop. It will hurt a great deal. That is expected and is not a reason to back it off a turn.
 4. **Secure the windlass** so it cannot unwind.
-5. **Write the time on.** On the strap, on their skin, on a label, in the dirt beside them. The hour and the minute it went on, immediately — you will not remember later, and the next person needs it above anything else.
+5. **Write the time on.** On the strap, on their skin, on a label. The hour and minute it went on, immediately — you will not remember later, and the next person needs it above anything else.
 6. **If it has not stopped, do not fiddle with it.** Put a second one on above the first and tighten that one the same way.
 7. **Then leave it alone,** covered and where it can be seen.
 
@@ -114,18 +114,18 @@ Chapter 1's second question — *can I breathe where I am standing?* — is abou
 4. **If they are breathing, roll them onto their side,** head tilted a little back and down, mouth lowest, and stay with them. Unconscious people on their backs are drowned by their own tongues and by what comes up. Turn them even if you think the neck is broken: an airway outranks a spine, because a broken neck is next year's problem and a blocked airway is the next two minutes'.
 5. **If they are not breathing, push on the chest.** Heel of the hand on the centre of the breastbone, other hand on top, arms straight, down hard and fast, letting the chest come all the way back up between pushes. The rate taught is between a hundred and a hundred and twenty a minute, faster than feels decent. Keep going until they breathe, somebody takes over, or you cannot.
 
-It works far less often than anybody wants. Do it anyway.
+It works far less often than anybody wants. Do it anyway. The alternative is nothing.
 
 ## Shock, Which Looks Like Being Cold
 
 Shock is the body running out of circulation, and it kills people whose injury you have already dealt with. The signs: skin pale and grey and wet to the touch, cold hands, a weak fast pulse, fast shallow breathing, a thirst they keep mentioning, feeling sick, restless and bothered, then quiet, then confused — a worse sign than the shouting.
 
 1. **Fix the cause first.** Almost always bleeding. Shock is a symptom and you cannot treat it around an untreated bleed.
-2. **Lay them flat and keep them still.** On their back if they are awake and breathing well, on their side if not. Do not prop the legs up — it was taught for years, the evidence never arrived, and shifting a hurt person about has a real cost.
+2. **Lay them flat and keep them still,** unless an open chest wound or a neck says otherwise. On their back if awake and breathing well, on their side if not. Do not prop the legs up — it was taught for years, the evidence never arrived, and shifting a hurt person about has a real cost.
 3. **Get them off the ground and cover them.** Underneath matters more than on top: the ground takes heat faster than air, so something goes under them even if that means less over. Then cover everything, head included.
 4. **Nothing by mouth.** Not water, not tea, not a drop, however much they ask — and they will ask, because thirst is one of the signs. Wet their lips if you must.
 5. **Loosen anything tight** that is not a tourniquet.
-6. **Stay and keep checking** breathing, colour, whether they still know you, and write down what changes and when.
+6. **Stay and keep checking** breathing, colour, whether they still know you, and write down what changes when.
 
 ## Bones
 
@@ -139,7 +139,7 @@ A broken bone is rarely what kills anybody, so it comes last. You will not know 
 6. **If anything past the splint goes cold, white, blue or numb, loosen it at once.** A splint that cuts off the blood supply costs them the limb, and this is the only thing in this chapter you loosen.
 7. **Cover an open break** with the cleanest thing available and treat the bleeding as above, pressing around rather than on it.
 
-My left collarbone sits half an inch high and my right little finger points at the next one along. Both predate point two.
+My left collarbone sits half an inch high and my right little finger points at the next one along; both predate point two.
 
 <!-- ILLO
 id: 03-gag-01
@@ -177,7 +177,7 @@ This chapter costs you somebody's pain, delivered by you, deliberately, while th
 
 It costs you time. Ten minutes of not moving your hands, with four jobs shouting, is the longest ten minutes available. People lose bleeds by going to fetch something.
 
-And pressing bare-handed costs you something, because what is in their blood is now on your hands and in whatever cuts you have, and nobody makes the medicines that used to answer for that. Still do not go hunting, but take any waterproof thing within reach — worth two seconds — and wash well afterwards.
+And pressing bare-handed costs you something, because what is in their blood is now on your hands and in whatever cuts you have, and nobody makes the medicines that used to answer for that. Still do not go hunting, but take any waterproof thing within reach, worth two seconds, and wash well afterwards.
 
 And it costs you knowing where the line is. After this you can tell, fairly early, when you have moved from treating somebody to keeping them company — and time spent on what cannot be fixed is time somebody nearby could have used.
 
