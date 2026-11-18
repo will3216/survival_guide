@@ -245,9 +245,19 @@ Mechanics:
 
 - Rendered as a blockquote opening `> **— T.**`, placed immediately after the
   passage it reacts to. Never inside a numbered procedure.
-- **One to three per chapter.** At least one per chapter should be the
-  exasperated kind — some version of *no, that is not the takeaway* — where an
-  eloquent person briefly stops being eloquent.
+- **One to three per chapter**, and T. appears in every chapter.
+- **The exasperated kind — where an eloquent person briefly stops being
+  eloquent — carries roughly half to two-thirds of the chapters, not all of
+  them.** Twelve to fourteen of the twenty. Requiring a facepalm every chapter
+  turns the book's best running joke into a tic, and T.'s appreciative and
+  grieving registers are what make the exasperation land when it comes.
+- **Vary the form.** The literal phrase *that is not the takeaway* appears at
+  most three times in the whole book. T. has other ways to lose composure:
+  going quiet, abandoning a sentence, refusing to transcribe something,
+  correcting a point nobody asked about, or simply putting the page down.
+- The exasperation must read as composure genuinely lost, not as dry wit.
+  *"No. That is not the takeaway. I put the page down and went outside for a
+  while"* is the register. Polished irony is not.
 - **T. never corrects the technique.** This is inviolable. T. corrects
   *meaning*, never method. Where T. touches a technique at all it is to confirm
   it, or to note having seen it work. A reader must never be left unsure
