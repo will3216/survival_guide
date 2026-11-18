@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 27,
+  "count": 30,
   "slots": [
     {
       "id": "01-gag-01",
@@ -272,6 +272,36 @@
       "alt": "Three chalk marks drawn large side by side — a single vertical stroke, two strokes crossed, and a single stroke inside a ring — each with an initial and a month written beneath it, shown on a door frame at eye height.",
       "prompt": "Three large chalk-style marks drawn side by side on an open cream ground, in flat black line art as a pamphlet figure, each with generous empty space around it and an orange callout numeral in an orange circle above it. Mark one, a single bold vertical stroke. Mark two, two bold strokes crossed in an X. Mark three, a single bold vertical stroke inside a hand-drawn ring. Beneath each mark, a short hand-drawn squiggle standing for an initial and a month, drawn as illegible scribble rather than letters. Below the three marks, a small secondary vignette at one third the size showing a plain door frame in three-quarter view with a hand drawing one of the marks on the inner face of the frame at head height, a sheltered position under the lintel. Orange used only for the three numerals and their circles. No background scenery, no shading, no legible text.",
       "path": "illustrations/09-plate-02.png"
+    },
+    {
+      "id": "10-gag-01",
+      "class": "gag",
+      "chapter": "10",
+      "source": "10-machine.md",
+      "caption": "Figure 10.1 — Vera Ott, mid-sentence. The hands are elsewhere and doing fine.",
+      "alt": "A woman in overalls with a welding mask pushed up on her forehead, caught mid-sentence, pointing off to one side with a wrench; at the edge of the picture a pair of boots sticks out from under a motorcycle and one hand gives a thumbs-up.",
+      "prompt": "A cartoonish woman in heavy overalls and work boots stands in three-quarter view, drawn in flat black line art on cream as a pamphlet marginal figure with generous empty space around her. A welding mask is pushed up onto her forehead, her hair flattened under the strap, her eyebrows down, her mouth open mid-word. She is pointing emphatically off to the right with a large adjustable wrench held like a conductor's baton, her other hand on her hip. At the far right edge of the frame, partly cropped, a motorcycle lies on its side with a pair of boots sticking out from beneath it and one bare hand raised from behind the machine giving a cheerful thumbs-up. The thumbs-up hand is the only orange element in the image, with two short radiating emphasis lines around it. No background scenery, no shading, no text.",
+      "path": "illustrations/10-gag-01.png"
+    },
+    {
+      "id": "10-plate-01",
+      "class": "plate",
+      "chapter": "10",
+      "source": "10-machine.md",
+      "caption": "Figure 10.2 — Fuel storage. 1 full, so there is no air for water and evaporation. 2 a seal checked by hand. 3 cool and dark, out of the sun. 4 painted with contents and month. 5 wrong: part-empty, loose lid, in the sun, in a drinking bottle. 6 decanting outdoors in moving air, can on bare ground, metal touching metal, poured slow. Never indoors or over a pit: the vapour is heavier than air and runs to the low place.",
+      "alt": "A two-part diagram. On the left, correct fuel storage — a full sealed metal can painted with its contents and date, standing cool and shaded. On the right, incorrect storage — a part-empty can with a loose lid in direct sun, and fuel in a clear drinking bottle. Below, a figure decanting fuel outdoors with the can on bare ground and the nozzle touching the can's neck, with an orange callout on the open air around them.",
+      "prompt": "A pamphlet instructional diagram drawn in flat black line art on cream with generous empty margins, in two labelled halves separated by a thin vertical rule. Left half: a squat metal jerrycan drawn in three-quarter view, completely full with the fill line drawn right under the neck, a clamped lid with a visible gasket, standing in the shade of a simple overhanging ledge, with a painted rectangle on its flank containing an illegible hand-drawn scribble standing for contents and a date. Right half: the same can drawn half full with a wavy fuel line partway up, its lid sitting crooked and loose, standing in the open with simple radiating sun lines above it, and beside it a clear-sided drinking bottle half full of fuel with a drinking cup next to it. Across the bottom, a wide secondary vignette at two thirds the size: a cartoonish figure outdoors on bare open ground, no walls anywhere, decanting from a drum into a can that stands flat on the ground, the nozzle drawn clearly in contact with the neck of the can, the pour drawn as a thin slow stream. Orange callout numerals in orange circles at six points: the full fill line, the gasket, the shaded position, the painted label, the loose lid on the sunlit can, and the open air around the decanting figure. A single orange arc of open air with small orange motion arrows around the decanting vignette. Orange used only for the numerals, their circles, and those air arrows. No shading, no background scenery, no text.",
+      "path": "illustrations/10-plate-01.png"
+    },
+    {
+      "id": "10-plate-02",
+      "class": "plate",
+      "chapter": "10",
+      "source": "10-machine.md",
+      "caption": "Figure 10.3 — The order. 0 check the stupid thing first: fuel in it, tap open, switch on, battery on, out of gear. 1 fuel reaching the engine. 2 spark, on a gasoline engine. 3 air, usually the filter. 4 compression — and if you are here, stop, because this is the workshop. Change one thing at a time.",
+      "alt": "A simple flowchart of engine triage running top to bottom — a step zero box listing the obvious checks, then four numbered boxes in order for fuel, spark, air and compression, with the compression box marked as the point to stop.",
+      "prompt": "A simple top-to-bottom flowchart drawn in flat black line art on cream as a civil-defence pamphlet figure, with generous empty margins and no decoration. At the top, a wide rounded box containing five small schematic icons in a row standing for the obvious checks: a fuel can, a small lever tap, a toggle switch, a battery with two posts, and a gear lever. Below it a plain vertical arrow leading down into a column of four plain rectangular boxes connected by vertical arrows, each box containing one simple icon: a fuel line with an inline filter, a spark plug, a pleated air filter, and a piston in a cylinder. To the right of each box, a short horizontal arrow looping back up to the box above, drawn thin, to indicate one change at a time. Beside the fourth box, a plain octagonal stop shape. Orange callout numerals in orange circles beside the top box and each of the four boxes, numbered zero, one, two, three and four, and the octagon outlined in orange. Orange used only for the numerals, their circles, and that octagon outline. No shading, no background scenery, no text.",
+      "path": "illustrations/10-plate-02.png"
     }
   ]
 }

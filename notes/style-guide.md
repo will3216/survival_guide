@@ -234,6 +234,38 @@ observation, never as the subject of the sentence.
 The reader's pleasure is in being the only one in the room who can see it.
 Every nudge takes that away.
 
+### 5.1 The clause-then-reveal pairing is retired
+
+One shape of this device is now spent. Chapters 2, 4 and 9 each reduce the
+famous event to a subordinate clause and then have T. intervene, immediately
+afterwards, to say what it actually was. Three uses in nine chapters is the
+ceiling. The surprise is the whole of why it landed in chapter 2, and the
+surprise is exactly what a third and fourth use spends.
+
+**From chapter 10 onward, the clause-then-immediate-T.-reveal pairing is
+retired.** The requirement in section 5 does not change: every chapter still
+has him fail to register something. But when the thing he fails to register is
+category 1 — *that the event he is describing is the one people tell stories
+about* — the mechanism must vary. Three that work:
+
+- **Let continuity or the cast carry it silently.** The reader who has met the
+  person or the place elsewhere in the book can place the event; he cannot, and
+  nobody steps in to help.
+- **Let the significance surface later, in a different voice,** in a chapter
+  that has its own reason to touch the same event.
+- **Withhold it from the chapter entirely** and record the withheld
+  significance in `notes/continuity.md`, so a later chapter can pick it up. A
+  clause with no reveal anywhere in its own chapter is a legitimate finished
+  move, not an unpaid debt.
+
+T.'s exasperation mechanisms continue to vary independently, chapter by chapter,
+and are working; this rule is not about T.'s register, only about the pairing.
+
+The reason to write this down rather than brief it chapter by chapter: **a
+central mechanism does not fail by breaking. It fails by becoming furniture.**
+The third identical use is the one a reader starts anticipating, and from then
+on they are reading the device instead of the man.
+
 ---
 
 ## 6. The three comedy engines
