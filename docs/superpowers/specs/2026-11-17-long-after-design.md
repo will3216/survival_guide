@@ -1,81 +1,122 @@
 # The Long After — Design Spec
 
-**Date:** 2026-11-17
-**Status:** Approved for implementation planning
+**Date:** 2026-11-17 (narrator redesigned 2026-11-18)
+**Status:** Approved for implementation
 **Deliverable:** A satirical but practical full-length post-apocalyptic survival guide, in Markdown, illustrated.
 
 ---
 
 ## 1. Premise
 
-A survival manual written by a man who lived through the Collapse and ran with
-roughly a dozen post-apocalyptic groups — some good, most not. He has led,
-followed, floundered, and flourished, and he is writing it all down for the
-apprentice who will outlive him.
+A survival manual written by a man who was nobody.
 
-The book is funny. The advice is real. Those two facts are held in tension by a
-single rule, stated here because every other decision in this spec descends
-from it:
+He was a grunt before the Collapse and a grunt after it. He carried things for
+a living; the book never says much more than that, because he does not find it
+interesting. He was never in charge of anything. He was present for events that
+other people tell stories about, generally holding something, usually facing
+the wrong way. Everything he knows about staying alive he learned afterwards,
+by getting it wrong first, cheerfully, several times.
+
+He does not know there was a story. Not that he was a minor character in one —
+that one existed at all. He was living his life. It happened to be the end of
+the world.
+
+**The book is funny. The advice is real.** Those two facts are held in tension
+by a single rule, stated here because every other decision descends from it:
 
 > **The narrator is never ironic about technique.**
 
-Comedy comes from his framing, his anecdotes, and his unhinged sense of what is
-normal. It never comes from giving the reader bad information. A reader who
-follows this book's instructions in an actual emergency should be better off,
-not worse.
+Comedy comes from what he fails to notice, what happens to his body, and his
+unshakeable good mood. It never comes from giving the reader bad information.
+
+### The contract
+
+The second structural rule, and the one that makes the first one safe:
+
+> **The prose may miss the point. "The Short Version" never does.**
+
+A chapter may wander, bury its own lesson in an anecdote, and move on without
+noticing what it just taught. The checklist at the end of every chapter is
+where his competence appears undiluted: clean, correct, ordered, actionable.
+He writes both. He is a practical man who makes lists, and he would be puzzled
+to hear that the list was the important part.
+
+This is what lets him be oblivious without ever endangering a reader. **Being
+oblivious about significance is not the same as being unreliable about
+technique.** He is completely trustworthy on how; he simply has no idea that
+the week he is describing was the famous one.
+
+Some of what he teaches, he does not know he is teaching. He describes what he
+does. The reader extracts the method. He never offers it as instruction.
 
 **Working title:** *The Long After: A Practical Guide for Whoever Finds This*
 
-**Target length:** 20 chapters, ~2,000–3,000 words each, 45,000–55,000 words
+**Target length:** 20 chapters, ~2,250–2,750 words each, 45,000–55,000 words
 total, plus front matter and appendices.
 
 ### Framing device
 
-A found manuscript. One voice, written by hand, water-stained, discovered two
-generations later. The book opens with a short fictional editor's preface by
-someone who has never seen a working lightbulb, explaining where the pages were
-found and which ones are missing.
+A found manuscript. One voice, handwritten, water-stained, discovered two
+generations later. The book opens with a short preface by an editor, **T.**,
+who has never seen a working lightbulb and does not entirely believe in them.
+
+T. believes they are editing the work of the great authority on staying alive.
+The reader can see that T. is editing a man who kept getting run over. Neither
+of them is wrong.
 
 ### Tone register
 
-Mostly light with a dark undertow. The book is primarily funny and warm. The
-horror of what happened arrives in single-line asides — dropped, not dwelt on,
-at most one per chapter. A trapdoor, not a theme.
+**Comically upbeat, against the content.** He is relentlessly, genuinely
+cheerful about an apocalypse. Nothing is a tragedy; everything is a thing that
+happened and can be worked around. This is not denial and it is not a coping
+mechanism he is visibly operating — it is simply his temperament, and it is the
+reason he survived twenty years of things that killed better men.
 
-The book's argument, never stated outright but structurally unavoidable: what
-kept people alive was cooperation, ritual, and absurd joy.
+The darkness does not arrive in a designated aside. **It arrives in things he
+says brightly and walks straight past.** The reader flinches. He does not
+notice. He is already on to the next practical point.
+
+The book's argument, never stated outright: the people who got the songs are
+dead, and the man who carried their water is not.
+
+### Comedy engines
+
+Three, braided, rotating by chapter. **No bitterness in any of them.**
+
+1. **Bodily consequences.** Every technique exists because it happened to him
+   first. Motorcycles are fun, and you will be hit by one. He has been set on
+   fire slightly, fallen through two roofs, and been run over while chasing
+   someone who turned out to be a coat on a fence.
+2. **Proximity to glory, facing the wrong way.** He was forty feet from famous
+   moments and remembers the weather. His account of a legendary event is
+   boring, specific, and quietly contradicts the version everyone knows.
+3. **Unglamorous expertise.** He is genuinely excellent at drainage, knots,
+   queueing, load-bearing and rot, and he has never once thought of himself as
+   an expert at anything.
 
 ### Tone touchstones
 
-Two references, with a strict division of labor between them. This split is the
-mechanism that keeps the dark undertow from curdling: **the narrator has seen
-Mad Max things and tells them in a Zombieland voice.**
-
 | Touchstone | Governs | Specifically |
 |------------|---------|--------------|
-| **Zombieland** | Voice, violence, instructiveness | Warm, deadpan, personally earned advice. Numbered rules. Violence reads cartoonish rather than harrowing. Sincerity arrives suddenly and is not apologized for. |
-| **Mad Max** | World only | Scarcity economy, faction iconography, vehicular culture, grotesque pageantry, the aesthetics of rust and chrome. |
+| **Zombieland** | Voice, violence, instructiveness | Deadpan, personally earned advice. Numbered rules. Violence reads cartoonish rather than harrowing. Sincerity arrives suddenly and is not apologized for. |
+| **Mad Max** | World only | Scarcity economy, faction iconography, vehicular culture, grotesque pageantry, rust and chrome. |
 
-Neither contributes proper nouns. Numbered survival rules are a genre
-convention, not borrowed IP.
+Neither contributes proper nouns.
 
 ---
 
 ## 2. Structure
 
 Organized by distance from the event, which is how real emergency guidance is
-ordered. The structure is itself a straight-faced joke that happens to be
-correct, and it earns the ending: Part I is about not bleeding to death, and
-Part V is about inventing a god — because by then, culture *is* the survival
-skill.
+ordered. Each chapter keeps its practical core; what changed in the redesign is
+the angle of every anecdote and what he fails to notice in it.
 
 ### Front matter — `manuscript/00-front-matter.md`
 
 1. **Author's note (real voice).** Four plain lines: this is a comedy, the
-   techniques are accurate to the best of our knowledge as of writing, and
-   nobody should learn medicine from a novel. Not in character. Non-negotiable.
-2. **Editor's preface (in fiction).** The lightbulb-naive editor, the found
-   pages, the missing chapters.
+   techniques are accurate as of writing, it is not a substitute for training,
+   nobody should learn medicine from a novel. Not in character.
+2. **Editor's preface (in fiction).** T., two generations later.
 3. **Contents.**
 
 ### Part I — The First Hour
@@ -85,14 +126,14 @@ skill.
 |---|---------|----------------|
 | 1 | Triage: Decide What You Are | The rule of threes; panic as a cause of death; ordering your own problems |
 | 2 | Run or Dig In | Shelter-in-place vs. evacuation; the bag you should already own |
-| 3 | The Body Is Your First Vehicle | Bleeding control, shock, fractures, and what you cannot fix |
+| 3 | The Body Is Your First Vehicle | Bleeding, shock, fractures, and what you cannot fix |
 
 ### Part II — The First Week
 
 | # | Chapter | Practical core |
 |---|---------|----------------|
 | 4 | Water, and the Lies People Tell About It | Sourcing, filtration, boiling, chemical treatment |
-| 5 | Two Ways Weather Kills You | Hypothermia and hyperthermia; insulation; fire |
+| 5 | Two Ways Weather Kills You | Hypo/hyperthermia; insulation; fire |
 | 6 | Food Matters Later Than You Think | Calorie math; stores; why foraging is mostly a hobby |
 | 7 | The First People You Meet | Threat assessment, approach, trade, walking away |
 
@@ -119,23 +160,22 @@ skill.
 
 | # | Chapter | Practical core |
 |---|---------|----------------|
-| 17 | The Silhouette of Belonging | Dress as in-group signal; a tribe you can read at 300 yards |
-| 18 | On the Manufacture of Gods | Designing a deity, writing its origin story, what makes one stick |
+| 17 | The Silhouette of Belonging | Dress as in-group signal; a tribe readable at 300 yards |
+| 18 | On the Manufacture of Gods | Designing a deity, its origin story, what makes one stick |
 | 19 | Holidays, Songs, and Other Load-Bearing Nonsense | Ritual calendars, feasts, naming, oaths |
 | 20 | Teaching the Ones Who Never Saw a Lightbulb | Apprenticeship, transmission, writing it down anyway |
 
-Part V is absurd on its surface and sincere underneath. Costume is in-group
-signaling, ritual is cohesion technology, and shared myth is cheaper than
-enforcement — all of which is true, and all of which the narrator teaches
-with a completely straight face.
+Part V is absurd on its surface and sincere underneath — and in the redesign it
+is funnier, because he witnessed all of it from the bottom and understood none
+of it as it happened. Costume is in-group signaling, ritual is cohesion
+technology, shared myth is cheaper than enforcement. All true. He thought they
+were assigning chores.
 
 ### Back matter — `manuscript/99-appendices.md`
 
-1. **The Rules, As Best I Remember Them.** A partial list of the corpus, with
-   numbered gaps — most missing because he forgot them, one or two because the
-   page was torn out. Reinforces the found-manuscript framing for free.
-2. Quick-reference tables pulled out of the chapters: water treatment ratios,
-   bleeding control sequence, barter value guide.
+1. **The Rules, As Best I Remember Them.** A partial list with numbered gaps —
+   most forgotten, exactly two marked `[page torn]`.
+2. Quick-reference tables: water treatment, bleeding control, barter values.
 3. A blank god-design worksheet.
 
 ---
@@ -144,168 +184,158 @@ with a completely straight face.
 
 ### Voice rules
 
-- First person, past-weathered. Short declaratives.
-- He is never winking. No jokes told; a worldview reported.
-- He addresses the reader directly and assumes they are an idiot he has decided
-  to help anyway.
-- Dark material: one aside per chapter maximum, unremarked and not revisited.
-- No *Mad Max* proper nouns. The aesthetic is borrowed; every faction, god,
-  place, and person is original.
+- First person, cheerful, physical, unpretentious. Short declaratives.
+- **He is always in a good mood.** Setbacks are interesting rather than tragic.
+- He is never winking. He does not know there is anything to wink about.
+- He addresses the reader directly, as one working person to another.
+- **He under-reports.** The worse the event, the more casually it is mentioned.
+- He does not editorialize about significance, because he does not perceive it.
+- No *Mad Max* or *Zombieland* proper nouns. Every faction, god, place and
+  person is original.
+
+### What he does not notice
+
+A running technique, not an occasional joke. In every chapter he should fail to
+register at least one of:
+
+- that the event he is describing is the one people tell stories about
+- that the person he is describing became someone
+- that the thing he did was difficult, brave, or clever
+- that the lesson he just delivered was a lesson
+
+Never signposted. The reader does the work.
 
 ### The Rules
 
-The book's spine and running gag. The narrator has numbered rules, cited out of
-order from an implied corpus of roughly eighty — Rule 4, then Rule 61, then
-Rule 12. They are terse, deadpan, personally earned, and **actually correct**.
+The book's spine and running gag. Numbered, cited out of order from an implied
+corpus of roughly eighty, terse, deadpan, personally earned and **actually
+correct**.
 
 > Rule 9: Water first. Always.
 > Rule 11: The second floor is not safer. It is only harder to leave.
 
 Mechanics:
 
-- A chapter's epigraph may be a Rule instead of in-world text.
-- "The Short Version" may cite Rules by number rather than restating them.
-- Rules are never invented to be funny at the expense of being true. A Rule is
-  a compressed piece of real advice; the comedy is in the compression.
-- Numbering is deliberately non-sequential and never reconciled. The corpus is
-  larger than the book.
-- **One rule is held in reserve** and spent in chapter 20, addressed to Ais. It
-  is the soft rule that outranks the hard ones, and it is the book's thesis in
-  one line. The book opens with rules about not bleeding to death and closes
-  with the one that actually mattered.
+- An epigraph may be a Rule instead of in-world text.
+- "The Short Version" may cite Rules by number.
+- A Rule is compressed real advice; the comedy is in the compression, never at
+  the expense of the advice being true.
+- Numbering is non-sequential and never reconciled.
+- **He has no idea they became folklore.** He thinks they are things he tells
+  himself to avoid repeating a mistake. T.'s preface reveals they are quoted
+  daily, in every house, by people who never read the book and get them wrong.
+  He is the de facto authority on staying alive and will never learn it.
+- **One rule is held in reserve** and spent in chapter 20, addressed to Ais.
 
-`notes/continuity.md` holds the authoritative Rule ledger — number, text, and
-the chapter that introduces it — so no number is reused and no Rule contradicts
-another.
+`notes/continuity.md` holds the authoritative Rule ledger. A Rule cited in a
+chapter must have a row there, added in the same commit, and no chapter may
+cite a Rule whose ledger chapter is later than its own.
 
 ### Per-chapter apparatus
 
-Identical furniture in every chapter, so it reads as a real manual:
-
-1. **Epigraph** — a line of in-world text: graffiti, a catechism, a verse of a
-   work song.
-2. **Opening** (~300 words) — one specific memory, one named person, setting up
-   the chapter's problem.
-3. **The instruction** (~1,500–2,000 words) — accurate prose, numbered
+1. **Epigraph** — a Rule, or in-world text.
+2. **Opening** (~300 words) — one specific memory, one named person, a problem
+   made concrete. Usually something going wrong with his body.
+3. **The instruction** (~1,500–1,800 words) — accurate prose, numbered
    procedures, tables where tables belong.
-4. **"What It Costs You"** — boxed sidebar on tradeoffs and failure modes.
-   Where he is blunt about what the technique takes from you.
-5. **"The Short Version"** — closing checklist, 5–9 lines, actionable without
-   having read the chapter.
+4. **"What It Costs You"** — a boxed sidebar on tradeoffs and failure modes.
+   Blunt about price. Not a second emotional outlet.
+5. **"The Short Version"** — 5–9 terse bullets, actionable without the chapter.
+   **The last text in the file**, because the linter counts every `- ` line
+   from that heading to end of file.
 
 ### Recurring cast
 
-Continuity across 20 chapters so the book reads as one life rather than
-twenty essays.
+He is present for all of it and responsible for none of it.
 
 | Name | Role |
 |------|------|
-| **The Spoke** | The first group that took him in. Competent, boring, alive. He did not appreciate it. |
-| **The Ninth Hand** | The blood cult he ran with for two years. He will tell you it wasn't that bad. It was that bad. |
-| **Vera Ott** | The mechanic who taught him the machine chapters and had no patience for him. |
-| **The Bell Country** | The settlement he founded and lost. Chapter 15's cautionary material is his own. |
-| **Mother Furnace** | A god he invented by committee in an afternoon, for morale. She outlived her makers and is still worshipped. Chapter 18 is told through her. |
-| **Ais** | The apprentice he is actually writing this for. Named rarely. Chapter 20 is addressed to her. |
+| **The Spoke** | The first group that took him in. Competent, boring, alive. He fetched and carried. |
+| **The Ninth Hand** | A blood cult he did chores for, two years. He thought the robes were a uniform issue. He will tell you it wasn't that bad. It was that bad. |
+| **Vera Ott** | Mechanic. His teacher, and he was her hands. Dies in chapter 16. |
+| **The Bellwright** | Founded the Bell Country. A legend to everyone else. To him, a man with strong opinions about drainage. |
+| **The Bell Country** | The settlement he hauled water for. It was founded and lost by other people; chapter 15 is its collapse seen from the bottom. |
+| **Mother Furnace** | A god invented by committee in an afternoon, for morale. He was in the room, holding something. He thought they were assigning chores. Still worshipped. |
+| **Ais** | The apprentice the book is for. Named rarely. Chapter 20 is addressed to her. |
+| **T.** | The editor, two generations later. Reveres him. Never met him. |
 
-Mother Furnace is the book's central engine: a deity the narrator knows is
-fabricated, built deliberately for morale, that demonstrably worked. She is the
-straight-faced-narrator contract at full strength.
+### Grief
+
+Chapter 16 kills Vera Ott. **The cheerfulness does not crack.** He reports her
+death as plainly as a broken pump and moves to the next practical point. The
+reader does the grieving, because he will not. This holds for the whole book:
+there is no chapter in which he becomes a different man.
 
 ---
 
 ## 4. Accuracy discipline
 
-The premise collapses if the advice is wrong, so:
+The premise collapses if the advice is wrong.
 
 - **No invented numbers.** Treatment ratios, tourniquet placement, water and
-  calorie minimums, canning and fermentation safety, fuel storage life — these
-  come from established real-world guidance or they do not appear.
-- Where real guidance is genuinely contested, the narrator takes the
-  conservative position and says why.
-- Anything uncertain is written vaguer rather than wronger.
+  calorie minimums, food-preservation safety, fuel storage life come from
+  established real-world guidance or they do not appear. A sentence loses its
+  figure rather than gaining a stretched citation.
+- Contested guidance takes the conservative position and says why.
+- Uncertain means vaguer, not wronger.
 - `notes/accuracy-log.md` records the real-world basis for every load-bearing
-  claim, so the book's honesty can be audited separately from its voice.
+  claim, with an honest confidence tag.
+- **His obliviousness never touches the technique.** He misses significance,
+  never steps.
 
 ### Content boundaries
 
-Independent of narrator or framing, two things stay off the page:
+Off the page regardless of framing:
 
 1. Weapons and explosives manufacture.
 2. Operationalized coercive-control technique.
 
-Chapters 15 and 18 handle cults from the inside, as **failure modes to
-recognize**. The narrator is candid that the Ninth Hand's methods worked on him,
-which is both the honest treatment and the funnier one. Mother Furnace is built
-in the open, by committee, for morale — and he states plainly where that line
-sits and what crossing it looked like.
+Chapters 15 and 18 handle cults from the inside, as failure modes to recognize.
+In the redesign he is a better witness than a leader would be: he saw the
+machinery from underneath, without the vocabulary to name it, which is how most
+people meet it.
 
 ---
 
 ## 5. Illustrations
 
-Comical, cartoonish illustrations generated later via nano banana. Generation is
-deliberately punted; the **style guide, slot placement, and manifest pipeline
-are built now**, because illustration consistency is determined by the style
-guide and not by the generator.
+Generated later via nano banana. The style guide, slot placement and manifest
+pipeline are built now, because consistency is decided by the style guide and
+not by the generator.
 
 ### Style DNA
 
-Two-ink civil-defense manual: flat black line plus one rust-orange spot color,
-paper-grain ground, no gradients and no rendered lighting, rubbery cartoon
-figures with simple bean-shaped bodies and heavy outlines.
+Two-ink civil-defense manual: flat black line plus one rust-orange spot colour,
+paper grain, no gradients, no rendered lighting, rubbery cartoon figures with
+bean-shaped bodies and heavy outlines. A boxed figure in a printed manual,
+never bleed-to-edge. No background scenery unless a slot asks for it.
 
-Chosen for two reasons. It is the correct joke — the book *is* a straight-faced
-government pamphlet. And it is the most forgiving style for consistency across
-~60 images, because a flat two-ink look has almost nothing in it to drift.
+### Two classes
 
-### Two classes, different rules
+- **Plates** teach. Numbered callouts in the image, labels in the caption,
+  correct technique. Reviewed against the accuracy log exactly as prose is.
+- **Gags** (`class: gag`; "marginalia" in prose) are never load-bearing. In the
+  redesign they carry much of the comedy: him under a motorcycle, him facing
+  the wrong way, him holding something during a historic moment.
 
-- **Plates** — actually teach. Numbered callouts, labeled parts, correct
-  technique. Reviewed against the accuracy log exactly as prose is. An
-  inaccurate plate is worse than no plate.
-- **Marginalia** — gags. Mother Furnace's official portrait, a comparison chart
-  of tribe silhouettes, Vera Ott's expression. Never load-bearing.
+Budget ~3 per chapter, roughly 1 plate and 2 gags, ~60 total.
 
-Budget: ~3 per chapter, roughly 1 plate and 2 marginalia. ~60 total.
+### Consistency
 
-### Consistency plan
-
-`notes/illustration-style.md` holds:
-
-- The **fixed prompt preamble** — the exact style sentence prepended to every
-  generation, verbatim, every time.
-- The palette, in hex.
-- The do-not list: no gradients, no photoreal faces, no text in the image
-  beyond callout numbers.
-- **Character and object sheets.** The first generation run produces one
-  reference sheet per recurring character and per repeated object; every
-  subsequent generation passes those in as reference images. Characters stay
-  silhouette-identifiable — Vera is overalls plus a pushed-up welding mask,
-  Mother Furnace is always the same six-spoke iron shape.
+`notes/illustration-style.md` holds the fixed prompt preamble, the palette, the
+do-not list, and the character and object sheets. Characters stay
+silhouette-identifiable. **The narrator's sheet changes in the redesign:** he is
+cheerful, slightly battered, frequently in the background or underneath
+something, and his face is still not the subject.
 
 ### Placeholders
 
-Every illustration slot is written into the manuscript during drafting, as a
-block that carries its own generation prompt:
+Every slot is written into the manuscript as an `ILLO` comment block carrying
+its own prompt, followed immediately by its image link. `prompt:` must be a
+single line or use indented continuations — never a YAML block scalar.
+`scripts/collect_illos.py` extracts them to `notes/illustration-manifest.json`.
 
-```markdown
-<!-- ILLO
-id: 04-plate-01
-class: plate
-caption: Figure 4.1 — The three-stage filter, and the stage everyone skips.
-alt: Cutaway of a layered gravel, sand, and charcoal filter in a cut barrel.
-prompt: Cutaway diagram of a three-layer water filter in a cut oil drum...
--->
-![Figure 4.1 — The three-stage filter, and the stage everyone skips.](../illustrations/04-plate-01.png)
-```
-
-The comment block is the source of truth; the image link resolves the moment the
-file lands at that path. `scripts/collect_illos.py` extracts every block into
-`notes/illustration-manifest.json`, so wiring up nano banana later is one batch
-pass over the manifest rather than a hunt through twenty files.
-
-**The prose is written to stand alone.** Every chapter must read completely
-without a single image present.
+**The prose stands alone.** Every chapter reads correctly with zero images.
 
 ---
 
@@ -315,43 +345,42 @@ without a single image present.
 survival_guide/
   README.md
   docs/superpowers/specs/2026-11-17-long-after-design.md
+  docs/superpowers/plans/2026-11-17-long-after.md
   manuscript/
-    00-front-matter.md        author's note, editor's preface, contents
+    00-front-matter.md
     01-triage.md … 20-teaching.md
-    99-appendices.md          reference tables, god-design worksheet
+    99-appendices.md
   notes/
     style-guide.md            voice rules, apparatus template
-    continuity.md             cast, factions, gods, timeline, Rule ledger
+    continuity.md             cast, factions, gods, timeline, Rule ledger, debts
     accuracy-log.md           real-world basis per load-bearing claim
-    illustration-style.md     prompt preamble, palette, character sheets
+    illustration-style.md     preamble, palette, character sheets
     illustration-manifest.json  generated
+    manuscript-order.txt      the authoritative chapter list
+    forbidden-terms.txt
   illustrations/              empty until generation
-  scripts/
-    collect_illos.py
+  scripts/                    illo_blocks.py, lint_manuscript.py, collect_illos.py
+  tests/
 ```
 
 ---
 
 ## 7. Workflow
 
-1. Write `notes/style-guide.md`, `notes/continuity.md`, and
-   `notes/illustration-style.md` **before** chapter 1. The voice and the cast
-   are decided once, in writing, and then obeyed.
-2. Draft chapters in order. One git commit per chapter.
-3. **Review checkpoint at the end of each Part.** Drafting stops, the user reads
-   3–5 chapters, and voice or density is corrected before more is written.
-
-Checkpoint 3 matters at this length: discovering in chapter 18 that the
-narrator's register is wrong would waste 40,000 words.
+1. Reference documents before chapters. The voice and cast are decided once,
+   in writing, then obeyed.
+2. Chapters in order. One commit each. Anything a later chapter needs goes into
+   `notes/continuity.md` **in the same commit**, never into a report.
+3. Review checkpoint at the end of each Part.
 
 ### Definition of done
 
-- 20 chapters plus front and back matter, 45k–55k words.
+- 20 chapters plus front and back matter, 45,000–55,000 words.
 - Every chapter carries all five apparatus elements.
-- Every load-bearing factual claim has an entry in the accuracy log.
-- Every chapter has its illustration slots placed, with prompts written.
-- `notes/illustration-manifest.json` generates cleanly from the manuscript.
+- Every load-bearing claim has an accuracy-log entry.
+- Every chapter has its illustration slots placed with prompts written.
+- `notes/illustration-manifest.json` generates cleanly.
 - The book reads correctly with zero images present.
+- No chapter in which the narrator becomes a different man.
 
-Illustration generation itself is explicitly **out of scope** for this spec and
-becomes its own task once nano banana is connected.
+Illustration generation is out of scope until nano banana is connected.
