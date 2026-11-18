@@ -5,3 +5,4 @@ __pycache__/
 .superpowers/
 illustrations/*.png
 build/
+.DS_Store
