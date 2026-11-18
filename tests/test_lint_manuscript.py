@@ -173,6 +173,35 @@ def test_lint_requires_an_accuracy_log_heading_per_chapter(tmp_path):
     assert any("ACCURACY" in e for e in errors)
 
 
+def test_illo_block_with_unknown_key_is_an_error(monkeypatch):
+    # With the parser fixed, an unknown key can no longer arise from ordinary
+    # text (that's the point of the fix). This check is belt-and-suspenders:
+    # if a block somehow still carries an unknown key (e.g. a future parser
+    # regression), the lint must still fail loudly. Simulate that directly.
+    import illo_blocks
+
+    block = illo_blocks.IlloBlock(
+        id="04-plate-01",
+        cls="plate",
+        caption="Figure 4.1 - The filter.",
+        alt="A cutaway of a barrel filter.",
+        prompt="Cutaway diagram of a three-layer water filter.",
+        raw_keys={
+            "id": "04-plate-01",
+            "class": "plate",
+            "caption": "Figure 4.1 - The filter.",
+            "alt": "A cutaway of a barrel filter.",
+            "prompt": "Cutaway diagram of a three-layer water filter.",
+            "bottom": "the left-hand one shows a pot.",
+        },
+        line=1,
+        following_lines=["![Figure 4.1 - The filter.](../illustrations/04-plate-01.png)"],
+    )
+    monkeypatch.setattr(lint, "parse_blocks", lambda text: [block])
+    errors = lint.check_illo_blocks("04-water.md", "irrelevant")
+    assert any("ILLO" in e and "bottom" in e for e in errors)
+
+
 def test_duplicate_illo_ids_across_chapters_are_caught(tmp_path):
     (tmp_path / "notes").mkdir()
     (tmp_path / "manuscript").mkdir()

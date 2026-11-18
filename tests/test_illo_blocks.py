@@ -75,3 +75,60 @@ def test_id_pattern_accepts_plate_and_gag_only():
     assert illo_blocks.ID_RE.match("20-gag-03")
     assert not illo_blocks.ID_RE.match("04-marginalia-01")
     assert not illo_blocks.ID_RE.match("4-plate-1")
+
+
+def test_prompt_continuation_with_bottom_colon_is_folded_whole():
+    text = """<!-- ILLO
+id: 04-plate-02
+class: plate
+caption: Figure 4.3 - Treating it.
+alt: A flowchart.
+prompt: Arrows converge and then split into two boxes at the
+  bottom: the left-hand one shows a lidded pot with vigorous bubbles,
+  numeral 4; the right-hand one shows a covered jar, numeral 5.
+-->
+"""
+    b = illo_blocks.parse_blocks(text)[0]
+    assert "bottom" not in b.raw_keys
+    assert b.prompt == (
+        "Arrows converge and then split into two boxes at the "
+        "bottom: the left-hand one shows a lidded pot with vigorous bubbles, "
+        "numeral 4; the right-hand one shows a covered jar, numeral 5."
+    )
+
+
+def test_prompt_continuation_with_other_colon_words_is_folded():
+    for word in ("left", "note", "top"):
+        text = f"""<!-- ILLO
+id: 04-plate-03
+class: plate
+caption: Figure 4.4 - Something.
+alt: Something else.
+prompt: The first part of the sentence continues onto a line beginning
+  {word}: which should not become a new key at all.
+-->
+"""
+        b = illo_blocks.parse_blocks(text)[0]
+        assert word not in b.raw_keys, f"{word!r} should not be parsed as a key"
+        assert b.prompt == (
+            "The first part of the sentence continues onto a line beginning "
+            f"{word}: which should not become a new key at all."
+        )
+
+
+def test_all_five_real_keys_parse_normally_with_mid_sentence_colon():
+    text = """<!-- ILLO
+id: 04-plate-04
+class: plate
+caption: Figure 4.5 - A caption with a colon: like this.
+alt: Alt text with a colon: right here.
+prompt: A prompt with a colon: right in the middle of it.
+-->
+"""
+    b = illo_blocks.parse_blocks(text)[0]
+    assert b.id == "04-plate-04"
+    assert b.cls == "plate"
+    assert b.caption == "Figure 4.5 - A caption with a colon: like this."
+    assert b.alt == "Alt text with a colon: right here."
+    assert b.prompt == "A prompt with a colon: right in the middle of it."
+    assert set(b.raw_keys.keys()) == {"id", "class", "caption", "alt", "prompt"}

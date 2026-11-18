@@ -100,6 +100,9 @@ def check_illo_blocks(name: str, text: str) -> list[str]:
         missing = [k for k in REQUIRED_ILLO_KEYS if k not in block.raw_keys or not block.raw_keys[k]]
         if missing:
             errors.append(_err(name, "ILLO", f"{where} missing key(s): {', '.join(missing)}"))
+        unknown = [k for k in block.raw_keys if k not in REQUIRED_ILLO_KEYS]
+        if unknown:
+            errors.append(_err(name, "ILLO", f"{where} has unexpected key(s): {', '.join(unknown)}"))
         match = ID_RE.match(block.id)
         if not match:
             errors.append(_err(name, "ILLO", f"{where} id '{block.id}' must look like 04-plate-01 or 04-gag-02"))

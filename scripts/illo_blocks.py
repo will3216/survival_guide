@@ -15,6 +15,8 @@ _BLOCK_RE = re.compile(r"<!--\s*ILLO\b(.*?)-->", re.DOTALL)
 _HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 _KEY_RE = re.compile(r"^([a-z_]+):\s*(.*)$")
 
+_VALID_KEYS = frozenset({"id", "class", "caption", "alt", "prompt"})
+
 _FOLLOWING_LINES = 3
 
 
@@ -40,7 +42,7 @@ def _parse_keys(body: str) -> dict[str, str]:
         if not line:
             continue
         match = _KEY_RE.match(line)
-        if match:
+        if match and match.group(1) in _VALID_KEYS:
             current = match.group(1)
             keys[current] = match.group(2).strip()
         elif current:
