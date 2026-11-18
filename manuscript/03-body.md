@@ -4,19 +4,19 @@
 
 I put my right arm through a window in my third year, getting hold of somebody who was on the wrong side of it, and the glass opened the forearm from wrist to halfway to the elbow. That part was straightforward. What I did next is why this chapter exists.
 
-I had a folded cap in my other hand, so I put the cap on the arm and leaned on it, which was correct. Then I lifted the cap off to see whether it had stopped. It had not. I put it back, counted to about ten, lifted it off again. I did that in a doorway for twenty minutes, and the arm was still going at the end of it, because I had taken the only thing that was working off it five or six times in order to look.
+I had a folded cap in my other hand, so I put the cap on the arm and leaned on it, which was correct. Then I lifted the cap off to see whether it had stopped. It had not. I put it back, counted to about ten, lifted it off again. I did that in a doorway for twenty minutes, and the arm was still going at the end, because I had taken the only thing that was working off it five or six times to look.
 
 A woman from the Ninth Hand knelt down, took my wrist, moved my hand two inches to the left onto one spot, put her weight on top of it and held it there without saying anything for a long while. That is the whole of Rule 7 and I have nothing to add to it. The thumb on that hand has not bent properly since, which is the window's doing and not hers.
 
 Now, before the rest of it. I have been more careful with this chapter than with anything else in the book, and would rather say so than have you guess it. I took it to Isak Roon, who mends nets down at the water and has better hands than mine, and asked him to read it as a man who has had to stop bleeding in a hurry. He kept it eight days and gave me four corrections. All four are in. If I am wrong elsewhere in this book it costs you an afternoon. Here it does not, so I got checked.
 
-> **— T.** The great authority on staying alive wrote down how to stop a man bleeding, then carried the pages to the water, handed them to a man who mends nets, and did as he was told. It is the eight days that make me trust this chapter. And so nobody is in doubt: I was taught all of this, in this order, nearly word for word, by people who did not know they were quoting a book. It is correct. Do what it says.
+> **— T.** The great authority on staying alive wrote down how to stop a man bleeding, then carried the pages to the water, handed them to a man who mends nets, and did as he was told. It is the eight days that make me trust this chapter. And so nobody is in doubt: I was taught all of this, in this order, nearly word for word, by people who did not know they were quoting a book. It is correct. Do as it says.
 
 ## Am I Bleeding?
 
 Chapter 1 put that question first on purpose, ahead of air. Here is the long version.
 
-A serious bleed is one of the few disasters in this book you fix with your hands and your weight and nothing else. It is also quick. So it goes first — before cleaning, before hunting for a bandage, before moving them.
+A serious bleed is one of the few disasters in this book you fix with your hands and your weight and nothing else. It is also quick. So it goes first — before cleaning, before a bandage, before moving them.
 
 Look as well as feel, and look under things: dark red spreading through cloth, a boot or a sleeve filling, a pool nobody can account for. A badly hurt person often does not know where they are hurt.
 
@@ -33,14 +33,18 @@ Look as well as feel, and look under things: dark red spreading through cloth, a
 
 That is enough for most of what you will meet. The pressing is the treatment.
 
-**Packing a deep wound.** If it is a hole rather than a slice — thigh, shoulder, armpit, groin, side of the neck — pressing the outside may not reach what is bleeding. So you pack it.
+**A neck is pressure and only pressure.** Press on the one side it is coming from, with your fingers or the heel of your hand, and never on both sides at once. Do not pack it and do not put anything round it — a wrap on a neck is not a dressing, it is a strangle. If they stop being able to breathe, the airway comes first and the bleeding second, and that is the one place in this chapter where pressure gives way to something else.
+
+**Packing a deep wound.** If it is a hole rather than a slice, in an arm or a leg or where one joins the body — thigh, shoulder, armpit, groin — pressing the outside may not reach what is bleeding. So you pack it. Nowhere else.
 
 1. Push cloth or dressing material **into** the wound, with a finger, down to where it is coming from.
-2. Keep feeding more in, firmly, until the wound is full and tight. Most people stop at about a quarter of what they should use.
-3. Then both hands on top and press as above, a good three minutes without moving, before wondering whether it worked.
+2. Keep feeding more in, firmly, until the wound is full and tight. Most people stop far short of what they should use.
+3. Then both hands on top and press as above, a good three minutes without moving before wondering whether it worked. Three minutes is the earliest you may look at a packed wound, not leave to stop pressing at three.
 4. Leave the packing in. Whatever happens next, it stays.
 
-Never pack a wound in the chest, the belly or the head. There is no bottom to press against and you will do harm. Those are the last heading in this chapter.
+Never pack a wound in the chest, the belly, the head or an eye. There is no bottom to press against and you will do harm. The belly and the head are the last heading in this chapter. The chest you can do a little for.
+
+**An open chest wound.** Cover it with the cleanest thing available and hold the cover on. Do not pack it. Let them sit or lean whichever way they breathe best, usually sitting up, and do not lay them flat to tidy them. Then watch the breathing: if it is getting worse rather than better, lift a corner of the cover for a moment and put it back. That is all hands can do.
 
 <!-- ILLO
 id: 03-plate-01
@@ -67,7 +71,7 @@ prompt: A two-panel instructional diagram in flat black line art on cream,
 
 ## The Tourniquet, and the Part People Get Wrong
 
-A tourniquet is for an arm or a leg bleeding faster than pressure will hold, or a limb you cannot keep your hands on because you have to move, or because two are hurt and there is one of you. It is for limbs: not a neck, not a shoulder, not a trunk, and there is no version of it that is. Chapter 2's small roll of what you use to stop bleeding is what this is for, and a made tourniquet with a windlass beats anything improvised. Improvise only if you must: a wide strap, never a cord or a wire, and a rod to twist it with.
+A tourniquet is for an arm or a leg bleeding faster than pressure will hold, or a limb you cannot keep your hands on because you have to move, or because two are hurt and there is one of you. It is for limbs: not a neck, not a shoulder, not a trunk, and there is no version of it that is. Chapter 2's small roll of what you use to stop bleeding is what this is for, and a made tourniquet with a windlass beats anything improvised. Improvise only if you must: a wide strap, never a cord or wire, and a rod to twist it with.
 
 1. **High and tight on the limb, between the wound and the body.** A few inches above the wound is right. Higher is acceptable. Too low is not.
 2. **Never over a joint.** Not the knee, not the elbow. If the wound is at or near one, go above it.
@@ -104,10 +108,10 @@ prompt: An instructional diagram in flat black line art on cream, drawn as a
 
 Chapter 1's second question — *can I breathe where I am standing?* — is about the room. This is about the person. If they are awake and talking, the airway is open. If they are not awake:
 
-1. **Look and listen for ten seconds.** Is the chest moving? Is air going in and out? Normal breathing — not the occasional noisy gasp, which is not it.
-2. **If they are breathing, roll them onto their side,** head tilted a little back and down, mouth lowest, and stay with them. Unconscious people on their backs are drowned by their own tongues and by what comes up. Turn them even if you think the neck is broken: an airway outranks a spine, because a broken neck is next year's problem and a blocked airway is the next two minutes'.
-3. **If they are not breathing, push on the chest.** Heel of the hand on the centre of the breastbone, other hand on top, arms straight, down hard and fast, letting the chest come all the way back up between pushes. The rate taught is between a hundred and a hundred and twenty a minute, faster than feels decent. Keep going until they breathe, somebody takes over, or you cannot.
-4. **Clear what you can see and reach out of the mouth.** Do not go fishing blind.
+1. **Clear what you can see and reach out of the mouth.** Only what you can see and reach. Do not go fishing blind.
+2. **Look and listen for ten seconds.** Is the chest moving? Is air going in and out? Normal breathing — not the occasional noisy gasp, which is not it.
+3. **If they are breathing, roll them onto their side,** head tilted a little back and down, mouth lowest, and stay with them. Unconscious people on their backs are drowned by their own tongues and by what comes up. Turn them even if you think the neck is broken: an airway outranks a spine, because a broken neck is next year's problem and a blocked airway is the next two minutes'.
+4. **If they are not breathing, push on the chest.** Heel of the hand on the centre of the breastbone, other hand on top, arms straight, down hard and fast, letting the chest come all the way back up between pushes. The rate taught is between a hundred and a hundred and twenty a minute, faster than feels decent. Keep going until they breathe, somebody takes over, or you cannot.
 
 It works far less often than anybody wants. Do it anyway. The alternative is nothing.
 
@@ -127,14 +131,14 @@ Shock is the body running out of circulation, and it kills people whose injury y
 A broken bone is rarely what kills anybody and is often what everybody looks at, so it comes last. You will not know whether it is broken and do not need to: treat a bad one as broken.
 
 1. **Splint it in the position you found it.** Do not straighten it, do not pull it into line, do not put a stuck-out bone back in. Whatever shape it is in is the shape you pad and support.
-2. **Immobilise the joint above it and the joint below it.** This is the part people miss and it is the whole of splinting: a splint that only covers the break lets the break move. Lower leg, ankle and knee. Forearm, wrist and elbow.
+2. **Immobilise the joint above it and the joint below it.** This is the part people miss and it is the whole of splinting: a splint that only covers the break lets the break move. Lower leg, ankle and knee; forearm, wrist and elbow.
 3. **Pad it generously** and make it stiff enough not to bend.
 4. **Tie it on above and below the break, never over it.** Firm, not tight.
-5. **Then check past the splint.** Can they feel your finger on their toes or fingertips? Is the skin beyond it warm and the normal colour, and does it pink up when you press and let go? Check before you tie, after, and later.
+5. **Then check past the splint.** Can they feel your finger on their toes or fingertips? Can they wiggle them? Is the skin beyond it warm and the normal colour, and does it pink up when you press and let go? Check before you tie, after, and later.
 6. **If anything past the splint goes cold, white, blue or numb, loosen it at once.** A splint that cuts off the blood supply costs them the limb, and this is the only thing in this chapter you loosen.
 7. **Cover an open break** with the cleanest thing available and treat the bleeding as above, pressing around rather than on it.
 
-My left collarbone sits half an inch high and my right little finger has pointed at the next one along since a cart. Both predate point two.
+My left collarbone sits half an inch high and my right little finger points at the next one along, since a cart. Both predate point two.
 
 <!-- ILLO
 id: 03-gag-01
@@ -158,34 +162,36 @@ prompt: A cartoonish bean-bodied older man in a flat cap and long tarp coat,
 
 ## What I Cannot Fix, and Neither Can You
 
-**Bleeding on the inside.** You cannot press on it. The signs are shock that keeps worsening with no wound to account for it, a belly going rigid and tender, bruising across the trunk, somebody fine for an hour and then not. There is no technique here. There never was one outside a building with a surgeon in it.
+**Bleeding on the inside.** You cannot press on it. The signs are shock that keeps worsening with no wound to account for it, a belly going rigid and tender, bruising across the trunk, somebody fine for an hour and then not. There is no technique here, and never was one outside a building with a surgeon in it.
 
 **A head injury that gets worse.** Not the person knocked flat who sits up and complains. The one who seemed all right and then goes downhill — drowsier and drowsier, sick, confused, hard to rouse, one pupil wider than the other, a growing headache. That is pressure building in a box that does not open, and opening it is surgery.
 
 **Anything in the abdomen.** Struck, crushed or punctured. Nothing in there can be pressed on and most of it leaks.
 
-The right answer to all three used to be a telephone and a drive of forty minutes. It is now company. So keep them warm and off the ground and out of the wet, keep somebody's hand on them, nothing by mouth, and do not lie to them, because being lied to frightens people and frightened is worse. Then see to whoever else is hurt, because there is usually somebody else and they are the one you can help.
+The right answer to all three used to be a telephone and a drive of forty minutes. It is now company. So keep them warm and off the ground and out of the wet, keep somebody's hand on them, nothing by mouth, and do not lie to them, because being lied to frightens people and frightened is worse. Then see to whoever else is hurt, because there is usually somebody else and they are who you can help.
 
 The one piece of good news here: the things that kill fastest are also the things two hands are best at.
 
 ## What It Costs You
 
-This chapter costs you somebody's pain, delivered by you, deliberately, while they ask you to stop. Pressing hard enough hurts. Packing hurts a great deal. A tourniquet hurts more than the injury that needed it, and you tighten it past the point where their asking becomes personal. There is no gentle version that works, and easing off is treating your own discomfort and calling it mercy.
+This chapter costs you somebody's pain, delivered by you, deliberately, while they ask you to stop. Pressing hard enough hurts. Packing hurts a great deal. A tourniquet hurts more than the injury that needed it, and you tighten it past where their asking becomes personal. There is no gentle version that works, and easing off is treating your own discomfort and calling it mercy.
 
 It costs you time. Ten minutes of not moving your hands, with four jobs shouting at you, is the longest ten minutes available. People lose bleeds by going to fetch something.
 
-It costs you being wrong in public: you will splint a limb that was not broken, and somebody will mention it. Cheap bill, paid cheerfully.
+And pressing bare-handed costs you something, because what is in their blood is now on your hands and in whatever cuts you have, and nobody is making the medicines that used to answer for that. Do not hunt for cloth, but take anything waterproof already within reach — worth the two seconds — and wash well afterwards.
 
-And it costs you knowing where the line is. After this you can tell, fairly early, when you have moved from treating somebody to keeping them company. That is better than not knowing, because time spent on what cannot be fixed is time somebody nearby can use.
+It costs you being wrong in public: you will splint a limb that was not broken, and somebody will mention it. Cheap bill, cheerfully paid.
+
+And it costs you knowing where the line is. After this you can tell, fairly early, when you have moved from treating somebody to keeping them company. That is better than not knowing, because time spent on what cannot be fixed is time somebody nearby could have used.
 
 ## The Short Version
 
 - Severe bleeding first, before air, before anything. Look as well as feel, and look under clothing.
 - Direct pressure: one exact spot, heel of the hand, second hand stacked on top, arms locked, your weight not your muscles. Hard, ten minutes at least, never lifting off to look. Blood coming through the cloth means more cloth on top, never cloth taken off.
-- A deep wound gets packed: material pushed right in until full and tight, then both hands on top for three minutes. Never pack a chest, belly or head wound.
+- Pack a deep wound only in an arm, a leg, or where one joins the body: material pushed right in until full and tight, then both hands on top for three minutes at least. Never pack a chest, belly, head, eye or neck. A neck is pressure on one side only, never both, nothing wrapped round it; an open chest wound is covered and held, never packed, with them sitting however they breathe best.
 - Tourniquet for a limb pressure will not hold: wide strap, high and tight above the wound, never over a joint, tightened until bleeding stops. Write the time on. Never loosen it yourself.
-- Unconscious and breathing: roll them onto their side and stay. Not breathing: push hard and fast on the centre of the chest, a hundred to a hundred and twenty a minute.
+- Unconscious: clear only what you can see in the mouth, then look for normal breathing. Breathing, roll them onto their side and stay — turn them even if you think the neck is broken. Not breathing, push hard and fast on the centre of the chest, a hundred to a hundred and twenty a minute.
 - Shock — grey, cold, clammy, weak fast pulse, thirsty, then quiet and confused: fix the bleeding, lay them flat, insulate under as well as over, nothing by mouth.
-- Splint in the position you found it, immobilise the joints above and below, and check warmth, colour and feeling past it. Cold, white, blue or numb means loosen at once.
+- Splint in the position you found it, immobilise the joints above and below, and check warmth, colour, feeling and movement past it. Cold, white, blue or numb means loosen at once.
 - Internal bleeding, a worsening head injury and abdominal injury cannot be fixed by hands. Keep them warm, off the ground and not alone, and spend the rest of your effort on whoever can be helped.
 - Rule 7: pressure is a place, not a motion. Put your hands in one spot and leave them there.
