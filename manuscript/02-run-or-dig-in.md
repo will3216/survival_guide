@@ -25,7 +25,7 @@ Both failures are common and people are loyal to one or the other. Some run from
 3. **The hazard is outside and passing.** Weather, smoke on the wind, people moving through — a front rather than a flood. Things that pass are things to be behind a wall from.
 4. **Staying does not cut you off.** A route out exists now and will exist later.
 
-Staying is usually right, and I want that said plainly before I spend the rest of the chapter on leaving. A sound building with water in it is a better machine than you are: warmer, drier, it hides you, it holds your things, and it gives a person looking for you somewhere to look. So ask it again here: *does anyone know where I am?* If the answer is yes, staying put is worth more than anything else you could do with the day.
+Staying is usually right, and I want that said plainly before I spend the rest of the chapter on leaving. A sound building with water in it is a better machine than you are: warmer, drier, it hides you, it holds your things, and it gives a person looking for you somewhere to look. So ask it again here: *does anyone know where I am?* If the answer is yes, staying put is worth more than nearly anything else you could do with the day.
 
 **Go when any one of these is true:**
 
