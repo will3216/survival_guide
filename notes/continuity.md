@@ -144,10 +144,16 @@ directly. Use them; do not reinvent or contradict them.
   bullet, or in an illustration caption — **must reuse this wording
   verbatim and must keep this order**. Do not paraphrase, do not compress,
   do not modernise ("is anyone looking for me", "can I breathe here",
-  "am I hurt" are all wrong). Chapter 02 re-invokes all three in the body
-  and the third in its Short Version; both use the wording above exactly,
-  and that is the pattern to copy. Re-invoking them is optional; changing
-  them is not permitted.
+  "am I hurt" are all wrong). Chapter 02 re-invokes all three, in order and
+  with the wording above exactly, in one place: the last paragraph of its
+  `## Which Way Out` section, immediately before stepping out of the door.
+  It also quotes the third question alone twice — in its opening hand-off
+  from chapter 01, and once inside `## Staying Still Is Also a Decision` —
+  again with the wording unchanged. It does **not** put any of them in its
+  Short Version. That is the pattern to copy: full set at the moment of
+  acting, the single question wherever that question alone is the one
+  deciding something, question marks kept in every case. Re-invoking them
+  is optional; changing them is not permitted.
 
 - **Chapter 02 is the chapter chapter 01 named.** Chapter 01's third
   question, *does anyone know where I am?*, carries the in-text line "This
