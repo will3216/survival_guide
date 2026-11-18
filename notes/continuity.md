@@ -36,6 +36,7 @@ Do not give him good eyesight and do not quietly replace the glasses.
 |------|----------------|----------|
 | The Spoke | The first group that took him in after the Collapse. Competent, boring, alive. He did not appreciate it at the time. | 01–02 |
 | Edda Mull | His neighbour two doors along the landing, eighty-one, on the first morning. Filled her bath before she looked out of the window. Dead before that spring, of age and of nothing being made any more. Chapter 01 only; do not revive her. | 01 |
+| Halla Dorn | The Spoke's bag keeper. Said the group's whole evacuation policy in one sentence in a doorway: decide by noon, say it out loud, move while the light is still on your side. Alive when he left the Spoke; her later fate is unwritten and available. | 02 |
 | The Ninth Hand | A blood cult he ran with for two years. He will tell you it wasn't that bad. It was that bad. | 03, 15 |
 | Vera Ott | A mechanic. Taught him the machine chapters. Had no patience for him. Dead by chapter 16. | 08–10, 16 |
 | The Bell Country | The settlement he founded and lost. Chapter 15 is his own cautionary material. | 13–16, 18–19 |
@@ -102,6 +103,17 @@ Obligations the front matter (`manuscript/00-front-matter.md`) created for
 chapters not yet written. Check this section before finishing the chapter
 named.
 
+- **Chapter 3 owes the long version of direct pressure.** Chapter 01 puts
+  "Am I bleeding?" ahead of airway on purpose, gives only the minimum
+  technique (look as well as feel; press hard, directly, with whatever is
+  already in your hand; do not keep lifting off to check) and says in text
+  that "Chapter 3 is the long version and you should read it before you need
+  it." Chapter 03 ("The Body Is Your First Vehicle") must therefore carry the
+  full treatment of controlling serious external bleeding — direct pressure
+  done properly, packing, and whatever it chooses to say about tourniquets —
+  or chapter 01's promise to the reader goes unpaid. Chapter 02 also points a
+  go-bag line at it ("a small roll of what you use to stop bleeding").
+
 - **Chapter 13 owes four lines about a refrigerator.** The editor's
   preface says the narrator gives four lines, in his chapter on keeping
   food, to "a thing called a refrigerator: a box that was cold inside, all
@@ -119,6 +131,44 @@ named.
 
 Facts the front matter established that later chapters may draw on
 directly. Use them; do not reinvent or contradict them.
+
+- **The three questions are a book-level device, and their wording is
+  fixed.** Chapter 01 establishes them, asked in this order, as the spine
+  of the whole book. The exact wording is:
+
+  1. **Am I bleeding?**
+  2. **Can I breathe where I am standing?**
+  3. **Does anyone know where I am?**
+
+  Any later chapter that re-invokes them — in prose, in a Short Version
+  bullet, or in an illustration caption — **must reuse this wording
+  verbatim and must keep this order**. Do not paraphrase, do not compress,
+  do not modernise ("is anyone looking for me", "can I breathe here",
+  "am I hurt" are all wrong). Chapter 02 re-invokes all three in the body
+  and the third in its Short Version; both use the wording above exactly,
+  and that is the pattern to copy. Re-invoking them is optional; changing
+  them is not permitted.
+
+- **Chapter 02 is the chapter chapter 01 named.** Chapter 01's third
+  question, *does anyone know where I am?*, carries the in-text line "This
+  question decides whether you move, which is the whole of the next
+  chapter." That cross-reference points at chapter 02 ("Run or Dig In"),
+  which answers it: the shelter-in-place versus evacuate decision, the
+  trap of leaving late, the go-bag, and route choice. Chapter 02 picks the
+  hand-off up explicitly in its opening. Recorded here so chapter 01's
+  forward reference is traceable and so no later chapter claims the same
+  hand-off.
+
+- **The Spoke's evacuation discipline (chapter 02).** The Spoke kept a bag
+  room with eleven packed bags in it, weighed, labelled and re-checked
+  monthly, and walked the whole group out of the house and back in twice a
+  year as a drill. Their rule for the stay-or-go decision was Halla Dorn's
+  sentence: decide by noon, say it out loud, and move while the light is
+  still on your side. They were boring, unglamorous and alive; a house of
+  cleverer people down the same valley deliberated for three days and were
+  not. Available to any chapter that wants the Spoke's competence as a
+  measuring stick — the Spoke's whole character is that preparation looks
+  stupid right up until it does not.
 
 - **The Rules are folk-quoted, and quoted wrong.** The editor's preface
   states the Rules are repeated daily, in the yard and over the fire, by
@@ -148,6 +198,7 @@ chapter whose number is not a row below.
 | 4 | Count before you move. | 01 |
 | 9 | Water first. Always. | 04 |
 | 11 | The second floor is not safer. It is only harder to leave. | 02 |
+| 23 | Pack the bag for the stairs, not for the road. | 02 |
 | 80 | *Reserved. Spent in chapter 20. Do not cite before then.* | 20 |
 
 **Rule 80 is reserved.** It is the final rule — the soft rule that outranks
