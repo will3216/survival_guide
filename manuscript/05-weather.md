@@ -67,6 +67,8 @@ Gently, and from the middle outwards.
 5. **No rubbing, slapping, massaging the limbs or walking them about.** Both reasons matter at three in the morning when it feels like you should be doing something: it drives that cold blood inward, and a very cold heart is twitchy, so rough handling can stop it. And frozen flesh is full of ice, so rubbing tears it from the inside.
 6. **No alcohol, and this one you will be offered.** It feels like warmth because it opens the vessels in the skin, and what you feel is heat leaving faster. It also blunts the shivering and the judgement, the two things you want back.
 
+And flesh that has frozen hard all the way through is a separate injury from the cold that caused it: chapter 12 is the long version — what to rewarm, how warm, and why thawing something you cannot keep thawed costs more than leaving it frozen.
+
 And a very cold person can look dead: look and listen for breathing far longer than feels necessary before concluding anything, and keep them wrapped and gently handled while you do. Rewarming takes hours, not minutes, so do not call it done because they have perked up and asked for their boots.
 
 ## The Other Direction

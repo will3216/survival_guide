@@ -96,6 +96,7 @@ authority on staying alive and **will never find out**.
 | Ais | The apprentice he is writing this book for. Named rarely. Chapter 20 is addressed to her directly. | 20 |
 | Ruda Vilk | A name in paint pen on the tape around a radio case, in a house in a valley in the narrator's first year. The narrator took the radio, carried it for months and **never met him**; nothing else about him is known or may be invented. Chapter 11 only. | 11 |
 | The woman on the radio | **Unnamed, permanently.** In the narrator's first year she read a shopping list over the air, slowly, with gaps, for the company of saying it, and he heard it on somebody else's set on the sheltered side of a hill. He says in one plain sentence that it is the most beautiful thing he has ever heard, does not undercut it, and **does not record a single item on the list**. No chapter may name her, give her a settlement, or supply the items. T.'s era frames the list and recites it at weddings. | 11 |
+| Alma Dack | On the narrator's crew in his seventh year, the fortnight his jaw abscessed. Rinsed his mouth with warm salt water every hour for eleven days and would not let the two volunteers near him with a tool. Had had a tooth out herself in her fourth year by an enthusiastic man with a pair of pliers; her jaw never sat right after and she ate on one side for thirty years. She is the earned cost behind chapter 12's refusal to explain amateur extraction. Chapter 12 only so far; alive and available. | 12 |
 | T. | The editor of the found manuscript, writing from Ladderwell roughly two generations after the narrator finished the book. Has never seen a working lightbulb and does not entirely believe in them. Signs the editor's preface in `manuscript/00-front-matter.md`. Believes they are editing the work of the great authority on staying alive. | front matter only |
 
 The Chapters column is a convenience cross-reference, not a mechanical
@@ -217,6 +218,31 @@ named.
   of chapter 05's single clause. Chapter 12 should also check at that point whether
   chapter 05 wants a pointer added. This note is the record of the decision, so the
   debt is not lost by having been offered to two chapters and taken by neither.
+
+- **The frostbite debt is paid (chapter 12).** Chapter 12 carries the real treatment of
+  frozen tissue under its own heading, said plainly as the long version of chapter 05's
+  clause: the frostnip-versus-frozen split; **warm the person before the part**; **do not
+  thaw anything you cannot keep thawed**, because a thaw-refreeze cycle is far worse than
+  being left frozen and is what takes fingers, with walking out on a still-frozen foot
+  named as the alternative; rewarming by immersion in water no hotter than comfortable
+  (the temperature of a pleasant bath, half an hour, until the tissue is soft and red or
+  purple to the end, the pain being the thaw and not a reason to stop); **never dry heat**,
+  because frozen flesh cannot feel a burn arriving; no rubbing, no walking on it afterwards,
+  no broken blisters, padded and dressed and thereafter treated as a wound. **A pointer was
+  added to chapter 05** at the end of its rewarming section, so a reader who meets the
+  no-rubbing clause there has a route to the treatment. Chapter 12 deliberately carries no
+  drug or dose for it. No later chapter owes frostbite.
+
+- **The malnutrition hand-off from chapter 06 is paid (chapter 12), compactly.** Chapter 14's
+  report named chapter 12 as the home for deficiency over months. Chapter 12 pays it inside
+  its teeth section rather than as its own heading, because that is where the signal shows:
+  gums bleeding all round at once with teeth loose in good sockets is named as diet rather
+  than dirt — months of the same food with nothing fresh in it, happening to people whose
+  bellies are full — with the intervention given as variety rather than quantity in tiny
+  amounts, something green daily, and whole grain rather than milled. The named deficiency
+  syndromes are described by their signs only and never by name. A later chapter wanting the
+  full account of monotonous-ration deficiency (pellagra, beriberi, vitamin A, anaemia) may
+  take it; chapter 13 (growing and keeping things) is the natural place.
 
 ---
 
@@ -552,6 +578,54 @@ directly. Use them; do not reinvent or contradict them.
 
 - **Unclaimed significance held for a later chapter (chapter 11).** The shopping-list broadcast is the one people tell stories about, and **the narrator is the only person alive who heard the first of it**. Chapter 11 does **not** say so and T. does not supply it: T. gives only what became of the list afterwards, so the "first and only hearer" fact is **withheld entirely** (the mechanism `notes/style-guide.md` section 5.1 permits in place of the retired clause-then-immediate-T.-reveal pairing). **Chapter 18 (gods) or chapter 19 (holidays, songs and other load-bearing nonsense) may pick it up**, since both deal in ritual and oral transmission and the list is already recited at weddings in T.'s era. Whichever does must keep the narrator's own account exactly as written — somebody else's radio, somebody else's valley, facing a hill, the thin rain, the cells nearly out — and must not have him notice afterwards.
 
+- **Chapter 12's own canon, now fixed.** In his **seventh year** a lower right back tooth
+  abscessed and he calls it an interesting fortnight: he chewed on the left for four days,
+  by day seven his face was out to the cheekbone and his glasses would not sit down on that
+  side, by **day nine he could walk about four hundred yards** before he had to sit down —
+  the measurement he thinks matters, because walking was the job — and on day eleven it
+  opened and drained by itself. **Alma Dack** is from here (see Cast). He has **dug the
+  latrines for three separate groups**, because he was the one with the shovel, and never
+  calls it a specialty. The line that **more of the people he liked died of this chapter
+  than of every other way in the book put together** is said once, in the opening, in the
+  same register as the siting that follows, and should not be re-used as if new.
+  **Rule 2** is coined here and **Rule 29** is coined here. He hands Rule 2 over as a note
+  he left himself so he would stop being lazy, is faintly apologetic about the length of the
+  teeth section, and never notices that either is a lesson; T.'s single exasperated beat
+  corrects only the meaning — that this is the intervention and not a reminder — says it
+  twice, and confirms the siting distances rather than touching any technique.
+  Also his and available without re-deriving: latrine siting (downhill and downwind of both
+  the water and the beds, thirty metres minimum from any drinking water and he paces fifty,
+  the pit bottom a metre and a half clear of where water stands, never where you hit water
+  digging, no more than about fifty metres from the beds or it does not get used at night);
+  the three depths (a hand's depth for a day or two, a straddled trench an arm's length deep
+  for weeks, a two-to-three-metre boarded pit with a lid for staying); **cover every use with
+  a scoop of soil, because of flies and not smell**; closing and marking a full pit; the sick
+  and the small kept inside the system with a lidded bucket; handwashing with soap or wet ash,
+  all surfaces, about twenty seconds, rinsed with **poured** water and never a shared bowl,
+  at **four times** (after the latrine, after nursing, before handling others' food, before
+  eating), with **whoever nurses not cooking that day**; the faecal-oral framing in one
+  sentence; **dehydration rather than the illness as the killer**, with its signs and
+  "too tired to drink" as the serious step; the oral-rehydration recipe (**one litre of clean
+  water, six level teaspoons of sugar, half a level teaspoon of salt**, levelled, erring
+  under on salt, no saltier than tears, a mouthful every minute or two, a quarter to half a
+  litre per loose stool for an adult and a quarter to half a cup for a small child, feeding
+  continued, breastfeeding continued) and the position that **clean water outranks the
+  recipe** (re-citing **Rule 28**); wound care over time (irrigate with far more drinkable
+  water than feels reasonable until it runs clear, nothing strong poured into the wound,
+  never close a dirty or old wound or a bite, keep it covered and look each time, the specific
+  infection signs including red streaks and pain rising after the second or third day, and
+  the charcoal line round the redness with the date on it); and the stated limit that topical
+  care **prevents** infection and does nothing to one already spreading. **His flat refusal
+  to explain amateur extraction is canon and may not be reversed by any later chapter** —
+  the reason given is roots longer than the crown, curved and in bone, a decayed tooth
+  likeliest to snap off and leave a piece behind, no anaesthetic, no sight of the work, and
+  no way to press a socket; he has watched it done four times and it helped once. The chapter
+  closes on **hygiene as morale** and points at **chapter 16** for the long version.
+  It re-cites **Rule 28** (chapter 04) and points at chapter 03 twice (bleeding, and the
+  airway section for a swelling under the jaw), chapter 04 for treating water, chapter 05 for
+  rewarming and the no-rubbing clause, chapter 06 for having food, and chapter 11 for pacing.
+  It names **no place**, so no Places row is owed or corrected.
+
 ---
 
 ## Rule ledger
@@ -567,6 +641,7 @@ chapter whose number is not a row below.
 
 | # | Rule | Chapter |
 |---|------|---------|
+| 2 | Wash your hands. I am serious. This is Rule 2. | 12 |
 | 4 | Count before you move. | 01 |
 | 6 | Two methods, not two objects. | 08 |
 | 7 | Pressure is a place, not a motion. | 03 |
@@ -579,6 +654,7 @@ chapter whose number is not a row below.
 | 21 | Stockroom, not showroom. | 09 |
 | 23 | Pack the bag for the stairs, not for the road. | 02 |
 | 28 | Clear is not clean. | 04 |
+| 29 | Downhill and far from the water. | 12 |
 | 31 | Know the way out before you go in. | 07 |
 | 34 | Build small. Heat is the rent. | 05 |
 | 38 | Check the stupid thing first. | 10 |
