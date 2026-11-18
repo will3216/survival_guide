@@ -45,6 +45,20 @@ at most one per chapter. A trapdoor, not a theme.
 The book's argument, never stated outright but structurally unavoidable: what
 kept people alive was cooperation, ritual, and absurd joy.
 
+### Tone touchstones
+
+Two references, with a strict division of labor between them. This split is the
+mechanism that keeps the dark undertow from curdling: **the narrator has seen
+Mad Max things and tells them in a Zombieland voice.**
+
+| Touchstone | Governs | Specifically |
+|------------|---------|--------------|
+| **Zombieland** | Voice, violence, instructiveness | Warm, deadpan, personally earned advice. Numbered rules. Violence reads cartoonish rather than harrowing. Sincerity arrives suddenly and is not apologized for. |
+| **Mad Max** | World only | Scarcity economy, faction iconography, vehicular culture, grotesque pageantry, the aesthetics of rust and chrome. |
+
+Neither contributes proper nouns. Numbered survival rules are a genre
+convention, not borrowed IP.
+
 ---
 
 ## 2. Structure
@@ -117,9 +131,12 @@ with a completely straight face.
 
 ### Back matter — `manuscript/99-appendices.md`
 
-Quick-reference tables pulled out of the chapters: water treatment ratios,
-bleeding control sequence, barter value guide, and a blank god-design
-worksheet.
+1. **The Rules, As Best I Remember Them.** A partial list of the corpus, with
+   numbered gaps — most missing because he forgot them, one or two because the
+   page was torn out. Reinforces the found-manuscript framing for free.
+2. Quick-reference tables pulled out of the chapters: water treatment ratios,
+   bleeding control sequence, barter value guide.
+3. A blank god-design worksheet.
 
 ---
 
@@ -134,6 +151,32 @@ worksheet.
 - Dark material: one aside per chapter maximum, unremarked and not revisited.
 - No *Mad Max* proper nouns. The aesthetic is borrowed; every faction, god,
   place, and person is original.
+
+### The Rules
+
+The book's spine and running gag. The narrator has numbered rules, cited out of
+order from an implied corpus of roughly eighty — Rule 4, then Rule 61, then
+Rule 12. They are terse, deadpan, personally earned, and **actually correct**.
+
+> Rule 9: Water first. Always.
+> Rule 11: The second floor is not safer. It is only harder to leave.
+
+Mechanics:
+
+- A chapter's epigraph may be a Rule instead of in-world text.
+- "The Short Version" may cite Rules by number rather than restating them.
+- Rules are never invented to be funny at the expense of being true. A Rule is
+  a compressed piece of real advice; the comedy is in the compression.
+- Numbering is deliberately non-sequential and never reconciled. The corpus is
+  larger than the book.
+- **One rule is held in reserve** and spent in chapter 20, addressed to Ais. It
+  is the soft rule that outranks the hard ones, and it is the book's thesis in
+  one line. The book opens with rules about not bleeding to death and closes
+  with the one that actually mattered.
+
+`notes/continuity.md` holds the authoritative Rule ledger — number, text, and
+the chapter that introduces it — so no number is reused and no Rule contradicts
+another.
 
 ### Per-chapter apparatus
 
@@ -278,7 +321,7 @@ survival_guide/
     99-appendices.md          reference tables, god-design worksheet
   notes/
     style-guide.md            voice rules, apparatus template
-    continuity.md             cast, factions, gods, timeline
+    continuity.md             cast, factions, gods, timeline, Rule ledger
     accuracy-log.md           real-world basis per load-bearing claim
     illustration-style.md     prompt preamble, palette, character sheets
     illustration-manifest.json  generated
