@@ -17,6 +17,14 @@ fixed name, and the manuscript never supplies one. Roughly sixty when he
 writes this. He was an adult, barely, when the Collapse happened. He has
 belonged to eleven groups over the years; six are named in the book.
 
+He has worn glasses since he was nine. The left lens cracked on the first
+morning of Y0, during the hour he spent patting a floor for them instead of
+filling a bath (chapter 01), and he wore that cracked left lens for nineteen
+more years. Nobody is making lenses any more and he knows it. This is
+permanent canon from chapter 01 and is available to every later chapter —
+chapters 08 (gear), 09 (scavenging), 12 (slow deaths) and 17 especially.
+Do not give him good eyesight and do not quietly replace the glasses.
+
 ---
 
 ## Cast
