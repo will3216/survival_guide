@@ -18,7 +18,7 @@ whenever and by whomever, look like one book.
 This exact block is prepended to **every** generation prompt, without
 exception, verbatim, every time:
 
-> Two-ink civil-defense manual illustration. Flat black line art plus a single rust-orange spot color, printed on cream paper with visible paper grain and slight ink misregistration. Heavy confident outlines, no gradients, no rendered lighting, no texture shading. Cartoonish rubbery figures with simple bean-shaped bodies, oversized hands, small heads, expressive postures. 1950s government pamphlet layout sensibility. Flat, graphic, legible at small size.
+> Two-ink civil-defense manual illustration. Flat black line art plus a single rust-orange spot color, printed on cream paper with visible paper grain and slight ink misregistration. Heavy confident outlines, no gradients, no rendered lighting, no texture shading. Cartoonish rubbery figures with simple bean-shaped bodies, oversized hands, small heads, expressive postures. 1950s government pamphlet layout sensibility. Flat, graphic, legible at small size. No background scenery unless the slot prompt explicitly asks for one; default to empty cream paper ground, no horizon, no clutter. Each illustration sits inside a simple single-rule black border, like a boxed figure in a printed manual, never a bleed-to-edge image.
 
 Do not paraphrase it per-chapter. The slot's own `prompt:` value describes the
 *subject*; this preamble supplies the *style*. Concatenate preamble + slot
@@ -97,8 +97,12 @@ entry below is written to be concrete enough that two independent generation
 runs, months apart, produce a recognizably identical figure.
 
 - **The narrator** — older man, long coat cut from a tarp, flat cap, one bad
-  knee. Drawn from behind or in three-quarter profile wherever possible; his
-  face is never the subject.
+  knee. Default: drawn from behind or in three-quarter profile; his face is
+  not the subject. Fallback, for the rare slot that genuinely needs him
+  front-on (both hands and face visible for a technique): his face may
+  appear, but it stays generic and shadowed under the cap brim — no
+  distinct features, no expression. No slot may compose a shot that relies
+  on his face to carry emotion.
 - **Vera Ott** — stocky, overalls, welding mask pushed up on her forehead so
   her face is framed by it. Always holding a tool, always mid-sentence.
 - **Ais** — teenager, too-large coat, close-cropped hair, carries a satchel
