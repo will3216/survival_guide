@@ -231,6 +231,41 @@ Mechanics:
 chapter must have a row there, added in the same commit, and no chapter may
 cite a Rule whose ledger chapter is later than its own.
 
+### The editor's interventions
+
+T. does not stay in the margins. Throughout the book, the editor breaks role to
+react to what the narrator has just said — and this is the second voice the
+reader hears.
+
+> **— T.** He is describing the night the Bellwright died. He gives it four
+> lines and then returns to the subject of drainage. I have read this passage
+> more times than I can defend.
+
+Mechanics:
+
+- Rendered as a blockquote opening `> **— T.**`, placed immediately after the
+  passage it reacts to. Never inside a numbered procedure.
+- **One to three per chapter.** At least one per chapter should be the
+  exasperated kind — some version of *no, that is not the takeaway* — where an
+  eloquent person briefly stops being eloquent.
+- **T. never corrects the technique.** This is inviolable. T. corrects
+  *meaning*, never method. Where T. touches a technique at all it is to confirm
+  it, or to note having seen it work. A reader must never be left unsure
+  whether the instruction is sound.
+- T.'s register is formal, affectionate and precise, and the joke is that
+  precision failing under pressure. T. is cleverer than the narrator and more
+  perceptive about people, while being naive about the vanished world — still
+  reverent about the wrong things, still unsure about lightbulbs.
+- T. sees what the narrator cannot: that he was present at famous events, that
+  the people he mentions in passing were legends, that his Rules became
+  folklore, and that the lesson in a chapter is frequently not the one he
+  thought he was giving.
+- **T. never appears after `## The Short Version`.** That checklist is the
+  narrator's, it is the last text in the file, and nothing follows it.
+
+The two voices never meet. T. is answering a man who has been dead for two
+generations, and the narrator will never know he was read.
+
 ### Per-chapter apparatus
 
 1. **Epigraph** — a Rule, or in-world text.
