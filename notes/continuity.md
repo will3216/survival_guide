@@ -85,6 +85,8 @@ authority on staying alive and **will never find out**.
 | Marta Lunn | On the work crew with him in his second year, with a thermometer wired to the outside of her bag. She is the reason he knows it was four degrees above freezing the day he got hypothermic in a ditch. Chapter 05 only so far; available, and nothing is recorded about her beyond the thermometer. | 05 |
 | Pell Hask | The Ninth Hand's orator at the nightly water ceremony. Had a good voice for it — low, and knew to leave gaps. Spoke standing on the cracked cistern lid, which the narrator had asked him twice not to do. The narrator records nothing else about him and does not say what became of him. Chapter 04 only so far; available. | 04 |
 | Isak Roon | A net-mender at the water, in the narrator's own present (Y40). The one person the narrator asked to check a chapter before he wrote it out fair: he kept chapter 03 eight days and gave back four corrections, all of which went in. Has better hands than the narrator's. Not a healer by trade — a man who has had to stop bleeding in a hurry. Alive and available to later chapters. | 03 |
+| Arno Bligh | The man who paid the narrator, before the Collapse, to carry four hundred pounds of dried beans up an outside stair — a fortnight of afternoons, two sacks a trip. Had a pantry the length of the room, one pot and no fuel, and starved that winter with the lot still stacked. Chapter 06 only; dead, and stays dead. | 06 |
+| Hesper Vane | A girl the narrator taught to soak and bank a pot, on a back step in the eleventh year, because her lid sat proud of the rim by the thickness of a nail. She fed a valley for thirty years and the editor's era sells beans by the half-vane and calls the straw box by her name. The narrator records only the lid and never mentions her again. Available to later chapters, but his obliviousness about her is fixed. | 06 |
 | Vera Ott | A mechanic. His teacher, and he was her hands — she told him which way to turn things for six years. Taught him the machine chapters. Had no patience for him. Dies in chapter 16; he reports it as plainly as a broken pump. | 08–10, 16 |
 | The Bellwright | Founded the Bell Country. A legend to everyone else — the man whose name is on it, quoted and sung about. To the narrator, a man with strong opinions about drainage who was usually right about gradients and wrong about people. The narrator hauled water past him for years and mostly remembers being asked to move a barrow. He does not know the Bellwright became a legend. | 13–16 |
 | The Bell Country | The settlement he hauled water for. Founded and lost by other people. Nine years in the making and five in the losing; chapter 15 is its collapse seen from the bottom, by someone who noticed it first in where the water went. | 13–16, 18–19 |
@@ -394,6 +396,41 @@ directly. Use them; do not reinvent or contradict them.
   standing?*, once, verbatim, at the end of its fire section, as the reader's
   route to the enclosed-space rule.
 
+- **Chapter 06's own canon, now fixed.** Before the Collapse the narrator was paid
+  to carry **four hundred pounds of dried beans** up an outside stair for **Arno
+  Bligh** — a fortnight of afternoons, two sacks a trip — and Bligh starved that
+  winter with the lot still stacked, having one pot, no fuel, and nobody in the
+  building who knew a dried bean wants hours. The narrator offers that fortnight
+  as the reason he is particular about sacks, and his back has not been right
+  since the second week of it; the technique he draws out of it is to carry on
+  the inside shoulder going up a turning stair. The chapter's deflating thesis is
+  that **in the first week food is a morale problem and not a survival problem**,
+  and it re-cites **Rule 9** for water rather than re-deriving anything.
+  **Rule 19** is coined here and earned: he swapped nine pounds of good beans for
+  a fist of salt and walked away certain he had been robbed, and by the next
+  summer would have doubled it. **Rule 42** is coined here and earned by the
+  twenty plants he had out of a book and could not confidently find one of in his
+  own valley, and by the man on the crew who ate a root in the fourth spring that
+  looked exactly like the right root — buried on the Tuesday, said once and
+  walked straight past. The chapter refuses to teach plant identification at all,
+  on the stated grounds that the book has no pictures and he does not know what
+  grows where the reader is standing; later chapters should not quietly start
+  identifying plants.
+  Also his and available to later chapters: the storage five words (**dry, cool,
+  dark, sealed, off the floor**), the shelf ordering (whole grains and legumes
+  years, milled months, fats first to go and the thing most craved, salt
+  indefinitely), the tin rule — **there is no inspection that clears a tin, only
+  one that condemns it** — and the fuel-into-time cooking method: soak eight to
+  twelve hours, throw the soak water away, **boil hard ten minutes** (the step
+  that may not be shortened, because some dried beans are poisonous until they
+  have had it and warm-but-not-boiling is worse), then a full lidded pot nested
+  in a hand's depth of dry packing with as much underneath as over, unopened for
+  three to five hours, **eaten that day**. **Hesper Vane** arrives in a clause
+  about lids and never again. T.'s single beat here is appreciative and confirms
+  the method is still taught in that order, hard boil before box. Chapter 06 also
+  points forward once, without a number, to the later chapter on growing food and
+  putting it up (chapter 13).
+
 ---
 
 ## Rule ledger
@@ -414,9 +451,11 @@ chapter whose number is not a row below.
 | 9 | Water first. Always. | 04 |
 | 11 | The second floor is not safer. It is only harder to leave. | 02 |
 | 16 | Wet is colder than cold. | 05 |
+| 19 | Salt is money. | 06 |
 | 23 | Pack the bag for the stairs, not for the road. | 02 |
 | 28 | Clear is not clean. | 04 |
 | 34 | Build small. Heat is the rent. | 05 |
+| 42 | Learn three plants completely before you learn twenty badly. | 06 |
 | 80 | *Reserved. Spent in chapter 20. Do not cite before then.* | 20 |
 
 **Rule 80 is reserved.** It is the final rule — the soft rule that outranks

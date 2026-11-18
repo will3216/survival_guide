@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 15,
+  "count": 18,
   "slots": [
     {
       "id": "01-gag-01",
@@ -152,6 +152,36 @@
       "alt": "A two-column comparison chart of heat exhaustion and heat stroke, the mental-state row boxed and emphasised.",
       "prompt": "A two-column comparison chart in flat black line art on cream, drawn as a civil-defence pamphlet figure, using glyphs only and no words. Two equal columns divided by a single vertical rule, crossed by four horizontal rows. Row 1 carries orange callout numeral 1 in an orange circle and shows, left, a face with heavy sweat droplets and flat shading for pallor, and right, a face with radiating heat lines and no droplets. Row 2 carries numeral 2 and shows, left, a shallow fluttering waveform, and right, a tall spiking waveform. Row 3 carries numeral 3, is enclosed in a heavy orange box drawn around the whole row, and shows, left, a head in profile with a clear steady spiral inside it, and right, a head in profile with a broken scribbled tangle inside it. Row 4 carries numeral 4 and shows, left, a reclining figure under a simple shade canopy beside a cup, and right, a figure immersed to the neck in a tub of water with wavy-line fanning arrows. Generous empty cream space, no background scenery, no text beyond the four numerals.",
       "path": "illustrations/05-plate-02.png"
+    },
+    {
+      "id": "06-gag-01",
+      "class": "gag",
+      "chapter": "06",
+      "source": "06-food.md",
+      "caption": "Figure 6.1 — Arno Bligh's pantry. Four hundred pounds of beans and one pot.",
+      "alt": "A huge, immaculately stacked pantry of bean sacks with a single pot on the floor, as a man arrives in the doorway with another sack.",
+      "prompt": "A cartoonish flat black line drawing on cream. Filling most of the frame, an enormous pantry wall of neatly stacked bulging sacks, piled shoulder-high in tidy rows receding to the back of a long narrow room, drawn with obvious pride of stacking, every sack identical and untouched. On the bare floorboards in the centre foreground, one small dented cooking pot, alone, drawn in orange. Orange used only for the pot. In the right-hand doorway, seen from behind and in three-quarter profile, a cartoonish bean-bodied older man in a flat cap and long tarp coat arriving with another full sack on one shoulder, head turned down and away toward his own feet, not looking at the stacks or the pot. Generous empty cream space above the stacks, no background scenery, no text.",
+      "path": "illustrations/06-gag-01.png"
+    },
+    {
+      "id": "06-plate-01",
+      "class": "plate",
+      "chapter": "06",
+      "source": "06-food.md",
+      "caption": "Figure 6.3 — Fuel into time. 1 the soak, water thrown away. 2 lid on, ten minutes at a hard boil. 3 packed in dry hay, under as well as over. 4 unopened.",
+      "alt": "Four numbered panels showing soaking beans, a lidded pot at a hard boil, the pot packed in straw inside a crate, and the closed crate standing untouched.",
+      "prompt": "Four equal square panels in a single row, divided by thin vertical rules, in flat black line art on cream, drawn as a civil-defence pamphlet figure, glyphs only and no words. Panel 1 carries orange callout numeral 1 in an orange circle and shows a wide bowl of beans covered by water to well above them, with a small orange curved arrow tipping a second bowl of cloudy water away to one side. Panel 2 carries numeral 2 and shows a pot with a weighted lid clamped down over a simple fire of three logs, vigorous large bubbles drawn inside the pot and short steam wisps escaping at the lid rim. Panel 3 carries numeral 3 and shows a cutaway of a square crate with the same lidded pot nested inside it, surrounded on all sides by dense loose straw stippling drawn at equal and clearly generous thickness beneath the pot as above and beside it, with a folded blanket laid over the top. Panel 4 carries numeral 4 and shows the same crate closed, standing alone with no fire anywhere near it, a small orange crescent moon and sun pair above it to indicate long elapsed time, and a flat orange bar across the lid to indicate it is not to be opened. Orange used only for the four numerals, the tipping arrow, the time glyphs and the bar. Generous empty cream space, no background scenery, no text beyond the four numerals.",
+      "path": "illustrations/06-plate-01.png"
+    },
+    {
+      "id": "06-plate-02",
+      "class": "plate",
+      "chapter": "06",
+      "source": "06-food.md",
+      "caption": "Figure 6.2 — Three tins not to open. 1 the domed end. 2 the leak and rust. 3 the damaged seam. A tin with none of them proves nothing.",
+      "alt": "Three cans in a row, each with one defect circled in orange — a bulging lid, a leaking rusted side, and a dented seam.",
+      "prompt": "Three identical plain cylindrical food tins in a row on a flat baseline, drawn in flat black line art on cream as a civil-defence pamphlet figure, each tin unlabelled and smooth-sided. The left tin has its top end clearly domed and swollen upward, ringed in orange and carrying orange callout numeral 1 in an orange circle. The middle tin has a patch of rough stippled rust low on its side with two small drips running from it down to a small pool on the baseline, ringed in orange and carrying orange callout numeral 2. The right tin has a deep crease and dent running across the rolled seam where the lid meets the body, with short radiating stress lines, ringed in orange and carrying orange callout numeral 3. Orange used only for the three rings, the three numerals and the drips. Generous empty cream space between and above the tins, no background scenery, no text beyond the three numerals.",
+      "path": "illustrations/06-plate-02.png"
     }
   ]
 }
