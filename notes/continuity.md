@@ -173,6 +173,19 @@ named.
   mention. The preface has already promised the reader this passage
   exists.
 
+- **Chapter 08 or 12 owes frostbite.** Chapter 05 mentions frozen flesh once,
+  inside a prohibition — "frozen flesh is full of ice, so rubbing tears it from
+  the inside" — and that single clause is currently the book's entire position
+  on frozen tissue. It is a reason for not rubbing, not guidance for treating a
+  frozen hand or foot, and a reader could reasonably take it for the whole
+  answer. **Whichever of chapter 08 (gear, where boots and gloves live) or
+  chapter 12 (the slow deaths) reaches it first must carry the real treatment**
+  — what to rewarm and how, what not to do, and the refreeze problem — and say
+  plainly that it is the long version of chapter 05's clause. Chapter 05 does
+  not point forward at it, because the chapter it should point at is not yet
+  assigned; whichever chapter takes the debt should check whether chapter 05
+  wants a pointer added at the same time.
+
 ---
 
 ## Available canon for later chapters
@@ -369,7 +382,17 @@ directly. Use them; do not reinvent or contradict them.
   exasperated: T. burns four pages of notes rather than transcribe them, then
   corrects the ditch-versus-drain wording instead of the point. Chapter 05
   re-cites **Rule 9** (chapter 04) for drinking ahead of thirst in heat and
-  does not re-derive any water figure.
+  does not re-derive any water figure. Two things settled in its review round
+  and binding on later chapters: **the carbon-monoxide trigger is one person's
+  headache, not two** — a headache indoors with a fire burning is enough on its
+  own, and two at once escalates to everybody leaving including whoever feels
+  fine — and **the twenty-five-times figure is a conductivity ratio, not a
+  cooling rate**. Water conducts heat about twenty-five times better than air;
+  what that does to a person is "several times faster", and no chapter may
+  upgrade the twenty-five into a rate at which a body loses heat. Chapter 05
+  also re-invokes chapter 01's second question, *can I breathe where I am
+  standing?*, once, verbatim, at the end of its fire section, as the reader's
+  route to the enclosed-space rule.
 
 ---
 

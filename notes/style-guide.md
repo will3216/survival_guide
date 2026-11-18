@@ -423,7 +423,7 @@ parser has no block-scalar handling and will not read it.
 - **No claim of military service, rank, unit or training.** No jargon, no
   formations, no acronyms. He carried things. See `notes/continuity.md`.
 
-### 9.1 Three sentences the budget may not touch
+### 9.1 Four sentences the budget may not touch
 
 Chapters 2, 3 and 4 each went out missing a sentence a trim had judged
 decorative, and each needed a fix round to put it back. It was the same
@@ -433,7 +433,14 @@ chapter that named the comparator. Chapter 4 lost the nine days in bed that
 earned Rule 28. None of them read as load-bearing on the way out of the
 document, and all three were.
 
-So three kinds of sentence are **protected**, and if the chapter is long they
+Chapter 5 added a fourth, and it was not a sentence about technique at all.
+Its trim removed one clause pointing back at chapter 1's second question, and
+that pointer turned out to be the only place in the book where a person alone
+in a room with a fire was covered at all. The chapter still said what to do
+when two people got a headache. Nobody had written down what to do when it was
+one, because the pointer had been doing that job.
+
+So four kinds of sentence are **protected**, and if the chapter is long they
 are paid for from somewhere else:
 
 1. **The only statement of a reason** for an instruction or a prohibition. If
@@ -447,11 +454,25 @@ are paid for from somewhere else:
    happened to him. Section 7 requires a Rule to sound like something that cost
    him. A Rule with the cost cut out is a different and weaker device: an
    assertion, which is what this book is not.
+4. **A cross-reference that is the only coverage of a case.** Twenty chapters
+   hand work to each other, and a pointer — *chapter 3 is the long version*,
+   *chapter 1's second question is this one* — is often the only route a reader
+   has to a case this chapter does not otherwise handle. Cut the pointer and
+   the case is gone, silently, because nothing in either chapter looks wrong
+   afterwards.
 
 The practical half. **A trim is not costless until you have read your own
-deletions against those three categories.** Diff what you took out, not what
-you left in, and say in the report that you did. Prose compresses; reasons,
+deletions against those four categories.** Diff what you took out, not what you
+left in, and say in the report that you did. Prose compresses; reasons,
 qualifiers and costs do not.
+
+The fourth category needs one extra move, because the diff will not flag it: a
+pointer reads as prose, and losing it reads as tightening. **Whenever a trim
+removes a reference to another chapter, go and check what it pointed at, and
+ask whether anything else in this chapter covers that case.** If nothing does,
+either the pointer stays or this chapter starts covering the case itself. Do not
+settle it by deciding the other chapter is still there. It is; the reader's
+route to it is not.
 
 ---
 
