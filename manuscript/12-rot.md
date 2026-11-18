@@ -4,7 +4,7 @@
 
 In my seventh year a back tooth on the right went bad, and I had an interesting fortnight.
 
-I chewed on the left for four days and thought I had got away with it. By day seven my face was out to the cheekbone and my glasses would not sit on that side, which is its own problem up a ladder. By day nine I could walk four hundred yards before sitting down, which was the number that mattered, because walking was the job. On day eleven it opened by itself and drained, and I was carrying again inside the month.
+I chewed on the left for four days and thought I had got away with it. By day seven my face was out to the cheekbone. By day nine I could walk four hundred yards before sitting down, which was the number that mattered, because walking was the job. On day eleven it opened by itself and drained, and I was carrying again inside the month.
 
 Alma Dack rinsed my mouth with warm salt water every hour of those eleven days and let nobody near me with a tool. She had had one out herself by an enthusiastic man with pliers; her jaw never sat right after, and she ate on one side for thirty years.
 
@@ -22,9 +22,9 @@ The published minimum is **thirty metres from any well, spring, stream or standi
 
 Depth goes by how long you stay. A day or two: a hole a hand's depth, fresh each time, filled in after. Weeks: a trench a hand's span wide to be straddled, as deep as your arm is long, lengthened as it fills. Staying: a pit two to three metres down, boarded, with a lid — closed half a metre from the top, mounded so rain runs off, and marked.
 
-**Cover every single use** with a scoop of soil, which is why the tin lives in the spoil heap. The reason is not the smell. It is flies: a fly on that and then on your food is the shortest road from somebody's gut into your mouth.
+**Cover every single use** with a scoop of soil, the tin kept in the spoil heap. The reason is not the smell. It is flies: a fly on that and then on your food is the shortest road from somebody's gut into your mouth.
 
-Keep the sick and the small inside the system: a lidded bucket emptied into the pit and covered at once.
+Keep the sick and the small in the system: a lidded bucket emptied into the pit and covered at once.
 
 <!-- ILLO
 id: 12-plate-01
@@ -55,17 +55,17 @@ prompt: A civil-defence pamphlet instructional diagram in flat black line
   figures, no people, no shading, no background scenery, no text beyond
   the numerals.
 -->
-![Figure 12.1 — Siting, in section.](../illustrations/12-plate-01.png)
+![Figure 12.1 — Siting.](../illustrations/12-plate-01.png)
 
 ## The Hands, Which Are The Actual Answer
 
 A latrine is where it goes. **Hands are how it comes back.** So: a jug of water, a scrap of soap and a nail for the jug at the latrine's exit.
 
-**Soap or ash, all surfaces, about twenty seconds** — backs as well as palms, between the fingers, and under the nails, where it actually lives, so keep them short. Twenty seconds is longer than anybody does it; count it out. Rinse with water **poured over** the hands, never dipped into a shared bowl, because a bowl six people have dipped into is a shared drink. Dry on air or a clean cloth, not on the trousers you dug in. Soap does the work and water alone moves much less; with no soap, wet ash out of a cold fire works.
+**Soap or ash, all surfaces, about twenty seconds** — backs as well as palms, between the fingers, and under the nails, where it actually lives, so keep them short. Count it out: twenty seconds is longer than anybody does it. Rinse with water **poured over** the hands, never dipped into a shared bowl, because a bowl six people have dipped into is a shared drink. Dry on air or a clean cloth, not on the trousers you dug in. Soap does the work and water alone moves much less; with no soap, wet ash out of a cold fire works.
 
 **The four times are the whole of it:** after the latrine, after cleaning up anybody who could not get to it, before touching food other people will eat, and before eating. Whoever nurses a sick person does not cook that day, and the sick person gets their own cup.
 
-Published figures put the drop in gut illness from washing with soap between a quarter and a half, and I will not pretend to a number inside that. A quarter would do.
+Published figures put the drop in gut illness from washing with soap between a quarter and a half; I will not pretend to a number inside that. A quarter would do.
 
 I gave it a low number because I am lazy about it when I am tired and cold with a queue behind me, and a thing with a number on it is harder to skip. A note to me, so I stop doing the stupid version.
 
@@ -92,13 +92,13 @@ prompt: A pamphlet marginal vignette in flat black line art on cream with
   the poster's lettering are the only orange in the image. No shading, no
   background scenery, no readable text.
 -->
-![Figure 12.2 — Rule 2, and the bucket.](../illustrations/12-gag-01.png)
+![Figure 12.2 — Rule 2.](../illustrations/12-gag-01.png)
 
 ## What Actually Kills People
 
-**Something that was in somebody's gut gets into somebody's mouth.** The roads are water, food, hands, flies and what people eat off, and hands do most of it. What arrives is a gut — watery stool many times a day, vomiting, cramp, sometimes fever — and **it is almost never the illness that kills them. It is the water going out faster than it goes in.**
+**Something that was in somebody's gut gets into somebody's mouth.** The roads are water, food, hands, flies and what people eat off, and hands do most of it. What arrives is a gut — watery stool many times a day, often vomiting, cramp, sometimes fever — and **it is almost never the illness that kills them. It is the water going out faster than it goes in.**
 
-So watch the drying out rather than the stool count: sunken eyes, dry mouth, little or no urine and very dark, skin pinched up on the back of the hand that stays pinched, drowsy, floppy, and too tired to drink, which is the serious one, because somebody who will not drink has lost the only treatment there is. Children and old people go through all of it in hours, having less to spare. Blood in the stool or a high fever with it is a worse illness, and one the medicines used to handle.
+So watch the drying out rather than the stool count: sunken eyes, dry mouth, little or no urine and very dark, skin pinched up on the back of the hand that stays pinched, drowsy, floppy, and too tired to drink, which is the serious one, because somebody who will not drink has lost the only treatment there is. Children and old people go through all of it in hours, having less to spare. Blood in the stool or a high fever with it is a worse illness, and one the medicines used to handle. The answer is the latrine and the jug, three weeks earlier.
 
 ## Putting The Water Back
 
@@ -138,11 +138,11 @@ prompt: A deliberately plain civil-defence pamphlet instructional diagram
   circular stirring arrow. No hands, no figures, no shading, no background
   scenery, no text beyond the numerals.
 -->
-![Figure 12.3 — Oral rehydration, measured.](../illustrations/12-plate-02.png)
+![Figure 12.3 — Oral rehydration.](../illustrations/12-plate-02.png)
 
 ## A Cut, Over A Fortnight
 
-Chapter 3 is how you stop it bleeding. This is the fortnight after, which is what took people. Wash your hands first. Then:
+Chapter 3 is how you stop it bleeding; this is the fortnight after, which is what took people. Wash your hands first. Then:
 
 1. **Irrigate it with far more water than feels reasonable,** and get the solid things out — grit, grass, cloth, splinters. Drinkable water is as good as anything clever, poured hard or squirted from a punched bottle cap. Keep going until it runs clear, because what stays in is what an infection grows on.
 2. **Do not pour anything strong into it.** Spirit, fuel and strong antiseptic kill the tissue along with everything else and leave a wound slower to close. In the wound, water.
@@ -153,7 +153,7 @@ A wound is sore and pink for two days; that is it working. What to act on is **p
 
 And the limit, plainly: cleaning and covering mostly **prevents** infection, and once one is in and spreading, washing the outside does nothing to it. What is left is warmth, the limb up, fluids, rest and company.
 
-A wound with soil, dung or rust in it — a puncture, a crush, a bite — can also bring on the stiffening illness, and the jab that prevented it does not exist now. Irrigating hard and leaving it open is the only prevention there is, which is what steps one and three are for. It shows days to weeks later as stiffness in the jaw and neck, then spasms; a jaw that will not open after a dirty wound is this and not a tooth, and nothing can be done for it without a hospital.
+A wound with soil, dung or rust in it — a puncture, a crush, a bite — can also bring on the stiffening illness, and the jab that prevented it does not exist now. Irrigating hard and leaving it open is the only prevention there is, which is what steps one and three are for. It shows days to weeks later as stiffness in the jaw and neck, then spasms; a jaw that will not open after a dirty wound is this and not a tooth, and nothing cures it without a hospital. Dark, quiet and as little handling as possible is all hands can do: light, noise and touch set off the spasms.
 
 ## Hands And Feet That Have Actually Frozen
 
@@ -189,18 +189,18 @@ The groups I have watched hold together were never the brave ones. They were the
 
 It costs you water and fuel, daily, forever. Boiling for a wound, for a cup of rehydration, for a cloth, out of the same fire and fuel pile as the dinner. In a hard winter that is a real choice with a wrong answer.
 
-It costs you digging. A pit is a day with a shovel, and it will fill, and then you dig another, and nobody will mention either. I have dug them for three groups and was never once thanked for one, which is correct: there is nothing to say about a latrine that works.
+It costs you digging. A pit is a day with a shovel; it will fill, and then you dig another, and nobody will mention either. I have dug them for three groups and was never once thanked for one, which is correct: there is nothing to say about a latrine that works.
 
 And it costs most exactly when it is hardest to pay, which is the whole difficulty with it. The night you are cold, filthy, hungry and seventh in a queue is the night nobody washes their hands, and it is also the night it counts, because tired people are the people handing round the food.
 
 ## The Short Version
 
-- Rule 29: the latrine goes downhill and downwind of the water and the beds, thirty metres at least from any water anybody drinks, never uphill of a spring.
-- Keep it inside about fifty metres of the beds or nobody uses it at night. Cover every use with soil, because flies and not smell are the reason, and mound a full pit over.
+- Rule 29: the latrine downhill and downwind of the water and the beds, thirty metres at least from drinking water, never uphill of a spring, inside about fifty metres of them or nobody uses it at night, every use covered with soil because of flies.
 - Rule 2: soap or wet ash, all surfaces, between the fingers, under short nails, twenty seconds, rinsed with poured water, never a shared bowl. After the latrine, after nursing, before food.
 - Diarrhoea kills by the water going out, not by the illness: sunken eyes, little or no dark urine, pinched skin that stays pinched, too tired to drink. Whoever nurses does not cook.
 - Oral rehydration: one litre of clean water — boiled or treated, Rule 28, which matters more than the recipe — six level teaspoons of sugar, half a level teaspoon of salt, erring under on the salt, no saltier than tears.
 - A mouthful every minute or two for hours. A sealed packet of proper salts, used exactly as printed, beats any kitchen mixture; clean water alone still beats waiting. Keep feeding them throughout.
 - Wounds: irrigate with far more drinkable water than feels sensible until it runs clear, nothing strong poured in, never close a dirty or old one, keep it covered. Act on pain rising after day two, spreading redness, pus or red streaks.
 - Frozen flesh: rings and tight boots off, warm the person first, never thaw what you cannot keep thawed, then soak in comfortably warm water until soft and red. Never dry heat, never rubbing, never a broken blister.
-- Teeth: scrub twice a day and between them, sweet things with a meal. Bleeding gums with loose teeth is diet. Swelling under the jaw or fever is an emergency: hourly salt-water rinses, fluids, propped up, nothing sharp and nobody with pliers.
+- Teeth: scrub twice a day and between them, sweet things with a meal. Bleeding gums with loose teeth is diet. A bad tooth with fever: hourly salt-water rinses, fluids, propped up, nothing sharp and nobody with pliers.
+- But swelling spreading under the jaw or neck, or trouble swallowing, is an airway closing: sit them up, stay with them, chapter 3.

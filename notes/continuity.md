@@ -639,6 +639,23 @@ directly. Use them; do not reinvent or contradict them.
   rewarming and the no-rubbing clause, chapter 06 for having food, and chapter 11 for pacing.
   It names **no place**, so no Places row is owed or corrected.
 
+- **Chapter 12's two review rounds, settled and binding on later chapters.** (1) A pace
+  reference must say whether it means single steps or chapter 11's paired count: chapter 12's
+  thirty metres is **forty single steps**. (2) Rings, a watch and tight footwear come off a
+  frozen hand or foot **before** rewarming, because it swells. (3) **A Short Version bullet
+  may not put a lethal and a minor condition behind one action list.** Swelling under the jaw
+  is an airway closing and has its own bullet and its own action — sit them up, stay with
+  them, chapter 03 — while abscess home care is keyed to a bad tooth with fever; neither
+  bullet names trismus, so the bullets cannot re-create the tetanus misroute the prose fixes.
+  The room came from merging the two siting bullets, which cost the bullets their statement
+  of pit closure; that now lives in the depth paragraph only. (4) **Where cure is impossible
+  the chapter still names a fallback**, every time: company and trying anyway for the
+  un-rehydratable; warmth, the limb up, fluids, rest and company for a spreading infection;
+  the latrine and the jug three weeks earlier for bloody diarrhoea; and dark, quiet and as
+  little handling as possible for tetanus, because light, noise and touch set off the spasms.
+  A later chapter removing one of those sentences as redundant should check what it was doing
+  in its position, not only whether the idea appears elsewhere.
+
 ---
 
 ## Rule ledger
