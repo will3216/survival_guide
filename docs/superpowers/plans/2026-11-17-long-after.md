@@ -12,11 +12,16 @@
 
 ## Global Constraints
 
-- **The narrator is never ironic about technique.** Comedy comes from framing, anecdote, and his sense of what is normal — never from giving the reader bad information.
+- **The narrator is never ironic about technique.** He was a grunt before the Collapse and a grunt after it; he was never in charge of anything, he was present for the famous events while holding something and facing the wrong way, and everything he knows he learned afterwards by getting it wrong first. Comedy comes from **what he fails to notice, what happens to his body, and his unshakeable good mood** — never from giving the reader bad information.
+- **The contract: the prose may miss the point. `## The Short Version` never does.** A chapter may wander, bury its own lesson in an anecdote and move on without noticing what it just taught. The checklist is where his competence appears undiluted: clean, correct, ordered, actionable, and complete without the chapter around it. Being oblivious about significance is not the same as being unreliable about technique. If a chapter buries its lesson and the bullets also bury it, the chapter is broken — fix the bullets, not the burial.
+- **What he does not notice, every chapter.** At least one of: that the event he is describing is the one people tell stories about; that the person he is describing became someone; that what he did was difficult, brave or clever; that the lesson he just delivered was a lesson. **Never signposted** — no "little did I know," no "which tells you something." The reader does the work.
+- **The comedy engines rotate.** Three: bodily consequences; proximity to glory, facing the wrong way; unglamorous expertise. One carries each chapter and a second may show up once. No chapter runs all three hard, no engine dominates the book, and there is no bitterness and no self-pity in any of them.
+- **T., the editor, is the second voice.** One to three interventions per chapter, each a blockquote opening `> **— T.**`, placed immediately after the passage it reacts to, never inside a numbered procedure, and **never after `## The Short Version`** — that checklist is the narrator's and is the last text in the file. At least one beat per chapter is the **exasperated** kind (some version of *no, that is not the takeaway*), where an eloquent person briefly stops being eloquent. **T. corrects meaning, never method. This is inviolable** — where T. touches a technique at all it is to confirm it or to note having seen it work, so a reader is never left unsure whether the instruction is sound. T. is cleverer than the narrator and more perceptive about people, while being naive about the vanished world. The two voices never meet; the narrator will never know he was read.
 - **No invented numbers.** Treatment ratios, tourniquet placement, water and calorie minimums, food-preservation safety, and fuel storage life come from established real-world guidance or they do not appear. Where guidance is contested, take the conservative position and say why. Anything uncertain is written vaguer rather than wronger.
 - **Every load-bearing factual claim gets an entry in `notes/accuracy-log.md`** under that chapter's heading, naming the real-world basis.
-- **Off the page regardless of framing:** weapons and explosives manufacture; operationalized coercive-control technique. Cults are handled as failure modes to recognize.
-- **Tone register:** mostly light with a dark undertow. At most **one** dark aside per chapter, dropped and not revisited.
+- **Off the page regardless of framing:** weapons and explosives manufacture; operationalized coercive-control technique. Cults are handled as failure modes to recognize — from underneath, by a man who did chores for one and has no vocabulary for what he watched, which is how most people meet it.
+- **Tone register: comically upbeat, against the content.** He is relentlessly, genuinely cheerful about an apocalypse. Nothing is a tragedy; everything is a thing that happened and can be worked around. This is temperament, not a coping mechanism he is visibly operating, and **there is no chapter in which he becomes a different man.** He under-reports: scale the language *down* as the event scales up.
+- **Where the darkness lives — there is no designated dark aside any more.** No budget to spend, no trapdoor to open. **The horror arrives in things he says brightly and walks straight past**: a terrible fact delivered in the same register and sentence length as a note about hinge grease, with the paragraph carrying on to the practical point as though it were a minor convenience. The reader flinches; he does not. A dark line must be in the register of the sentences around it, must serve the technique rather than the mood, and must not be acknowledged by the next sentence. A narrator pausing to be sad is not over-budget, it is **off-voice**.
 - **Tone touchstones:** Zombieland governs voice, violence, and instructiveness. Mad Max governs world only. No proper nouns from either.
 - **No *Mad Max* or *Zombieland* proper nouns.** Every faction, god, place, and person is original.
 - **Chapter word count:** 1,800–3,200 words, excluding HTML comment blocks.
@@ -1292,17 +1297,23 @@ git commit -m "Write chapter NN: <title>"
 - Create: `manuscript/01-triage.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** The book's first chapter has one job: teach the reader to order their own problems instead of solving whichever one is loudest. Open with the first hour — he spent it looking for his glasses. Cites that as the stupidest hour of his life and the reason he is qualified to write this.
+**Brief.** The book's first chapter has one job: teach the reader to order their own problems instead of solving whichever one is loudest. Open with the first hour, which he spent on his knees on his own kitchen floor patting for his glasses — they had gone off the counter in the night. He searched the floor in squares, left to right, because that is how you find a thing on a floor. He cut both palms on the lens that had already cracked and did not notice until he tried to hold a cup an hour later. Edda Mull, two doors along the landing, eighty-one, filled her bath before she looked out of the window. He calls the hour the stupidest of his life and the reason he is qualified to write this.
 
 Instruction: the rule of threes as a triage tool (roughly three minutes without air, three hours without shelter in genuinely hostile cold or heat, three days without water, three weeks without food) — presented as *the order to think in*, with the explicit caveat that the numbers are a mnemonic and not a guarantee. Then panic as a cause of death: what it actually does to decision-making, and the specific countermeasure of doing one small ordered physical task. Then the three questions that order everything after: Am I bleeding? Can I breathe where I am standing? Does anyone know where I am? Close on *Rule 4: Count before you move* — which is both a joke about his glasses and the actual technique.
+
+**What he does not notice.** That searching a floor in squares instead of running out of the door was the first correct thing he ever did, and that it is exactly the technique this chapter teaches. He files the hour as a waste and moves on to Edda Mull's bath, which he considers the clever part of the morning and hers.
+
+**Comedy engine.** **Bodily consequences** carries the chapter — the knees, the glass, the cup he cannot hold. **Unglamorous expertise** shows up once, in the way he describes searching a floor properly, and is not flagged as expertise.
+
+**T. intervention.** One beat, the **exasperated** kind, placed immediately after the "stupidest hour of my life" line: every house T. knows counts before it moves, children are taught to, and he is describing the morning all of that came out of as a waste of an hour. T. does not touch the technique.
 
 **Rules.** Introduces **Rule 4: Count before you move.** (already in the seeded ledger).
 
 **Accuracy entries.** The rule-of-threes mnemonic, flagged as a mnemonic with the real caveats. Panic/acute stress effects on decision-making. The "do one ordered task" countermeasure.
 
-**Illustration slots.** `01-plate-01` — the rule of threes as a four-step orange staircase, each tread labeled with its interval. `01-gag-01` — a man on his knees in debris patting the floor for his glasses, apocalypse visible and ignored through the window behind him. `01-gag-02` — the three questions as a tiny flowchart, drawn on the back of an envelope.
+**Illustration slots.** `01-plate-01` — the rule of threes as a four-step orange staircase, each tread labeled with its interval. `01-gag-01` — a man on his knees in debris, palms cut, patting the floor for his glasses in neat squares, entirely cheerful, facing away from the window through which the end of the world is visible and ignored. `01-gag-02` — the three questions as a tiny flowchart on the back of an envelope, in his handwriting, with a bloody thumbprint in the corner that the caption does not mention.
 
-**Banned moves for this chapter.** Do not describe the Collapse's cause. Do not open on the word "survival."
+**Banned moves for this chapter.** Do not describe the Collapse's cause. Do not open on the word "survival." No "little did I know" about the hour.
 
 ---
 
@@ -1312,15 +1323,21 @@ Instruction: the rule of threes as a triage tool (roughly three minutes without 
 - Create: `manuscript/02-run-or-dig-in.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** The decision everyone gets wrong in both directions. Open with the Spoke's rule about it, and the fact that the Spoke was boring and alive while the clever people were neither.
+**Brief.** The decision everyone gets wrong in both directions. Open in the Spoke's doorway, where he was standing with two bags and being told to move, when Halla Dorn said the thing she said: decide by noon, say it out loud, move while the light is still on your side. He gives her sentence one line and then four times as many words to the bags — the left one was packed wrong, high and soft, and went over his shoulder every time he turned. The Spoke was boring and alive while the cleverer house down the valley deliberated for three days and was neither.
 
 Instruction: the real shelter-in-place vs. evacuate decision — what makes staying correct (structure sound, water on hand, the hazard is outside and passing), what makes leaving correct (structure compromised, hazard is where you are and worsening, no water), and the trap of leaving late, which is how most people die of this decision. Then the go-bag: the bag you should already own, built around water, light, warmth, documents, medication, and a knife, with the honest note that everyone's first bag is too heavy and the fix is carrying it up a flight of stairs once. Then route choice: roads are fast and watched, water courses navigate themselves, and the second floor is not safer.
+
+**What he does not notice.** That Halla Dorn became someone — her sentence is now quoted daily by people who have never heard her name attached to it. To him she was the bag keeper, a woman who weighed things monthly and labelled them, and the interesting thing about the doorway is that he was in the way.
+
+**Comedy engine.** **Proximity to glory, facing the wrong way** carries the chapter: the most quoted sentence in the book arrives as an interruption to a complaint about load distribution. **Unglamorous expertise** shows up once — the bag room, the monthly weighing, the twice-yearly walk-out drill — delivered as housekeeping.
+
+**T. intervention.** One beat, the **appreciative** kind, after the doorway passage: T. was taught that sentence before learning to read, has said it over a sick child, and notes that the manuscript's only account of its origin is wedged between two observations about a strap. T. confirms the Spoke's drill still works where T. lives.
 
 **Rules.** Cites **Rule 11: The second floor is not safer. It is only harder to leave.** (seeded). Introduces **Rule 23: Pack the bag for the stairs, not for the road.**
 
 **Accuracy entries.** Shelter-in-place vs. evacuation decision factors. Go-bag contents and the water-weight tradeoff. Why leaving late is the dominant failure mode.
 
-**Illustration slots.** `02-plate-01` — the go-bag cutaway, contents numbered with orange callouts, the same canvas bag from the style sheet. `02-gag-01` — two identical men, one labeled TOO EARLY sitting bored on a hill, one labeled TOO LATE as a pair of boots in a doorway. `02-gag-02` — the first bag, absurdly overpacked, with a cast-iron pan lashed to it.
+**Illustration slots.** `02-plate-01` — the go-bag cutaway, contents numbered with orange callouts, the same canvas bag from the style sheet. `02-gag-01` — two identical men, one labeled TOO EARLY sitting bored on a hill with his bag beside him, one labeled TOO LATE as a pair of boots in a doorway; the boots are the narrator's pattern from the character sheet. `02-gag-02` — his own first bag, absurdly overpacked with a cast-iron pan lashed to it, and him underneath it halfway up a staircase, cheerful.
 
 ---
 
@@ -1330,17 +1347,27 @@ Instruction: the real shelter-in-place vs. evacuate decision — what makes stay
 - Create: `manuscript/03-body.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** The most load-bearing chapter in the book for accuracy. The narrator is noticeably more careful here than anywhere else, and says so: this is the one chapter he made someone else check.
+**Brief.** The most load-bearing chapter in the book for accuracy. The narrator is noticeably more careful here than anywhere else, and says so: this is the one chapter he made someone else check, and he names who — a man who mended nets and had better hands than his.
+
+Open on his own arm. He put it through a window getting hold of somebody who was on the wrong side of it, pressed the bleed with a folded cap, and lifted off every ten seconds to see whether it had stopped, which is why it did not stop for twenty minutes. Somebody at the Ninth Hand took his wrist, put it back down in one place and held it there without saying anything, and that is the whole of Rule 7. His thumb has not bent properly since. He mentions the person he pulled through the window in a subordinate clause, on the way to the point about the cap.
 
 Instruction, in strict priority order: severe bleeding first — direct pressure, hard and continuous, with the real detail that pressure means one spot and both hands and minutes, not dabbing; wound packing; tourniquet placement high and tight above the wound, not over a joint, tightened until bleeding stops, time noted, never loosened by the person who applied it. Then airway and breathing. Then shock — recognition and positioning, keep warm, no food or drink. Then fractures — splint in the position found, immobilize the joints above and below, check circulation past the splint. Then the honest list of what he cannot fix and neither can you: internal bleeding, head injuries that worsen, anything abdominal. He is plain that the correct answer to most of those used to be a hospital and is now company.
+
+This chapter pays the debt recorded in `notes/continuity.md`: it carries the long version of direct pressure that chapter 1 promised and chapter 2 pointed its go-bag line at.
+
+**What he does not notice.** That reaching through a window for somebody was difficult or brave. He reports it as the origin of a procedural error — he used the wrong thing to press with and kept looking — and the only consequence he records is the thumb.
+
+**Comedy engine.** **Bodily consequences** carries the chapter, hard: every technique here is indexed to a part of him that no longer works properly, handed over gladly as credentials. **No joke lands inside a procedure.** The medicine is flat, exact, and unfunny; the comedy sits entirely in the inventory of how he came to know it.
+
+**T. intervention.** One beat, the **exasperated** kind, after he explains that he had the chapter checked: the great authority on staying alive submitted his bleeding chapter to a man who mended nets, and names the nets. T. then confirms — carefully, as T. always does with technique — that this chapter is what T. was taught, word for word, and that it is correct.
 
 **Rules.** Introduces **Rule 7: Pressure is a place, not a motion.**
 
 **Accuracy entries.** One per technique above, each with its published basis and a confidence marker. Tourniquet guidance and the never-loosen point get their own entries. The "what cannot be fixed" list gets an entry confirming it is accurately scoped.
 
-**Illustration slots.** `03-plate-01` — direct pressure and wound packing, two panels, numbered callouts, hands only, no gore, no blood depicted as color. `03-plate-02` — tourniquet placement on a limb diagram, with the orange callout for the time-written-down step. `03-gag-01` — the narrator's own list of things he has splinted with, including a road sign and, labeled regrettable, a guitar neck.
+**Illustration slots.** `03-plate-01` — direct pressure and wound packing, two panels, numbered callouts, hands only, no gore, no blood depicted as color. `03-plate-02` — tourniquet placement on a limb diagram, with the orange callout for the time-written-down step. `03-gag-01` — the narrator's own list of things he has splinted with, drawn as the splints themselves strapped to his own arms and legs all at once, including a road sign and, labeled regrettable, a guitar neck; he is pleased.
 
-**Banned moves for this chapter.** No gore in prose or plate. No joke lands inside a procedure — the dark aside, if used, goes in the closing section, not the instruction.
+**Banned moves for this chapter.** No gore in prose or plate. No joke inside a procedure. The window anecdote is told brightly and walked past; it does not become a scene.
 
 ---
 
@@ -1350,7 +1377,7 @@ Instruction, in strict priority order: severe bleeding first — direct pressure
 >
 > Run `python3 -m pytest tests/ -q`, `python3 scripts/lint_manuscript.py`, and `python3 scripts/collect_illos.py`, then report the chapter word counts.
 >
-> Ask the user to read chapters 1–3 and confirm: is the narrator's register right? Is the comedy-to-instruction ratio right? Is the dark aside landing as a trapdoor rather than a tone shift? Are the chapters too dense or too thin?
+> Ask the user to read chapters 1–3 and confirm: is the narrator's register right — upbeat, never ironic about technique, never winking? Is the comedy-to-instruction ratio right? Is the horror arriving as something said brightly and walked past, rather than as a tone shift? Is "what he does not notice" landing without being signposted? Are T.'s interventions working as a second voice, and does T. stay off the method? Are the chapters too dense or too thin?
 >
 > Apply any corrections to all three chapters **and to `notes/style-guide.md`** before continuing, so the correction propagates instead of being re-litigated at chapter 12.
 
@@ -1362,15 +1389,21 @@ Instruction, in strict priority order: severe bleeding first — direct pressure
 - Create: `manuscript/04-water.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** Open on the Ninth Hand's water ceremony, which was theater, and the fact that the theater was load-bearing anyway — the first quiet foreshadowing of Part V. Then he gets practical and slightly annoyed.
+**Brief.** Open on the Ninth Hand's water ceremony, which he carried the bucket in for most of two years because he was on the rota and nobody told him otherwise. He was facing the cistern — the wrong way — on the night everybody else means when they talk about that place. What he supplies instead is that the handprints went on with the wrong hand, that the lid was cracked, that he had asked twice about the lid, and that the man standing on it had a good voice for it. The theater was load-bearing anyway; he says so without knowing he has said anything. Then he gets practical and slightly annoyed.
 
 Instruction: quantity first — roughly one gallon per person per day for drinking and basic hygiene, more in heat or exertion, and the note that rationing water is a worse idea than people think because dehydration degrades the judgment you need to find more. Sourcing, ranked by trouble: stored and tanked water, rain catchment, flowing surface water, standing water, and the ones not worth it. Then treatment, carefully distinguished: filtration removes particulates and some organisms but is not disinfection; boiling is the most reliable method available (a rolling boil, one minute, three minutes at high altitude); chemical treatment with unscented household bleach at the published ratio, mixed, stood for the published time, and the clear statement that cloudy water must be filtered or settled first and the dose changes. The lies in the title: that running water is safe, that clear water is clean, that you can taste the difference, and that a filter straw is a water plan.
+
+**What he does not notice.** That the night he is describing is the one people tell stories about. He never indicates that there is a version; he simply supplies a duller, first-hand set of facts because they are relevant to cistern lids, and the contradiction is never argued.
+
+**Comedy engine.** **Proximity to glory, facing the wrong way** carries the chapter. **Unglamorous expertise** shows up once, in the settling-and-decanting passage, where he is better than he knows.
+
+**T. intervention.** One beat, the **appreciative** kind, after the ceremony passage: the ceremony is still performed in two valleys T. can name, the counting of the boil is still done on the fingers, and the man who held the bucket for it describes it as his turn on the rota. T. notes having seen the method work and does not touch it.
 
 **Rules.** Cites **Rule 9: Water first. Always.** (seeded). Introduces **Rule 28: Clear is not clean.**
 
 **Accuracy entries.** Daily water quantity. Boil times including altitude. Bleach concentration, dose, contact time, and the cloudy-water caveat — this entry must name its source precisely and be marked conservative-choice. Filtration vs. disinfection distinction. The rationing point.
 
-**Illustration slots.** `04-plate-01` — the three-stage barrel filter in cutaway, layers numbered, captioned so that the stage everyone skips is the one the caption names. `04-plate-02` — a treatment decision diagram: clear vs. cloudy, into boil vs. filter-then-treat. `04-gag-01` — the Ninth Hand's water ceremony, nine-fingered handprints on the cistern, everyone extremely solemn about a bucket.
+**Illustration slots.** `04-plate-01` — the three-stage barrel filter in cutaway, layers numbered, captioned so that the stage everyone skips is the one the caption names. `04-plate-02` — a treatment decision diagram: clear vs. cloudy, into boil vs. filter-then-treat. `04-gag-01` — the Ninth Hand's water ceremony, nine-fingered handprints on the cistern, everyone extremely solemn, a man mid-oration on the cracked lid; at the edge of the frame, facing away from all of it, the narrator holding the bucket and looking at the crack.
 
 ---
 
@@ -1380,15 +1413,21 @@ Instruction: quantity first — roughly one gallon per person per day for drinki
 - Create: `manuscript/05-weather.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** Open with his conviction, held for two years, that cold kills by being cold. It kills by being wet, and he learned that the hard way at about four degrees above freezing, which is the temperature at which people who think they understand hypothermia get it.
+**Brief.** Open with his conviction, held for two years, that cold kills by being cold. It kills by being wet, and he got hypothermic at about four degrees above freezing — sitting down, out of the wind, soaked through to the shirt, eating, in an extremely good mood. That is the temperature at which people who think they understand hypothermia get it. Somebody got him dry and he cannot remember who, which he offers as a symptom rather than as a regret, and then he is straight on to ground mats.
 
-Instruction: cold first — wet and wind as the real multipliers, the mechanics of insulation (loft, layers, and the ground stealing more heat than the air), recognition of hypothermia including the fumbling and the mood change that precedes the shivering stopping, and rewarming done gradually with the caveats about alcohol and about rubbing. Then heat — the distinction between heat exhaustion and heat stroke, which is the one to actually memorize, because one is rest and fluids and shade and the other is an emergency defined by altered mental state; active cooling; working the cool hours and sleeping the hot ones. Then shelter as a heat problem rather than an architecture problem: small, insulated from the ground, ventilated, and the near-universal beginner error of building something impressively large and unheatable. Then fire: fuel laddering, a real reason to prefer a small fire, and carbon monoxide, which he introduces by saying he has lost more people to enclosed fires than to the cold they were escaping.
+Instruction: cold first — wet and wind as the real multipliers, the mechanics of insulation (loft, layers, and the ground stealing more heat than the air), recognition of hypothermia including the fumbling and the mood change that precedes the shivering stopping, and rewarming done gradually with the caveats about alcohol and about rubbing. Then heat — the distinction between heat exhaustion and heat stroke, which is the one to actually memorize, because one is rest and fluids and shade and the other is an emergency defined by altered mental state; active cooling; working the cool hours and sleeping the hot ones. Then shelter as a heat problem rather than an architecture problem: small, insulated from the ground, ventilated, and the near-universal beginner error of building something impressively large and unheatable. Then fire: fuel laddering, a real reason to prefer a small fire, and carbon monoxide, which he introduces by mentioning, in the same tone as the hinge-grease sentence beside it, that he has lost more people to enclosed fires than to the cold they were escaping — and then carries straight on to the flue.
+
+**What he does not notice.** That the lesson he just delivered was a lesson. He states the whole doctrine of wet-over-cold, which is the reason a good number of his readers are alive, and treats it as an anecdote about a shirt on the way to explaining loft.
+
+**Comedy engine.** **Bodily consequences** carries the chapter — the good mood at four degrees is the joke, and the joke is never the suffering. **Unglamorous expertise** shows up once, in the ground-conduction passage.
+
+**T. intervention.** One beat, the **exasperated** kind, immediately after the wet-over-cold statement: he has just explained why half of us are alive and has moved on to the subject of mats. T. does not restate the technique, because T. does not need to; the Short Version will.
 
 **Rules.** Introduces **Rule 16: Wet is colder than cold.** and **Rule 34: Build small. Heat is the rent.**
 
 **Accuracy entries.** Hypothermia recognition sequence and rewarming cautions. Ground conduction. Heat exhaustion vs. heat stroke differentiation and the altered-mental-state red flag. Active cooling. Carbon monoxide risk from enclosed combustion.
 
-**Illustration slots.** `05-plate-01` — the layering diagram, three layers numbered, with the ground-insulation callout emphasized in orange. `05-plate-02` — heat exhaustion vs. heat stroke as a two-column comparison, the altered-mental-state row flagged. `05-gag-01` — a beautifully built, enormous, freezing shelter, with the narrator looking at it with visible regret.
+**Illustration slots.** `05-plate-01` — the layering diagram, three layers numbered, with the ground-insulation callout emphasized in orange. `05-plate-02` — heat exhaustion vs. heat stroke as a two-column comparison, the altered-mental-state row flagged. `05-gag-01` — a beautifully built, enormous, freezing shelter; the narrator outside it, cheerfully regretful, asleep on the bare ground beside the door because it is warmer there.
 
 ---
 
@@ -1398,15 +1437,21 @@ Instruction: cold first — wet and wind as the real multipliers, the mechanics 
 - Create: `manuscript/06-food.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** Open with the man who starved to death with four hundred pounds of dried beans, because panic is not a calorie and he never learned to cook them. Then the central, deliberately deflating point: in the first week food is a morale problem, not a survival problem, and treating it as the emergency is how people drown while looking for lunch.
+**Brief.** Open with the man who starved to death with four hundred pounds of dried beans. The narrator carried those beans in for him — sacks, over a fortnight, up an outside stair — and never once asked whether anybody in the building could cook them, which he offers as the reason he is particular about sacks. Then the central, deliberately deflating point: in the first week food is a morale problem, not a survival problem, and treating it as the emergency is how people drown while looking for lunch.
 
 Instruction: calorie math done honestly — a sedentary adult's maintenance versus what hard physical labor actually costs, and the consequence that a working survivor needs far more than a hiding one. What stores and what does not: the real shelf behavior of grains, legumes, fats (the first thing to go rancid and the thing you will crave most), salt as the most valuable thing in a pantry, and canned goods including the specific warnings — bulging, leaking, and seams — that mean do not open it. Then foraging, handled with deliberate skepticism: the calorie return on wild plants is poor, misidentification is a real and occasionally fatal risk, and the only honest advice is to learn three local plants cold from someone who knows them rather than twenty from a book. Then the chapter's genuine skill, cooking dried legumes and grains with scarce fuel: soaking, a lid, and the insulated-pot trick, which turns fuel into time.
+
+**What he does not notice.** That the person he taught to soak and bank a pot became someone — she fed a valley for thirty years and there is a measure named after her. She arrives in a clause about lids, with no follow-up, because the lid is the point.
+
+**Comedy engine.** **Unglamorous expertise** carries the chapter: a man describing soaking times with the enthusiasm of a man describing a good hinge, correct to the hour, who has never considered that this is a skill. **Bodily consequences** shows up once, in the fortnight of sacks and what it did to his back.
+
+**T. intervention.** One beat, the **appreciative** kind, after the lid passage: T. names the measure, names the woman, and notes that the only surviving account of how she learned is a subordinate clause in a paragraph about pot lids. T. confirms the insulated-pot method is still how it is done.
 
 **Rules.** Introduces **Rule 19: Salt is money.** and **Rule 42: Learn three plants completely before you learn twenty badly.**
 
 **Accuracy entries.** Maintenance vs. labor calorie ranges. Shelf-stability ordering of staples and fat rancidity. Canned-goods spoilage warning signs. The foraging calorie-return and misidentification caution. Fuel-efficient legume cooking.
 
-**Illustration slots.** `06-plate-01` — the insulated-pot method in four numbered panels. `06-plate-02` — a can with the three warning signs labeled in orange, captioned flatly. `06-gag-01` — the bean man's pantry, magnificent and untouched, one pot on the floor.
+**Illustration slots.** `06-plate-01` — the insulated-pot method in four numbered panels. `06-plate-02` — a can with the three warning signs labeled in orange, captioned flatly. `06-gag-01` — the bean man's pantry, magnificent and untouched, one pot on the floor; in the doorway, the narrator arriving with another sack on his shoulder, not looking at any of it.
 
 ---
 
@@ -1416,15 +1461,21 @@ Instruction: calorie math done honestly — a sedentary adult's maintenance vers
 - Create: `manuscript/07-first-people.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** The hinge chapter: the book pivots from things to people and never fully goes back. Open with the first stranger he met after the Spoke, who he nearly killed out of pure fright, and who later taught him to read a settlement. He does not name her and says why: she asked him not to put her in a book, and that is the kind of promise he still keeps.
+**Brief.** The hinge chapter: the book pivots from things to people and never fully goes back. Open with the first stranger he met after the Spoke. He had been sent out for a bucket; she took the bucket off him. He went for her out of pure fright, got about two steps, and went over a fence backwards, which he says is the most useful thing that has ever happened to him because it meant neither of them did anything worse. She then spent a year teaching him to read a settlement from outside it. He does not name her and says why: she asked him not to put her in a book, and that is the kind of promise he still keeps.
 
-Instruction: reading a group from outside before you approach — what the condition of their water, their children, their animals, and their fences tells you, and the specific tell that a place with no visible children and plenty of food is a place to walk past. Approach technique: visible hands, visible hunger, approach in daylight, and the difference between being unarmed and being harmless. Trade as the universal first conversation, with the real guidance that the first trade should be small, immediately resolved, and slightly in their favor. Then walking away: the signs that a group is not safe to join, and the single most useful thing in the chapter — that leaving is a skill, requires knowing your route out before you go in, and gets harder every day you stay. He notes he knew every one of these signs at the Ninth Hand and joined anyway. That is the chapter's dark aside and the setup for chapter 15.
+Instruction: reading a group from outside before you approach — what the condition of their water, their children, their animals, and their fences tells you, and the specific tell that a place with no visible children and plenty of food is a place to walk past. Approach technique: visible hands, visible hunger, approach in daylight, and the difference between being unarmed and being harmless. Trade as the universal first conversation, with the real guidance that the first trade should be small, immediately resolved, and slightly in their favor. Then walking away: the signs that a group is not safe to join, and the single most useful thing in the chapter — that leaving is a skill, requires knowing your route out before you go in, and gets harder every day you stay. He notes, in the same bright tone as the fence, that he could already recite every one of these signs when he walked through the Ninth Hand's gate with a broom over his shoulder, and stayed two years, and that it wasn't that bad. Then he is on to fences. That is the setup for chapter 15.
+
+**What he does not notice.** That she became someone. He gives her no title, no outcome and no weight — she is the woman who took his bucket and taught him about fences — and the reader is left holding the fact that the manuscript's one unnamed person is the one everybody would most like named.
+
+**Comedy engine.** **Proximity to glory, facing the wrong way** carries the chapter. **Bodily consequences** shows up once, in the fence.
+
+**T. intervention.** One beat, the **exasperated** kind, after the refusal to name her: T. knows precisely who she was, cannot print it, and says so at some length and with visibly failing composure, because he kept a promise made to somebody who has been dead for seventy years. T. is careful to add that his method for reading a settlement is sound and is still taught.
 
 **Rules.** Introduces **Rule 31: Know the way out before you go in.** and **Rule 12: Small first trade. Resolve it the same day.**
 
 **Accuracy entries.** Settlement condition indicators as genuine welfare signals. De-escalation and approach practice. Small-stakes first exchange as a trust-building mechanism.
 
-**Illustration slots.** `07-plate-01` — "reading a settlement from the ridge," a single wide scene with six orange numbered callouts keyed to the caption. `07-gag-01` — the correct approach posture and three incorrect ones, labeled, the last one captioned simply NO. `07-gag-02` — the Ninth Hand's gate, inviting, well-maintained, with nine-fingered handprints on it.
+**Illustration slots.** `07-plate-01` — "reading a settlement from the ridge," a single wide scene with six orange numbered callouts keyed to the caption. `07-gag-01` — the correct approach posture and three incorrect ones, labeled, the last one captioned simply NO; the last one is recognizably him going over a fence. `07-gag-02` — the Ninth Hand's gate, inviting, well-maintained, nine-fingered handprints on it, and the narrator walking in through it with a broom over his shoulder, cheerful.
 
 ---
 
@@ -1434,7 +1485,7 @@ Instruction: reading a group from outside before you approach — what the condi
 >
 > Run the full tooling pass and report word counts for chapters 1–7 plus the running total.
 >
-> Ask the user to read chapters 4–7 and confirm: is the Rules device earning its place or becoming a tic? Is the Ninth Hand thread building properly toward chapter 15? Is the accuracy log honest and specific enough to audit?
+> Ask the user to read chapters 4–7 and confirm: is the Rules device earning its place or becoming a tic? Are the three comedy engines rotating, or has one taken over? Is the Ninth Hand thread building properly toward chapter 15 — as something he did chores for, never something he ran? Is T. corrupting into a co-narrator, and has T. stayed off method entirely? Is the accuracy log honest and specific enough to audit?
 >
 > Apply corrections to the written chapters and the style guide before continuing.
 
@@ -1446,15 +1497,21 @@ Instruction: reading a group from outside before you approach — what the condi
 - Create: `manuscript/08-gear.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** Open on the pre-Collapse prepper's cache he found in year three: eleven thousand dollars of equipment, none of it maintained, the batteries dead in their housings and the canvas rotted, and a laminated inventory list. He kept the list. It was the only useful thing in there.
+**Brief.** Open on the pre-Collapse cache he was sent to empty in year three: four trips down a ladder with dead batteries weeping in their housings and canvas that came apart in his hands, eleven thousand dollars of equipment and not one maintained item in it. He kept the laminated inventory list, which was the only useful thing in there. He still has it. He has written on the back of it, in pencil, over the years, and the back is now the front.
 
-Instruction: the single organizing principle — gear is a loan against your future strength, and every item must pay rent in grams. The categories that always earn it: a container, a cutting edge, cordage, a means of making fire, light, and a way to carry water. Redundancy done properly, which means two different methods rather than two identical objects. Maintenance as the actual skill: edges, rust, canvas, rubber, and the fact that nearly all abandoned gear failed from neglect rather than use. Repairability as a purchase criterion. Then the honest section on what he carries now, which is embarrassingly little, and why that took twenty years to learn.
+Instruction: the single organizing principle — gear is a loan against your future strength, and every item must pay rent in grams. The categories that always earn it: a container, a cutting edge, cordage, a means of making fire, light, and a way to carry water. Redundancy done properly, which means two different methods rather than two identical objects. Maintenance as the actual skill: edges, rust, canvas, rubber, and the fact that nearly all abandoned gear failed from neglect rather than use. Repairability as a purchase criterion. Then the honest section on what he carries now, which is embarrassingly little, and why that took twenty years to learn. The cracked left lens is in the list, between the awl and the spare lace, with a note on what he does about the glare and no note at all about nobody making lenses any more.
+
+**What he does not notice.** That twenty years of unbroken maintenance discipline is difficult and rare. He presents the smallness of his kit as a mild embarrassment and the list on the back of the laminate as a habit, and does not connect either to the fact that he is sixty and most of the people with better equipment are not.
+
+**Comedy engine.** **Unglamorous expertise** carries the chapter: rot, rust, loft and lace, at a level of detail nobody asked for, offered apologetically. **Bodily consequences** shows up once, in the four trips down the ladder.
+
+**T. intervention.** One beat, the **appreciative** kind, after the "embarrassingly little" passage: the list he is embarrassed by is the packing list T.'s generation is taught as children, in that order, and T. has one in a drawer. T. notes it works.
 
 **Rules.** Introduces **Rule 6: Two methods, not two objects.** and **Rule 55: Gear you do not maintain is gear you do not have.**
 
 **Accuracy entries.** Degradation modes and realistic timelines for batteries, rubber, canvas, and fuel. Edge maintenance and rust prevention. The redundancy principle as a real reliability practice.
 
-**Illustration slots.** `08-plate-01` — the six categories as labeled icons, one per category, orange numerals. `08-gag-01` — the prepper's cache, magnificent and ruined, laminated list glowing with importance in orange. `08-gag-02` — the narrator's actual current kit, laid out flat, pathetically small, captioned with quiet pride.
+**Illustration slots.** `08-plate-01` — the six categories as labeled icons, one per category, orange numerals. `08-gag-01` — the cache, magnificent and ruined, canvas in rags and batteries bled out, the laminated list glowing with importance in orange; the narrator halfway down the ladder with an armful of it. `08-gag-02` — his actual current kit, laid out flat, pathetically small, the cracked glasses lying in the row with everything else, captioned with quiet pride.
 
 ---
 
@@ -1464,15 +1521,23 @@ Instruction: the single organizing principle — gear is a loan against your fut
 - Create: `manuscript/09-scavenging.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** Open with the observation that amateurs loot the front of the store and professionals go to the stockroom, the maintenance closet, and the roof. The difference is not courage, it is method, and method is teachable.
+**Brief.** Open with the observation that amateurs loot the front of the store and professionals go to the stockroom, the maintenance closet, and the roof. The difference is not courage, it is method, and method is teachable. He is qualified because of one autumn in which he went through two separate roofs, the second of which he went through having decided the first one had taught him everything a roof could. He gives the autumn three sentences, two of them about joists.
+
+He also mentions, on the way past, which building he was in when the famous haul of that year came out of it — a clause, naming it the way you name a street — and what he actually reports about the day is the order the stairs were cleared in and whose boots were wet.
 
 Instruction: search as a systematic sweep rather than a treasure hunt — one direction, one room at a time, high and low, marking what has been cleared so you do not re-search and so the next person knows. Structural safety before value: what makes a building not worth entering, floor and stair assessment, and the rule that nothing inside is worth being trapped inside with. The places that are reliably unsearched: utility and janitorial spaces, vehicle trunks, the backs of appliances, pharmacy stockrooms rather than shelves, and office first-aid cabinets. What is actually valuable in year three versus year one — fasteners, fuel containers, intact rubber hose, medical supplies, salt, needles and thread, and the fact that nobody takes the needles. Then the ethics he actually holds, offered without preaching: he takes from the dead and not from the living, he does not strip a place a family is still using, and he leaves water.
+
+**What he does not notice.** That the day he is describing is the one people tell stories about. The haul is a clause; the stairs are the subject; and he never indicates that anyone has ever told it differently.
+
+**Comedy engine.** **Bodily consequences** carries the chapter — two roofs in one autumn, catalogued like weather. **Unglamorous expertise** shows up once, in the clearing mark and its variants, which he explains for longer than he explains the famous building.
+
+**T. intervention.** One beat, the **exasperated** kind, after the clause naming the building: T. spells out what came out of that building, what it is called now, and the fact that the only eyewitness account anyone has gives it eleven words and then discusses stair treads for a page.
 
 **Rules.** Introduces **Rule 21: Stockroom, not showroom.** and **Rule 47: Mark what you clear.**
 
 **Accuracy entries.** Structural assessment indicators for unsafe buildings. Systematic search methodology. Realistic salvage-value ordering.
 
-**Illustration slots.** `09-plate-01` — the sweep pattern through a floor plan, an orange dashed route with numbered stops and the clearing mark shown. `09-plate-02` — the clearing mark itself, drawn large, with its three variants labeled. `09-gag-01` — two scavengers, one wrestling a television, one quietly pocketing a box of needles.
+**Illustration slots.** `09-plate-01` — the sweep pattern through a floor plan, an orange dashed route with numbered stops and the clearing mark shown. `09-plate-02` — the clearing mark itself, drawn large, with its three variants labeled. `09-gag-01` — two scavengers: one wrestling a television down a corridor, and the narrator quietly pocketing a box of needles with one leg through the ceiling behind him, entirely untroubled.
 
 ---
 
@@ -1482,17 +1547,23 @@ Instruction: search as a systematic sweep rather than a treasure hunt — one di
 - Create: `manuscript/10-machine.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** Vera Ott's chapter, and the only one where the narrator is clearly out of his depth and knows it. Open with her assessment of him, which was accurate and unkind. Her voice runs through the chapter as interruptions he is still hearing thirty years later.
+**Brief.** Vera Ott's chapter. He was her hands for six years, which he describes as her telling him which way to turn things, and he is clear that he did not understand most of what he was doing at the time. Open with her assessment of him, which was accurate and unkind — a pair of hands with an opinion — delivered while he was holding the lamp. Her voice runs through the chapter as interruptions he is still hearing thirty years later. Also in the opening: the motorcycle. It hit him in a yard, at walking pace, ridden by somebody he had been told twice to stand clear of, and he is still enthusiastic about the motorcycle.
 
-Instruction: fuel first, because fuel is the whole problem — gasoline degrades over months and is the least durable thing in the fuel chain, diesel keeps longer but has its own problems, storage wants full, sealed, cool and dark containers, and the real safety content on vapor, static, and never doing any of it indoors. Then engine triage as a diagnostic order rather than a repair manual: fuel, spark, air, compression, and the discipline of checking the stupid thing first because it is usually the stupid thing. Tires, which are the actual limiting factor on a vehicle's life and cannot be manufactured by anyone the reader will ever meet. Then the chapter's honest spine, which is Vera's: most vehicles are not repairable by you, the correct relationship to a machine is maintenance rather than heroics, and a bicycle you can fix will outlast a truck you cannot. The dark aside belongs to how she died, in one line, not in this chapter's instruction.
+Instruction: fuel first, because fuel is the whole problem — gasoline degrades over months and is the least durable thing in the fuel chain, diesel keeps longer but has its own problems, storage wants full, sealed, cool and dark containers, and the real safety content on vapor, static, and never doing any of it indoors. Then engine triage as a diagnostic order rather than a repair manual: fuel, spark, air, compression, and the discipline of checking the stupid thing first because it is usually the stupid thing. Tires, which are the actual limiting factor on a vehicle's life and cannot be manufactured by anyone the reader will ever meet. Then the chapter's honest spine, which is Vera's: most vehicles are not repairable by you, the correct relationship to a machine is maintenance rather than heroics, and a bicycle you can fix will outlast a truck you cannot. Her death is not in this chapter; it is one line in chapter 16 and belongs there.
+
+**What he does not notice.** That Vera Ott became someone. He has no sense that she is quoted, that anyone else learned from her, or that being her hands for six years is a credential. She is a woman with no patience for him who was usually right, and the reason she comes up is the fuel.
+
+**Comedy engine.** **Unglamorous expertise** carries the chapter — containers, cool and dark, the stupid thing first — and the mismatch between how much he knows and how little he thinks it is worth is at its widest here, because he keeps attributing all of it to her. **Bodily consequences** shows up once, in the motorcycle.
+
+**T. intervention.** One beat, the **appreciative** kind, after Vera's assessment of him: T. quotes it back, notes that the woman who said it taught the man who taught everyone, and observes that he has recorded the insult in full and her first name nowhere near it.
 
 **Rules.** Introduces **Rule 38: Check the stupid thing first.** and **Rule 64: A bicycle you can fix beats a truck you cannot.**
 
 **Accuracy entries.** Gasoline and diesel shelf life and storage conditions. Fuel-handling safety: vapor, static, ventilation. The fuel/spark/air/compression diagnostic order. Tire degradation as the binding constraint.
 
-**Illustration slots.** `10-plate-01` — the fuel storage diagram, correct and incorrect containers side by side, the orange callout on ventilation. `10-plate-02` — the four-step triage order as a flowchart, "check the stupid thing first" as step zero. `10-gag-01` — Vera Ott, welding mask up, mid-sentence, pointing at something off-panel with a wrench.
+**Illustration slots.** `10-plate-01` — the fuel storage diagram, correct and incorrect containers side by side, the orange callout on ventilation. `10-plate-02` — the four-step triage order as a flowchart, "check the stupid thing first" as step zero. `10-gag-01` — Vera Ott, welding mask up, mid-sentence, pointing off-panel with a wrench; at the edge of the frame, a pair of boots sticking out from under a motorcycle, and a hand giving a thumbs-up.
 
-**Banned moves for this chapter.** No weapons content. Do not let the fuel section drift into anything incendiary — it is a storage-and-safety section and stays one.
+**Banned moves for this chapter.** No weapons content. Do not let the fuel section drift into anything incendiary — it is a storage-and-safety section and stays one. Vera does not die here.
 
 ---
 
@@ -1502,15 +1573,21 @@ Instruction: fuel first, because fuel is the whole problem — gasoline degrades
 - Create: `manuscript/11-voices.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** Open with the four months he spent believing he was the last person alive, which ended when he heard a woman reciting a shopping list over a radio for the company of saying it. He says that is still the most beautiful thing he has ever heard. Sincerity arrives suddenly here and is not apologized for.
+**Brief.** Open with the four months he spent believing he was the last person alive. He was not looking for anyone; he was walking a route and writing down where he had been, because that is what you do with a route. It ended when a radio he was carrying for somebody else put out a woman reciting a shopping list, slowly, for the company of saying it. He says, in one plain sentence, that it is the most beautiful thing he has ever heard. He does not undercut it and he does not write down what was on the list.
 
 Instruction: the cheap methods first, because they work — a message left where it will be found, the convention of a dead drop and a mark, and a schedule, which is the single highest-value idea in the chapter: two people who agree to check the same place on the same day of the week have solved most of their communication problem without any equipment. Then signaling: contrast, movement, and regularity as the three things that read as human at distance; why three of anything signals distress; why signals must be pointed at where people actually are. Then radio, honestly scoped: line of sight for the handhelds most people will find, antenna height mattering more than power, batteries as the real constraint, listening schedules, and the strong advice to listen far more than you transmit. Then navigation: maps as consumables, keeping a written route log, pacing, and the honest point that getting unlost is mostly a matter of having written down where you were.
+
+**What he does not notice.** That the broadcast he is describing is the one people tell stories about, and that he is the only person who heard the first of it. He was carrying somebody else's radio, in somebody else's valley, facing a hill. What he supplies is the weather and the fact that the batteries were nearly out.
+
+**Comedy engine.** **Proximity to glory, facing the wrong way** carries the chapter. **Unglamorous expertise** shows up once, in the route log, which he keeps better than anyone and considers a tidiness habit.
+
+**T. intervention.** One beat, the **exasperated** kind, after the shopping-list passage: the list is in a frame in two settlements T. can name, it is recited at weddings, and the one man alive who heard it did not write down a single item on it. T.'s composure goes entirely for two sentences and then returns.
 
 **Rules.** Introduces **Rule 14: Agree on a schedule and a place. That is a radio you do not have to carry.** and **Rule 72: Listen longer than you transmit.**
 
 **Accuracy entries.** Rule-of-three distress signaling. Contrast/movement/regularity as detection factors. VHF/UHF line-of-sight behavior and antenna height vs. power. Dead reckoning and route logging.
 
-**Illustration slots.** `11-plate-01` — the dead drop and its mark, cutaway, numbered. `11-plate-02` — antenna height versus power, two figures on a hill and in a valley, orange arcs showing range. `11-gag-01` — the shopping list, hand-lettered on a scrap, treated as a holy relic in a frame.
+**Illustration slots.** `11-plate-01` — the dead drop and its mark, cutaway, numbered. `11-plate-02` — antenna height versus power, two figures on a hill and in a valley, orange arcs showing range. `11-gag-01` — the shopping list, hand-lettered on a scrap, framed and garlanded as a holy relic; propped against the frame, a battered handheld radio with its case taped shut.
 
 ---
 
@@ -1520,15 +1597,21 @@ Instruction: the cheap methods first, because they work — a message left where
 - Create: `manuscript/12-rot.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** The chapter he says no one wants and everyone needs: nobody plans for the apocalypse by learning to dig a latrine properly, and more of his friends died of this chapter than of any other.
+**Brief.** The chapter he says no one wants and everyone needs. Open on his own jaw: an abscess in year seven, which he calls an interesting fortnight and describes in terms of what he could and could not chew and how far he could walk by day nine. He dug the latrines for three separate groups over the years because he was the one with the shovel, and he has never once called that a specialty. Somewhere in the first page, in the same register as everything around it, he notes that more of his friends died of this chapter than of any other, and then he is on to siting.
 
 Instruction: sanitation as the single highest-return survival practice there is — latrine siting relative to water and to living space, depth, covering, and the handwashing that is the actual intervention. Then water-borne and faecal-oral disease in plain terms, and the honest arithmetic that diarrhoeal illness kills far more people in a collapse than violence does, together with the one countermeasure anyone can do: oral rehydration, with the published salt-and-sugar ratio stated conservatively and the note that clean water matters more than the recipe. Then wound care over time: cleaning, irrigation, keeping it covered, the specific signs of infection worth acting on, and the limits of what topical care achieves. Then teeth, which get real space because nothing else in the book is as certain to happen to the reader: the unglamorous prevention that actually works, what an abscess is and why it is an emergency rather than an inconvenience, and his flat refusal to explain amateur extraction. Closes on hygiene as morale, which is the bridge to chapter 16.
+
+**What he does not notice.** That the lesson he just delivered was a lesson. He hands over the highest-return practice in the entire book — and a rule he numbered 2 — as a note he wrote to stop himself being lazy, and he is faintly apologetic about the length of the teeth section.
+
+**Comedy engine.** **Bodily consequences** carries the chapter: the jaw, the fortnight, the shovel. **Unglamorous expertise** shows up once, in the siting distances, which he knows to the pace.
+
+**T. intervention.** One beat, the **appreciative** kind, after Rule 2: that sentence is painted over every trough and every pump T. has ever stood at, in letters a foot high, and the man who wrote it has just explained that he wrote it for himself because he kept forgetting.
 
 **Rules.** Introduces **Rule 2: Wash your hands. I am serious. This is Rule 2.** and **Rule 29: Downhill and far from the water.**
 
 **Accuracy entries.** Latrine siting distances and depth. Handwashing as the primary intervention. Diarrhoeal disease burden. Oral rehydration solution ratio — named source, marked conservative-choice, with the clean-water caveat. Infection warning signs. Dental abscess as a genuine emergency.
 
-**Illustration slots.** `12-plate-01` — latrine siting, cross-section of slope, water, and dwelling, with orange distance callouts. `12-plate-02` — the oral rehydration recipe as a measured diagram, deliberately plain. `12-gag-01` — Rule 2 rendered as a devotional poster, far too ornate, hung crooked.
+**Illustration slots.** `12-plate-01` — latrine siting, cross-section of slope, water, and dwelling, with orange distance callouts. `12-plate-02` — the oral rehydration recipe as a measured diagram, deliberately plain. `12-gag-01` — Rule 2 rendered as a devotional poster, far too ornate, hung crooked; underneath it, not looking up, the narrator washing his hands at a bucket.
 
 ---
 
@@ -1538,7 +1621,7 @@ Instruction: sanitation as the single highest-return survival practice there is 
 >
 > Run the full tooling pass. Report word counts for chapters 1–12, the running total, and the manifest slot count.
 >
-> Ask the user to read chapters 8–12 and confirm: is Vera Ott working as a second voice? Is the book's halfway point still funny, or has the practical density crowded the comedy out? Is the Rule corpus coherent — do any two Rules contradict each other?
+> Ask the user to read chapters 8–12 and confirm: is Vera Ott working as a teacher he was the hands of, rather than as a mentor-figure he has processed? Is the book's halfway point still funny, or has the practical density crowded the comedy out? Is the Rule corpus coherent — do any two Rules contradict each other, and is every one of them real advice compressed? Count the T. beats so far and confirm enough of them are the exasperated kind.
 >
 > Also verify the midpoint projection: at twelve chapters the total should be tracking toward 45k–55k. If it is tracking high, decide now whether Part IV and V chapters run shorter, rather than discovering it at chapter 20.
 
@@ -1550,15 +1633,23 @@ Instruction: sanitation as the single highest-return survival practice there is 
 - Create: `manuscript/13-growing.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** The chapter where the book's timeline turns: everything before this assumed you were passing through, and this one assumes you are staying. Open with the Bell Country's first garden, which failed completely, and the second, which did not, and the difference between them, which was water and patience rather than knowledge.
+**Brief.** The chapter where the book's timeline turns: everything before this assumed you were passing through, and this one assumes you are staying. Open on the Bell Country's first garden, which he hauled the water for, uphill, in the afternoons, because that was when he was free. It died. He hauled the same water for the second garden at dawn because somebody moved his rota, and that one did not die. The difference was water and patience rather than knowledge, and he is cheerfully clear that none of the knowledge was his. The Bellwright is in the opening with strong opinions about gradients, all of them correct, and asks him twice to move a barrow.
+
+**This chapter pays the refrigerator debt** recorded in `notes/continuity.md`. In the keeping-food half, four lines — not fewer, and placed where they belong — describing a thing called a refrigerator: a box that was cold inside, all the time, by itself, in every house. Written plainly, with real detail, and with no nostalgia whatsoever, because he mentions it as the reason drying is worth learning properly. The editor's preface has already promised the reader this passage exists and that it is the most re-read thing ever written; he gives it four lines and then discusses racks.
 
 Instruction: water capture before planting, because catchment area and storage, not soil, is what caps a garden — roof area, first-flush diversion, covered storage, and the mosquito problem. Soil as something built rather than found: compost, the nitrogen cycle in plain language, and why the first year's yield is a lie in both directions. Crop choice by calorie density and storability rather than by what is pleasant, which means roots, legumes, and squash before salad. Seed saving, with the genuinely important point about hybrid versus open-pollinated seed, since a reader who saves seed from the wrong packet gets one good year and then nothing. Then preservation, the chapter's most useful half: drying as the most forgiving method, salting, and fermentation, with the real safety lines drawn clearly — what is low-risk (drying, high-salt ferments) versus what requires equipment and precision he tells the reader not to improvise, naming home canning of low-acid foods specifically as the thing not to guess at.
+
+**What he does not notice.** That the Bellwright became a legend. He is the man whose name is on the Bell Country and who is sung about; in this chapter he is a man who was right about gradients and wrong about people and who wanted the barrow moved. The narrator never registers the gap, because the gradients were genuinely interesting.
+
+**Comedy engine.** **Unglamorous expertise** carries the chapter — catchment maths, first flush, rack spacing, salt percentages — all of it credited to other people. **Proximity to glory, facing the wrong way** shows up once, in the Bellwright and the barrow.
+
+**T. intervention.** One beat, the **appreciative** kind, placed immediately after the four refrigerator lines: T. has read those four lines more often than anything else ever written, does not entirely believe them, and notes that he spends more words on the rack than on the box. T. must not explain the joke and must not touch the preservation safety content.
 
 **Rules.** Introduces **Rule 51: The roof is a field.** and **Rule 58: Plant calories, not salad.**
 
 **Accuracy entries.** Rainwater catchment yield and first-flush diversion. Covered storage and vector control. Compost and nitrogen basics. Open-pollinated vs. hybrid seed saving. Drying, salting, and fermentation safety, with an explicit entry on botulism risk in improvised low-acid canning, marked conservative-choice.
 
-**Illustration slots.** `13-plate-01` — the catchment system, roof to first-flush to covered cistern, numbered. `13-plate-02` — three preservation methods in three columns, with the fourth column crossed out in orange and labeled NOT WITHOUT EQUIPMENT. `13-gag-01` — the Bell Country's first garden, immaculate rows, entirely dead, a hand-painted sign reading HOPE.
+**Illustration slots.** `13-plate-01` — the catchment system, roof to first-flush to covered cistern, numbered. `13-plate-02` — three preservation methods in three columns, with the fourth column crossed out in orange and labeled NOT WITHOUT EQUIPMENT. `13-gag-01` — the Bell Country's first garden: immaculate rows, entirely dead, a hand-painted sign reading HOPE; the narrator arriving at the edge of the frame with two full buckets, in the afternoon light, cheerful.
 
 ---
 
@@ -1568,15 +1659,21 @@ Instruction: water capture before planting, because catchment area and storage, 
 - Create: `manuscript/14-economy.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** Open with the man who tried to introduce currency to the Bell Country, backed by nothing but his own confidence, and who was both completely wrong and the most useful idiot they had, because the argument he started taught everyone what they actually valued.
+**Brief.** Open with the man who tried to introduce currency to the Bell Country, backed by nothing but his own confidence. The narrator carried the man's press and his boxes of paper up three flights, and carried them all back down nine days later, and his account of the week that followed is organised entirely around which load went up which stair. The argument that man started taught everybody what they actually valued; the narrator says the useful part was that he finally got the carrying order right on the way down.
 
 Instruction: what makes a thing money — durability, divisibility, portability, and agreement — and the observation that salt, ammunition, fuel, and medicine all become money because all four qualify, which he notes without enthusiasm. Barter mechanics done properly: never name the first number on something you need, the difference between price and value, bundling, and why trading away tools is almost always a mistake even at a good price. Debt and favors as the real economy of small groups, and the uncomfortable fact that favors are a better store of value than any object, provided the group survives. Then the practical fraud section, which is the chapter's best material: diluted and relabelled goods, weighted scales, the short count, the too-good trade as a reliable marker of either ignorance or a setup, and his list of the specific tells. Closes on reputation as the actual currency — slow to earn, impossible to repair, and the reason he still will not trade in one particular valley.
+
+**What he does not notice.** That the argument he is describing is the one people tell stories about — it is the founding story of how everything in that country came to be priced, and the price list descends from it directly. He remembers the stairs, the weight of the paper, and that it rained on the fourth day.
+
+**Comedy engine.** **Proximity to glory, facing the wrong way** carries the chapter: the birth of an economy, reported as a bad week for his knees. **Unglamorous expertise** shows up once, in the fraud tells, where he is precise, fast, and completely unaware that he is describing a trained skill.
+
+**T. intervention.** One beat, the **appreciative** kind, after the carrying-order passage: T. names the measure every market still prices in, traces it to that nine-day argument, and notes that the only account of it anyone has is a man's complaint about a staircase.
 
 **Rules.** Introduces **Rule 26: Never name the first number.** and **Rule 68: Reputation spends everywhere and cannot be minted.**
 
 **Accuracy entries.** Properties of money as a real economic framework. Barter negotiation dynamics. Reciprocal-favor economies as documented practice in small groups. Common fraud techniques as recognition material, framed defensively.
 
-**Illustration slots.** `14-plate-01` — the four properties of money as four labeled panels, with salt shown satisfying all four. `14-plate-02` — three fraud tells drawn plainly: the weighted scale, the diluted jar, the short count. `14-gag-01` — the currency man's banknote, hand-drawn, self-portrait on it, denomination ONE.
+**Illustration slots.** `14-plate-01` — the four properties of money as four labeled panels, with salt shown satisfying all four. `14-plate-02` — three fraud tells drawn plainly: the weighted scale, the diluted jar, the short count. `14-gag-01` — the currency man's banknote, hand-drawn, self-portrait on it, denomination ONE, folded into a wedge and shimming the narrator's barrow wheel; the barrow is loaded and he is leaning on it.
 
 ---
 
@@ -1586,17 +1683,34 @@ Instruction: what makes a thing money — durability, divisibility, portability,
 - Create: `manuscript/15-groups.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** The book's hardest chapter and its most honest. He led the Bell Country and he lost it, and this chapter is the autopsy. He is specific that the failure was structural rather than villainous, which is what makes it worth reading: nobody in the Bell Country was a bad person, and it still came apart.
+**Brief.** The book's hardest chapter and its most honest. **This is not an autopsy by the man who lost the Bell Country. He never ran anything.** This is the collapse of the Bell Country described by the man who hauled its water for five years while it came apart, and the chapter's whole power is that he has no vocabulary for what he watched.
 
-Instruction: group size and the real thresholds at which informal consensus stops working, and why a group that has outgrown the kitchen table needs structure whether or not anyone wants it. Decision mechanisms compared honestly — consensus, voting, a council, and a single decider — with the conditions under which each works and the specific failure each produces. Rationing as a legitimacy problem rather than a math problem, with the central point that a visibly fair process beats a cleverly optimal one every time. Conflict and exile, which he treats as a mechanism that must exist and must be bounded, written down in advance, and never decided by the person who was wronged. Then the chapter's spine, the failure modes, drawn from the Ninth Hand and from his own tenure and framed entirely as **things to recognize and resist**: information held by one person; a leader exempt from the rules; a group whose membership cost keeps rising; the reframing of doubt as disloyalty; and the one he is most ashamed of, which is a decision structure he quietly stopped using because it kept telling him no. He names it plainly. He does not explain how to do any of it to someone else.
+So he describes it operationally, because that is the only language he has. He noticed it first in the water: he was asked to deliver to four houses instead of six, and nobody told him why, and when he asked he was told it had been decided. He tracks the whole collapse that way — who stopped being on his round; which jobs quietly stopped being assigned, and the fact that nobody announced any of it; which fires people started eating at separately, and in what order the separate fires appeared; who began eating with the council and who stopped being fed at all; the week the rota stopped being posted on the door and started being told to him; and the day somebody who had always queued stopped queueing. He does not interpret a single one of these. He reports them in the order he ran into them, as changes to his round, and he is cheerful about the walking distances. The failure modes are **more** legible for being described by somebody without the words for them.
 
-**Rules.** Introduces **Rule 44: Write the exile rule before you need it.** and **Rule 77: A leader exempt from a rule has repealed it.**
+The Bellwright founded the place and lost it; the narrator mostly remembers being asked to move a barrow and that the Bellwright was right about gradients and wrong about people. The Ninth Hand material stays exactly what it is in the continuity bible: a cult he did chores for, two years, swept and hauled for, thought the robes were a uniform issue, and will tell you it wasn't that bad. He saw the machinery from underneath without the vocabulary to name it, which is how most people meet it.
+
+Instruction — all of it survives, and the practical content is delivered straight: group size and the real thresholds at which informal consensus stops working, and why a group that has outgrown the kitchen table needs structure whether or not anyone wants it. Decision mechanisms compared honestly — consensus, voting, a council, and a single decider — with the conditions under which each works and the specific failure each produces. He compares them the way he would compare four ways of lifting the same weight, naming the one he watched fail and what it looked like from the yard. Rationing as a legitimacy problem rather than a math problem, with the central point that a visibly fair process beats a cleverly optimal one every time — which he reaches by noting that people stopped minding the short measure the week the measuring was moved outdoors. Conflict and exile, which he treats as a mechanism that must exist and must be bounded, written down in advance, and never decided by the person who was wronged; he knows this because nobody wrote it down and he was the one sent to walk two people to the road.
+
+Then the chapter's spine, the failure modes, drawn from the Ninth Hand and from the Bell Country's last five years and framed entirely as **things to recognize and resist**: information held by one person; a leader exempt from the rules; a group whose membership cost keeps rising; the reframing of doubt as disloyalty; and the one that cost the Bell Country, which is a decision structure somebody quietly stopped using because it kept returning the wrong answer — he knows it stopped because the rota stopped appearing on the door. He names every one of them in the terms he has: whose round changed, whose job disappeared, who ate where. He does not explain how to do any of it to anybody, and he could not if he wanted to.
+
+**What he does not notice.** That the event he is describing is the one people tell stories about — the loss of the Bell Country is the story of its century, and he gives it to the reader as five years of changes to a water round. He also does not notice that the five failure modes are a diagnosis; to him they are things that happened in a sequence he found mildly inconvenient.
+
+**Comedy engine.** **Unglamorous expertise** carries the chapter, in its purest form in the book: a man describing the fall of a nation in terms of where the water went, how far he had to walk, and which fires lit first. There is no bitterness in any line of it and he is not angry with anybody. **Bodily consequences** shows up once, lightly, in the distances.
+
+**T. intervention.** Two beats here — this is one of the two chapters permitted two — and at least the first is the **exasperated** kind.
+
+- The first, after the water-round passage: T. states plainly what the reader has just been shown, names the five years, and is briefly undone by the fact that the definitive account of how a country died is a delivery schedule. T. says the thing the narrator cannot: that this is what it looks like from underneath, every time, and that this is why the chapter is the one T. would save.
+- The second, late, after the separate-fires passage: quieter, formal, and reverent. T. carries the analysis the narrator has no words for — that each of the five failure modes appears in his account as a change to somebody's chores, and that a reader who learns to watch the chores will see the next one coming.
+
+**T. corrects meaning, never method.** T. does not add a decision mechanism, does not amend the exile guidance, and does not tell the reader what to do. T. explains what he watched. The instruction is his.
+
+**Rules.** Introduces **Rule 44: Write the exile rule before you need it.** and **Rule 77: A rule that stops applying to one person has stopped.** Both are real advice compressed and both are stated as things he observed from the yard rather than as counsel to leaders. Rule 80 is not cited.
 
 **Accuracy entries.** Group-size thresholds for informal coordination. Procedural-fairness research on legitimacy versus outcome. Decision-mechanism tradeoffs. Coercive-control warning signs, cited as recognition and exit material from established sources.
 
-**Illustration slots.** `15-plate-01` — the four decision mechanisms as a comparison table, each with its characteristic failure in orange. `15-plate-02` — the five warning signs as five icons, captioned RECOGNIZE, NOT BUILD. `15-gag-01` — the Bell Country's council table, nine chairs, one visibly nicer than the others, which is the whole chapter in one drawing.
+**Illustration slots.** `15-plate-01` — the four decision mechanisms as a comparison table, each with its characteristic failure in orange. `15-plate-02` — the five warning signs as five icons, captioned RECOGNIZE, NOT BUILD. `15-gag-01` — the Bell Country's council table, nine chairs, one visibly nicer than the others, which is the whole chapter in one drawing; through the window behind it, the narrator going past with a yoke and two buckets, not looking in.
 
-**Banned moves for this chapter.** No operationalized manipulation technique — every coercion item is framed as recognition and exit. No villain. The Ninth Hand's leader is never described as charismatic in a way that reads as admiring.
+**Banned moves for this chapter.** No operationalized manipulation technique — every coercion item is framed as recognition and exit, and the content boundary holds absolutely. No villain. The Ninth Hand's leader is never described as charismatic in a way that reads as admiring. **He never led anything and never claims to have.** No bitterness, no regret, no reckoning, and no passage in which he understands what he saw — T. understands it; he does not. No shame: the old brief's "the one he is most ashamed of" is retired, because he has nothing to be ashamed of and would not have the concept to hand.
 
 ---
 
@@ -1606,15 +1720,25 @@ Instruction: group size and the real thresholds at which informal consensus stop
 - Create: `manuscript/16-grief.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** Vera Ott dies in this chapter, in one line, and the chapter is not about her death. It is about the eight months afterward, which is the part nobody prepares for. The two killers of the title are the ones no prepper stocks for: grief, which takes people quickly, and boredom, which takes them slowly and is far more common.
+**Brief.** **Vera Ott dies in this chapter. Read this paragraph twice, because this is the chapter most likely to be written wrong.** She gets one line. It is the same length as the sentences around it, in the same register, with the same vocabulary, and the next sentence is about something practical and does not acknowledge it. He reports her death as plainly as a broken pump. He does not eulogise her, does not slow down, does not change his sentence length, and does not become a different man for a paragraph. He will probably mention something she was good at, because it is relevant to the procedure under discussion. **The cheerfulness does not crack.** The reader does the grieving because he will not. Anything warmer than a broken pump is a failed chapter, no matter how well written.
 
-Instruction: grief handled plainly and without instruction — what it does to judgment and to physical safety, the fact that the dangerous period is weeks after rather than days, and the only real countermeasure he knows, which is other people noticing and the specific practice of assigning a grieving person a small daily duty that someone else depends on. Then boredom treated as the serious hazard it is: understimulation driving risk-taking, conflict, and drift, and the observation that more groups dissolved from nothing to do than from any threat. Morale as infrastructure — meals eaten together, work that visibly finishes, music, a day off that is actually off, and projects with an end. Sleep and routine as the cheapest interventions available. Then the hinge of the whole book, stated here for the first time outright: the things that look like frivolity are load-bearing, and the chapters that follow are about building them deliberately. He admits he thought this was nonsense until the Bell Country's third winter, when the only thing that held was a weekly dinner nobody could explain the point of.
+The chapter is not about her death. It is about the eight months afterward, which is the part nobody prepares for, and his evidence for those eight months is his own hands: he got careless, went off a cart he had been getting on and off for years, and broke two fingers setting a brake he had set a thousand times. That is why he believes the dangerous stretch is weeks after rather than days. He tells it as a fact about brakes.
+
+Instruction: grief handled plainly and without instruction — what it does to judgment and to physical safety, the fact that the dangerous period is weeks after rather than days, and the only real countermeasure he knows, which is other people noticing and the specific practice of assigning a grieving person a small daily duty that someone else depends on. He knows the last one works because somebody did it to him, and he reports it as having been put back on the water round early. Then boredom treated as the serious hazard it is: understimulation driving risk-taking, conflict, and drift, and the observation that more groups dissolved from nothing to do than from any threat. Morale as infrastructure — meals eaten together, work that visibly finishes, music, a day off that is actually off, and projects with an end. Sleep and routine as the cheapest interventions available. Then the hinge of the whole book: the things that look like frivolity are load-bearing, and the chapters that follow are about building them deliberately. He admits he thought this was nonsense until the Bell Country's third winter, when the only thing that held was a weekly dinner nobody could explain the point of — and he carried the chairs to it.
+
+**What he does not notice.** That what he did was difficult. Eight months of being the person who turned up, carried the chairs, kept the rota running and noticed other people's grief is given as a stretch of time in which he was clumsy around a cart. He calls it the winter the brake went.
+
+**Comedy engine.** **Bodily consequences** carries the chapter, and it is the hardest use of the engine in the book: the fingers are the evidence, the tone never lifts off cheerful, and nothing is played for pathos. **Unglamorous expertise** shows up once, in the duty-rota practice.
+
+**T. intervention.** One beat, the **exasperated** kind, placed immediately after the single line about Vera Ott, and it is the most important T. beat in the book. T. loses eloquence entirely: he has given her one line — and returned to the subject of brake linkages, and T. has read the passage more times than T. can defend. T. must not grieve on his behalf at length and must not explain him. Two or three sentences, formal composure failing, then stop.
 
 **Rules.** Introduces **Rule 61: A day off is maintenance.** and **Rule 36: Give the grieving a duty someone depends on.**
 
 **Accuracy entries.** Bereavement and risk/judgment effects, with the delayed-onset point. Understimulation and risk-taking. Social support, routine, and sleep as protective factors. Shared meals and ritual as cohesion practice.
 
-**Illustration slots.** `16-plate-01` — the morale checklist as a weekly grid, the day off marked in orange. `16-gag-01` — the weekly dinner, mismatched chairs, a table made from a door, nobody explaining it. `16-gag-02` — Vera's wrench, hung on a nail, uncaptioned.
+**Illustration slots.** `16-plate-01` — the morale checklist as a weekly grid, the day off marked in orange. `16-gag-01` — the weekly dinner: mismatched chairs, a table made from a door, nobody explaining it; the narrator at the edge carrying in two more chairs, late, cheerful. `16-gag-02` — Vera's wrench, hung on a nail, uncaptioned.
+
+**Banned moves for this chapter.** No scene for her death. No eulogy, no slowing down, no change of register, no "I still think about her." No chapter in which he becomes a different man.
 
 ---
 
@@ -1624,7 +1748,7 @@ Instruction: grief handled plainly and without instruction — what it does to j
 >
 > Run the full tooling pass. Report word counts for chapters 1–16 and the running total against the 45k–55k target.
 >
-> Ask the user to read chapters 13–16 and confirm: does chapter 15 stay on the right side of the coercion line? Does Vera's death land at the right weight — one line, not a scene? Does chapter 16 set up Part V so the god-building reads as earned rather than as a gag reel?
+> Ask the user to read chapters 13–16 and confirm: does chapter 15 stay on the right side of the coercion line, and does it read as a water-hauler's account rather than a leader's autopsy? Does Vera's death land at one plain line with no crack in the cheerfulness? Is T.'s beat after that line doing the grieving the narrator refuses to do? Does chapter 16 set up Part V so the god-building reads as earned rather than as a gag reel?
 >
 > This is the last checkpoint before the book's thesis chapters. Resolve any doubt about Part V's tone here.
 
@@ -1636,15 +1760,21 @@ Instruction: grief handled plainly and without instruction — what it does to j
 - Create: `manuscript/17-silhouette.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** Part V opens with the most absurd-sounding practical advice in the book, delivered completely straight: your group needs to be identifiable at three hundred yards, and you should decide what that looks like on purpose. Open with the Spoke's missing spoke — a five-spoke hub with one gap, painted on everything they owned — and his realization, decades later, that it was the most efficient piece of infrastructure they had.
+**Brief.** Part V opens with the most absurd-sounding practical advice in the book, delivered completely straight: your group needs to be identifiable at three hundred yards, and you should decide what that looks like on purpose. Open with the Spoke's missing spoke — a five-spoke hub with one gap — which he painted on everything the Spoke owned because he was handed a tin, a brush and a list and told to work through it. He thought he was marking property so that bags came back to the right people. He spends the opening on the paint: which colour held on a gate through two winters, which one chalked off a canvas bag, and the fact that he did the gates last because they were the only flat surfaces he could reach without a ladder.
 
-Instruction: why a visible marker is genuinely useful — recognition at distance reduces the number of tense first contacts, which is the leading cause of accidental violence between groups; it signals that a place is claimed and maintained; and it gives the wearer something to belong to, which he notes is not a soft benefit. Then the actual design guidance, treated as a technical problem: silhouette over detail because detail disappears at distance; one high-contrast element; something reproducible by hand with materials you will still have in five years; something that works on a person, a vehicle, a gate, and a grave. The adoption problem, which is the real content: a marker imposed is a uniform and is resented, a marker adopted spreads — so you seed it rather than mandate it, and you let the first versions be ugly. Then the costs, which are serious and get full weight: a marker makes you identifiable to people you would rather were confused, it makes defection visible and therefore costly, and a group that polices its own dress code has started doing something else. He is specific that the Ninth Hand's handprint began as exactly the advice in this chapter.
+Instruction: why a visible marker is genuinely useful — recognition at distance reduces the number of tense first contacts, which is the leading cause of accidental violence between groups; it signals that a place is claimed and maintained; and it gives the wearer something to belong to, which he notes is not a soft benefit. Then the actual design guidance, treated as a technical problem: silhouette over detail because detail disappears at distance; one high-contrast element; something reproducible by hand with materials you will still have in five years; something that works on a person, a vehicle, a gate, and a grave. The adoption problem, which is the real content: a marker handed down is a uniform and is resented, a marker picked up spreads — so you put it on your own gate and wait, and you let the first versions be ugly. Then the costs, which are serious and get full weight: a marker makes you identifiable to people you would rather were confused, it makes defection visible and therefore costly, and a group that polices its own dress code has started doing something else. He is specific that the Ninth Hand's handprint began as exactly the advice in this chapter, and says so in the same tone as the note about chalking.
 
-**Rules.** Introduces **Rule 49: Decide your silhouette before someone decides it for you.** and **Rule 35: Seed it. Do not mandate it.**
+**What he does not notice.** That the event he is describing is the one people tell stories about. The adoption of the Spoke's mark is told as a story about a founder's vision; the only eyewitness account is a paragraph about which paint lasted, by the man who applied all of it, who has no idea that the mark outlived the group by two generations.
+
+**Comedy engine.** **Unglamorous expertise** carries the chapter: he is a genuine authority on what survives weather on a gate, on contrast at distance, and on the ugliness of a first version, and he thinks he is talking about paint. **Proximity to glory, facing the wrong way** shows up once, in the ladder.
+
+**T. intervention.** One beat, the **appreciative** kind, after the paint passage: the mark is on T.'s own gate, repainted every spring by people who could not name the group it came from, and the manuscript's account of its origin is a note on pigment durability. T. confirms the distance-recognition point from having watched it work and adds nothing to the method.
+
+**Rules.** Introduces **Rule 49: Decide your silhouette before someone decides it for you.** and **Rule 35: Paint it on your own gate first.**
 
 **Accuracy entries.** In-group signaling and identity markers as documented anthropological function. Distance recognition reducing threat escalation. Costly-signal and uniform-conformity dynamics, including the coercion risk.
 
-**Illustration slots.** `17-plate-01` — four marks at three hundred yards and at ten feet, showing which survive distance, with the design principles numbered. `17-plate-02` — the same mark applied to a person, a vehicle, a gate, and a grave marker. `17-gag-01` — a comparison chart of six faction silhouettes, each captioned with a one-line assessment, the last one simply AVOID.
+**Illustration slots.** `17-plate-01` — four marks at three hundred yards and at ten feet, showing which survive distance, with the design principles numbered. `17-plate-02` — the same mark applied to a person, a vehicle, a gate, and a grave marker. `17-gag-01` — a comparison chart of six faction silhouettes, each captioned with a one-line assessment, the last one simply AVOID; in the corner of the chart, unlabelled and clearly not meant to be there, a seventh silhouette of a bent figure under a load with a paint tin in one hand.
 
 ---
 
@@ -1654,21 +1784,32 @@ Instruction: why a visible marker is genuinely useful — recognition at distanc
 - Create: `manuscript/18-gods.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** The book's centerpiece and its most delicate balance. Mother Furnace was invented in an afternoon, by four tired people, for morale, and she is still worshipped by people who would be appalled to hear she was designed. The narrator knows she is fabricated. He also knows she worked, and the chapter's whole achievement is holding both of those at once without a wink.
+**Brief.** The book's centerpiece and its most delicate balance. **He did not invent Mother Furnace. He was in the room.** Four tired people made a god in an afternoon, in the Bell Country's eleventh year, for morale, because exhortation had failed and reverence had not been tried — and he was standing against the wall holding something for them, and he thought they were assigning chores. This chapter is how a god gets made, witnessed by a man who did not notice it happening.
 
-Open on the afternoon itself: the Bell Country's eleventh year, the foundry nobody wanted to maintain, and the decision to make the furnace sacred because exhortation had failed and reverence had not been tried. It worked within a month. The foundry has not gone cold in thirty years.
+Open on the afternoon itself, exactly as he experienced it. He had been sent in with a crate and was kept back in case anything needed carrying. He reports the meeting the way you report a meeting: who arrived in what order, who was already annoyed, that it ran long, that somebody wanted the door shut, what was decided about the foundry rota, and that the thing he was holding got heavier. He believed throughout that the output of the afternoon was a rota with a name on it and a short piece to say at the start of a shift, which is why he went away pleased — the foundry nobody wanted to maintain now had people on it. It worked within a month. The foundry has not gone cold in thirty years. He gives that last fact one clause, as evidence that the rota was well designed.
 
-Instruction, delivered as straight-faced engineering: what a functioning god actually does for a group — it encodes a practice that must not lapse, it moves the authority for a rule outside any living person's hands, which he notes is the single most useful property, and it gives people a shape for fear. Then the design guidance: attach the deity to a real and necessary practice, because a god with no maintenance duty attached is just a story; give it a domain narrow enough to be useful and wide enough to matter; make its demands cheap, frequent, and physical; make its origin story short, visual, and repeatable by a child; and give it a form that is an object rather than a face, which is why Mother Furnace is a wheel and not a woman. The origin-story workshop, done as an actual procedure — three beats, one impossible detail, one true detail, and a hole left deliberately for other people to fill in, because a story people can add to becomes theirs.
+Instruction — **all of the real content survives, and it arrives as him reporting a committee meeting**, in the order the committee got to it, with the practical reasoning intact because the four of them said it out loud in front of him and he wrote it down afterwards the way he writes down a route. What a functioning god actually does for a group: it encodes a practice that must not lapse, it moves the authority for a rule outside any living person's hands — which he repeats because one of the four said it twice and he took it for a point about the rota — and it gives people a shape for fear. Then the design decisions, as decisions he watched being taken: attach the deity to a real and necessary practice, because a god with no maintenance duty attached is just a story; give it a domain narrow enough to be useful and wide enough to matter; make its demands cheap, frequent, and physical; make its origin story short, visual, and repeatable by a child; and give it a form that is an object rather than a face, which is why Mother Furnace is a wheel and not a woman — he remembers that one being settled quickly, because a face would have had to look like somebody. The origin-story workshop is still a procedure and is still fully specified: three beats, one impossible detail, one true detail, and a hole left deliberately for other people to fill in, because a story people can add to becomes theirs. He presents it as the part of the afternoon that took longest and says he did not see why it mattered.
 
-Then the costs, which are the chapter's moral spine and get as much room as the technique: a god cannot be recalled; it will be interpreted by people you will never meet, in ways you would hate; somebody will eventually claim to speak for it, and that person will be the problem; and the gap between a god that asks for maintenance and one that asks for obedience is one generation wide. He states plainly that the Ninth Hand's god was built on identical principles by someone who made different choices, and that the difference was never theology — it was whether the god's demands cost its priests anything. His own line, offered without ceremony: build a god that asks something of you first.
+Then the costs, which are the chapter's moral spine. **The cost section is never shorter than the method section.** A god cannot be recalled; it will be interpreted by people you will never meet, in ways you would hate; somebody will eventually claim to speak for it, and that person will be the problem; and the gap between a god that asks for maintenance and one that asks for obedience is one generation wide. He states plainly that the Ninth Hand's god was built on the same principles by someone who made different choices, and that the difference was never theology — it was whether the god's demands cost its priests anything, which he knows because he swept up after both. His own line, offered without ceremony, as a thing one of the four said while putting a coat on: build a god that asks something of you first.
 
-**Rules.** Introduces **Rule 73: A god with no chore attached is a story.** and **Rule 66: If no one can speak for it, no one can speak with it.**
+**What he does not notice.** That the event he is describing is the one people tell stories about — the making of Mother Furnace is a founding myth with its own holiday, and the only eyewitness report of it is a man's account of a long meeting about a rota. He also does not notice that he is the last person alive who knows she was made, and he does not notice it hard enough to say so.
+
+**Comedy engine.** **Proximity to glory, facing the wrong way**, at full strength and for the whole chapter: he was in the room, against the wall, holding something, facing the door. No wink, not one, and no bitterness — he enjoyed the afternoon and thought the rota was good work.
+
+**T. intervention.** Two beats here — the second of the two chapters permitted two — and at least the first is the **exasperated** kind.
+
+- The first, after the "I thought they were sorting out the rota" passage: T. names the holiday, names what is sung, states that no living person doubts she made the world, and then has to write down that the only account of her making is a minute of a committee meeting taken by a man holding a crate. T.'s eloquence fails completely for two sentences.
+- The second, placed in the cost section and quieter: reverent, formal, and frightened, agreeing with the cost section from the inside — T. has met the person who claims to speak for her.
+
+T. corrects meaning, never method: T. does not add a design principle and does not amend the cost list.
+
+**Rules.** Introduces **Rule 73: A god with no chore attached is a story.** and **Rule 66: A rule with a name on it goes when the name does.** Both are real advice compressed, and both are phrased as things he heard said in that room rather than as doctrine he formulated.
 
 **Accuracy entries.** Ritual and shared belief as documented mechanisms of group cohesion and norm enforcement. Costly-signal theory. Depersonalized authority and rule stability. The institutionalization-to-coercion pathway, cited as the real basis for the chapter's cost section.
 
-**Illustration slots.** `18-plate-01` — the god-design worksheet, filled in for Mother Furnace, five numbered fields. `18-plate-02` — the origin-story structure: three beats, the impossible detail, the true detail, and the deliberate hole, drawn as a diagram. `18-gag-01` — Mother Furnace's official icon, the six-spoke wheel with the furnace door, rendered with total devotional seriousness. `18-gag-02` — the same icon as four regional variants, progressively more elaborate and less correct, the last one barely a wheel.
+**Illustration slots.** `18-plate-01` — the god-design worksheet, filled in for Mother Furnace, five numbered fields. `18-plate-02` — the origin-story structure: three beats, the impossible detail, the true detail, and the deliberate hole, drawn as a diagram. `18-gag-01` — Mother Furnace's official icon, the six-spoke wheel with the furnace door, rendered with total devotional seriousness; at the bottom edge of the panel, cropped and incidental, two hands holding a crate. `18-gag-02` — the same icon as four regional variants, progressively more elaborate and less correct, the last one barely a wheel.
 
-**Banned moves for this chapter.** No wink. Not one. The narrator never signals that this is a joke, because to him it is not. No instruction that would help someone extract obedience — every technique is attached to a maintenance duty, and the cost section is never shorter than the method section.
+**Banned moves for this chapter.** No wink. Not one. He never signals that this is a joke, because to him it was a meeting. He never claims the idea, never says it was his, and never says he regrets it — he has nothing to regret and no sense that anything happened. No instruction that would help somebody extract obedience: every technique stays attached to a maintenance duty, and the cost section is never shorter than the method section.
 
 ---
 
@@ -1678,15 +1819,21 @@ Then the costs, which are the chapter's moral spine and get as much room as the 
 - Create: `manuscript/19-holidays.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** The warmest chapter in the book, and the one that makes its argument almost without arguing. Open with the Bell Country's winter feast, which was invented to use up food that would have spoiled anyway, and which outlived the Bell Country itself — people who never lived there still keep it, and most of them do not know what it was for.
+**Brief.** The warmest chapter in the book, and the one that makes its argument almost without arguing. Open with the Bell Country's first winter feast, which was invented to use up food that would have spoiled anyway. He was carrying the barrels in for it and dropped one on his foot on the way through the door, which is why he spent the feast with one boot off and his foot in a bucket, and in a very good mood. The feast outlived the Bell Country itself — people who never lived there still keep it, and most of them do not know what it was for. Neither does he. He knows about the barrel.
 
-Instruction: a ritual calendar as actual infrastructure — marking the year so people know where they are in it, scheduling rest so it is not a negotiation every time, and the specific value of a holiday that falls at the hardest point of the year rather than the easiest. How to build one that survives: tie it to something unavoidable like a solstice or a harvest, make it cheap, give it one piece of required nonsense that serves no purpose at all (which he insists is the load-bearing part, because a rule with a reason can be argued out of and a rule with no reason cannot), and let it be inherited rather than announced. Then songs, treated with the same engineering seriousness: work songs for synchronizing physical labor, counting songs for teaching procedures to people who cannot read, and the chapter's quietly useful point that the water-treatment chapter has a song in the Bell Country and the children get the boil time right every time. Naming: of children, of places, of years, and why a group that names its years has a memory. Oaths as a commitment device, kept short, public, and bounded, with the real caution that an unbounded oath is a trap and that he has seen them used as one.
+Instruction: a ritual calendar as actual infrastructure — marking the year so people know where they are in it, scheduling rest so it is not a negotiation every time, and the specific value of a holiday that falls at the hardest point of the year rather than the easiest. How to build one that survives: tie it to something unavoidable like a solstice or a harvest, make it cheap, give it one piece of required nonsense that serves no purpose at all — which he insists is the load-bearing part, because a rule with a reason can be argued out of and a rule with no reason cannot — and let it be inherited rather than announced. Then songs, treated with the same engineering seriousness: work songs for synchronizing physical labor, counting songs for teaching procedures to people who cannot read, and the chapter's quietly useful point that the water-treatment chapter has a song in the Bell Country and the children get the boil time right every time. Naming: of children, of places, of years, and why a group that names its years has a memory. Oaths as a commitment device, kept short, public, and bounded, with the real caution that an unbounded oath is a trap and that he has seen them used as one.
+
+**What he does not notice.** That the lesson he just delivered was a lesson. He states the book's actual thesis — that a rule with no reason cannot be argued out of, which is why the useless part is the part that holds — in a paragraph about barrels, and treats it as an observation about feasts. He also has no idea that the required piece of nonsense at that feast, the one shoe, is his foot, and that it has been copied for two generations by people performing a founder's rite.
+
+**Comedy engine.** **Bodily consequences** carries the chapter, and it is the single best use of the engine in the book: a liturgy descends from a dropped barrel, and the man it fell on is explaining ritual calendars with his foot in a bucket. **Proximity to glory, facing the wrong way** shows up once, in the feast itself.
+
+**T. intervention.** One beat, the **exasperated** kind, after the one-shoe passage: T. has taken one shoe off at midwinter every year of T.'s life, was taught it was required, has asked three people why, and has just found out. T. does not then explain the joke to the reader — T. simply stops, and the next thing in the chapter is the narrator carrying on about solstices.
 
 **Rules.** Introduces **Rule 59: Put the holiday at the worst part of the year.** and **Rule 18: Teach the children the boil time as a song.**
 
 **Accuracy entries.** Ritual and collective effervescence as cohesion mechanisms. Synchronized labor and work songs. Song and rhyme as mnemonic transmission for procedural knowledge in oral cultures. Commitment devices, and the risk of unbounded ones.
 
-**Illustration slots.** `19-plate-01` — the ritual year as a wheel, the hardest month marked in orange with the feast on it. `19-plate-02` — the boil-time song written out as a simple notated verse, legible and genuinely singable. `19-gag-01` — the required piece of nonsense: everyone at the feast wearing one shoe, no explanation given, nobody questioning it.
+**Illustration slots.** `19-plate-01` — the ritual year as a wheel, the hardest month marked in orange with the feast on it. `19-plate-02` — the boil-time song written out as a simple notated verse, legible and genuinely singable. `19-gag-01` — the required piece of nonsense: everyone at the feast wearing one shoe, no explanation given, nobody questioning it; at the end of the table, the narrator with a bandaged foot in a bucket, a barrel on its side behind him, delighted.
 
 ---
 
@@ -1696,19 +1843,29 @@ Instruction: a ritual calendar as actual infrastructure — marking the year so 
 - Create: `manuscript/20-teaching.md`
 - Modify: `notes/accuracy-log.md`, `notes/continuity.md`
 
-**Brief.** The book's last chapter, addressed to Ais, and the only one written to a person rather than to a reader. It closes everything: the editor of the front matter is of her generation, which means the found manuscript's frame completes here without the narrator ever knowing it.
+**Brief.** The book's last chapter, addressed to Ais, and the only one written to a person rather than to a reader. **The frame closes here, but not because the editor is Ais — T. never met her and never met him.** It closes because T.'s preface is the proof of this chapter's thesis: a devoted reader, two generations on, with no referent for half the nouns, still unsure about lightbulbs. He never knows the frame closed.
 
-Open with the discovery that she does not believe in refrigerators. Not disbelieves — she has no slot for the idea, the way he has no slot for what her generation finds obvious. That gap is the chapter's subject.
+Open with the discovery that Ais does not believe in refrigerators. Not disbelieves — she has no slot for the idea, the way he has no slot for what her generation finds obvious. He discovers it while the two of them are carrying a plank, which is how he teaches everything: he hands people the other end of something and talks. He holds up a drawing of one to explain, the wrong way round, and she is politely sceptical of it either way. That gap is the chapter's subject.
 
-Instruction: teaching as transmission under loss — assume every explanation that depends on a thing they have never seen will fail, and teach from what is in the room. Apprenticeship over instruction, because a procedure watched and done beats a procedure explained, and his specific sequence of watch, assist, lead, teach, with the note that nobody owns a skill until they have taught it. What to write down and what not to bother with: procedures and numbers written, judgment taught in person, and the brutal triage of deciding which knowledge is worth the paper. The failure he actually fears, stated plainly — not that the knowledge is lost but that it survives as ritual with the reason stripped out, people boiling water for three minutes because the song says so, with no one left who knows about altitude. His countermeasure is the only thing he asks of the reader: write down the why next to the what, even when it costs more paper, because the why is what lets the next generation correct you. Then the handoff. He is old, the book is finished, and he says what he thinks it was for.
+Instruction: teaching as transmission under loss — assume every explanation that depends on a thing they have never seen will fail, and teach from what is in the room. Apprenticeship over instruction, because a procedure watched and done beats a procedure explained, and his specific sequence of watch, assist, lead, teach, with the note that nobody owns a skill until they have taught it. What to write down and what not to bother with: procedures and numbers written, judgment taught in person, and the brutal triage of deciding which knowledge is worth the paper. The failure he actually fears, stated plainly — not that the knowledge is lost but that it survives as ritual with the reason stripped out, people boiling water for three minutes because the song says so, with no one left who knows about altitude. His countermeasure is the only thing he asks of the reader: write down the why next to the what, even when it costs more paper, because the why is what lets the next generation correct you. Then the handoff. He is old, the book is finished, and he says what he thinks it was for — which is not what it turned out to be for, and he has no way of knowing that.
 
-And then **Rule 80**, held in reserve for the entire book, spent here. It is the soft rule that outranks all the hard ones and it is the thesis in one line — that the nonsense was the point, that what kept people alive was each other and the ridiculous things they did together, and that he would have been dead in year two without a weekly dinner nobody could justify. Write the reserved rule's text in this task, add it to the ledger, and keep it short. The book opens with rules about not bleeding to death and closes with this one.
+**He still does not know his Rules became folklore.** Not here, not in the last paragraph, not ever. He refers to them exactly as he always has: things he tells himself so he does not repeat a mistake. **T. knows**, and said so in the preface, and that is the only place in the book it is said.
+
+And then **Rule 80**, held in reserve for the entire book, spent here. It is the soft rule that outranks all the hard ones and it is the thesis in one line — that the nonsense was the point, that what kept people alive was each other and the ridiculous things they did together, and that he would have been dead in year two without a weekly dinner nobody could justify and a feast he spent with his foot in a bucket. Write the reserved rule's text in this task, add it to the ledger, and keep it short. He states it once, plainly, does not undercut it, and does not become a different man to say it. The book opens with rules about not bleeding to death and closes with this one.
+
+**What he does not notice.** That the person he is describing became someone. Ais is a girl holding the other end of a plank who is wrong about refrigerators; he gives her no future and no weight, and the reader is left knowing more about what she will be than he does. He also does not notice that he has written a book, as opposed to some notes for one person.
+
+**Comedy engine.** **Unglamorous expertise** carries the chapter: watch, assist, lead, teach, delivered by a man who thinks he is explaining how to hand somebody a plank, and who is describing the best-documented skill-transmission sequence there is. **Proximity to glory, facing the wrong way** shows up once, lightly, in what he thinks the book was for.
+
+**T. intervention.** One beat, the **appreciative** kind, and it is the last thing T. says in the book. It goes **before** `## What It Costs You` or inside the instruction — **never after `## The Short Version`**, which is the narrator's and is the last text in the file. T. is the proof and says so without quite claiming it: T. has never seen a working lightbulb, does not entirely believe in them, has read these pages until the corner came away, and is exactly the reader he describes — and he is writing to somebody T. never met and will never be answered by. T. does not reveal being Ais, because T. is not.
 
 **Rules.** Cites **Rule 80** (reserved; text written here). May cite earlier Rules by number in the closing. No other new Rules — the corpus closes.
 
 **Accuracy entries.** Apprenticeship and the watch/assist/lead/teach progression as documented skill transmission. Oral transmission drift and loss of rationale. Teaching from available referents.
 
-**Illustration slots.** `20-plate-01` — the watch/assist/lead/teach progression as four numbered panels, the fourth panel showing the student teaching someone else. `20-gag-01` — Ais, too-large coat, satchel of papers, looking at a drawing of a refrigerator with polite skepticism. `20-gag-02` — the last page of the manuscript, water-damaged at one corner, Rule 80 legible.
+**Illustration slots.** `20-plate-01` — the watch/assist/lead/teach progression as four numbered panels, the fourth panel showing the student teaching someone else. `20-gag-01` — Ais in a too-large coat with a satchel of papers, regarding a drawing of a refrigerator with polite skepticism; the narrator is holding the drawing up for her, upside down, and has not noticed. `20-gag-02` — the last page of the manuscript, water-damaged at one corner, Rule 80 legible.
+
+**Banned moves for this chapter.** No recognition, no reckoning, no late understanding. He does not learn that he mattered, does not learn that the Rules are quoted, and does not say goodbye to the reader as an author. The voice on the last page is the voice on the first.
 
 ---
 
