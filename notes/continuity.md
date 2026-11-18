@@ -89,7 +89,7 @@ authority on staying alive and **will never find out**.
 | Benno Kell | The man who sent the narrator down a ladder into a pre-Collapse cache under a garage in his third year, with a sack and a list, and who had the folder of receipts out of there as well. Chapter 08 only so far; nothing else is recorded about him and he is available. | 08 |
 | Arno Bligh | The man who paid the narrator, before the Collapse, to carry four hundred pounds of dried beans up an outside stair — a fortnight of afternoons, two sacks a trip. Had a pantry the length of the room, one pot and no fuel, and starved that winter with the lot still stacked. Chapter 06 only; dead, and stays dead. | 06 |
 | Hesper Vane | A girl the narrator taught to soak and bank a pot, on a back step in the eleventh year, because her lid sat proud of the rim by the thickness of a nail. She fed a valley for thirty years and the editor's era sells beans by the half-vane and calls the straw box by her name. The narrator records only the lid and never mentions her again. Available to later chapters, but his obliviousness about her is fixed. | 06 |
-| Vera Ott | A mechanic. His teacher, and he was her hands — she told him which way to turn things for six years. Taught him the machine chapters. Had no patience for him. Dies in chapter 16; he reports it as plainly as a broken pump. | 08–10, 16 |
+| Vera Ott | A mechanic. His teacher, and he was her hands — she told him which way to turn things for six years. Taught him the machine chapters. Had no patience for him. **First appears in chapter 09**, in a clause, as the person he was fetching for the autumn he went through two roofs: she had no patience with him whatsoever and the best salvage list he was ever handed. Dies in chapter 16; he reports it as plainly as a broken pump. | 09–10, 16 |
 | The Bellwright | Founded the Bell Country. A legend to everyone else — the man whose name is on it, quoted and sung about. To the narrator, a man with strong opinions about drainage who was usually right about gradients and wrong about people. The narrator hauled water past him for years and mostly remembers being asked to move a barrow. He does not know the Bellwright became a legend. | 13–16 |
 | The Bell Country | The settlement he hauled water for. Founded and lost by other people. Nine years in the making and five in the losing; chapter 15 is its collapse seen from the bottom, by someone who noticed it first in where the water went. | 13–16, 18–19 |
 | Mother Furnace | A god invented by four tired people in an afternoon, for morale. He was in the room, holding something, and thought they were assigning chores. Still worshipped. A six-spoke iron shape. | 11, 18 |
@@ -138,6 +138,7 @@ places no chapter has used yet.
 | Name | What it is | First used in chapter |
 |------|------------|------------------------|
 | The Bell Country | The settlement he hauled water for, founded and lost by other people, nine years in the making and five in the losing. Founded by the Bellwright. Its first use in the manuscript is chapter 13, the first garden. | 13 |
+| Tarn Street cold store | A cold-storage building the narrator helped clear in his sixth year, named in chapter 09 the way you name a street. The famous haul of that year came out of it; T.'s era calls the day **the Opening** and teaches children its date. The narrator gives the haul eleven words and the stairs a paragraph. | 09 |
 | Ladderwell | Where T. the editor lives and signs the preface, two generations after the narrator wrote. Editor's era only. | front matter only |
 
 **Ladderwell is off-limits to the narrator.** He never visits it and never
@@ -523,6 +524,8 @@ directly. Use them; do not reinvent or contradict them.
   maintenance to his being sixty. **Vera Ott does not appear in chapter 08** despite
   the Cast column; her first appearance is now chapter 09 or later.
 
+- **Chapter 09's own canon, now fixed.** In his sixth year he went through **two roofs in one autumn** — the first at a valley where a flat extension met the main pitch, where ponding water had rotted the joists soft; the second a fortnight later, having decided the first roof had taught him everything a roof could, by crossing the middle of a span instead of walking the line of nails. He went in to the shoulder and hung by the armpits over a stairwell. The autumn gets three sentences, two of them about joists. **Vera Ott first appears here**, in a clause, as the person he was fetching for that autumn. **The Tarn Street cold store** is canon from here (see Places): he names the building in an eleven-word clause — *we got into the Tarn Street cold store that same October* — and reports the order the stairs were cleared in (bottom to top, because clearing downward drives people into a stairwell with one end to it) and whose boots were wet from the flooded lift pit. He never indicates that anyone tells the day differently; T.'s single exasperated beat supplies what came out of it, names it **the Opening**, counts the eleven words and then abandons a sentence mid-way rather than finish it. **Rule 21** is coined here and earned by the roofs; **Rule 47** is coined here. Also his and available without re-deriving: the pre-entry read from outside (bowing or leaning walls, stepped cracks with clean edges or fresh dust, a dipping ridge, fire damage, undermined ground — **two signs together means walk away**, and none of them is a measurement); walking the **edges** of a floor where the joists bear, because a joist is weakest mid-span; reading the ceiling of the room below before the floor above; loading the bottom tread, hand on the wall not the handrail, one at a time on a stair; **nothing inside is worth being trapped inside with**; the sweep (one direction chosen at the door and never reversed, one room finished before the next, walls then middle then high then low); the **three clearing marks** (one stroke cleared, two crossed unsafe, one ringed occupied, with initial and month, charcoal or chalk at eye height on a face the weather does not reach, re-read after about a year); the **five reliably unsearched places** (utility and janitorial spaces, vehicle trunks and the spare wheel well, the backs of appliances, pharmacy stockrooms rather than shelves, office first-aid cabinets); the **third-year value order** (fasteners, containers that seal, uncracked rubber hose, dressings and medical supplies, salt, needles and thread — **nobody takes the needles**); and the ethics, stated without preaching: **he takes from the dead and not from the living, does not strip a place a family is still using, and leaves a sealed bottle of water on the step of everything he searches.** The chapter re-invokes chapter 01's second question, *can I breathe where I am standing?*, verbatim, once, as the reader's route to chapter 05 on below-ground spaces, and re-cites **Rule 31** (chapter 07) and **Rule 19** (chapter 06) rather than re-deriving either. It points at chapter 03 for what a first-aid cabinet is for, chapter 07 for reading an occupied place from outside, and chapter 08 for rubber. **Chapter 05's reflector point is still unused.** The glasses are not mentioned.
+
 ---
 
 ## Rule ledger
@@ -546,11 +549,13 @@ chapter whose number is not a row below.
 | 12 | Small first trade. Resolve it the same day. | 07 |
 | 16 | Wet is colder than cold. | 05 |
 | 19 | Salt is money. | 06 |
+| 21 | Stockroom, not showroom. | 09 |
 | 23 | Pack the bag for the stairs, not for the road. | 02 |
 | 28 | Clear is not clean. | 04 |
 | 31 | Know the way out before you go in. | 07 |
 | 34 | Build small. Heat is the rent. | 05 |
 | 42 | Learn three plants completely before you learn twenty badly. | 06 |
+| 47 | Mark what you clear. | 09 |
 | 55 | Gear you do not maintain is gear you do not have. | 08 |
 | 80 | *Reserved. Spent in chapter 20. Do not cite before then.* | 20 |
 

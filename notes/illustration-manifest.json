@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 24,
+  "count": 27,
   "slots": [
     {
       "id": "01-gag-01",
@@ -242,6 +242,36 @@
       "alt": "Six labelled icons in two rows — a lidded metal pot, a sheathed knife, a coil of cord, a fire-striking rod with sparks, a lamp, and two water vessels — each numbered.",
       "prompt": "Six icons arranged in two rows of three on an open cream ground, drawn in flat black line art as a civil-defence pamphlet figure, each icon a single clean object with generous empty space around it, each carrying an orange callout numeral in an orange circle set just below it. Icon 1, a squat metal pot with a clamped lid and a wire bail handle, three short flame shapes beneath it. Icon 2, a plain straight-bladed knife lying flat beside a small rectangular sharpening file. Icon 3, a neatly coiled hank of rope with two short cut lengths laid beside the coil. Icon 4, a short cylindrical striking rod held against a flat scraper with a small burst of sparks, drawn above a bundle of snapped dry twigs. Icon 5, a simple lidded lantern with a bail handle and, next to it, a stub candle with a flame. Icon 6, a flat-sided bottle and a slack collapsible bladder with a screw cap, side by side. Orange used only for the six numerals and their circles. No background scenery, no shading, no text beyond the six numerals.",
       "path": "illustrations/08-plate-01.png"
+    },
+    {
+      "id": "09-gag-01",
+      "class": "gag",
+      "chapter": "09",
+      "source": "09-scavenging.md",
+      "caption": "Figure 9.1 — Two professionals. One of them is taking the needles.",
+      "alt": "A corridor in a ruined building: in front, a man wrestling a huge television backwards along the floor; behind him, a cheerful man with one leg through the collapsed ceiling, calmly putting a small box of needles into his coat pocket.",
+      "prompt": "A narrow corridor in a ruined building seen in three-quarter view, drawn in flat black line art on cream as a pamphlet figure with generous empty space. In the foreground a burly cartoonish figure is walking backwards away from the viewer, bent double, dragging an enormous boxy old television set along the floor by its base, straining with effort, cable trailing behind it, plaster dust kicked up around his boots. Further down the corridor, a cartoonish bean-bodied older man in a flat cap, round wire-framed spectacles and a long tarp coat stands with his right leg sunk through a broken hole in the floorboards up to the thigh, one arm braced on the floor beside him, entirely untroubled and pleasantly absorbed in sliding a small flat box into his coat pocket with his free hand. The small box is the only orange object in the image, with two or three short radiating emphasis lines around it. Broken laths and a hanging flap of ceiling above him. No background scenery beyond the corridor walls, no shading, no text.",
+      "path": "illustrations/09-gag-01.png"
+    },
+    {
+      "id": "09-plate-01",
+      "class": "plate",
+      "chapter": "09",
+      "source": "09-scavenging.md",
+      "caption": "Figure 9.2 — The sweep. 1 the door and the chosen direction. 2 rooms taken in order along one wall. 3 walls, then middle, then high, then low. 4 staging at the room door. 5 the mark, going out.",
+      "alt": "A simple floor plan of a small commercial building with an orange dashed route running in one direction around the walls through each room in turn, numbered stops along it, and a clearing mark drawn at the entrance door.",
+      "prompt": "A simple overhead floor plan of a small commercial building drawn in flat black line art on cream as a civil-defence pamphlet figure, with generous empty margins. The plan shows an entrance at the bottom, a front shop space, a corridor, a stockroom, a small janitor's closet, a washroom and a stair, all drawn as plain double-line walls with simple door gaps and a few schematic shelf and counter rectangles. An orange dashed route enters at the door, runs along the left-hand wall and passes through each room in turn in one consistent direction, looping the perimeter of each room before leaving it, and returns to the entrance. Orange callout numerals in orange circles mark five points along the route: at the entrance, at the first room doorway, inside the stockroom, at a small staged pile of goods drawn beside a room doorway, and at the entrance again beside a single orange stroke mark drawn on the door frame. Orange used only for the dashed route, the numerals and their circles, and the door mark. No furniture detail, no shading, no text.",
+      "path": "illustrations/09-plate-01.png"
+    },
+    {
+      "id": "09-plate-02",
+      "class": "plate",
+      "chapter": "09",
+      "source": "09-scavenging.md",
+      "caption": "Figure 9.3 — The three marks. 1 cleared, floor held, nothing left. 2 unsafe, do not enter. 3 occupied, leave it alone. Initial and month under every one.",
+      "alt": "Three chalk marks drawn large side by side — a single vertical stroke, two strokes crossed, and a single stroke inside a ring — each with an initial and a month written beneath it, shown on a door frame at eye height.",
+      "prompt": "Three large chalk-style marks drawn side by side on an open cream ground, in flat black line art as a pamphlet figure, each with generous empty space around it and an orange callout numeral in an orange circle above it. Mark one, a single bold vertical stroke. Mark two, two bold strokes crossed in an X. Mark three, a single bold vertical stroke inside a hand-drawn ring. Beneath each mark, a short hand-drawn squiggle standing for an initial and a month, drawn as illegible scribble rather than letters. Below the three marks, a small secondary vignette at one third the size showing a plain door frame in three-quarter view with a hand drawing one of the marks on the inner face of the frame at head height, a sheltered position under the lintel. Orange used only for the three numerals and their circles. No background scenery, no shading, no legible text.",
+      "path": "illustrations/09-plate-02.png"
     }
   ]
 }
