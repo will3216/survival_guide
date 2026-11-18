@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 18,
+  "count": 21,
   "slots": [
     {
       "id": "01-gag-01",
@@ -182,6 +182,36 @@
       "alt": "Three cans in a row, each with one defect circled in orange — a bulging lid, a leaking rusted side, and a dented seam.",
       "prompt": "Three identical plain cylindrical food tins in a row on a flat baseline, drawn in flat black line art on cream as a civil-defence pamphlet figure, each tin unlabelled and smooth-sided. The left tin has its top end clearly domed and swollen upward, ringed in orange and carrying orange callout numeral 1 in an orange circle. The middle tin has a patch of rough stippled rust low on its side with two small drips running from it down to a small pool on the baseline, ringed in orange and carrying orange callout numeral 2. The right tin has a deep crease and dent running across the rolled seam where the lid meets the body, with short radiating stress lines, ringed in orange and carrying orange callout numeral 3. Orange used only for the three rings, the three numerals and the drips. Generous empty cream space between and above the tins, no background scenery, no text beyond the three numerals.",
       "path": "illustrations/06-plate-02.png"
+    },
+    {
+      "id": "07-gag-01",
+      "class": "gag",
+      "chapter": "07",
+      "source": "07-first-people.md",
+      "caption": "Figure 7.2 — Four approaches. 1 slow, open, hands out, in daylight. 2 hands in pockets. 3 one hand behind the back. 4 NO.",
+      "alt": "Four labelled figures showing approach postures; the first open-handed and calm, the second with hands pocketed, the third with a hand hidden behind the back, and the fourth tipping backwards over a fence into nettles.",
+      "prompt": "Four equal square panels in a single row divided by thin vertical rules, in flat black line art on cream, drawn as a pamphlet figure. Each panel shows the same cartoonish bean-bodied older man in a flat cap and long tarp coat and round cracked spectacles, standing on a flat baseline, and each panel carries an orange callout numeral in an orange circle. Panel 1, numeral 1: he stands square and still with both oversized hands held open, palms forward, well away from his body, head up, cheerful, a small orange sun high above him. Panel 2, numeral 2: identical figure with both hands jammed into his coat pockets, shoulders up. Panel 3, numeral 3: identical figure with one hand visible and the other hidden behind his back. Panel 4, numeral 4: the same man upside down in mid-air, tipping backwards over a low two-rail timber fence, cap and spectacles coming off, boots above his head, a bucket flying out of one hand, a patch of stippled nettles below him, and the word NO lettered large in orange beneath the panel. Orange used only for the four numerals, the sun and the word NO. Generous empty cream space, no background scenery, no text beyond the four numerals and the word NO.",
+      "path": "illustrations/07-gag-01.png"
+    },
+    {
+      "id": "07-gag-02",
+      "class": "gag",
+      "chapter": "07",
+      "source": "07-first-people.md",
+      "caption": "Figure 7.3 — The Ninth Hand's gate, the month the hinges were greased.",
+      "alt": "A tall well-kept gate covered in nine-fingered handprints stands open, and a cheerful man strolls in through it with a broom over his shoulder.",
+      "prompt": "A tall, handsome, well-maintained timber gate standing open in a stone wall, drawn in flat black line art on cream, every plank straight, the ironwork heavy and clean, the hinges large and obviously greased with three small motion arcs at the pivot, the ground beneath swept. Across the planks, scattered at all angles, two dozen flat open handprints, each one clearly showing four fingers and no thumb, drawn in orange. Orange used only for the handprints. Walking in through the open gate, seen from behind and three-quarter profile, a cartoonish bean-bodied older man in a flat cap and long tarp coat with a long-handled broom over one shoulder, stride easy, head turned to admire the hinge rather than the handprints. Generous empty cream space above the gate, no background scenery, no text.",
+      "path": "illustrations/07-gag-02.png"
+    },
+    {
+      "id": "07-plate-01",
+      "class": "plate",
+      "chapter": "07",
+      "source": "07-first-people.md",
+      "caption": "Figure 7.1 — Reading a place from the ridge. 1 the water and the queue. 2 the children. 3 the animals. 4 which way the fence faces. 5 what has been mended. 6 where the waste goes, below the water or above it.",
+      "alt": "A wide view of a small walled settlement in a valley seen from a ridge, with six numbered details picked out — a water queue, children playing, penned animals, the gate and its bar, a patched roof, and a latrine trench downstream of the water.",
+      "prompt": "A single wide landscape scene in flat black line art on cream, drawn as a civil-defence pamphlet figure, viewed from a low ridge looking down into a shallow valley. In the middle distance a small walled settlement of six or seven simple low buildings inside a timber fence. Six details are picked out, each ringed in orange and carrying an orange callout numeral in an orange circle: 1 a short line of figures with cans and buckets at a stream below the settlement; 2 three small child figures playing in an open yard; 3 four penned goats and a dog beside a trough; 4 the main gate, drawn large enough to show its bar and hinge on the inner face, with the ground worn pale on both sides of it; 5 a roof with a neat patch on it and a taut straight washing line beneath; 6 a latrine trench behind a low screen, set downstream of the point where the water is drawn, with a small orange arrow on the stream showing which way it flows. Orange used only for the six rings, the flow arrow and the six numerals. In the near foreground at the lower left corner, small and seen from behind, a cartoonish bean-bodied older man in a flat cap and long tarp coat sitting on his heels behind a tussock with a bucket beside him, looking down at the settlement. Generous empty cream sky above, no background clutter, no text beyond the six numerals.",
+      "path": "illustrations/07-plate-01.png"
     }
   ]
 }

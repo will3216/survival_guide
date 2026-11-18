@@ -81,7 +81,8 @@ authority on staying alive and **will never find out**.
 | The Spoke | The first group that took him in after the Collapse. Competent, boring, alive. He fetched and carried for them and did not appreciate it at the time. | 01–02 |
 | Edda Mull | His neighbour two doors along the landing, eighty-one, on the first morning. Filled her bath before she looked out of the window. Dead before that spring, of age and of nothing being made any more. Chapter 01 only; do not revive her. | 01 |
 | Halla Dorn | The Spoke's bag keeper. Said the group's whole evacuation policy in one sentence in a doorway of the bag room, because he was standing in it with a bag in each hand and she wanted past: decide by noon, say it out loud, move while the light is still on your side. He does not know the sentence became the most quoted thing in the book; to him she was a woman who weighed bags monthly. Alive when he left the Spoke; her later fate is unwritten and available. | 02 |
-| The Ninth Hand | A blood cult he did chores for, two years. He hauled, swept and carried; he thought the robes were a uniform issue. He will tell you it wasn't that bad. It was that bad. He saw the machinery from underneath without the vocabulary to name it, which is how most people meet it. | 03, 04, 15 |
+| The Ninth Hand | A blood cult he did chores for, two years. He hauled, swept and carried; he thought the robes were a uniform issue. He will tell you it wasn't that bad. It was that bad. He saw the machinery from underneath without the vocabulary to name it, which is how most people meet it. | 03, 04, 07, 15 |
+| The woman who took his bucket | **Unnamed, permanently.** The first stranger he dealt with on his own account, in his second year, a month after he left the Spoke: she took his bucket off him on a track, he went for her and went over a fence backwards into nettles, and she then spent a year teaching him to read a settlement from outside it. He refuses her name in text because she asked him not to put her in a book, and he says so plainly without making a virtue of it. **No chapter may name her, give her a title, or say what became of her.** T.'s chapter 07 beat establishes that the editor's era knows exactly who she was — her name survives in three other hands, two of them carved. The narrator gives her no outcome and no weight. | 07 |
 | Marta Lunn | On the work crew with him in his second year, with a thermometer wired to the outside of her bag. She is the reason he knows it was four degrees above freezing the day he got hypothermic in a ditch. Chapter 05 only so far; available, and nothing is recorded about her beyond the thermometer. | 05 |
 | Pell Hask | The Ninth Hand's orator at the nightly water ceremony. Had a good voice for it — low, and knew to leave gaps. Spoke standing on the cracked cistern lid, which the narrator had asked him twice not to do. The narrator records nothing else about him and does not say what became of him. Chapter 04 only so far; available. | 04 |
 | Isak Roon | A net-mender at the water, in the narrator's own present (Y40). The one person the narrator asked to check a chapter before he wrote it out fair: he kept chapter 03 eight days and gave back four corrections, all of which went in. Has better hands than the narrator's. Not a healer by trade — a man who has had to stop bleeding in a hurry. Alive and available to later chapters. | 03 |
@@ -431,6 +432,46 @@ directly. Use them; do not reinvent or contradict them.
   points forward once, without a number, to the later chapter on growing food and
   putting it up (chapter 13).
 
+- **Chapter 07's own canon, now fixed.** The first stranger he dealt with on
+  his own account is **unnamed for good** (see the Cast row above): she took
+  his bucket on a track in his second year, he went two steps at her and went
+  over a fence backwards into nettles, and he offers the fence as the most
+  useful thing that ever happened to him because it meant neither of them did
+  anything worse. She taught him the settlement-reading method over the
+  following year. The method is his and hers and is available to later
+  chapters rather than re-derivable: **read a place from outside for an hour,
+  from above and out of the line of a path, before anybody has seen you** —
+  the water and its queue and where the waste goes relative to it, the
+  children, the animals' condition, which way the fences and the gate face,
+  and what has been mended; no single sign decides, and you are listening for
+  two signs that disagree. **Plenty of food and no visible children is the one
+  sign that decides on its own, and the instruction is to walk past.** The
+  approach technique is also his: daylight with the morning left, by the
+  expected track, stopping far enough off to be seen, hands empty and visible,
+  one person forward, and the three short facts (who you are, what you want,
+  how long). **"Being unarmed is not the same as being harmless"** is coined
+  here — unarmed is a fact about your hands, harmless is their judgement of
+  your intentions — and so is the chapter's anti-paranoia position, which is
+  **binding on later chapters: most people are not a threat, and the cost of
+  treating everybody as one is lethal on a longer timescale.** No chapter may
+  reverse that. **Rule 12** is coined here and earned by the credit he took —
+  a sack now against two days' help at harvest, which became three weeks
+  because he had eaten the sack. **Rule 31** is coined here and is the
+  chapter's thesis; its apparatus (the four things settled out loud on the
+  path, the means of leaving kept out of the common store, the cached bag
+  outside, naming in advance the one thing that means you go) is his.
+  **Leaving gets harder every day you stay** is said once and is not to be
+  re-coined. The chapter also re-invokes chapter 01's third question, *does
+  anyone know where I am?*, verbatim, once, in its last paragraph, as the
+  reader's route from a room to a group. Its dark beat is that he could recite
+  every sign of a group not safe to join on the afternoon he walked in through
+  the Ninth Hand's gate with a broom over his shoulder, stayed two years, and
+  says it was not that bad — delivered brightly, walked straight past, and the
+  **setup for chapter 15**. The Ninth Hand's gate is canon from here: well
+  maintained, hinges greased, bar on the inside, nine-fingered handprints on
+  the planks. Chapter 07 cites **Rule 19** for not opening a trade with your
+  best thing and does not re-derive it.
+
 ---
 
 ## Rule ledger
@@ -450,10 +491,12 @@ chapter whose number is not a row below.
 | 7 | Pressure is a place, not a motion. | 03 |
 | 9 | Water first. Always. | 04 |
 | 11 | The second floor is not safer. It is only harder to leave. | 02 |
+| 12 | Small first trade. Resolve it the same day. | 07 |
 | 16 | Wet is colder than cold. | 05 |
 | 19 | Salt is money. | 06 |
 | 23 | Pack the bag for the stairs, not for the road. | 02 |
 | 28 | Clear is not clean. | 04 |
+| 31 | Know the way out before you go in. | 07 |
 | 34 | Build small. Heat is the rent. | 05 |
 | 42 | Learn three plants completely before you learn twenty badly. | 06 |
 | 80 | *Reserved. Spent in chapter 20. Do not cite before then.* | 20 |
