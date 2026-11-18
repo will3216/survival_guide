@@ -262,7 +262,8 @@ directly. Use them; do not reinvent or contradict them.
   takes six or seven of that; so the honest water budget is **seven or eight
   litres, which at four a day is under two days.** Three days of water is
   twelve kilos, and twelve with the bag on top is eighteen or nineteen —
-  above the repeatable fourteen and inside the degradation band. The
+  above the repeatable fourteen and closing on the twenty-three where
+  chapter 02's degradation begins to show. The
   conclusion the chapter draws is that the number a person needs is not a
   volume: it is the distance to the next water. Later chapters may cite the
   one-fifth sustained-load figure, the seven-or-eight-litre ceiling and the
@@ -271,6 +272,53 @@ directly. Use them; do not reinvent or contradict them.
   this, and should use the one-fifth figure for any sustained-load
   discussion while keeping chapter 02's one-third as the degradation
   threshold.**
+
+- **The clever house down the valley from the Spoke.** They deliberated for
+  three days and did not leave. He walked back through in the spring and read
+  their plan off the kitchen wall in marker, numbered one to nine, and records
+  only that it was a good plan to about step four. Available as a measuring
+  stick; the household is dead and stays dead, and he never names them.
+
+- **T.'s era, as chapters 01–02 establish it.** Counting before you move is
+  taught to children with a song about fingers; the three questions are said
+  over a sick child and in the yard before a journey by people who do not know
+  where they came from; T. was taught Halla Dorn's sentence before learning to
+  read and has said it over a sick child twice; T.'s own household still walks
+  the house twice a year as the Spoke did, and says the drill still works.
+  This is editor's-era canon and belongs to T.'s voice only — no chapter from
+  1 to 20 may know any of it.
+
+- **Chapter 03's own canon, now fixed.** In his third year, with the Ninth
+  Hand, the narrator put his right arm through a window reaching for somebody
+  on the far side of it, pressed the bleed with a folded cap and lifted the cap
+  off about every ten seconds for twenty minutes to see whether it had stopped.
+  An unnamed woman of the Ninth Hand knelt, moved his hand two inches onto one
+  spot, put her weight on it and held it there without speaking — the origin of
+  **Rule 7**. His right thumb has not bent properly since (the window's doing,
+  not hers), his left collarbone sits half an inch high and his right little
+  finger points at the next one along, the last two from a cart and from
+  splinting without immobilising the joints above and below. He does not notice
+  that reaching through a window for somebody was brave; he records it as the
+  origin of a procedural error. He also does not know who he pulled through,
+  and the manuscript never says.
+
+- **Chapter 03 is the one chapter he had checked.** He says so plainly, once,
+  in the opening: he took it to **Isak Roon**, the net-mender, who kept it eight
+  days and returned four corrections, all of which are in. This is the only
+  place in the book where he submits his own work to anyone, and later chapters
+  should not repeat the device. T.'s single appreciative beat in chapter 03
+  reads the submission — not the technique — as what makes the chapter
+  trustworthy, and then confirms the chapter is what T. was taught, nearly word
+  for word, and correct.
+
+- **The bleeding debt is paid.** Chapter 03 carries the long version of direct
+  pressure chapter 01 promised (one spot, heel of the hand, second hand stacked,
+  arms locked, weight not muscle, ten minutes at least, never lifting off),
+  wound packing, and the tourniquet — high and tight above the wound, never over
+  a joint, tightened until bleeding stops, **time written down**, and **never
+  loosened by whoever applied it**. It also pays chapter 02's go-bag line by
+  naming the small bleeding roll as what the tourniquet guidance is for. Later
+  chapters may refer back to all of this rather than re-teaching it.
 
 - **Chapter 04's own canon, now fixed.** He carried the bucket at the Ninth
   Hand's nightly water ceremony for most of two years, because he was on the
@@ -287,8 +335,7 @@ directly. Use them; do not reinvent or contradict them.
   noticing that he has said anything. He does not know there is a version of
   that night, and the contradiction is never argued. **Rule 28** is coined here,
   and earned: he drank beautiful water out of a stone basin and was no use to
-  anybody for nine days.
-  The settling-and-decanting method (doubled cloth, a night standing, decant
+  anybody for nine days. The settling-and-decanting method (doubled cloth, a night standing, decant
   off the middle with a tube, two jars with the dirty one marked) is his, and
   T. confirms in chapter 04 that it is still done exactly that way. The
   improvised barrel filter — gravel, a deep bed of fine sand, charcoal, cloth
