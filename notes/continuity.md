@@ -242,7 +242,20 @@ named.
   amounts, something green daily, and whole grain rather than milled. The named deficiency
   syndromes are described by their signs only and never by name. A later chapter wanting the
   full account of monotonous-ration deficiency (pellagra, beriberi, vitamin A, anaemia) may
-  take it; chapter 13 (growing and keeping things) is the natural place.
+  take it; chapter 13 (growing and keeping things) is the natural place. **The whole-grain-
+  rather-than-milled point goes with it**: chapter 12's review found it reading as a remedy
+  for bleeding gums, which is a different deficiency, so chapter 12 now names only the
+  oral signs and the green-food fix, and chapter 12 no longer points at chapter 06.
+
+- **Tetanus is covered, and chapter 12 is its only home.** Added in review: the risk
+  categories (punctures, crush, bites, anything with soil, dung or rust in it), irrigating
+  hard and leaving the wound open as the only prophylaxis now available, recognition days
+  to weeks later as jaw and neck stiffness then spasms, and the limit that nothing can be
+  done without a hospital. **The passage exists because of a collision:** chapter 12 teaches
+  inability to open the mouth as a dental-abscess red flag, and in an unvaccinated population
+  trismus after a dirty wound is tetanus, not a tooth — the chapter says so in both places.
+  No later chapter should re-teach it, and none may reverse the "left open rather than sealed
+  tight" instruction.
 
 ---
 
