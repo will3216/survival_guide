@@ -91,7 +91,7 @@ authority on staying alive and **will never find out**.
 | Hesper Vane | A girl the narrator taught to soak and bank a pot, on a back step in the eleventh year, because her lid sat proud of the rim by the thickness of a nail. She fed a valley for thirty years and the editor's era sells beans by the half-vane and calls the straw box by her name. The narrator records only the lid and never mentions her again. Available to later chapters, but his obliviousness about her is fixed. | 06 |
 | Vera Ott | A mechanic. His teacher, and he was her hands — she told him which way to turn things for six years. Taught him the machine chapters. Had no patience for him. **First appears in chapter 09**, in a clause, as the person he was fetching for the autumn he went through two roofs: she had no patience with him whatsoever and the best salvage list he was ever handed. **Chapter 10 is her scene** and is the first and only place she speaks. Dies in chapter 16; he reports it as plainly as a broken pump. | 09–10, 16 |
 | The Bellwright | Founded the Bell Country. A legend to everyone else — the man whose name is on it, quoted and sung about. To the narrator, a man with strong opinions about drainage who was usually right about gradients and wrong about people. The narrator hauled water past him for years and mostly remembers being asked to move a barrow. He does not know the Bellwright became a legend. | 13–16 |
-| The Bell Country | The settlement he hauled water for. Founded and lost by other people. Nine years in the making and five in the losing; chapter 15 is its collapse seen from the bottom, by someone who noticed it first in where the water went. | 13–16, 18–19 |
+| The Bell Country | The settlement he hauled water for. Founded and lost by other people. Nine years in the making and five in the losing; chapter 15 is its collapse seen from the bottom, by someone who noticed it first in where the water went. Named for the first time in chapter 10, in a clause about two trucks and a tire. | 10, 13–16, 18–19 |
 | Mother Furnace | A god invented by four tired people in an afternoon, for morale. He was in the room, holding something, and thought they were assigning chores. Still worshipped. A six-spoke iron shape. | 11, 18 |
 | Ais | The apprentice he is writing this book for. Named rarely. Chapter 20 is addressed to her directly. | 20 |
 | T. | The editor of the found manuscript, writing from Ladderwell roughly two generations after the narrator finished the book. Has never seen a working lightbulb and does not entirely believe in them. Signs the editor's preface in `manuscript/00-front-matter.md`. Believes they are editing the work of the great authority on staying alive. | front matter only |
@@ -137,9 +137,23 @@ places no chapter has used yet.
 
 | Name | What it is | First used in chapter |
 |------|------------|------------------------|
-| The Bell Country | The settlement he hauled water for, founded and lost by other people, nine years in the making and five in the losing. Founded by the Bellwright. Its first use in the manuscript is chapter 13, the first garden. | 13 |
+| The Bell Country | The settlement he hauled water for, founded and lost by other people, nine years in the making and five in the losing. Founded by the Bellwright. **Its first use in the manuscript is chapter 10**, in one clause inside the tires section, where he keeps two trucks running for it out to the far side of the lake in his eleventh year and records only a sidewall gone on a slope. Chapter 13 is the first chapter the place is the *subject* of, and chapter 13's writer is not introducing it. | 10 |
 | Tarn Street cold store | A cold-storage building the narrator helped clear in his sixth year, named in chapter 09 the way you name a street. The famous haul of that year came out of it; T.'s era calls the day **the Opening** and teaches children its date. The narrator gives the haul eleven words and the stairs a paragraph. | 09 |
 | Ladderwell | Where T. the editor lives and signs the preface, two generations after the narrator wrote. Editor's era only. | front matter only |
+
+**Maintenance note on the first-use column — read this before you add a row or
+name a place.** The column is a claim about the whole manuscript, not about the
+chapter you are writing, and nothing mechanical checks it. It has now been
+wrong twice: once about chapter 13 against chapter 14, and once about the Bell
+Country, when chapter 10 named the place in a clause years after the row said
+chapter 13 would introduce it. A row goes stale silently, and the writer it
+misleads is the one who reads it and believes they are introducing a place that
+is already in the book. So: **whenever a chapter names a place that already has
+a row here, check that row's first-use claim and correct it in the same commit
+as the chapter** — the entry in the What-it-is column as well as the number, so
+the prose and the column cannot disagree. Naming a place earlier in manuscript
+order than its row says is allowed and is often right; leaving the row saying
+otherwise is not.
 
 **Ladderwell is off-limits to the narrator.** He never visits it and never
 names it — it belongs to T.'s era, two generations after his own, and
