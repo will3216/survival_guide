@@ -4,13 +4,13 @@
 
 In my ninth year I dug a garden at the Bell Country and killed it with my own two hands, carefully, over eleven weeks.
 
-The place was four long terraces cut across the south face of a hill, houses on the flat at the top, water at the bottom, which is the wrong way round and was nobody's fault; the spring was where the spring was. I was on the water rota, which meant hauling up: two buckets, forty-odd trips a day, for five years. Afternoons, when the rota was done, I hauled two more for a garden of my own at the top of the fourth terrace. Good soil, immaculate rows, and a sign I painted myself, because I was twenty-nine.
+The place was four long terraces cut across the south face of a hill, houses on the flat at the top, water at the bottom, which is the wrong way round and was nobody's fault; the spring was where the spring was. I was on the water rota, which meant hauling up: two buckets, forty-odd trips a day, for five years. Afternoons, when it was done, I hauled two more for a garden of my own at the top of the fourth terrace. Good soil, immaculate rows, and a sign I painted myself, because I was twenty-nine.
 
 It died in August. The beans first, then the roots; the squash held longest and gave me four things the size of my fist.
 
-Next spring somebody moved me to the early shift, so I watered at dawn before the rota instead of the afternoon after it. Same hill, same buckets, same trips, same man. That garden fed nine people into the winter.
+Next spring somebody moved me to the early shift, so I watered at dawn before the rota instead of the afternoon after. Same hill, same buckets, same trips, same man. That garden fed nine people into the winter.
 
-The Bellwright came along the terrace while I stood in it being pleased with myself and told me why. Water put on in the afternoon goes off the leaf and off the top inch of soil before it reaches anything that wants it, and my fourth terrace drained into the third, so for two seasons I had watered the third by way of the fourth, which was where I should have dug. He was right about all of it. He asked me twice to move the barrow, which lay across the path, and I moved it the second time.
+The Bellwright came along the terrace while I stood in it being pleased with myself and told me why. Water put on in the afternoon goes off the leaf and off the top inch of soil before it reaches anything that wants it, and my fourth terrace drained into the third, so for two seasons I had watered the third by way of the fourth, which was where I should have dug. He was right about all of it. He asked me twice to move the barrow, and I moved it the second time.
 
 So nothing here is mine. It is water, patience, and a man who was right about gradients. Do it in the order below, because the order is most of it.
 
@@ -76,7 +76,7 @@ A garden feels successful when it makes things that look like food on a plate. G
 | Winter squash and pumpkins | Great bulk off one plant, keeping months whole in a cool room. |
 | Grain and maize | Real staples, but wanting land and threshing: a group's crop, not a bed's. |
 
-The three that feed you are the three that keep. Grow what you have seen growing within a day's walk, because what tells you about your ground is somebody else's, and **Rule 42** holds in a garden too.
+Grow what you have seen growing within a day's walk, because what tells you about your ground is somebody else's; **Rule 42** holds in a garden too.
 
 <!-- ILLO
 id: 13-gag-01
@@ -106,15 +106,16 @@ prompt: A pamphlet marginal vignette in flat black line art on cream with
 
 ## The Illnesses Of A Full Belly
 
-Chapter 12 gives the one that shows in the mouth: gums bleeding all round at once, teeth loose in good sockets, on somebody eating plenty. It is not the only one, and the others are why a growing chapter talks about being ill.
+Chapter 12 gives the one that shows in the mouth: gums bleeding all round at once, teeth loose in good sockets, on somebody eating plenty. It is not the only one.
 
 They have one cause. **Months of the same food** — not too little food, the same food, out of one sack, cooked the same way. People get full and get ill, and nobody connects the two because the store is not empty. Watch the people around you for:
 
 - Old wounds opening, cuts that will not close, aching legs, bruising from nothing: the mouth one further along. A few mouthfuls of anything green and fresh daily fixes and prevents it, raw or barely cooked, because long boiling destroys what you want and the rest goes out in the cooking water.
-- Mostly maize: loose bowels, a rough reddish rash on skin that gets the sun, later confusion that gets a person treated as mad. Beans, eggs, offal, greens — and soak the maize in wood-ash water before grinding, which releases what maize otherwise locks away.
+- Mostly maize: loose bowels, a rough reddish rash on skin that gets the sun, later confusion that gets a person treated as mad. Beans, eggs, offal, greens — and cook the maize in wood-ash water before grinding, which releases what maize otherwise locks away.
 - Mostly milled grain or polished rice: swollen legs with breathlessness, or numb, weak, wasting legs. The whole grain has what is missing; the white part does not.
-- Children who cannot see at dusk before anybody else loses the light. That takes sight for good, and wants anything orange or dark green.
+- Children who cannot see at dusk before anybody else loses the light. That takes sight for good, and wants offal, or anything orange or dark green.
 - Pale, breathless and exhausted on no work. Meat, offal, beans, greens.
+- Necks swelling at the front, inland and away from the sea. Sea food of any kind, or salt from the sea rather than from rock.
 
 So the garden's job is not bulk alone: **three or four things rather than one**, something green daily, whole grain rather than milled where it is your choice, and the cooking water kept. A corner of greens yielding almost no calories pays for itself — the one exception to Rule 58, about medicine rather than dinner.
 
@@ -122,7 +123,7 @@ So the garden's job is not bulk alone: **three or four things rather than one**,
 
 Get this wrong and you get one excellent year and then nothing.
 
-**Open-pollinated seed comes true**: save it, plant it, get the same plant again, year on year. **Hybrid seed does not.** A hybrid is the first cross of two bred lines, often magnificent in its one year; save from it and the next generation comes apart — some like one grandparent, some like the other, most like neither, much of it useless. The plant has not failed; it was only ever going to do that. The packets said which they were, and if yours does not, you find out by growing a few and watching, which costs a season.
+**Open-pollinated seed comes true**: save it, plant it, get the same plant again, year on year. **Hybrid seed does not.** A hybrid is the first cross of two bred lines, often magnificent in its one year; save from it and the next generation comes apart — some like one grandparent, some like the other, most like neither, much of it useless. The packets said which they were, and if yours does not, you find out by growing a few and watching, which costs a season.
 
 1. **Start with the easy savers.** Beans, peas, lettuce, tomatoes and peppers mostly pollinate themselves, so they come true with nothing clever done.
 2. **Know what crosses.** Squash, pumpkin, maize, brassicas and beets take pollen from anything of their kind nearby, including another variety over the fence, so pure seed wants distance between varieties.
@@ -133,11 +134,11 @@ Get this wrong and you get one excellent year and then nothing.
 
 ## Keeping It
 
-Growing it is the easy half. Everything arrives in about five weeks and then nothing until next year, so the jar in February is the achievement.
+Growing it is the easy half. Everything arrives in five weeks and then nothing until next year, so the jar in February is the achievement.
 
 Before the Collapse, every house had a refrigerator. It was a white box about chest high standing in the kitchen, and the inside of it was cold — not cold because you had put ice in it, cold because it made itself cold, by itself, all day and all night, for years, while nobody watched it or thought about it at all. You could put meat in it on the Monday and eat that meat on the Thursday, and leave a jug of milk in it a week, and go away, and come back, and the cold would still be going. There was one in every house I ever walked into and there is not a working one left anywhere I have been, which is why you are going to learn to dry things properly.
 
-> **— T.** I have read those four lines more often than I have read anything else ever written, and I do not altogether believe them. He gives four to the box and the rest of the page to the rack.
+> **— T.** I have read those four lines more times than I can defend, and I do not altogether believe them. He gives four to the box and the rest of the page to the rack.
 
 **Drying is the most forgiving method and the one to learn first.** You take the water out until nothing can live in what is left, and it wants no salt, no jars, no fuel and no precision.
 
@@ -147,19 +148,19 @@ Before the Collapse, every house had a refrigerator. It was a white box about ch
 - Cool it before it goes in the jar, because it sweats otherwise and the sweat is enough. Then shake the jars daily for a fortnight: moisture on the glass means back on the rack, since one wet piece spoils the jar.
 - Store dry, cool, dark, sealed, off the floor. The same five words.
 
-**Salt** draws the water out instead, and wants a great deal of salt, which is money (**Rule 19**). Keep the salted thing cool and drain off the liquid it draws. Salted food is soaked and rinsed before eating, and it is thirsty food, which matters in a dry summer.
+**Salt** draws the water out instead, and wants a great deal of salt, which is money (**Rule 19**). Keep the salted thing cool and drain off the liquid it draws. It stays under its own brine or buried in dry salt, and anything soft, slimy or sweet-smelling goes out. Salted food is soaked and rinsed before eating, and it is thirsty food, which matters in a dry summer.
 
 **Fermenting** is the other low-risk one, and low-risk for a reason worth knowing: you are deliberately growing the acid-makers so nothing else gets a start. Vegetables shredded and salted at about two to three parts salt in a hundred parts of vegetable by weight, packed down until the brine covers them, weighted so nothing sits above the liquid, kept cool, and **covered but never sealed tight**, because it makes gas and a sealed jar bursts. Lift off whatever moulds above the brine; sour and clean is right, rotten or slimy goes out.
 
 ## The One I Will Not Teach You
 
-**Canning low-acid food — vegetables, beans, meat, fish, soup, anything that is not fruit or properly soured — is not a thing to improvise, and here is why.**
+**Canning low-acid food — vegetables, beans, meat, fish, soup, anything not fruit or properly soured, and tomatoes count as low-acid whatever they look like — is not a thing to improvise, and here is why.**
 
-There is an organism that lives in soil, so it is on everything you dig up, and it survives boiling — not survives a little; a rolling pot does not touch it. Sealed into a jar of low-acid food it finds no air, which is the condition it wants, and makes a poison among the deadliest known, which kills by stopping your breathing. It has no smell and no taste. The jar does not bulge, the food does not look wrong, and there is no inspection that clears it — chapter 9's tin rule, for the same reason.
+There is an organism that lives in soil, so it is on everything you dig up, and it survives boiling — not survives a little; a rolling pot does not touch it. Sealed into a jar of low-acid food it finds no air, which is the condition it wants, and makes a poison among the deadliest known, which kills by stopping your breathing. It has no smell and no taste. The jar does not bulge, the food does not look wrong, and there is no inspection that clears it — chapter 6's tin rule, for the same reason. A jar of hard-dried food is different: nothing can live in what is left. This is about food still wet when the lid goes on.
 
 The only thing that reliably kills it in a sealed low-acid jar is heat well above boiling held for a set time, which needs a pressure vessel with a working gauge and a tested time for that exact food. That is equipment, and a gauge reading wrong is worse than none, because it tells you that you have done it. Sour things are a different case — acid holds the organism off, which is what fermenting is doing and why fermenting is safe — but **the line between sour enough and not is a measured one, I cannot teach you to judge it by taste, and guessing which side a jar sits on is how this kills people.**
 
-So for a vegetable, a bean or a piece of meat: dry it, salt it, ferment it, or eat it now. Do not seal low-acid food in a jar and set it on a shelf, and do not eat out of one somebody else sealed. Nor pack garlic or herbs under oil and leave it out of the cold, which is the same hazard wearing an apron. There is no version of this where you try anyway with a heavy lid.
+So for a vegetable or a bean: dry it, salt it, ferment it, or eat it now. For meat or fish: dry it, salt it, or eat it now — fermenting is for vegetables. Do not seal low-acid food in a jar and set it on a shelf, and do not eat out of one somebody else sealed. Nor pack garlic or herbs under oil at all, which is the same hazard wearing an apron, and there is no cold left to keep it in. There is no version of this where you try anyway with a heavy lid.
 
 <!-- ILLO
 id: 13-plate-02
@@ -193,13 +194,13 @@ prompt: A civil-defence pamphlet comparison diagram in flat black line art
 
 ## What It Costs You
 
-It costs you the decision to stay. Everything up to here works whether you are passing through or not. A garden does not: three years before you know what the ground does, two before a fruit tree is worth the hole, a season lost the day you walk away. Seed in the ground is a bet on being there in August, and if you are not sure you will be, carry the seed and do not plant it.
+It costs you the decision to stay, because everything up to here works whether you are passing through or not and a garden does not: three years before you know what the ground does, two before a fruit tree is worth the hole, a season lost the day you walk away. Seed in the ground is a bet on being there in August, and if you are not sure you will be, carry the seed and do not plant it.
 
-It costs water, daily, in the dry weeks, when water is already the thing you have least of. A garden does not negotiate — it wants the same whether or not somebody is ill and whether or not the spring has dropped, and on the day you choose between the beds and the people you choose the people, and lose the year.
+It costs water daily in the dry weeks, when water is already what you have least of, and a garden does not negotiate: on the day you choose between the beds and the people you choose the people, and lose the year.
 
-It costs labour at the wrong time: harvest and preserving land in the same three weeks as everything else to be done before the cold, and the pinch is the fortnight when the racks, the crocks and the roof all want the same hands.
+It costs labour at the wrong time: harvest and preserving land in the same three weeks as everything else before the cold.
 
-And it costs the year you plant badly. A bed of salad in a hungry summer, a saved packet that was a hybrid, a jar put away damp: each is twelve months you cannot earn back in month eleven. The garden's mistakes are all annual, which is the only real difference between this chapter and the rest.
+And it costs the year you plant badly. A bed of salad in a hungry summer, a hybrid packet saved, a jar put away damp: each is twelve months you cannot earn back in month eleven, because the garden's mistakes are all annual.
 
 ## The Short Version
 
@@ -211,4 +212,4 @@ And it costs the year you plant badly. A bed of salad in a hungry summer, a save
 - Save seed only from open-pollinated plants; hybrids give one good year then come apart. Mind what crosses and what takes two years, save from twenty, keep a year back.
 - Dry properly: thin, spaced, moving air, brittle or leathery right through, cooled before jarring, jars shaken a fortnight. Dry, cool, dark, sealed, off the floor.
 - Salting and fermenting are the other two safe without equipment: vegetables at two to three percent salt by weight, held under the brine, weighted, covered but never sealed tight.
-- Never seal low-acid food in a jar without a pressure canner, a working gauge and a tested time, and never eat from one that was. It survives boiling; the jar looks perfect.
+- Never seal low-acid food — vegetables, beans, meat, fish, tomatoes — in a jar without a pressure canner, gauge and tested time, and never eat from one that was: the soil organism survives boiling and the jar looks perfect. No garlic under oil.

@@ -273,7 +273,12 @@ named.
   no work, wanting meat, offal, beans and greens. The chapter's standing instruction is **three or four
   things rather than one, something green daily, whole grain rather than milled where it is your choice,
   and the cooking water kept** — stated as the one exception to Rule 58, about medicine rather than dinner.
-  **No later chapter owes deficiency.**
+  **One gap is recorded rather than hidden:** the account as first written omitted iodine, and a sixth
+  prose sign was added in review — necks swelling at the front, inland and away from the sea, wanting
+  sea food of any kind or salt from the sea rather than from rock. With that added the account covers
+  scurvy, pellagra, beriberi, vitamin A, iron and iodine by their signs. **No later chapter owes
+  deficiency**, but a chapter that finds a further gap should add it here rather than treat the list as
+  sealed.
 
 - **Tetanus is covered, and chapter 12 is its only home.** Added in review: the risk
   categories (punctures, crush, bites, anything with soil, dung or rust in it), irrigating
@@ -719,12 +724,20 @@ directly. Use them; do not reinvent or contradict them.
   nor looks wrong; only heat well above boiling held for a set time in a pressure vessel with a working
   gauge and a tested time for that exact food is reliable, and a gauge reading wrong is worse than none.
   Fermenting is safe **because** the acid develops, and the chapter states explicitly that the sour-enough
-  line is a measured one it cannot teach the reader to judge by taste. The alternatives offered are dry,
-  salt, ferment or eat it now; the chapter also forbids eating from a jar somebody else sealed and packing
+  line is a measured one it cannot teach the reader to judge by taste. The alternatives are scoped by food, which review found
+  mattered: **vegetables and beans may be dried, salted, fermented or eaten now; meat and fish may be
+  dried, salted or eaten now, and fermenting is for vegetables**, because the chapter's only ferment
+  protocol is a vegetable brine and fermented meat and fish are a documented botulism vehicle. The
+  low-acid definition **names tomatoes explicitly**, whatever they look like. The dry/wet hinge is stated
+  inside the refusal, so sealing dried food and sealing wet low-acid food cannot be confused. Garlic and
+  herbs under oil are forbidden **outright**, not merely out of the cold, on the stated grounds that there
+  is no cold left — which makes the refrigerator passage load-bearing safety content rather than colour.
+  Salting carries its own failure test (under its own brine or buried in dry salt; soft, slimy or
+  sweet-smelling goes out); the chapter also forbids eating from a jar somebody else sealed and packing
   garlic or herbs under oil left out of the cold, and closes the door on trying anyway with a heavy lid.
   It re-cites **Rule 9** and **Rule 28** (chapter 04), **Rule 19** and **Rule 42** (chapter 06), and
   **Rule 29** (chapter 12), and points at chapter 4 for treating caught water, chapter 6 for the five
-  storage words, chapter 9 for the tin rule, and chapter 12 for the latrine and for the oral deficiency
+  storage words and for the tin rule, and chapter 12 for the latrine and for the oral deficiency
   signs. It names **one place**, the Bell Country, whose Places row was re-checked rather than added.
 
 ---
