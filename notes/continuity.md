@@ -928,3 +928,55 @@ is the Bell Country's Thursday dinner (thirty-one of them, the chairs, late
 most weeks, eleven years of being against the whole business) and the winter
 feast with his foot in a bucket. **The corpus closes here.** No chapter
 coins a Rule after 80, and the ledger above is final.
+
+---
+
+## Appendices, now fixed
+
+`manuscript/99-appendices.md` is written and is the last content in the book.
+It is not listed in `notes/manuscript-order.txt` and **must never be added to
+it**: the linter applies every chapter rule to every filename it reads out of
+that file, so a `99-appendices.md` row would make it demand an epigraph, a
+`## What It Costs You`, a `## The Short Version` with 5-9 bullets, 1,800-3,200
+words and a `## Chapter 99` accuracy heading, and the build would fail. The
+docstring's exemption for `00-` and `99-` is achieved by omission from the
+order file, not by a check in the code.
+
+**Appendix A — the Rules list, and the two torn pages.** All thirty-seven
+ledger Rules appear in numerical order. The numbering runs 2 to 80 and most
+numbers are absent, which is his own non-sequential numbering and is not
+annotated. Gaps are marked sparingly and in two hands:
+
+- **Four gaps carry `[forgotten]`** — his own, consistent with chapter 20's
+  "the ones I could remember". They sit after Rule 2, after Rule 23, after
+  Rule 51 and after Rule 68.
+- **Exactly two gaps carry `[page torn — T.]`**, and the count is fixed by
+  `manuscript/00-front-matter.md:25`, which says two pages were torn out
+  cleanly along a fold. **Their positions: one between Rule 38 and Rule 42,
+  and one between Rule 77 and Rule 80.** The second is the payoff the preface
+  set up — the gap immediately before the book's closing Rule — and it gets
+  the bare mark and nothing else: no editor's note at that spot, no comment on
+  it anywhere in the book.
+- The mark is signed `— T.` because a man writing a list cannot know a page
+  will later be torn out of it; the torn marks are the editor's hand inside
+  his document. `[forgotten]` is unsigned. That initial is the whole of the
+  distinction and nothing in the book explains it.
+
+**Standing prohibition: the contents of the two torn Rules are never to be
+written down.** Not in the manuscript, not in this file, not in
+`notes/accuracy-log.md`, not in a brief, not in a plate caption. They do not
+exist as text anywhere and must not be invented. No number may be assigned to
+either, no topic hinted at, and no neighbouring line, note or illustration may
+narrow what either said — both gaps were deliberately placed in wide numeric
+runs (39-41 and 78-79) between Rules from unrelated chapters, so that neither
+the number nor the subject can be reconstructed. T. would trade a year of
+grain to know, and the one voice that wants to know is the only one that can
+never be given it. **Do not close this.**
+
+**Appendix B** transcribes figures only, each table captioned with its source
+chapter; every figure was checked against the chapter file line by line and
+logged under `## Appendices` in `notes/accuracy-log.md` as a transcription
+rather than an independent claim. **Appendix C** is a blank five-field
+worksheet matching chapter 18's five settled things and `18-plate-01`, ending
+on the cost question. **No new Rule appears anywhere in the appendices and the
+corpus is still closed at Rule 80.**
