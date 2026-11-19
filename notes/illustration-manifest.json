@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 39,
+  "count": 42,
   "slots": [
     {
       "id": "01-gag-01",
@@ -392,6 +392,36 @@
       "alt": "A four-column comparison: a drying rack of thin spaced slices, a crock of layered dry-salted food under a weight, a crock of shredded vegetables held under brine by a weight with a loose cloth cover, and a fourth column showing a sealed jar struck through with a heavy orange cross.",
       "prompt": "A civil-defence pamphlet comparison diagram in flat black line art on cream paper, laid out as four equal columns separated by thin vertical rules, with generous empty space and no lettering anywhere. Column one: a simple slatted drying rack seen in three-quarter view, bearing eight thin even slices laid flat in one layer and clearly not touching each other, with three short curved strokes crossing the rack to stand for moving air. Column two: a plain straight-sided crock shown in cutaway section, packed with alternating horizontal bands of food and dense stippling for salt, a flat round weight resting on top, and a small spout low on the side with two drops falling into a shallow dish beneath. Column three: a second plain crock in cutaway section, filled with shredded vegetable matter drawn as short tangled strokes, a clear horizontal brine line drawn above the packed vegetables, a flat round weight holding everything below that line, and a loose cloth draped over the mouth and tied with string, drawn deliberately slack and not airtight, with three small rising bubbles in the brine. Column four: a glass preserving jar with a clamped lid, drawn smaller and in thinner line than the other three, with a single heavy bold orange cross struck corner to corner across the whole column. Orange callout numerals in orange circles at the foot of each of the four columns. Orange used only for the four numerals, their circles, and the single cross. No figures, no people, no hands, no shading, no background scenery, no text or lettering of any kind beyond the numerals.",
       "path": "illustrations/13-plate-02.png"
+    },
+    {
+      "id": "14-gag-01",
+      "class": "gag",
+      "chapter": "14",
+      "source": "14-economy.md",
+      "caption": "Figure 14.2 — The last one in circulation, doing the only work it ever did.",
+      "alt": "A loaded wheelbarrow with a folded paper banknote wedged under its wheel as a shim, and a cheerful man leaning on the handles.",
+      "prompt": "A loaded wooden wheelbarrow seen from the side, drawn in flat black line art on cream with generous empty space around it, heaped with sacks and a coil of rope. Under the barrow wheel, wedged tight between the rim and the ground, a paper note folded into a thick triangular shim, its visible face carrying a crude hand-drawn portrait of a proud man and the word ONE, both drawn in orange. Leaning on the barrow handles behind it, seen in three-quarter view, a cartoonish bean-bodied older man in a flat cap and long tarp coat and round spectacles with a crack through the left lens, entirely cheerful, looking at the wheel. Orange used only for the portrait and the word ONE. No background scenery, no text beyond the word ONE.",
+      "path": "illustrations/14-gag-01.png"
+    },
+    {
+      "id": "14-plate-01",
+      "class": "plate",
+      "chapter": "14",
+      "source": "14-economy.md",
+      "caption": "Figure 14.1 — The four tests, and the one thing in the room that passes all four. 1 it lasts. 2 it divides. 3 it carries. 4 everybody agrees. A note passes none of them.",
+      "alt": "Four labelled panels showing the four properties of money, each tested against a fist of salt which passes, with a hand-drawn banknote failing all four.",
+      "prompt": "Four equal square panels in a single row divided by thin vertical rules, flat black line art on cream paper, drawn as a civil-defence pamphlet figure with generous empty margins. Each panel carries an orange callout numeral in an orange circle in its upper left. Panel 1, numeral 1: an open tin of coarse salt beside a calendar page, the salt unchanged, and below it a small crossed-out apple going soft. Panel 2, numeral 2: a small heap of salt divided by two thin lines into three unequal portions with a tiny spoon, and below it a crossed-out goat drawn whole. Panel 3, numeral 3: a cloth twist of salt sitting in an open palm beside a large crossed-out grain sack, with a small orange arrow showing the twist going into a coat pocket. Panel 4, numeral 4: four plain standing figures seen from the front, each with one hand held out flat and a pinch of salt drawn in it, all four hands at the same height. Along the bottom of all four panels, running underneath them, a single hand-drawn rectangular paper note bearing a crude portrait and the word ONE, with a small orange X over it in each of the four panel columns. No other text beyond the four numerals and the word ONE.",
+      "path": "illustrations/14-plate-01.png"
+    },
+    {
+      "id": "14-plate-02",
+      "class": "plate",
+      "chapter": "14",
+      "source": "14-economy.md",
+      "caption": "Figure 14.3 — Three to check every time. 1 the cup: salt dissolves clean, so grit in the bottom is not salt. 2 the pans: a true balance reads the same with the pans swapped. 3 the count: into your own hand, in silence, twice.",
+      "alt": "Three panels showing the checks against diluted goods, a false balance, and a short count — a cup of water with settled grit, a two-pan balance read in both directions, and goods counted into the buyer's own hands.",
+      "prompt": "Three equal panels in a single row divided by thin vertical rules, flat black line art on cream paper, drawn as a civil-defence pamphlet figure with generous empty margins. Each panel carries an orange callout numeral in an orange circle in its upper left. Panel 1, numeral 1: two clear glass cups side by side on a plank, the left cup holding clear water with nothing in the bottom, the right cup holding water with a stippled layer of settled grit at the bottom picked out by a small orange arrow pointing at the layer. Panel 2, numeral 2: a simple two-pan beam balance drawn twice, one above the other; in the upper drawing a square-marked stone sits in the left pan and a cloth bundle in the right and the beam is level; in the lower drawing the same stone and bundle are in the opposite pans and the beam is tilted, with a small curved orange arrow between the two drawings showing the pans being exchanged. Panel 3, numeral 3: a pair of oversized open hands held cupped beneath a tilted sack, seven separate round items drawn falling one by one into the hands, and beside it a crossed-out drawing of a sack already tied shut with cord. Orange used only for the three numerals, the arrow at the grit and the exchange arrow. No text beyond the three numerals.",
+      "path": "illustrations/14-plate-02.png"
     }
   ]
 }

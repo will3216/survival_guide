@@ -97,6 +97,7 @@ authority on staying alive and **will never find out**.
 | Ruda Vilk | A name in paint pen on the tape around a radio case, in a house in a valley in the narrator's first year. The narrator took the radio, carried it for months and **never met him**; nothing else about him is known or may be invented. Chapter 11 only. | 11 |
 | The woman on the radio | **Unnamed, permanently.** In the narrator's first year she read a shopping list over the air, slowly, with gaps, for the company of saying it, and he heard it on somebody else's set on the sheltered side of a hill. He says in one plain sentence that it is the most beautiful thing he has ever heard, does not undercut it, and **does not record a single item on the list**. No chapter may name her, give her a settlement, or supply the items. T.'s era frames the list and recites it at weddings. | 11 |
 | Alma Dack | On the narrator's crew in his seventh year, the fortnight his jaw abscessed. Rinsed his mouth with warm salt water every hour for eleven days and would not let the two volunteers near him with a tool. Had had a tooth out herself in her fourth year by an enthusiastic man with a pair of pliers; her jaw never sat right after and she ate on one side for thirty years. She is the earned cost behind chapter 12's refusal to explain amateur extraction. Chapter 12 only so far; alive and available. | 12 |
+| Oren Tass | The man who tried to introduce paper currency to the Bell Country in the narrator's twelfth year, backed by nothing but himself: a cast-iron flat-bed press, eleven boxes of paper, notes carrying his own face and the word ONE. The narrator carried the press and the paper up three flights for him and carried the lot back down nine days later, and remembers the carrying order, the weight of the paper and that it rained on the fourth day. His attempt started the nine-day argument the Bell Country's price list descends from; the narrator does not know that, and T. will not set it down. Nothing is recorded of what became of him and he is available. | 14 |
 | T. | The editor of the found manuscript, writing from Ladderwell roughly two generations after the narrator finished the book. Has never seen a working lightbulb and does not entirely believe in them. Signs the editor's preface in `manuscript/00-front-matter.md`. Believes they are editing the work of the great authority on staying alive. | front matter only |
 
 The Chapters column is a convenience cross-reference, not a mechanical
@@ -140,8 +141,9 @@ places no chapter has used yet.
 
 | Name | What it is | First used in chapter |
 |------|------------|------------------------|
-| The Bell Country | The settlement he hauled water for, founded and lost by other people, nine years in the making and five in the losing. Founded by the Bellwright. **Its first use in the manuscript is chapter 10**, in one clause inside the tires section, where he keeps two trucks running for it out to the far side of the lake in his eleventh year and records only a sidewall gone on a slope. Chapter 13 is the first chapter the place is the *subject* of, and chapter 13's writer is not introducing it. **First-use claim re-checked when chapter 13 was written (2026-11-18) and found still correct** — chapter 10 line 137 names it in the tires clause, and chapter 13 does not introduce it. Chapter 13 adds its physical shape, which later chapters must keep: **four long terraces cut across the south face of a hill, the houses on the flat at the top and the water at the bottom, a spring-fed water rota hauling uphill.** | 10 |
+| The Bell Country | The settlement he hauled water for, founded and lost by other people, nine years in the making and five in the losing. Founded by the Bellwright. **Its first use in the manuscript is chapter 10**, in one clause inside the tires section, where he keeps two trucks running for it out to the far side of the lake in his eleventh year and records only a sidewall gone on a slope. Chapter 13 is the first chapter the place is the *subject* of, and chapter 13's writer is not introducing it. **First-use claim re-checked when chapter 13 was written (2026-11-18) and found still correct** — chapter 10 line 137 names it in the tires clause, and chapter 13 does not introduce it. **Re-checked again when chapter 14 was written (2026-11-18): still correct.** Chapter 10's tires clause remains the first naming; chapter 14 names the place in its opening sentence and does not introduce it either. Chapter 14 adds, and later chapters must keep, that **the Bell Country's price list comes out of a nine-day argument in the narrator's twelfth year** — see the Oren Tass row in Cast. Chapter 13 adds its physical shape, which later chapters must keep: **four long terraces cut across the south face of a hill, the houses on the flat at the top and the water at the bottom, a spring-fed water rota hauling uphill.** | 10 |
 | Tarn Street cold store | A cold-storage building the narrator helped clear in his sixth year, named in chapter 09 the way you name a street. The famous haul of that year came out of it; T.'s era calls the day **the Opening** and teaches children its date. The narrator gives the haul eleven words and the stairs a paragraph. | 09 |
+| Cadder | A valley the narrator will not trade in. In his twenty-second year he hauled four sacks of dead, chaff-padded seed grain in there for a man he was working for, not knowing what was in the sacks, and his is the face the valley remembers. He has had no way to put it right in eighteen years and walks half a day round it. The seller is deliberately unnamed and no chapter may name him or give the narrator a way to clear it. **First used in chapter 14.** | 14 |
 | Ladderwell | Where T. the editor lives and signs the preface, two generations after the narrator wrote. Editor's era only. | front matter only |
 
 **Maintenance note on the first-use column — read this before you add a row or
@@ -743,6 +745,44 @@ directly. Use them; do not reinvent or contradict them.
   storage words and for the tin rule, and chapter 12 for the latrine and for the oral deficiency
   signs. It names **one place**, the Bell Country, whose Places row was re-checked rather than added.
 
+- **Chapter 14's own canon, now fixed.** In his **twelfth year** **Oren Tass** tried to give the Bell Country
+  paper money backed by himself (see Cast), and the narrator carried the press and eleven boxes of paper up
+  three flights and back down nine days later. **The nine-day argument that followed is the founding story of
+  how everything in that country came to be priced, and T.'s era's price list descends from it directly** —
+  the narrator records the carrying order, that eleven boxes of paper are heavier than a press, and that it
+  rained on the fourth day. **What he fails to notice is category 1**, and the mechanism is T.: a single
+  exasperated beat that names the list on T.'s wall, begins to say what the argument meant and **abandons the
+  sentence halfway**, refusing on the stated grounds that there is no good way to put it next to a paragraph
+  about load distribution. T. touches no technique except to confirm the weighing and counting tells are the
+  ones still taught, in that order. The clause-then-immediate-reveal pairing retired in style-guide 5.1 is not
+  used: the significance is stated by T. as a complaint about adjacency, not as a reveal of a clause.
+  **Rule 26** is coined here and earned by the file he named four pounds of beans for and paid nine for two
+  days later; **Rule 68** is coined here, is the epigraph, and is earned by **Cadder** (see Places).
+  Also his and available to later chapters without re-deriving: the **four tests for money** — it lasts, it
+  divides, it carries, everybody agrees — with the fourth named as the one that cannot be arranged, and the
+  observation that **salt, ammunition, fuel and medicine become currency because all four qualify**, which he
+  notes without enthusiasm; **price is what two people agree in a yard on a Tuesday and value is what the
+  thing does for you afterwards**, decided alone and in advance; asking what they are short of instead of
+  naming a figure; **bundling three against three** so each pays in what he had too much of; **tools are
+  capital and stock is not** (anything that cuts, bores, holds water or holds heat), with **Rule 55** as the
+  one exception — a tool you cannot keep in work goes to whoever will; the **favour economy** of small groups,
+  with favours as a better store of value than any object **only while the group holds** (he has been
+  insolvent that way twice), the size of the help said out loud when it is asked for, repayment in kind rather
+  than in a hurry, and the ledger kept unspoken; and the **fraud recognition set, which is written defensively
+  throughout and must stay that way** — dilution and relabelling caught by the honest version of the thing
+  (salt dissolves to a clean cup, flour rubs smooth, fuel and water separate in a standing jar), **anything
+  loose meant to go inside a person in a container not its own refused outright** because there is no yard
+  test for it, a balance checked against a weight you brought and read with the pans swapped both ways, the
+  short count beaten by counting into your own hand in silence twice, and the too-good trade read as either
+  ignorance (which you correct by telling them) or a setup, its markers being hurry with a reason, somewhere
+  off the path, a second buyer arriving just then, no inspection, and a condition of secrecy. **No chapter may
+  turn any of this round into a procedure for running a fraud.** It re-cites **Rule 19** (chapter 06),
+  **Rule 12** (chapter 07) and **Rule 55** (chapter 08) rather than re-deriving any of them, and points at
+  chapter 6 for Rule 19's earned cost and chapter 7 for the small first trade. It names **two places**: the
+  Bell Country, whose Places row was re-checked rather than added, and **Cadder**, which is new.
+  **The chapter ran to 2,857 words against a briefed 2,400–2,500** and the overrun is declared rather than
+  paid for out of a reason; see `.superpowers/sdd/2026-11-17-long-after/task-22-report.md`.
+
 ---
 
 ## Rule ledger
@@ -770,6 +810,7 @@ chapter whose number is not a row below.
 | 19 | Salt is money. | 06 |
 | 21 | Stockroom, not showroom. | 09 |
 | 23 | Pack the bag for the stairs, not for the road. | 02 |
+| 26 | Never name the first number. | 14 |
 | 28 | Clear is not clean. | 04 |
 | 29 | Downhill and far from the water. | 12 |
 | 31 | Know the way out before you go in. | 07 |
@@ -781,6 +822,7 @@ chapter whose number is not a row below.
 | 55 | Gear you do not maintain is gear you do not have. | 08 |
 | 58 | Plant calories, not salad. | 13 |
 | 64 | A bicycle you can fix beats a truck you cannot. | 10 |
+| 68 | Reputation spends everywhere and cannot be minted. | 14 |
 | 72 | Listen longer than you transmit. | 11 |
 | 80 | *Reserved. Spent in chapter 20. Do not cite before then.* | 20 |
 
