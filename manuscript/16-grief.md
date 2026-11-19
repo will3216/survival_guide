@@ -34,7 +34,7 @@ The Bell Country's rota allowed three days for a death. Hollis Dray had me back 
 
 That is the whole mechanism. Not a project, not a job meant to improve anybody, and not an hour of being sat with. An hour of work with a person at the other end gets somebody out of their door at a fixed time, which will not happen on its own. Kindness with no duty in it lets a person stop moving, and once they have stopped for a fortnight it is much harder to start.
 
-Be clear about what it buys, because I have heard people claim more. Nobody's grief gets smaller because the buckets arrived. The buckets arriving only keeps a person on their feet through the stretch where nothing helps. That is a small claim and it is the one I will stand behind.
+Be clear about what it buys, because I have heard people claim more. Nobody's grief gets smaller because the buckets arrived. The buckets arriving only keeps a person on their feet through the stretch where nothing helps. That is a small claim.
 
 <!-- ILLO
 id: 16-gag-02
@@ -110,7 +110,7 @@ My part was the chairs. I set them out, and carried the extra ones in from the h
 
 The fires had got to three by that winter, and the dinner was still one table. It was the only thing in that place that never got divided. I was outside the door with two chairs.
 
-The next four chapters are about making this kind of thing on purpose: the marks a group wears, the things it kneels to, the days it keeps, and what you hand on to whoever comes after. None of it digs a ditch and all of it looks like time you have not got. I was against the lot of it, and I carried the chairs, and I would get the chairs out again tonight.
+The next four chapters are about making this kind of thing on purpose: the marks a group wears, the gods it makes up, the days it keeps, and what you hand on to whoever comes after. None of it digs a ditch and all of it looks like time you have not got. I was against the lot of it, and I carried the chairs, and I would carry them.
 
 <!-- ILLO
 id: 16-gag-01
@@ -147,7 +147,7 @@ And none of it is a cure, and I will not have it read as one. A person who has l
 
 ## The Short Version
 
-- The dangerous stretch after a death is weeks and months later, not days. The first week has people and arranging in it; the fourth has a full round and nothing holding anybody up. Start watching when the visitors stop.
+- The dangerous stretch after a death is weeks and months later, not days. The first week has people and arranging in it; about the fourth has a full round and nothing holding anybody up. Start watching when the visitors stop.
 - Grief shows in work as skipped checks rather than slowness — the brake not listened for, the ladder feet not looked at — and nobody in it believes they are impaired. Take the high, heavy and night work off them for a season, without a speech.
 - Rule 4: count before you move, out loud. It is the cheapest replacement for a check that has stopped happening by itself.
 - Rule 36: give the grieving a duty someone depends on. Small, daily, same time, impossible to fail, with a person waiting at the other end. Arrange the cover in advance without saying so.
