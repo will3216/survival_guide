@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 42,
+  "count": 45,
   "slots": [
     {
       "id": "01-gag-01",
@@ -422,6 +422,36 @@
       "alt": "Three panels showing the checks against diluted goods, a false balance, and a short count — a cup of water with settled grit, a two-pan balance read in both directions, and goods counted into the buyer's own hands.",
       "prompt": "Three equal panels in a single row divided by thin vertical rules, flat black line art on cream paper, drawn as a civil-defence pamphlet figure with generous empty margins. Each panel carries an orange callout numeral in an orange circle in its upper left. Panel 1, numeral 1: two clear glass cups side by side on a plank, the left cup holding clear water with nothing in the bottom, the right cup holding water with a stippled layer of settled grit at the bottom picked out by a small orange arrow pointing at the layer. Panel 2, numeral 2: a simple two-pan beam balance drawn twice, one above the other; in the upper drawing a square-marked stone sits in the left pan and a cloth bundle in the right and the beam is level; in the lower drawing the same stone and bundle are in the opposite pans and the beam is tilted, with a small curved orange arrow between the two drawings showing the pans being exchanged. Panel 3, numeral 3: a pair of oversized open hands held cupped beneath a tilted sack, seven separate round items drawn falling one by one into the hands, and beside it a crossed-out drawing of a sack already tied shut with cord. Orange used only for the three numerals, the arrow at the grit and the exchange arrow. No text beyond the three numerals.",
       "path": "illustrations/14-plate-02.png"
+    },
+    {
+      "id": "15-gag-01",
+      "class": "gag",
+      "chapter": "15",
+      "source": "15-groups.md",
+      "caption": "Figure 15.3 — The council table. Nine chairs.",
+      "alt": "A long council table with nine chairs around it, one of them considerably grander than the other eight, with a window behind through which a man carrying two buckets on a yoke is passing without looking in.",
+      "prompt": "An interior scene in flat black line art on cream, drawn as a pamphlet marginal sketch. A long plain table seen in three-quarter view with nine chairs set round it. Eight of the chairs are identical, plain, square-backed and slightly battered. The ninth, at the near end of the table, is noticeably larger and grander — turned legs, a carved high back, arms and a cushion — and is drawn with its seat and cushion picked out in orange. The table is empty of people and holds only a chalk slate and a tin cup. Behind the table, a plain window with four panes. Passing outside the window from left to right, seen from the chest up through the glass and cropped by the frame, a cartoonish bean-bodied older man in a flat cap with a wooden yoke across his shoulders and a bucket hanging from each end, head level and facing forwards, not looking in. Orange used only for the grand chair's seat and cushion. Generous empty cream space above and to the sides, no background clutter, no text.",
+      "path": "illustrations/15-gag-01.png"
+    },
+    {
+      "id": "15-plate-01",
+      "class": "plate",
+      "chapter": "15",
+      "source": "15-groups.md",
+      "caption": "Figure 15.1 — Four ways to settle the same question, and the failure each one brings with it. 1 everybody agrees. 2 count the hands. 3 a few decide. 4 one decides.",
+      "alt": "A four-row comparison table. Each row shows one decision method, the conditions under which it works, and in orange the characteristic way it fails.",
+      "prompt": "A four-row comparison table drawn as a flat black line-art pamphlet figure on cream, ruled with thin black lines, three columns of unequal width. Each row carries an orange callout numeral in an orange circle at its left edge. The left column of each row holds a small simple pictogram in black line: row 1, four bean-bodied figures seated round a small round table, all four with a hand raised; row 2, a block of twelve tiny figures of which seven have hands raised and five do not; row 3, three figures at a long table with a crowd of much smaller figures behind a rail; row 4, a single figure standing on a box pointing, with four figures running in the direction indicated. The middle column of each row is left as empty cream space for caption text, which is not lettered in the drawing. The right-hand column of each row holds one small orange pictogram of that method's failure: row 1, a single figure with folded arms and a large orange X beside it; row 2, five figures drawn in orange walking away off the edge of the row; row 3, an orange wall rising between the long table and the crowd behind it; row 4, an orange arrow bent into a closed loop with no end. Orange used only for the four numerals and the four failure pictograms. Generous empty cream margins, no background clutter, no lettering anywhere in the image.",
+      "path": "illustrations/15-plate-01.png"
+    },
+    {
+      "id": "15-plate-02",
+      "class": "plate",
+      "chapter": "15",
+      "source": "15-groups.md",
+      "caption": "Figure 15.2 — Five things to watch for, and what each looks like from the yard. RECOGNIZE, NOT BUILD.",
+      "alt": "Five small icons in a row, each showing one observable warning sign — a single keyholder, a rota with one name missing, a rising price of staying, a silenced objection, and a notice taken off a door.",
+      "prompt": "Five equal square panels in a single row, divided by thin vertical rules, in flat black line art on cream, drawn as a pamphlet figure. Each panel holds one simple pictogram and an orange callout numeral in an orange circle in its upper left. Panel 1: a storeroom door with a heavy padlock, one bean-bodied figure holding a single large key, and three figures outside with open empty hands. Panel 2: a chalkboard rota of six ruled lines with small names scratched onto five of them and the sixth line left conspicuously blank, the blank line ringed in orange. Panel 3: a stepped stair of five rising blocks with a small figure on the lowest and a carried bundle drawn larger on each successive step, the largest bundle outlined in orange. Panel 4: two figures, one with a hand raised mid-objection and an orange X over its open mouth, the other turning away. Panel 5: a plank door with four small nail holes and one curled empty corner of paper still pinned at the top, the sheet itself gone, the four empty nail holes marked in orange. Beneath the whole row, centred, the words RECOGNIZE, NOT BUILD lettered large in orange capitals. Orange used only for the five numerals, the highlights named above and that lettering. Generous empty cream margins, no background clutter, no other text anywhere in the image.",
+      "path": "illustrations/15-plate-02.png"
     }
   ]
 }
