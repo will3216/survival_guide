@@ -714,7 +714,10 @@ directly. Use them; do not reinvent or contradict them.
   something on a food bed**, legumes fixing nitrogen in root nodules, the rotation, mulch; **the first year
   lying in both directions** and judging ground over three years; crop ordering by calorie density and
   storability; **open-pollinated against hybrid seed** with the easy self-pollinators, what crosses, the
-  biennials, saving from twenty plants, and keeping a year back; and the preservation half — drying as the
+  biennials, saving from twenty plants, and keeping a year back — including the attribution sentence
+  (**"The plant has not failed; it was only ever going to do that"**), which review ruled load-bearing
+  and which no later edit may cut: without it a reader whose saved seed comes apart blames their own
+  storing and spends a second season on it; and the preservation half — drying as the
   most forgiving method, salting, and fermenting at about two to three percent salt by weight held under
   the brine and **covered but never sealed tight**.
   **The chapter's lethal-risk position is binding and may not be softened or reversed by any later chapter:

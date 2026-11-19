@@ -20,9 +20,9 @@ A garden is capped by what you can catch and hold, not by soil, and you can work
 
 **One millimetre of rain on one square metre of roof is one litre.** A roof is a field you already own — **Rule 51**. Multiply its footprint, not its slope, by the rain you get, take roughly a fifth off for what the surface keeps and what blows away, and set the rest against drinking first and always (**Rule 9**), washing second, the beds last. Planting the beds you want and finding the water after gets you my first garden.
 
-**Divert the first wash**, because everything settled on that roof since the last rain comes down in the first half-minute: send roughly the first half-litre per square metre elsewhere before you collect. A capped standpipe on the downpipe fills first; the rest passes on into the tank.
+**Divert the first wash**, because everything settled on that roof since the last rain comes down in the first half-minute: send roughly the first half-litre per square metre elsewhere before you collect. A capped standpipe on the downpipe fills first; the rest passes into the tank.
 
-**Then cover the store.** Open water evaporates, greens in the light, and breeds mosquitoes, which go egg to flying in about a week in warm weather — so lidded, dark, fine mesh over every opening including the overflow, and the mesh checked, because one torn corner is the same as no lid. Anything else left standing open more than a few days gets emptied or covered, for the same reason. And water off a roof is not drinking water for having been caught cleanly: **Rule 28**, and chapter 4 treats it.
+**Then cover the store.** Open water evaporates, greens in the light, and breeds mosquitoes, which go egg to flying in about a week in warm weather — so lidded, dark, fine mesh over every opening including the overflow, and the mesh checked, because one torn corner is the same as no lid. Anything else standing open more than a few days gets emptied or covered, for the same reason. And water off a roof is not drinking water for having been caught cleanly: **Rule 28**, and chapter 4 treats it.
 
 <!-- ILLO
 id: 13-plate-01
@@ -108,14 +108,14 @@ prompt: A pamphlet marginal vignette in flat black line art on cream with
 
 Chapter 12 gives the one that shows in the mouth: gums bleeding all round at once, teeth loose in good sockets, on somebody eating plenty. It is not the only one.
 
-They have one cause. **Months of the same food** — not too little food, the same food, out of one sack, cooked the same way. People get full and get ill, and nobody connects the two because the store is not empty. Watch the people around you for:
+The cause is always **months of the same food** — not too little food, the same food, out of one sack, cooked the same way. People get full and get ill, and nobody connects the two because the store is not empty. Watch the people around you for:
 
 - Old wounds opening, cuts that will not close, aching legs, bruising from nothing: the mouth one further along. A few mouthfuls of anything green and fresh daily fixes and prevents it, raw or barely cooked, because long boiling destroys what you want and the rest goes out in the cooking water.
 - Mostly maize: loose bowels, a rough reddish rash on skin that gets the sun, later confusion that gets a person treated as mad. Beans, eggs, offal, greens — and cook the maize in wood-ash water before grinding, which releases what maize otherwise locks away.
 - Mostly milled grain or polished rice: swollen legs with breathlessness, or numb, weak, wasting legs. The whole grain has what is missing; the white part does not.
 - Children who cannot see at dusk before anybody else loses the light. That takes sight for good, and wants offal, or anything orange or dark green.
 - Pale, breathless and exhausted on no work. Meat, offal, beans, greens.
-- Necks swelling at the front, inland and away from the sea. Sea food of any kind, or salt from the sea rather than from rock.
+- Necks swelling at the front, inland and away from the sea. Sea food of any kind, or salt from the sea rather than rock.
 
 So the garden's job is not bulk alone: **three or four things rather than one**, something green daily, whole grain rather than milled where it is your choice, and the cooking water kept. A corner of greens yielding almost no calories pays for itself — the one exception to Rule 58, about medicine rather than dinner.
 
@@ -123,7 +123,7 @@ So the garden's job is not bulk alone: **three or four things rather than one**,
 
 Get this wrong and you get one excellent year and then nothing.
 
-**Open-pollinated seed comes true**: save it, plant it, get the same plant again, year on year. **Hybrid seed does not.** A hybrid is the first cross of two bred lines, often magnificent in its one year; save from it and the next generation comes apart — some like one grandparent, some like the other, most like neither, much of it useless. The packets said which they were, and if yours does not, you find out by growing a few and watching, which costs a season.
+**Open-pollinated seed comes true**: save it, plant it, get the same plant again, year on year. **Hybrid seed does not.** A hybrid is the first cross of two bred lines, often magnificent in its one year; save from it and the next generation comes apart — some like one grandparent, some like the other, most like neither, much of it useless. The plant has not failed; it was only ever going to do that. The packets said which they were, and if yours does not, you find out by growing a few and watching, which costs a season.
 
 1. **Start with the easy savers.** Beans, peas, lettuce, tomatoes and peppers mostly pollinate themselves, so they come true with nothing clever done.
 2. **Know what crosses.** Squash, pumpkin, maize, brassicas and beets take pollen from anything of their kind nearby, including another variety over the fence, so pure seed wants distance between varieties.
@@ -134,7 +134,7 @@ Get this wrong and you get one excellent year and then nothing.
 
 ## Keeping It
 
-Growing it is the easy half. Everything arrives in five weeks and then nothing until next year, so the jar in February is the achievement.
+Growing it is the easy half: everything arrives in five weeks, then nothing until next year, so the jar in February is the achievement.
 
 Before the Collapse, every house had a refrigerator. It was a white box about chest high standing in the kitchen, and the inside of it was cold — not cold because you had put ice in it, cold because it made itself cold, by itself, all day and all night, for years, while nobody watched it or thought about it at all. You could put meat in it on the Monday and eat that meat on the Thursday, and leave a jug of milk in it a week, and go away, and come back, and the cold would still be going. There was one in every house I ever walked into and there is not a working one left anywhere I have been, which is why you are going to learn to dry things properly.
 
@@ -194,13 +194,13 @@ prompt: A civil-defence pamphlet comparison diagram in flat black line art
 
 ## What It Costs You
 
-It costs you the decision to stay, because everything up to here works whether you are passing through or not and a garden does not: three years before you know what the ground does, two before a fruit tree is worth the hole, a season lost the day you walk away. Seed in the ground is a bet on being there in August, and if you are not sure you will be, carry the seed and do not plant it.
+It costs you the decision to stay, because everything up to here works whether you are passing through or not and a garden does not: three years before you know what the ground does, two before a fruit tree is worth the hole, a season lost the day you walk away. Seed in the ground is a bet on being there in August, and if you are not sure, carry it and do not plant it.
 
-It costs water daily in the dry weeks, when water is already what you have least of, and a garden does not negotiate: on the day you choose between the beds and the people you choose the people, and lose the year.
+It costs water daily in the dry weeks, when water is already what you have least of, and a garden does not negotiate: on the day you choose between the beds and the people, you choose the people and lose the year.
 
 It costs labour at the wrong time: harvest and preserving land in the same three weeks as everything else before the cold.
 
-And it costs the year you plant badly. A bed of salad in a hungry summer, a hybrid packet saved, a jar put away damp: each is twelve months you cannot earn back in month eleven, because the garden's mistakes are all annual.
+And it costs the year you plant badly. A bed of salad in a hungry summer, a hybrid packet saved, a jar put away damp: each is twelve months you cannot earn back in month eleven: the garden's mistakes are all annual.
 
 ## The Short Version
 
