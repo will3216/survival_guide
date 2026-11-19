@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 45,
+  "count": 48,
   "slots": [
     {
       "id": "01-gag-01",
@@ -452,6 +452,36 @@
       "alt": "Five small icons in a row, each showing one observable warning sign — a single keyholder, a rota with one name missing, a rising price of staying, a silenced objection, and a notice taken off a door.",
       "prompt": "Five equal square panels in a single row, divided by thin vertical rules, in flat black line art on cream, drawn as a pamphlet figure. Each panel holds one simple pictogram and an orange callout numeral in an orange circle in its upper left. Panel 1: a storeroom door with a heavy padlock, one bean-bodied figure holding a single large key, and three figures outside with open empty hands. Panel 2: a chalkboard rota of six ruled lines with small names scratched onto five of them and the sixth line left conspicuously blank, the blank line ringed in orange. Panel 3: a stepped stair of five rising blocks with a small figure on the lowest and a carried bundle drawn larger on each successive step, the largest bundle outlined in orange. Panel 4: two figures, one with a hand raised mid-objection and an orange X over its open mouth, the other turning away. Panel 5: a plank door with four small nail holes and one curled empty corner of paper still pinned at the top, the sheet itself gone, the four empty nail holes marked in orange. Beneath the whole row, centred, the words RECOGNIZE, NOT BUILD lettered large in orange capitals. Orange used only for the five numerals, the highlights named above and that lettering. Generous empty cream margins, no background clutter, no other text anywhere in the image.",
       "path": "illustrations/15-plate-02.png"
+    },
+    {
+      "id": "16-gag-01",
+      "class": "gag",
+      "chapter": "16",
+      "source": "16-grief.md",
+      "caption": "Figure 16.3 — Thursday.",
+      "alt": "A door laid across two barrels as a table, mismatched chairs round a single pot, and an older man arriving late at the frame's edge with two more chairs.",
+      "prompt": "An interior scene in flat black line art on cream, drawn as a pamphlet marginal sketch with generous empty space above. In the middle, a plain flush door laid flat across two upended barrels as a table, with a single large cooking pot standing in the centre of it and tin cups round it. Six cartoonish bean-bodied figures of mixed ages sit round the table on six conspicuously mismatched chairs — a kitchen chair, a stool, a carved dining chair, a crate, a bench end and an armchair far too large for the table — all of them leaning in towards the pot, talking, none of them looking at the viewer. Entering from the right edge of the frame, partly cropped by it, an older bean-bodied man in a long tarp coat and a flat cap, seen in three-quarter view from behind so his face is not the subject, carrying a wooden chair in each hand with his shoulders down and his step quick. The two chairs he is carrying are the only orange elements in the image. No background scenery beyond two long horizontal lines for the wall behind the table, no shading, no text.",
+      "path": "illustrations/16-gag-01.png"
+    },
+    {
+      "id": "16-gag-02",
+      "class": "gag",
+      "chapter": "16",
+      "source": "16-grief.md",
+      "caption": "Figure 16.1 — A wrench on a nail.",
+      "alt": "A large adjustable wrench hanging from a single nail on a plank wall, nothing else in the frame.",
+      "prompt": "A single large adjustable wrench hanging by its jaw from one bent nail driven into a plank wall, drawn in flat black line art on cream as a small pamphlet marginal figure, centred with a great deal of empty cream paper all round it. The wrench is worn, the knurl of its adjuster drawn in a few short strokes, hanging slightly askew. The plank wall is suggested by two long horizontal lines only. The head of the nail is the single orange element in the image. No figures, no tools other than the wrench, no shading, no background scenery, no text.",
+      "path": "illustrations/16-gag-02.png"
+    },
+    {
+      "id": "16-plate-01",
+      "class": "plate",
+      "chapter": "16",
+      "source": "16-grief.md",
+      "caption": "Figure 16.2 — The week, written where everybody can see it. 1 the meal, at a stated time daily. 2 the project, finishing week ringed. 3 the day off: no rota, no jobs, nobody may ask. 4 the duty somebody is waiting on. 5 the evening with music in it.",
+      "alt": "A weekly grid chalked on a board, seven columns for the days, with rows for meals, the current project, duties, and evenings; one whole column is marked off in orange as the day off.",
+      "prompt": "A weekly planning grid drawn as a flat black line-art pamphlet figure on cream, ruled with thin black lines, seven equal columns for the days of the week and four rows. Row cells hold small simple pictograms rather than lettering: the top row has an identical bowl-and-spoon pictogram in every column; the second row has a part-built wall pictogram that grows by one course from column to column, with the wall in the sixth column drawn complete and ringed; the third row has a bucket pictogram in each column with a small waiting figure beside it; the fourth row is mostly empty, with a simple fiddle pictogram in two columns. One entire column, the seventh, is struck through corner to corner with a broad orange diagonal band, and its four cells are left completely empty. Orange callout numerals in orange circles sit at the left edge of each row and at the head of the struck-out column. Orange used only for those numerals, their circles, the diagonal band and the ring round the finished wall. Generous empty cream margins, no background clutter, no lettering anywhere in the image.",
+      "path": "illustrations/16-plate-01.png"
     }
   ]
 }
