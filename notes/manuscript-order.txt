@@ -1,4 +1,9 @@
-# The authoritative chapter list. One filename per line, in reading order.
+# The authoritative file list. One filename per line, in reading order.
+# Chapters are the numbered files. A 00- or 99- file may be listed and is exempt
+# from the chapter-shape rules (epigraph, costs, short version, word budget,
+# accuracy heading) — see NON_CHAPTER_PREFIXES in scripts/lint_manuscript.py.
+# They are still subject to the universal rules: forbidden terms, ILLO blocks,
+# duplicate ILLO ids and Rule citations against the continuity ledger.
 # The linter errors on any file listed here that does not exist.
 01-triage.md
 02-run-or-dig-in.md
@@ -20,3 +25,4 @@
 18-gods.md
 19-holidays.md
 20-teaching.md
+99-appendices.md

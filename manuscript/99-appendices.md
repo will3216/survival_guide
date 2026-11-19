@@ -29,7 +29,7 @@ These are the ones I still have. I wrote them to myself after getting the thing 
 - **35.** Paint it on your own gate first.
 - **36.** Give the grieving a duty someone depends on.
 - **38.** Check the stupid thing first.
-- *[page torn — T.]*
+- *[page torn]*
 - **42.** Learn three plants completely before you learn twenty badly.
 - **44.** Write the exile rule before you need it.
 - **47.** Mark what you clear.
@@ -47,7 +47,7 @@ These are the ones I still have. I wrote them to myself after getting the thing 
 - **72.** Listen longer than you transmit.
 - **73.** A god with no chore attached is a story.
 - **77.** A rule that stops applying to one person has stopped.
-- *[page torn — T.]*
+- *[page torn]*
 
 **80.** Go to the daft dinner.
 
@@ -72,11 +72,11 @@ A rolling boil is moving and breaking the surface, not steaming. Cover it while 
 | Water | Dose per four litres | Per litre | Stand it |
 |---|---|---|---|
 | Clear | an eighth of a teaspoon | about two drops | thirty minutes |
-| Still cloudy after straining and settling | a quarter teaspoon | about four drops | thirty minutes |
+| Still cloudy after straining and settling | a quarter teaspoon | four drops | thirty minutes |
 | Cold, below about ten degrees | as above | as above | one hour |
 | Near freezing | as above | as above | two hours |
 
-Plain unscented household bleach, sodium hypochlorite at five to nine per cent and nothing else in it. Doubling is never a way round settling, and the ordinary dose is a floor. **And the caveat that goes everywhere this table goes: a parasite common in surface water is not reliably killed by chlorine at any dose you would willingly drink.** Boiling kills it. So does a bought filter rated a micron absolute or finer.
+Plain unscented household bleach, sodium hypochlorite at five to nine per cent and nothing else in it. Doubling is never a way round settling, and the ordinary dose is a floor. And the caveat that goes everywhere this table goes: **a parasite common in surface water is not reliably killed by chlorine at any dose you would willingly drink.** Boiling kills it. So does a bought filter rated a micron absolute or finer.
 
 ### Table 3 — Stopping blood, in order. Chapter 3.
 
@@ -118,15 +118,24 @@ Err under on the salt: no saltier than tears. The water has to be clean — boil
 
 Thirty is written for ground somebody surveyed. I pace fifty.
 
-### Table 7 — How long fuel lasts. Chapters 10 and 8.
+### Table 7 — How long fuel lasts. Chapter 10.
 
-| Fuel | Sealed, cool |
+| Fuel | Reckon on |
 |---|---|
-| Gasoline | roughly three to six months; older is a maybe, not a fuel |
-| Diesel | something like a year if clean and cool |
-| Lamp oil | keeps best of the three |
+| Gasoline, in a sealed can in the cool | roughly three to six months; anything older is a maybe rather than a fuel |
+| Diesel | something like a year in good conditions; longer if clean and cool |
 
-Petrol goes gummy in months rather than years even sealed. Diesel grows things in the water at the bottom of the drum.
+Stale gasoline does not refuse to work, it half works. Water condenses out of the air in a part-empty drum of diesel and sits under the fuel, and that line is where things grow; in the cold the wax comes out and turns the fuel to porridge in the lines.
+
+### Table 8 — Fuel in a cache. Chapter 8.
+
+| Fuel | In a cache |
+|---|---|
+| Petrol | goes gummy in months rather than years, even sealed |
+| Diesel | keeps longer, then grows things in the water at the bottom of the drum |
+| Lamp oil | keeps best |
+
+Fuel is the shortest-lived thing in any cache and it dies quietly. Petrol stops being able to start an engine long before it stops being able to burn down a shed.
 
 ---
 

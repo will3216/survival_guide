@@ -1,8 +1,19 @@
 """Structural validation for the manuscript.
 
 Every rule is a function returning a list of error strings. An empty
-return means clean. Front matter (00-) and appendices (99-) are exempt;
-rules apply to the numbered chapters listed in notes/manuscript-order.txt.
+return means clean. Rules apply to the files listed in
+notes/manuscript-order.txt, and they come in two sets.
+
+**Chapter-shape rules** — epigraph, `What It Costs You`, `The Short Version`,
+the word budget, and the `## Chapter NN` accuracy-log heading — apply to the
+numbered chapters only. Front matter (00-) and appendices (99-) are exempt
+from them, because neither is a chapter and neither has that shape.
+
+**Universal rules** — forbidden terms, ILLO block structure, duplicate ILLO
+ids, and Rule citations against the continuity ledger — apply to every file in
+the order file, appendices and front matter included. That exemption is narrow
+on purpose: the appendices list the Rules and carry figures, so they are
+exactly as much in need of those checks as a chapter is.
 """
 
 from __future__ import annotations
@@ -22,9 +33,18 @@ EPIGRAPH_WITHIN_LINES = 12
 COSTS_HEADING = "## What It Costs You"
 SHORT_HEADING = "## The Short Version"
 
+# Prefixes that are in the book but are not chapters: front matter and the
+# appendices. Exempt from the chapter-shape rules, subject to all the others.
+NON_CHAPTER_PREFIXES = ("00", "99")
+
 
 def _err(name: str, rule: str, message: str) -> str:
     return f"{name}: {rule}: {message}"
+
+
+def is_chapter(name: str) -> bool:
+    """True for a numbered chapter, False for front matter and appendices."""
+    return name[:2] not in NON_CHAPTER_PREFIXES
 
 
 def read_order(root: Path) -> list[str]:
@@ -175,14 +195,18 @@ def lint(root: Path) -> list[str]:
             errors.append(_err(name, "MISSING", "listed in manuscript-order.txt but not written yet"))
             continue
         text = path.read_text()
-        for rule in CHAPTER_RULES:
-            errors.extend(rule(name, text))
+
+        # Universal rules: every file, chapter or not.
         errors.extend(check_illo_blocks(name, text))
         errors.extend(check_forbidden(name, text, forbidden))
         errors.extend(check_rules_cited(name, text, ledger))
 
-        if name[:2] not in logged:
-            errors.append(_err(name, "ACCURACY", f"no '## Chapter {name[:2]}' heading in notes/accuracy-log.md"))
+        # Chapter-shape rules: numbered chapters only.
+        if is_chapter(name):
+            for rule in CHAPTER_RULES:
+                errors.extend(rule(name, text))
+            if name[:2] not in logged:
+                errors.append(_err(name, "ACCURACY", f"no '## Chapter {name[:2]}' heading in notes/accuracy-log.md"))
 
         for block in parse_blocks(text):
             if block.id in seen_illo_ids:

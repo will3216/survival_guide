@@ -215,3 +215,65 @@ def test_duplicate_illo_ids_across_chapters_are_caught(tmp_path):
     )
     errors = lint.lint(tmp_path)
     assert any("DUPLICATE" in e for e in errors)
+
+
+APPENDIX_SHAPED = """# Appendices
+
+## Appendix A - The Rules, As Best I Remember Them
+
+- **2.** Wash your hands.
+
+## Appendix B - The Numbers, On One Page
+
+### Table 1 - Boiling. Chapter 4.
+
+| Where you are | Hold it |
+|---|---|
+| Ordinary ground | one minute |
+"""
+
+
+def _appendix_root(tmp_path, appendix_text):
+    """A synthetic root whose order file lists the appendices alongside a chapter."""
+    (tmp_path / "notes").mkdir()
+    (tmp_path / "manuscript").mkdir()
+    (tmp_path / "notes" / "manuscript-order.txt").write_text(
+        "04-water.md\n99-appendices.md\n"
+    )
+    (tmp_path / "notes" / "forbidden-terms.txt").write_text("Thunderdome\n")
+    (tmp_path / "notes" / "accuracy-log.md").write_text("## Chapter 04\n")
+    (tmp_path / "notes" / "continuity.md").write_text("| 9 | Water first. Always. | 04 |\n")
+    (tmp_path / "manuscript" / "04-water.md").write_text(chapter())
+    (tmp_path / "manuscript" / "99-appendices.md").write_text(appendix_text)
+    return tmp_path
+
+
+def test_appendices_are_exempt_from_the_chapter_shape_rules(tmp_path):
+    # 99- (and 00-) carry no epigraph, no 'What It Costs You', no 'Short
+    # Version' and no chapter word budget, and have no accuracy-log heading
+    # of their own. Listing them in the order file must not demand any of it.
+    errors = lint.lint(_appendix_root(tmp_path, APPENDIX_SHAPED))
+    appendix_errors = [e for e in errors if e.startswith("99-appendices.md")]
+    assert appendix_errors == [], appendix_errors
+
+
+def test_appendices_are_still_subject_to_the_universal_rules(tmp_path):
+    # The exemption is narrow on purpose: forbidden terms, ILLO blocks,
+    # duplicate ILLO ids and Rule citations are invariants of every file in
+    # the book, and exempting the appendices from the chapter shape must not
+    # turn into a hole where those stop being checked.
+    text = APPENDIX_SHAPED + "\nThunderdome, and Rule 41 as well.\n"
+    errors = lint.lint(_appendix_root(tmp_path, text))
+    assert any("99-appendices.md" in e and "FORBIDDEN" in e for e in errors)
+    assert any("99-appendices.md" in e and "RULE" in e and "41" in e for e in errors)
+
+
+def test_front_matter_is_exempt_from_the_chapter_shape_rules_too(tmp_path):
+    (tmp_path / "notes").mkdir()
+    (tmp_path / "manuscript").mkdir()
+    (tmp_path / "notes" / "manuscript-order.txt").write_text("00-front-matter.md\n")
+    (tmp_path / "notes" / "forbidden-terms.txt").write_text("")
+    (tmp_path / "notes" / "accuracy-log.md").write_text("")
+    (tmp_path / "notes" / "continuity.md").write_text("")
+    (tmp_path / "manuscript" / "00-front-matter.md").write_text("# The Long After\n")
+    assert lint.lint(tmp_path) == []

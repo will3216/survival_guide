@@ -934,13 +934,18 @@ coins a Rule after 80, and the ledger above is final.
 ## Appendices, now fixed
 
 `manuscript/99-appendices.md` is written and is the last content in the book.
-It is not listed in `notes/manuscript-order.txt` and **must never be added to
-it**: the linter applies every chapter rule to every filename it reads out of
-that file, so a `99-appendices.md` row would make it demand an epigraph, a
-`## What It Costs You`, a `## The Short Version` with 5-9 bullets, 1,800-3,200
-words and a `## Chapter 99` accuracy heading, and the build would fail. The
-docstring's exemption for `00-` and `99-` is achieved by omission from the
-order file, not by a check in the code.
+**It is now listed in `notes/manuscript-order.txt`, and that is safe**, because
+the linter's rule set is split in code: `NON_CHAPTER_PREFIXES` in
+`scripts/lint_manuscript.py` exempts `00-` and `99-` from the chapter-shape
+rules (epigraph, `## What It Costs You`, `## The Short Version`, the word
+budget, the `## Chapter NN` accuracy heading) while leaving every file in the
+order file subject to the universal rules — forbidden terms, ILLO blocks,
+duplicate ILLO ids, and `Rule N` citations against the ledger below. Listing it
+is better than omitting it: `check_rules_cited` now covers Appendix A, which it
+did not when the exemption existed only by omission. Both halves of that split
+are held by tests, including one asserting the appendices still fail on a
+forbidden term and an off-ledger Rule, which is what stops the exemption
+turning into a hole.
 
 **Appendix A — the Rules list, and the two torn pages.** All thirty-seven
 ledger Rules appear in numerical order. The numbering runs 2 to 80 and most
@@ -950,17 +955,22 @@ annotated. Gaps are marked sparingly and in two hands:
 - **Four gaps carry `[forgotten]`** — his own, consistent with chapter 20's
   "the ones I could remember". They sit after Rule 2, after Rule 23, after
   Rule 51 and after Rule 68.
-- **Exactly two gaps carry `[page torn — T.]`**, and the count is fixed by
+- **Exactly two gaps carry `[page torn]`**, and the count is fixed by
   `manuscript/00-front-matter.md:25`, which says two pages were torn out
   cleanly along a fold. **Their positions: one between Rule 38 and Rule 42,
   and one between Rule 77 and Rule 80.** The second is the payoff the preface
   set up — the gap immediately before the book's closing Rule — and it gets
   the bare mark and nothing else: no editor's note at that spot, no comment on
   it anywhere in the book.
-- The mark is signed `— T.` because a man writing a list cannot know a page
-  will later be torn out of it; the torn marks are the editor's hand inside
-  his document. `[forgotten]` is unsigned. That initial is the whole of the
-  distinction and nothing in the book explains it.
+- **Both marks are bare and neither is signed.** The hand is fixed by what the
+  mark says rather than by an initial: a man writing a list cannot know a page
+  will later be torn out of it, so a tear is self-evidently not something the
+  writer annotated, while chapter 20 already attributes the forgetting ("the
+  ones I could remember — I have lost a good many"). A `— T.` on the torn mark
+  was drafted and removed: it made the only non-Rule text to repeat in the
+  list, which sent the eye to the two gaps the preface mourned and turned a
+  hole into a caption. Nothing in the book explains either mark and nothing
+  should.
 
 **Standing prohibition: the contents of the two torn Rules are never to be
 written down.** Not in the manuscript, not in this file, not in
@@ -973,10 +983,37 @@ the number nor the subject can be reconstructed. T. would trade a year of
 grain to know, and the one voice that wants to know is the only one that can
 never be given it. **Do not close this.**
 
-**Appendix B** transcribes figures only, each table captioned with its source
-chapter; every figure was checked against the chapter file line by line and
-logged under `## Appendices` in `notes/accuracy-log.md` as a transcription
-rather than an independent claim. **Appendix C** is a blank five-field
+**This prohibition is now enforced by the test suite rather than by this note
+alone.** `tests/test_appendices.py` asserts that no ledger row exists in 39-41
+or 78-79, that the ledger holds exactly thirty-seven rows with 80 the highest,
+that Appendix A transcribes the ledger verbatim in order, that the gap marks
+keep their counts (two torn, four forgotten) and that neither mark is annotated
+or signed. The destructive edit to guard against was never a stray citation —
+the linter already catches those — it was somebody adding a ledger row for a
+number inside a gap and writing it into the list, which would have linted
+perfectly clean. It now fails three tests. The same file also re-checks
+Appendix A against the ledger, which nothing did before: this ledger is long
+and later work will keep editing it, and one word changed in a row would
+otherwise leave the appendix silently wrong with a green build.
+
+**Appendix B** transcribes figures only, **one table per source chapter**, each
+captioned with its chapter; every figure was checked against the chapter file
+line by line and logged under `## Appendices` in `notes/accuracy-log.md` as a
+transcription rather than an independent claim. The captions are load-bearing —
+they are the reader's only route back to the caveats the tables were stripped
+of — and a test asserts every `### Table N` heading still ends in its chapter
+number. One table may never span two chapters: the fuel figures were split into
+Table 7 (chapter 10) and Table 8 (chapter 8) for that reason, which also keeps
+chapter 10's *gasoline* and chapter 8's *petrol* each in its own table rather
+than harmonising a vocabulary the manuscript does not harmonise. Hedges are
+carried verbatim and a condition is never moved: chapter 10 attaches diesel's
+year to *good conditions* and makes clean-and-cool a further extension, not a
+precondition. The one warning kept inside Appendix B is chapter 4's parasite
+caveat under the bleach table, and it is the head line's proof rather than its
+exception — a man who says the warnings were the point and then keeps exactly
+one is demonstrating the sentence. Do not strip it for consistency.
+
+**Appendix C** is a blank five-field
 worksheet matching chapter 18's five settled things and `18-plate-01`, ending
 on the cost question. **No new Rule appears anywhere in the appendices and the
 corpus is still closed at Rule 80.**
