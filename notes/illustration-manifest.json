@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 51,
+  "count": 55,
   "slots": [
     {
       "id": "01-gag-01",
@@ -512,6 +512,46 @@
       "alt": "Four panels showing one mark — a five-spoked hub with a gap — applied to an armband on a person, to the front of a cart, to a gate, and cut into a grave marker.",
       "prompt": "Four equal square panels in a single row divided by thin vertical rules, in flat black line art on cream, drawn as a pamphlet plate. The same mark appears in every panel: a simple wheel hub with five spokes and a conspicuous gap where a sixth would be. Panel 1, orange callout numeral 1: a cartoonish bean-bodied figure standing in three-quarter view, the mark on a band tied round the upper arm, the band drawn as a separate tied strip clearly not part of the coat. Panel 2, orange numeral 2: a simple flat handcart seen from the front, the mark painted large and high on its front board. Panel 3, orange numeral 3: a timber gate in a low wall, the mark painted on the planks at head height, with a small brush and an open tin standing on the ground beside it. Panel 4, orange numeral 4: a plain upright stone grave marker in grass, the mark incised into it as a cut groove with small chisel hatching round the cut, and no paint anywhere. Orange used only for the four numerals. Generous empty cream space, no background scenery, no text beyond the numerals.",
       "path": "illustrations/17-plate-02.png"
+    },
+    {
+      "id": "18-gag-01",
+      "class": "gag",
+      "chapter": "18",
+      "source": "18-gods.md",
+      "caption": "Figure 18.3 — The icon, as it is to be made.",
+      "alt": "A single large wheel with six spokes and a hinged door set into its hub, drawn centred and formally with rays behind it; along the bottom edge of the panel, cropped, two oversized hands gripping the underside of a wooden crate.",
+      "prompt": "One large emblem centred and filling most of the frame, in flat black line art on cream, inside one thin rule border, drawn with the formal symmetry of a devotional plate. The emblem is a wheel: a heavy round hub with six straight spokes radiating to a plain thick outer rim, and set into the hub a small rectangular hinged door with a latch and two visible hinges. Behind the wheel, short straight rays radiate outward in even spacing, and below it a plain ruled scroll banner left entirely blank with no lettering. The whole emblem is drawn with great care and perfect symmetry. Along the very bottom edge of the panel, cropped off by the border so only the top of it is visible and clearly incidental to the composition, are two oversized cartoonish hands gripping the underside of a plain wooden crate, drawn in the same line weight but with no framing or emphasis of any kind. Orange used only for a thin ring round the hub. No text anywhere.",
+      "path": "illustrations/18-gag-01.png"
+    },
+    {
+      "id": "18-gag-02",
+      "class": "gag",
+      "chapter": "18",
+      "source": "18-gods.md",
+      "caption": "Figure 18.4 — The same icon, four valleys apart.",
+      "alt": "Four versions of one emblem in a row, each more ornate than the last: the first a plain six-spoke wheel with a door in its hub, the second the same with added ornament, the third crowded with flourishes and extra parts, the fourth an elaborate ornamental mass in which a wheel can barely be made out.",
+      "prompt": "Four equal square panels in a single row divided by thin vertical rules, in flat black line art on cream, drawn as a pamphlet figure inside one thin rule border, with a small orange callout numeral in an orange circle beneath each panel, numerals 1 to 4 left to right. Panel 1: a plain heavy wheel, round hub, six straight spokes, thick plain outer rim, a small rectangular hinged door set in the hub, drawn simply and correctly. Panel 2: the same wheel with scalloping worked along the rim and a few short decorative rays added outside it, the door now taller than it was. Panel 3: the same wheel crowded with ornament — curling flourishes filling every gap between the spokes, a doubled rim, the spokes thinned and tapered, the door very small and set off centre. Panel 4: a dense ornamental mass of curls, leaves, flames and radiating lines, roughly circular overall, in which the suggestion of a rim and one or two spokes can only just be picked out and no door is visible at all. Orange used only for the four numerals. No text anywhere, generous cream margins, no background scenery.",
+      "path": "illustrations/18-gag-02.png"
+    },
+    {
+      "id": "18-plate-01",
+      "class": "plate",
+      "chapter": "18",
+      "source": "18-gods.md",
+      "caption": "Figure 18.1 — The worksheet, filled in. 1 the chore it is attached to. 2 the domain, narrow. 3 the demand — cheap, frequent, physical. 4 the origin story, three beats. 5 the form, an object and not a face.",
+      "alt": "A five-field printed worksheet with handwritten answers, headed with a blank line for a name, the five numbered fields filled in: a foundry fire banked overnight, fire and metal and things kept going, a hand on the door and six words at the start of a shift, three short beats, and a six-spoke wheel with a door in its hub sketched in the last box.",
+      "prompt": "A single printed form filling the frame, in flat black line art on cream, drawn as a 1950s government pamphlet worksheet inside one thin rule border. At the top a ruled blank line preceded by a small printed label box. Below it five stacked fields separated by thin rules, each with an orange callout numeral in an orange circle at its left edge, numerals 1 to 5 top to bottom, and each field containing two or three lines of loose handwritten scribble standing in for an answer rather than legible words. Field 1 has a tiny line drawing of a small banked fire under a hood at its right edge. Field 3 has a tiny line drawing of an open flat hand pressed against a small hinged door. Field 4 has three tiny numbered boxes in a row. Field 5 is the largest and contains, drawn carefully and centred, a simple wheel: a round hub with six straight spokes radiating to a plain outer rim, and set into the hub a small rectangular hinged door with a latch. Orange used only for the five numerals. No legible text anywhere, generous cream margins, no background scenery.",
+      "path": "illustrations/18-plate-01.png"
+    },
+    {
+      "id": "18-plate-02",
+      "class": "plate",
+      "chapter": "18",
+      "source": "18-gods.md",
+      "caption": "Figure 18.2 — The shape of a usable origin story: three beats, one impossible detail, one true detail you can walk up to and touch, and one hole left in on purpose.",
+      "alt": "A diagram of three numbered boxes in a row joined by arrows, with a starburst marker on the second box labelled by a numeral, a pointing-hand marker under the third, and an empty dashed-outline box at the end of the chain with nothing inside it.",
+      "prompt": "A single horizontal flow diagram in flat black line art on cream, drawn as a pamphlet plate inside one thin rule border. Three equal square boxes in a row, joined left to right by two bold arrows, each box carrying an orange callout numeral in an orange circle at its upper left and containing one or two lines of loose handwritten scribble standing in for a sentence rather than legible words. Above the second box, a bold starburst or spark glyph on a short leader line, with an orange numeral in a circle beside it. Below the third box, a small drawing of a flat open hand touching a short stretch of brick wall, on a short leader line, with an orange numeral beside it. At the right end of the chain, after a third arrow, a fourth box the same size as the others but drawn in a dashed outline and completely empty, with an orange numeral beside it and no scribble inside. Orange used only for the numerals. No legible text anywhere, generous cream margins, no background scenery.",
+      "path": "illustrations/18-plate-02.png"
     }
   ]
 }
