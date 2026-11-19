@@ -266,6 +266,36 @@ central mechanism does not fail by breaking. It fails by becoming furniture.**
 The third identical use is the one a reader starts anticipating, and from then
 on they are reading the device instead of the man.
 
+### 5.2 The afterlife reveal is now closed too
+
+The second of 5.1's three replacement mechanisms has been spent, and it was
+spent the same way the first was: twice it was the right move, and the third
+use would have been the book's habit rather than the book's device.
+
+The shape: the narrator gives a famous event two full paragraphs of his own
+flat, specific, drainage-minded attention — so the reader already knows it
+mattered to *him* — and then T. supplies its **reach**, what the thing went on
+to become out in the world. Chapter 11 did it with the shopping list that ended
+up framed and recited. Chapter 14 did it with the price list that became the
+standard. Both work, and both are different from the retired pairing, because
+the narrator is not reducing the event to a subordinate clause and T. is not
+revealing that it mattered at all — only how far it carried.
+
+**From chapter 16 onward, do not give T. the afterlife of an event the narrator
+has just described.** Chapter 15's writer avoided it unprompted and asked for
+the mechanism to be retired, which is the correct instinct and the reason this
+is written down rather than tracked privately.
+
+What remains available, unchanged, is 5.1's first and third mechanisms: let
+continuity or the cast carry the significance silently, or withhold it from the
+chapter entirely and record the withheld significance in `notes/continuity.md`
+for a later chapter to pick up. T.'s registers also remain free — grieving,
+formal, exasperated, admiring, briefly off-duty — because this rule is about
+what T. *supplies*, never about how he sounds.
+
+Two instances is where a device is still a device. Three is where a reader
+starts waiting for it.
+
 ---
 
 ## 6. The three comedy engines
