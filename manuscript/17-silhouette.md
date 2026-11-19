@@ -12,7 +12,7 @@ I had two mixes and only one of them was any use. The red-brown was rust and a d
 
 I did the gates last. The ladder was not ours and was wanted back, so everything that needed it got done first — the roof peak, the butt rims, the top of the well house — and the gates waited, a gate being the only flat thing in a place you can paint from the ground. So I was up that ladder with my back to the yard most of the week, and came down on the Friday to find the mark on three bags I had not touched.
 
-> **— T.** There is one of these on my gate. I have watched the thing work, from a hill above a river crossing, two parties who could read each other at a distance and arrived with nothing left to settle but their business, so I will not touch a word of the method that follows: it is sound, it is his, and it is still how it is done. What I have of where it came from is four sentences on which paint lasted a winter, and a note that he did the gates last on account of the ladder.
+> **— T.** There is one of these on my gate. I have watched the thing work, from a hill above a river crossing, two parties who could read each other at a distance and arrived with nothing left to settle but their business, so I will not touch a word of the method that follows: it is sound, it is his, and it is still how it is done. What I have of where it came from is six sentences on paint — which mix held two winters on a gate, and which one came off a bag in a fortnight — and a note that he did the gates last on account of the ladder.
 
 ## What A Mark Buys You
 
@@ -32,7 +32,7 @@ Treat it as a technical problem, because it is one. Everything you like about a 
 
 So, five things.
 
-1. **Silhouette, not picture.** Decide what shape it is at a glance and design that.
+1. **Silhouette, not picture.** Decide what shape it is at a glance and design that. Something you could cut out of a board with a saw and still recognise on a skyline.
 2. **One high-contrast element, and only one.** Light on dark or dark on light, big, and put it off centre so it does not read as a shadow. Two colours doing the same job cancel at distance and leave you a smudge.
 3. **Reproducible by hand, with what you will still have in five years.** The test I use: can a twelve-year-old do it on a wall with a stick of charcoal, badly, and have it still read? If it needs a stencil, a straight edge or a steady hand, you have not designed a group's mark. You have designed one person's mark, and that person will not always be there.
 4. **Hard to get wrong.** Count the parts. Four of anything is countable at a glance and seven is not, and a mark with an inside and an outside, or a left and a right, has a wrong version built into it. A mark that can be got wrong hands somebody a thing to be right about.
@@ -46,7 +46,7 @@ A grave is the hard one and the one I would design against, because it has to be
 id: 17-plate-01
 class: plate
 caption: Figure 17.1 — Four marks at three hundred yards and at ten feet. 1 silhouette, not picture. 2 one high-contrast element, off centre. 3 reproducible by hand with a stick of charcoal. 4 hard to get wrong — countable parts, no left and right.
-alt: A two-row comparison. The top row shows four marks as they appear at three hundred yards, two of them legible and two reduced to smudges; the bottom row shows the same four at arm's length, with four numbered design principles called out.
+alt: A two-row comparison. The top row shows four marks as they appear at three hundred yards, two of them legible and two reduced to smudges; the bottom row shows the same four at ten feet, with four numbered design principles called out.
 prompt: A two-row comparison figure in flat black line art on cream, drawn
   as a civil-defence pamphlet plate, divided by one thin horizontal rule.
   The upper row shows four identical blank gate panels seen from a great
@@ -120,7 +120,7 @@ The Ninth Hand's handprint started as exactly what is written in this chapter. S
 id: 17-gag-01
 class: gag
 caption: Figure 17.3 — Six marks, assessed.
-alt: A chart of six faction silhouettes with one-line assessments beneath each, the last reading AVOID, and in the corner an unlabelled seventh figure of a bent man under a load carrying a paint tin.
+alt: A chart of six faction silhouettes with a blank ruled line beneath each where an assessment would go, the last one captioned AVOID, and in the corner an unlabelled seventh figure of a bent man under a load carrying a paint tin.
 prompt: A boxed comparison chart in flat black line art on cream, drawn as
   a pamphlet figure, laid out as two rows of three equal cells divided by
   thin rules, each cell containing one bold simple graphic mark and a short
@@ -146,7 +146,7 @@ prompt: A boxed comparison chart in flat black line art on cream, drawn as
 
 **It makes leaving visible, which makes leaving cost more.** This is the one to think hardest about, because it falls on the person least able to argue with it. Somebody who goes either walks out wearing where they came from or stands in a yard taking it off, and the second is a thing people watch. So keep it off the one coat a person owns and off the bag they would need in order to go — a tied band, a sewn patch, something they can be out of in ten seconds in their own doorway. **Rule 31** is know the way out before you go in, and chapter 7 is the long version of leaving; nothing I paint on a gate is allowed to make that harder.
 
-**And a group that polices its own dress code has started doing something else.** I cannot tell you what, because it is different every time and the people doing it could not tell you either. What I can tell you is that the mark is not the problem and taking it down will not fix it. The mark is only the part of it you can see from the yard, which is why it is worth watching.
+**And a group that polices its own dress code has started doing something else.** I cannot tell you what, because it is different every time and the people doing it could not tell you either. What I can tell you is that the mark is not the problem and taking it down will not fix it. The mark is only the part of it you can see from the yard, which is why the six things above are worth watching.
 
 ## The Short Version
 
@@ -154,8 +154,8 @@ prompt: A boxed comparison chart in flat black line art on cream, drawn as
 - Design for the outline: one high-contrast element, off centre, no detail and no lettering. Detail is the first thing distance takes off.
 - Make it reproducible by hand with what you will still have in five years: a twelve-year-old, a wall, a stick of charcoal, badly. If it needs a stencil or a steady hand it is one person's mark.
 - Make it hard to get wrong: countable parts, no left and right, no correct way up. A mark that can be got wrong gives somebody a thing to be right about.
-- Test it on all four surfaces — a person, a vehicle, a gate, a grave — because those are the four it will be on. Cut the grave one; nothing painted lasts twenty years unattended.
+- Test it on all four surfaces — a person, a vehicle, a gate, a grave — because those are the four it will be on. Cut or scratch the grave one; nothing painted lasts twenty years unattended.
 - For paint: an earth colour, rust or ochre ground fine into boiled linseed oil, on wood, on the weather face. Limewash chalks off cloth in a fortnight, onto everything it touches.
 - Rule 35: paint it on your own gate first, then wait a season and do nothing. A mark handed to people is a uniform and gets resented; a mark people pick up is theirs. You get no vote on anybody else's gate.
-- Let the first versions be ugly and do not correct them. A corrector means there is a right one, and a right one means a standard somebody can fall short of.
+- Let the first versions be ugly and do not correct them. A corrector means there is a right one, and a right one means a standard somebody can fall short of. Ugly and everybody's beats neat and somebody's.
 - Watch the yard for six things: somebody told rather than asked, a list of who has one, absence remarked on at the fire, the ugly ones being fixed, the mark moving off things and onto people, and one person exempt (Rule 77). Keep it off the one coat and the one bag a person would need in order to leave — Rule 31 and chapter 7 are the long version of that.
