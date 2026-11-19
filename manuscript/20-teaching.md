@@ -10,7 +10,7 @@ I had said something about keeping milk. She said, without stopping walking, tha
 
 That evening I drew one on the clean side of a flour sack and held it up for her — chest high, a door on the front, a motor at the back, cold inside all day and all night for years with nobody watching it. She looked at it a good while. Then she asked which way up it stood, and I said on the floor, like a cupboard, and she said nothing and went back to her papers.
 
-I have written four lines about that box in chapter 13 and I would write them again, and I know now what they are worth. Four lines of mine against everything she has ever stood in front of. The four lines lose.
+I have written four lines about that box in chapter 13 and I would write them again, and I know what they are worth. Four lines of mine against everything she has ever stood in front of. The four lines lose.
 
 So: handing over what you know to people who have never seen most of what you are talking about. I have got a good deal of it wrong and some of it worked out.
 
@@ -129,15 +129,12 @@ I am sixty or near enough and my hands are slower than my opinions. These pages 
 
 What they are for, as far as I can tell: I got the first year wrong in about nine ways that nearly finished me, and every one had a reason behind it somebody could have told me in a sentence. Nobody was there to. So this is the sentences, written out for one person, so that when I am not about she has them to hand and does not have to buy them the way I did. It is not an account of anything that happened. I was in the way of a good deal of what happened, and what I kept of it is the weather and the order people arrived in, which is no use to anybody.
 
-One more, and then the list.
-
-The third winter in the Bell Country the lamp oil was short and nothing anybody started that season got finished. What held was a dinner on a Thursday that nobody could explain and that did nothing. The table was a door across two barrels. I set the chairs out, was late most weeks, and went to thirty-one of them. I had been against the whole business for eleven years and would have told you so at length.
-
-I would not have got through that winter without it. And the best evening I have had was two winters before, at the feast, at the end of the table with my foot in a bucket and the barrel I dropped on it lying behind my chair, missing most of what went on at the far end.
-
-**Rule 80: Go to the daft dinner.**
-
 <!-- ILLO
+NOTE TO WHOEVER GENERATES THIS SLOT: the brief asked for Rule 80 legible on
+  the page. notes/illustration-style.md section 3 forbids any text in an image
+  beyond callout numerals, so the orange numeral 80 in the margin IS the
+  rendering of that — it keys the short final line exactly as every plate in
+  this book keys its callouts. Do not make the handwriting readable.
 id: 20-gag-02
 class: gag
 caption: Figure 20.3 — The last page. The corner went to the water.
@@ -163,6 +160,14 @@ prompt: A single sheet of handwritten paper lying flat and filling most of
   the image.
 -->
 ![Figure 20.3 — The last page. The corner went to the water.](../illustrations/20-gag-02.png)
+
+One more, and then the list.
+
+The third winter in the Bell Country the lamp oil was short and nothing anybody started that season got finished. What held was a dinner on a Thursday that nobody could explain and that did nothing. The table was a door across two barrels. I set the chairs out, was late most weeks, and went to thirty-one of them. I had been against the whole business for eleven years and would have told you so at length.
+
+I would not have got through that winter without it. And the best evening I have had was two winters before, at the feast, at the end of the table with my foot in a bucket and the barrel I dropped on it lying behind my chair, missing most of what went on at the far end.
+
+**Rule 80: Go to the daft dinner.**
 
 ## What It Costs You
 
