@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 55,
+  "count": 58,
   "slots": [
     {
       "id": "01-gag-01",
@@ -552,6 +552,36 @@
       "alt": "A diagram of three numbered boxes in a row joined by arrows, with a starburst marker on the second box labelled by a numeral, a pointing-hand marker under the third, and an empty dashed-outline box at the end of the chain with nothing inside it.",
       "prompt": "A single horizontal flow diagram in flat black line art on cream, drawn as a pamphlet plate inside one thin rule border. Three equal square boxes in a row, joined left to right by two bold arrows, each box carrying an orange callout numeral in an orange circle at its upper left and containing one or two lines of loose handwritten scribble standing in for a sentence rather than legible words. Above the second box, a bold starburst or spark glyph on a short leader line, with an orange numeral in a circle beside it. Below the third box, a small drawing of a flat open hand touching a short stretch of brick wall, on a short leader line, with an orange numeral beside it. At the right end of the chain, after a third arrow, a fourth box the same size as the others but drawn in a dashed outline and completely empty, with an orange numeral beside it and no scribble inside. Orange used only for the numerals. No legible text anywhere, generous cream margins, no background scenery.",
       "path": "illustrations/18-plate-02.png"
+    },
+    {
+      "id": "19-gag-01",
+      "class": "gag",
+      "chapter": "19",
+      "source": "19-holidays.md",
+      "caption": "Figure 19.2 — The winter feast. Nobody knows.",
+      "alt": "A long table of people eating, every one of them with one bare foot and one boot on, nobody remarking on it; at the near end an older man sits with a bandaged foot in a bucket and a barrel lying on its side behind him.",
+      "prompt": "An interior scene in flat black line art on cream, drawn as a pamphlet marginal sketch inside one thin rule border, with generous empty cream space above. A long plain table seen from a low three-quarter angle, running away to the right, with eight cartoonish bean-bodied figures of mixed ages seated along both sides, a single large pot in the middle, tin cups about. The figures are all leaning in, eating and talking, none looking at the viewer, every one of them entirely unremarkable in posture. Under the table, clearly visible in the gap beneath the boards, each seated figure has one booted foot and one bare foot, drawn plainly and without emphasis. A small dog lies under the middle of the table. At the near left end of the table, in three-quarter view from behind so his face is not the subject, an older bean-bodied man in a long tarp coat and a flat cap sits with one boot on, his other leg stuck straight out in front of him, that foot thickly bandaged and resting in a plain pail of water, his shoulders up and his free arm thrown wide in the middle of saying something, posture plainly delighted. Behind his chair a wooden barrel lies on its side on the floor. The pail and the bandaged foot are the only orange elements in the image. No background scenery beyond two long horizontal lines for the wall, no shading, no text anywhere.",
+      "path": "illustrations/19-gag-01.png"
+    },
+    {
+      "id": "19-plate-01",
+      "class": "plate",
+      "chapter": "19",
+      "source": "19-holidays.md",
+      "caption": "Figure 19.1 — The year as a wheel. 1 the fixed days, tied to the sun and the harvest. 2 the named stretches between them. 3 the worst month, with the feast on it.",
+      "alt": "A circular calendar divided into twelve segments, with four marked quarter points, named stretches between them, and one segment shaded orange with a star on it.",
+      "prompt": "A single large wheel diagram centred in the frame, in flat black line art on cream, drawn as a 1950s government pamphlet plate inside one thin rule border. A bold outer ring divided by thin radial lines into twelve equal segments. Four of the dividing lines, at the quarter points, are drawn much heavier than the rest and each carries a small simple pictogram outside the rim: a low sun on the horizon, a high sun, a sheaf of grain, and a bare tree. The twelve segments each contain one or two short strokes of loose handwritten scribble standing in for a name rather than legible words. One single segment, at the bottom of the wheel, is filled with flat solid orange and carries a bold five-pointed star drawn in black at its centre. A small orange callout numeral in an orange circle sits beside one of the heavy quarter lines, a second beside the rim between two segments, and a third beside the orange segment. Orange used only for the three numerals, their circles and the one filled segment. Generous empty cream margins, no background scenery, no legible text anywhere.",
+      "path": "illustrations/19-plate-01.png"
+    },
+    {
+      "id": "19-plate-02",
+      "class": "plate",
+      "chapter": "19",
+      "source": "19-holidays.md",
+      "caption": "Figure 19.3 — The boil-time song. 1 not steaming. 2 a rolling boil, moving and breaking the surface. 3 three minutes, counted out loud. 4 covered while it cools.",
+      "alt": "A simple song sheet showing four short staves of plain notation with the four lines of the boil-time verse written under them, and four small pictograms down the left margin: a pot barely steaming struck through, a pot at a hard rolling boil, a hand with three fingers held up, and a lidded pot.",
+      "prompt": "A single song sheet filling the frame, in flat black line art on cream, drawn as a 1950s government pamphlet plate inside one thin rule border. Four short horizontal staves stacked with even spacing, each stave of five thin ruled lines carrying a sparse row of simple round black note heads on plain straight stems, no more than nine notes per stave, drawn cleanly and regularly like printed music rather than scribble. Beneath each stave, one line of neat small handwritten lettering standing in for the words, legible as writing but not as specific words. Down the left margin, outside the staves, four small simple pictograms aligned one to each stave, each with an orange callout numeral in an orange circle beside it, numerals 1 to 4 top to bottom: first a pot on a fire with two thin wisps above it and a bold diagonal stroke struck through the whole pictogram; second the same pot with its surface drawn as bold broken humps and arcs leaping clear of the rim; third an open hand held up showing exactly three fingers; fourth the same pot with a flat lid on it and no wisps. The second pictogram's leaping surface is filled flat orange. Orange used only for the four numerals, their circles and that one filled surface. Generous cream margins, no background scenery.",
+      "path": "illustrations/19-plate-02.png"
     }
   ]
 }
