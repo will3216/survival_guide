@@ -13,7 +13,7 @@ writing**. One defect was fixed. Everything else below is evidence.
 | Spec line | Verdict | Evidence |
 |-----------|---------|----------|
 | 20 chapters plus front and back matter | **Met** | 22 files in `notes/manuscript-order.txt`, all present (the linter errors on a listed file that does not exist, and exits 0). H1s run `# Chapter 1:` to `# Chapter 20:` with no number missing or repeated; `00-front-matter.md` and `99-appendices.md` are the front and back matter. |
-| 45,000–55,000 words | **Not met — 58,248 words, 3,248 over.** | Per-file counts in section 2, taken after `illo_blocks.strip_comments`. **Stated, not acted on.** No chapter is outside the hard 1,800–3,200 band. The overrun is the user's call; this pass changed nothing for word count and declined one otherwise-correct fix because it would have broken the band (section 5). |
+| 45,000–55,000 words | **Not met — 56,888 words, 1,888 over** (was 58,248 before section 8a corrected the count). | Per-file counts in section 2, taken after `illo_blocks.strip_comments`. **Stated, not acted on.** No chapter is outside the hard 1,800–3,200 band. The overrun is the user's call; this pass changed nothing for word count and declined one otherwise-correct fix because it would have broken the band (section 5). |
 | Every chapter carries all five apparatus elements | **Met** | `python3 scripts/lint_manuscript.py` → `Manuscript clean.`, exit 0. It checks the H1, the blockquote epigraph inside the first twelve lines, `## What It Costs You`, `## The Short Version` with 5–9 `- ` lines and nothing bulleted after it, the word band, the `## Chapter NN` accuracy heading, forbidden terms, ILLO block shape, duplicate ids, and every `Rule N` against the ledger. |
 | Every load-bearing claim has an accuracy-log entry | **Met** | `notes/accuracy-log.md` carries `## Chapter 01` through `## Chapter 20` plus `## Appendices`, every one with entries: 16, 19, 29, 20, 28, 21, 15, 18, 16, 16, 19, 36, 30, 15, 12, 7, 7, 6, 8, 5 and 10 respectively. **No `_No entries yet._` remains anywhere** in `manuscript/` or `notes/` — the only occurrences of that string are in the log's own header, where it documents the convention, and in the plan. |
 | Every chapter has its illustration slots placed with prompts | **Met** | 61 slots: three in each of nineteen chapters and four in chapter 18. All five keys present and non-empty in every block — the linter fails otherwise. Figure numerals ascend in document order in all 20 chapters, and no slot sits after `## The Short Version`. |
@@ -25,34 +25,46 @@ writing**. One defect was fixed. Everything else below is evidence.
 
 Comment-stripped, via `illo_blocks.strip_comments`.
 
-| File | Words |
-|------|-------|
-| 00-front-matter.md | 703 |
-| 01-triage.md | 2,449 |
-| 02-run-or-dig-in.md | 2,623 |
-| 03-body.md | 3,182 |
-| 04-water.md | 2,730 |
-| 05-weather.md | 2,682 |
-| 06-food.md | 2,560 |
-| 07-first-people.md | 2,658 |
-| 08-gear.md | 2,754 |
-| 09-scavenging.md | 2,691 |
-| 10-machine.md | 2,555 |
-| 11-voices.md | 2,561 |
-| 12-rot.md | 3,194 |
-| 13-growing.md | 3,198 |
-| 14-economy.md | 2,857 |
-| 15-groups.md | 2,957 |
-| 16-grief.md | 2,737 |
-| 17-silhouette.md | 2,766 |
-| 18-gods.md | 3,042 |
-| 19-holidays.md | 3,009 |
-| 20-teaching.md | 2,856 |
-| 99-appendices.md | 1,484 |
-| **Total** | **58,248** |
+Counts below are **as corrected in section 8**: comments stripped and markdown
+image links stripped. The figures in brackets are the superseded counts from the
+first run of this pass, which charged every figure legend to the prose budget a
+second time.
 
-**58,248 against a 45,000–55,000 target: 3,248 words over, or about six per
-cent.** Every chapter is inside the enforced 1,800–3,200 band; the overrun is
+| File | Words | (was) |
+|------|-------|-------|
+| 00-front-matter.md | 703 | 703 |
+| 01-triage.md | 2,395 | 2,449 |
+| 02-run-or-dig-in.md | 2,550 | 2,623 |
+| 03-body.md | 3,101 | 3,182 |
+| 04-water.md | 2,665 | 2,730 |
+| 05-weather.md | 2,597 | 2,682 |
+| 06-food.md | 2,484 | 2,560 |
+| 07-first-people.md | 2,578 | 2,658 |
+| 08-gear.md | 2,797 | 2,754 |
+| 09-scavenging.md | 2,612 | 2,691 |
+| 10-machine.md | 2,402 | 2,555 |
+| 11-voices.md | 2,467 | 2,561 |
+| 12-rot.md | 3,180 | 3,194 |
+| 13-growing.md | 3,165 | 3,198 |
+| 14-economy.md | 2,762 | 2,857 |
+| 15-groups.md | 2,898 | 2,957 |
+| 16-grief.md | 2,675 | 2,737 |
+| 17-silhouette.md | 2,685 | 2,766 |
+| 18-gods.md | 2,950 | 3,042 |
+| 19-holidays.md | 2,938 | 3,009 |
+| 20-teaching.md | 2,800 | 2,856 |
+| 99-appendices.md | 1,484 | 1,484 |
+| **Total** | **56,888** | 58,248 |
+
+Chapter 08 is the one file that went **up**: +43, the glass-bulb passage of
+section 8. Every other change is the double-count coming out.
+
+**56,888 against a 45,000–55,000 target: 1,888 words over, or about three and a
+half per cent** — down from 3,248 over, not by a single word of prose being cut
+but because 1,403 words of figure legend were never prose. Every chapter is
+inside the enforced 1,800–3,200 band, with the most headroom the book has ever
+had: the highest is chapter 12 at 3,180 and the lowest chapter 01 at 2,395. The
+residual overrun is
 the accumulation of the per-chapter overruns declared as they happened, each
 recorded in `notes/continuity.md` with its reason. Nothing in this pass was changed for it.
 
@@ -172,21 +184,14 @@ section 5.
 
 **Found and deliberately not changed.**
 
-- **The five shortened figure legends in chapters 12 and 13.** Five of 61
-  slots print a shortened caption in the image link rather than the `caption:`
-  value: `12-plate-01`, `12-gag-01`, `12-plate-02`, `13-plate-01`,
-  `13-plate-02`. The other 56 print the caption verbatim, which is how a
-  plate's orange callout numerals reach a legend. This was fixed, and the fix
-  **broke the build**: the link text is prose to the word counter, and the full
-  legends take chapter 12 to 3,254 and chapter 13 to 3,279, outside the
-  1,800–3,200 band. Those two chapters are the book's longest, and that is
-  evidently why their legends were shortened in the first place. The fix was
-  reverted. Paying for it means cutting prose from the two chapters, which this
-  pass is not authorised to do, so the choice belongs to the user: accept short
-  legends in those two chapters, exempt image-link text from `WORDS` in
-  `scripts/lint_manuscript.py`, or trim. **The three affected plates' callout
-  content is carried in full in the prose either way**, so nothing is
-  unteachable; it is the legend, not the instruction.
+- **The five shortened figure legends in chapters 12 and 13.** Reported here as
+  the user's call, and **now fixed — see section 8.** The diagnosis in this
+  section was half right: the link text was indeed prose to the word counter,
+  but the conclusion that paying for the legends meant cutting prose was wrong.
+  The counter was double-charging the same caption, once exempt inside the ILLO
+  block and once in the link, so the fix was to the counter and no prose moved.
+- **The preface's glass bulbs.** Reported here as out of scope. **Now paid — see
+  section 8.**
 - **Chapter 1's title.** The contents line reads "Triage: Decide What You Are"
   (the spec's own wording, `2026-11-17-long-after-design.md:127`); the H1 reads
   `# Chapter 1: Triage — Decide What You Are`. The em dash is a recorded
@@ -202,18 +207,6 @@ section 5.
   `notes/accuracy-log.md:413` as part of the chapter's coercion boundary, and
   it is a guardrail on the chapter's most dangerous material. Deliberate and
   logged beats consistent; not touched.
-- **The preface's glass bulbs.** `00-front-matter.md:31` has T. say "Elsewhere
-  he describes glass bulbs that made light out of wire. I have been shown the
-  broken ones. I am prepared to believe in the glass." **No chapter contains a
-  description of a light bulb.** The only "bulb" in the manuscript is chapter
-  10's squeeze bulb. This is the same shape as the refrigerator debt — a
-  preface promise about the body — and unlike that one it was never entered in
-  continuity's debts section. It is largely self-paying: chapter 20 is titled
-  "Teaching the Ones Who Never Saw a Lightbulb", and T.'s beat there
-  (`20-teaching.md:124`) echoes the preface almost word for word. What is
-  missing is a description in **his** voice. Every available fix is either new
-  prose in an approved chapter or an edit to the preface, so this is reported
-  rather than fixed.
 - **Chapter 18, "And a hole, left in on purpose. They were the better part of
   an hour on it and ended by deciding to have none."** On the nearest-
   antecedent reading, "none" is the hole, which would contradict the design
@@ -284,5 +277,81 @@ takes with them."*
 
 ---
 
-Tooling at the close of this pass: `52 passed`, `Manuscript clean.` (exit 0),
-`Wrote 61 slot(s)`.
+## 8. The second run (2026-11-18): two jobs out of this pass
+
+Both came out of section 5, where both were reported and neither was fixed.
+
+**8a. The linter was counting apparatus as prose, and it had already cost the
+book five figure legends.**
+
+`strip_comments` exempts the `<!-- ILLO ... -->` blocks, because apparatus does
+not count against a prose budget. But the markdown image line that follows each
+block restates the `caption:` verbatim, and that line was counted in full — so
+every chapter's budget was charged twice for the same caption. Chapters 12 and
+13, the book's two longest, sat at 3,194 and 3,198 against a 3,200 ceiling, and
+five of their plates printed a shortened caption in the image link instead of
+the real legend. **Budget pressure had silently degraded the apparatus on
+exactly the two chapters with no room, and it went unnoticed for eight
+chapters.**
+
+Fixed test-first. Three new tests in `tests/test_lint_manuscript.py` encode the
+behaviour rather than the file contents: a chapter in band on prose that would
+exceed `WORDS_MAX` once legend text were added produces no `WORDS` error; 150
+image-link paths added to an in-band chapter produce no `WORDS` error either;
+and the floor and the ceiling both still fire on a genuine prose overrun with an
+image link sitting beside it. The implementation is `illo_blocks.strip_image_links`
+— one regex over the whole `![...](...)` construct, legend and path alike —
+applied in `lint_manuscript.check_word_count` after `strip_comments`. It is
+strictly more correct than the status quo: it removes a double-count of text
+already judged exempt, so counts only ever fall, and the lowest chapter is 2,395
+against an 1,800 floor, so nothing can be pushed under. `notes/style-guide.md`
+§10 now states the convention.
+
+Then the five legends were restored verbatim from their blocks' `caption:` —
+`12-plate-01`, `12-gag-01`, `12-plate-02`, `13-plate-01`, `13-plate-02`. The
+whole set was then verified by script rather than by eye: **all 61 image links
+now match their block's `caption:` character for character, with zero
+mismatches**, and the five above were the only ones that ever differed.
+
+**8b. The glass-bulb debt is paid, in chapter 08.**
+
+The preface promises, in the same breath as the refrigerator, that "elsewhere he
+describes glass bulbs that made light out of wire" — and no chapter described
+one. This pass found that and declined it, correctly, as new prose in an
+approved chapter. It is paid now, because the defect was never in a chapter: it
+was in the bookkeeping. The refrigerator debt was paid **only** because somebody
+entered it in `notes/continuity.md`'s Debts register; this one never was, and no
+tool will ever catch the difference.
+
+It is worth paying for what it does to the ending. Chapter 20 is titled
+*Teaching the Ones Who Never Saw a Lightbulb* and T.'s last beat in the book is
+"I have never seen a lightbulb work. I have been shown the broken ones; I am
+prepared to believe in the glass and no further." Both land harder now that the
+narrator has described one in his own voice. Before this, **the book's
+title-level image existed only in the editor's mouth.**
+
+Three sentences, 115 words, appended to item 5 (**Light**) of chapter 08's
+`## The Six That Always Earn It`, inside the honest accounting about what runs a
+light. Chapter 08 goes 2,754 → 2,797 against a 3,200 ceiling. The model and the
+constraint was chapter 13's refrigerator passage: brief and shorter than its
+four lines; no nostalgia and no pause over it; load-bearing where it sits, as
+the reason for preferring light you can feed yourself; the object described, no
+brand, no cause of the Collapse; and he does not know it is remarkable — he is
+explaining light. Recorded in `notes/continuity.md`'s Debts section in the same
+form as the refrigerator, carrying the same standing rule — **no later chapter
+may describe a bulb again, and none may have him remark on it** — together with
+a second entry recording that the debt existed, was missed by the register, and
+is now paid, so the next person reads why it was nearly lost.
+`notes/accuracy-log.md`'s chapter-08 section carries the factual claim: the
+filament glowed when current passed through it, and the glass excluded air
+because a metal filament at incandescent temperature oxidises and fails in
+moments. No voltage, power, filament material or life is given, deliberately.
+
+**Nothing else was touched.** No prose was improved, no trim was taken, no
+sentence recorded as protected in `notes/continuity.md` was altered, and the
+book's remaining 1,888-word overrun is still the user's call.
+
+---
+
+Tooling at the close of the second run: `55 passed`, `Manuscript clean.`
+(exit 0), `Wrote 61 slot(s)`, 61 of 61 image links matching their captions.

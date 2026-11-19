@@ -562,7 +562,11 @@ of them that exists.
 
 **1,800–3,200 words per chapter**, enforced by `scripts/lint_manuscript.py`
 (`WORDS_MIN` / `WORDS_MAX`). The count is taken after HTML comments are
-stripped, so `<!-- ILLO ... -->` blocks do not count toward it.
+stripped, so `<!-- ILLO ... -->` blocks do not count toward it, **and after
+markdown image links are stripped, so a figure legend and its path do not count
+either.** A legend restates its slot's exempt `caption:` verbatim, and counting
+the link as well charged every chapter's budget twice for the same apparatus —
+which is what shortened five legends in chapters 12 and 13 before it was found.
 
 Target the middle — roughly 2,000–3,000 words — so that edits in either
 direction do not push a chapter out of bounds. Rough internal split:

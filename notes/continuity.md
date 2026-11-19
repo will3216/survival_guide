@@ -215,6 +215,32 @@ named.
   mention. The preface has already promised the reader this passage
   exists.
 
+- **The glass-bulb debt is paid (chapter 08).** Chapter 08 carries three sentences, inside
+  item 5 (**Light**) of `## The Six That Always Earn It`, appended to the honest accounting about
+  what runs a light and given as the reason for preferring light you can feed yourself: glass bulbs
+  about the size of a pear, screwed in overhead, with a coil of fine wire inside that went white hot
+  and stayed there; the glass there to keep the air off the wire, because at that heat a wire in air
+  burns through; a hand to a switch by the door and the room light, off a wire in the wall that came
+  from somewhere else and that nobody in the room kept up; and then the three kinds of light — one
+  somebody else runs, one a cell runs, one you can feed yourself — with the last preferred. There is
+  no nostalgia in the passage, he does not pause over it, and the sentence it is attached to carries
+  straight on into the sixth category. It is shorter than the refrigerator's four lines on purpose.
+  **No later chapter may describe a bulb again, and none may have him remark on it.** Chapter 20's
+  title and T.'s closing beat (`manuscript/20-teaching.md` line 124) stand as they are and are not
+  to be adjusted to point at this passage.
+
+- **Chapter 08 owed a description of a glass bulb, and the register never said so (original entry,
+  now paid above).** The editor's preface (`manuscript/00-front-matter.md` line 31) has T. say, in the
+  same breath as the refrigerator, "Elsewhere he describes glass bulbs that made light out of wire. I
+  have been shown the broken ones. I am prepared to believe in the glass." That is the same shape of
+  promise as the refrigerator's four lines, and it was binding in the same way — but **it was never
+  entered in this section**, so nothing and nobody was checking it, and no tool can: the linter has no
+  view on whether the body pays a preface promise. It survived twenty chapters, three reviews and a
+  full final pass, which found it and correctly declined it as out of scope, and it was nearly lost
+  outright. The refrigerator debt was paid only because somebody wrote it down here. **The lesson for
+  whoever reads this next: a promise the front matter makes about the body is a debt the moment it is
+  written, and it exists only in this register.** Paid 2026-11-18.
+
 - **Chapter 08 or 12 owes frostbite.** Chapter 05 mentions frozen flesh once,
   inside a prohibition — "frozen flesh is full of ice, so rubbing tears it from
   the inside" — and that single clause is currently the book's entire position

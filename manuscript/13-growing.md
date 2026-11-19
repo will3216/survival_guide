@@ -49,7 +49,7 @@ prompt: A civil-defence pamphlet instructional diagram in flat black line
   bracket. No figures, no people, no shading, no background scenery, no
   text beyond the numerals.
 -->
-![Figure 13.1 — Roof to bed.](../illustrations/13-plate-01.png)
+![Figure 13.1 — Roof to bed. 1 the roof's plan area, which is the figure you multiply. 2 the gutter. 3 the first-flush standpipe with its drain cap. 4 the screened inlet. 5 the covered tank, raised, with a screened overflow and a tap.](../illustrations/13-plate-01.png)
 
 ## Soil Is Built, Not Found
 
@@ -190,7 +190,7 @@ prompt: A civil-defence pamphlet comparison diagram in flat black line art
   and the single cross. No figures, no people, no hands, no shading, no
   background scenery, no text or lettering of any kind beyond the numerals.
 -->
-![Figure 13.3 — Three you can do with a rack, a sack of salt and a crock.](../illustrations/13-plate-02.png)
+![Figure 13.3 — Three you can do with a rack, a sack of salt and a crock. 1 drying: thin, spaced, moving air. 2 dry-salting: layered, weighted, drained. 3 fermenting: under the brine, weighted, covered but not sealed tight. 4 sealing low-acid food in a jar — not without equipment, and the section above is the reason, not this caption.](../illustrations/13-plate-02.png)
 
 ## What It Costs You
 

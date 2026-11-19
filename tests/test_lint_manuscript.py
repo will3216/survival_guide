@@ -76,6 +76,34 @@ def test_word_count_ignores_comment_blocks():
     assert lint.check_word_count("04-water.md", text) == []
 
 
+def test_word_count_ignores_image_link_text():
+    """A figure legend in an image link duplicates its exempt ILLO caption, so
+    it must not be charged to the chapter's prose budget."""
+    in_band = chapter(body_words=lint.WORDS_MAX - 100)
+    assert lint.check_word_count("04-water.md", in_band) == []
+    legend = " ".join(["legend"] * 400)
+    text = in_band + f"\n![Figure 4.1 — {legend}](../illustrations/04-plate-01.png)\n"
+    assert lint.check_word_count("04-water.md", text) == []
+
+
+def test_word_count_ignores_image_link_paths():
+    """The path inside an image link is apparatus too, not prose."""
+    in_band = chapter(body_words=lint.WORDS_MAX - 100)
+    assert lint.check_word_count("04-water.md", in_band) == []
+    links = "\n".join(
+        f"![](../illustrations/04-plate-{i:02d}.png)" for i in range(1, 151)
+    )
+    assert lint.check_word_count("04-water.md", in_band + "\n" + links + "\n") == []
+
+
+def test_word_count_still_rejects_prose_overrun_beside_an_image_link():
+    link = "![Figure 4.1 — A bucket.](../illustrations/04-plate-01.png)\n"
+    over = chapter(body_words=lint.WORDS_MAX + 50) + "\n" + link
+    assert "WORDS" in lint.check_word_count("04-water.md", over)[0]
+    under = chapter(body_words=lint.WORDS_MIN - 50) + "\n" + link
+    assert "WORDS" in lint.check_word_count("04-water.md", under)[0]
+
+
 def test_lint_reports_chapters_listed_but_missing(tmp_path):
     (tmp_path / "notes").mkdir()
     (tmp_path / "manuscript").mkdir()

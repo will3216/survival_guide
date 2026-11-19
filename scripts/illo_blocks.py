@@ -13,6 +13,7 @@ ID_RE = re.compile(r"^(\d{2})-(plate|gag)-(\d{2})$")
 
 _BLOCK_RE = re.compile(r"<!--\s*ILLO\b(.*?)-->", re.DOTALL)
 _HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
+_IMAGE_LINK_RE = re.compile(r"!\[[^\]]*\]\([^)]*\)")
 _KEY_RE = re.compile(r"^([a-z_]+):\s*(.*)$")
 
 _VALID_KEYS = frozenset({"id", "class", "caption", "alt", "prompt"})
@@ -75,3 +76,15 @@ def parse_blocks(text: str) -> list[IlloBlock]:
 
 def strip_comments(text: str) -> str:
     return _HTML_COMMENT_RE.sub("", text)
+
+
+def strip_image_links(text: str) -> str:
+    """Remove whole markdown image links, legend text and path alike.
+
+    Each image link restates its slot's `caption:` verbatim, and that caption
+    already lives inside an exempt `<!-- ILLO ... -->` block. Counting the link
+    as well charges a chapter's prose budget twice for the same apparatus, which
+    is what shortened five figure legends in chapters 12 and 13. The path is
+    apparatus too, so the whole construct goes.
+    """
+    return _IMAGE_LINK_RE.sub("", text)

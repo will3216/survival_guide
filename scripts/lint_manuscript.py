@@ -22,7 +22,7 @@ import re
 import sys
 from pathlib import Path
 
-from illo_blocks import ID_RE, parse_blocks, strip_comments
+from illo_blocks import ID_RE, parse_blocks, strip_comments, strip_image_links
 
 WORDS_MIN = 1800
 WORDS_MAX = 3200
@@ -91,7 +91,7 @@ def check_short_version(name: str, text: str) -> list[str]:
 
 
 def check_word_count(name: str, text: str) -> list[str]:
-    words = len(strip_comments(text).split())
+    words = len(strip_image_links(strip_comments(text)).split())
     if WORDS_MIN <= words <= WORDS_MAX:
         return []
     return [

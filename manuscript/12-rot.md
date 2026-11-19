@@ -55,7 +55,7 @@ prompt: A civil-defence pamphlet instructional diagram in flat black line
   figures, no people, no shading, no background scenery, no text beyond
   the numerals.
 -->
-![Figure 12.1 — Siting.](../illustrations/12-plate-01.png)
+![Figure 12.1 — Siting, in section. 1 the water. 2 the beds, inside fifty metres. 3 the latrine, downhill and thirty metres clear. 4 the pit bottom. 5 wrong: uphill of the spring.](../illustrations/12-plate-01.png)
 
 ## The Hands, Which Are The Actual Answer
 
@@ -92,7 +92,7 @@ prompt: A pamphlet marginal vignette in flat black line art on cream with
   the poster's lettering are the only orange in the image. No shading, no
   background scenery, no readable text.
 -->
-![Figure 12.2 — Rule 2.](../illustrations/12-gag-01.png)
+![Figure 12.2 — Rule 2, and the bucket.](../illustrations/12-gag-01.png)
 
 ## What Actually Kills People
 
@@ -138,7 +138,7 @@ prompt: A deliberately plain civil-defence pamphlet instructional diagram
   circular stirring arrow. No hands, no figures, no shading, no background
   scenery, no text beyond the numerals.
 -->
-![Figure 12.3 — Oral rehydration.](../illustrations/12-plate-02.png)
+![Figure 12.3 — Oral rehydration. 1 one litre of clean water. 2 six level teaspoons of sugar. 3 half a teaspoon of salt, struck level. 4 stirred. 5 a mouthful at a time.](../illustrations/12-plate-02.png)
 
 ## A Cut, Over A Fortnight
 
