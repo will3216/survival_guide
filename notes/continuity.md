@@ -140,7 +140,7 @@ places no chapter has used yet.
 
 | Name | What it is | First used in chapter |
 |------|------------|------------------------|
-| The Bell Country | The settlement he hauled water for, founded and lost by other people, nine years in the making and five in the losing. Founded by the Bellwright. **Its first use in the manuscript is chapter 10**, in one clause inside the tires section, where he keeps two trucks running for it out to the far side of the lake in his eleventh year and records only a sidewall gone on a slope. Chapter 13 is the first chapter the place is the *subject* of, and chapter 13's writer is not introducing it. | 10 |
+| The Bell Country | The settlement he hauled water for, founded and lost by other people, nine years in the making and five in the losing. Founded by the Bellwright. **Its first use in the manuscript is chapter 10**, in one clause inside the tires section, where he keeps two trucks running for it out to the far side of the lake in his eleventh year and records only a sidewall gone on a slope. Chapter 13 is the first chapter the place is the *subject* of, and chapter 13's writer is not introducing it. **First-use claim re-checked when chapter 13 was written (2026-11-18) and found still correct** — chapter 10 line 137 names it in the tires clause, and chapter 13 does not introduce it. Chapter 13 adds its physical shape, which later chapters must keep: **four long terraces cut across the south face of a hill, the houses on the flat at the top and the water at the bottom, a spring-fed water rota hauling uphill.** | 10 |
 | Tarn Street cold store | A cold-storage building the narrator helped clear in his sixth year, named in chapter 09 the way you name a street. The famous haul of that year came out of it; T.'s era calls the day **the Opening** and teaches children its date. The narrator gives the haul eleven words and the stairs a paragraph. | 09 |
 | Ladderwell | Where T. the editor lives and signs the preface, two generations after the narrator wrote. Editor's era only. | front matter only |
 
@@ -184,7 +184,17 @@ named.
   or chapter 01's promise to the reader goes unpaid. Chapter 02 also points a
   go-bag line at it ("a small roll of what you use to stop bleeding").
 
-- **Chapter 13 owes four lines about a refrigerator.** The editor's
+- **The refrigerator debt is paid (chapter 13).** Chapter 13 carries exactly four lines, inside its
+  `## Keeping It` section, immediately before the drying method and given as the reason drying is worth
+  learning properly: the white box about chest high standing in the kitchen; cold not because you put ice
+  in it but because it made itself cold, by itself, all day and all night, for years, while nobody watched
+  it; meat in on the Monday eaten on the Thursday and a jug of milk kept a week, gone away from and come
+  back to with the cold still going; one in every house he ever walked into and not a working one left
+  anywhere he has been. There is no nostalgia in the passage and he does not pause over it. T.'s single
+  appreciative beat follows immediately, counting four lines for the box against the rest of the page for
+  the rack. **No later chapter may describe a refrigerator again, and none may have him remark on it.**
+
+- **Chapter 13 owed four lines about a refrigerator (original entry, now paid above).** The editor's
   preface says the narrator gives four lines, in his chapter on keeping
   food, to "a thing called a refrigerator: a box that was cold inside, all
   the time, by itself, in every house" — and that the editor has read
@@ -246,6 +256,24 @@ named.
   rather-than-milled point goes with it**: chapter 12's review found it reading as a remedy
   for bleeding gums, which is a different deficiency, so chapter 12 now names only the
   oral signs and the green-food fix, and chapter 12 no longer points at chapter 06.
+
+- **The full deficiency-syndrome account is paid (chapter 13).** Chapter 12 paid the oral signs only and
+  handed the rest on. Chapter 13 carries it under `## The Illnesses Of A Full Belly`, with the cause given
+  as **months of the same food rather than too little food**, happening to people whose store is not empty,
+  and each syndrome **described by its signs and its food fix only, never named clinically**: old wounds
+  opening and cuts that will not close, aching legs and bruising from nothing (the oral one further along,
+  fixed by a few mouthfuls of anything green and fresh daily, raw or barely cooked, because long boiling
+  destroys it and the rest goes out in the cooking water); on a mostly-maize store, loose bowels, a rough
+  reddish rash on skin that gets the sun and later confusion that gets a person treated as mad, fixed by
+  beans, eggs, offal and greens **and by soaking the maize in wood-ash water before grinding**; on mostly
+  milled grain or polished rice, swollen legs with breathlessness or numb, weak, wasting legs, with
+  **whole grain rather than milled** named here as its fix and not as a remedy for bleeding gums — the
+  correction chapter 12's review asked for; children unable to see at dusk before anybody else loses the
+  light, taking sight for good, wanting anything orange or dark green; and pale, breathless exhaustion on
+  no work, wanting meat, offal, beans and greens. The chapter's standing instruction is **three or four
+  things rather than one, something green daily, whole grain rather than milled where it is your choice,
+  and the cooking water kept** — stated as the one exception to Rule 58, about medicine rather than dinner.
+  **No later chapter owes deficiency.**
 
 - **Tetanus is covered, and chapter 12 is its only home.** Added in review: the risk
   categories (punctures, crush, bites, anything with soil, dung or rust in it), irrigating
@@ -656,6 +684,49 @@ directly. Use them; do not reinvent or contradict them.
   A later chapter removing one of those sentences as redundant should check what it was doing
   in its position, not only whether the idea appears elsewhere.
 
+- **Chapter 13's own canon, now fixed.** Chapter 13 opens Part IV and is the chapter the book's timeline
+  turns on: everything before it assumed the reader was passing through, and it assumes they are staying.
+  **It is the first chapter the Bell Country is the subject of** (named first in chapter 10; see Places).
+  In his **ninth year** he dug a garden at the top of the fourth terrace, in good soil, in immaculate rows,
+  with a sign he painted himself because he was twenty-nine, and **watered it in the afternoons after the
+  rota, and it died in August** — beans first, then roots, the squash holding longest and giving him four
+  things the size of his fist. **The next spring somebody moved him to the early shift**, he watered at dawn
+  before the rota instead, and **that garden fed nine people into the winter**: same hill, same buckets, same
+  trips, same man. The difference was water and patience, not knowledge, and he says plainly that none of the
+  knowledge was his. **The Bellwright is in the opening** with correct opinions about gradients — afternoon
+  water going off the leaf and off the top inch before it reaches anything, and the fourth terrace draining
+  into the third, so he had spent two seasons watering the third terrace by way of the fourth — and **asks
+  him twice to move a barrow**, which he moves the second time. **What he fails to notice is that the
+  Bellwright became a legend**; the mechanism is the cast and continuity carrying it silently, with no T.
+  reveal, per `notes/style-guide.md` 5.1. **Rule 51** is coined here and is the epigraph; **Rule 58** is
+  coined here and earned by four years of feeding a household on garnish.
+  Also his and available to later chapters without re-deriving: **one millimetre of rain on one square metre
+  of roof is one litre**, the roof's plan footprint rather than its slope, about a fifth off for losses, and
+  the ordering drinking-washing-beds; **first-flush diversion of roughly the first half-litre per square
+  metre** by capped standpipe; covered, dark, finely screened storage with the mosquito egg-to-flying week
+  as the reason; **soil as built rather than found** — the nitrogen-in-a-basket framing, the brown-to-green
+  compost balance, damp as a wrung cloth, turned for air, **no human waste and nothing that died of
+  something on a food bed**, legumes fixing nitrogen in root nodules, the rotation, mulch; **the first year
+  lying in both directions** and judging ground over three years; crop ordering by calorie density and
+  storability; **open-pollinated against hybrid seed** with the easy self-pollinators, what crosses, the
+  biennials, saving from twenty plants, and keeping a year back; and the preservation half — drying as the
+  most forgiving method, salting, and fermenting at about two to three percent salt by weight held under
+  the brine and **covered but never sealed tight**.
+  **The chapter's lethal-risk position is binding and may not be softened or reversed by any later chapter:
+  home canning of low-acid food is not to be improvised.** The reason is given in the same breath — the
+  soil organism survives boiling, an airless sealed jar is the condition it wants, the poison is among the
+  deadliest known and kills by stopping the breathing, it has no smell or taste, and the jar neither bulges
+  nor looks wrong; only heat well above boiling held for a set time in a pressure vessel with a working
+  gauge and a tested time for that exact food is reliable, and a gauge reading wrong is worse than none.
+  Fermenting is safe **because** the acid develops, and the chapter states explicitly that the sour-enough
+  line is a measured one it cannot teach the reader to judge by taste. The alternatives offered are dry,
+  salt, ferment or eat it now; the chapter also forbids eating from a jar somebody else sealed and packing
+  garlic or herbs under oil left out of the cold, and closes the door on trying anyway with a heavy lid.
+  It re-cites **Rule 9** and **Rule 28** (chapter 04), **Rule 19** and **Rule 42** (chapter 06), and
+  **Rule 29** (chapter 12), and points at chapter 4 for treating caught water, chapter 6 for the five
+  storage words, chapter 9 for the tin rule, and chapter 12 for the latrine and for the oral deficiency
+  signs. It names **one place**, the Bell Country, whose Places row was re-checked rather than added.
+
 ---
 
 ## Rule ledger
@@ -690,7 +761,9 @@ chapter whose number is not a row below.
 | 38 | Check the stupid thing first. | 10 |
 | 42 | Learn three plants completely before you learn twenty badly. | 06 |
 | 47 | Mark what you clear. | 09 |
+| 51 | The roof is a field. | 13 |
 | 55 | Gear you do not maintain is gear you do not have. | 08 |
+| 58 | Plant calories, not salad. | 13 |
 | 64 | A bicycle you can fix beats a truck you cannot. | 10 |
 | 72 | Listen longer than you transmit. | 11 |
 | 80 | *Reserved. Spent in chapter 20. Do not cite before then.* | 20 |
