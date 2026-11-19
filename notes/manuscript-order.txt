@@ -5,6 +5,7 @@
 # They are still subject to the universal rules: forbidden terms, ILLO blocks,
 # duplicate ILLO ids and Rule citations against the continuity ledger.
 # The linter errors on any file listed here that does not exist.
+00-front-matter.md
 01-triage.md
 02-run-or-dig-in.md
 03-body.md
