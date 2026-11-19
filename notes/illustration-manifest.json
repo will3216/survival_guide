@@ -1,7 +1,7 @@
 {
   "style_guide": "notes/illustration-style.md",
   "note": "Prepend the fixed prompt preamble from the style guide to every prompt. Pass character and object reference sheets as reference images.",
-  "count": 58,
+  "count": 61,
   "slots": [
     {
       "id": "01-gag-01",
@@ -582,6 +582,36 @@
       "alt": "A simple song sheet showing four short staves of plain notation with the four lines of the boil-time verse written under them, and four small pictograms down the left margin: a pot barely steaming struck through, a pot at a hard rolling boil, a hand with three fingers held up, and a lidded pot.",
       "prompt": "A single song sheet filling the frame, in flat black line art on cream, drawn as a 1950s government pamphlet plate inside one thin rule border. Four short horizontal staves stacked with even spacing, each stave of five thin ruled lines carrying a sparse row of simple round black note heads on plain straight stems, no more than nine notes per stave, drawn cleanly and regularly like printed music rather than scribble. Beneath each stave, one line of neat small handwritten lettering standing in for the words, legible as writing but not as specific words. Down the left margin, outside the staves, four small simple pictograms aligned one to each stave, each with an orange callout numeral in an orange circle beside it, numerals 1 to 4 top to bottom: first a pot on a fire with two thin wisps above it and a bold diagonal stroke struck through the whole pictogram; second the same pot with its surface drawn as bold broken humps and arcs leaping clear of the rim; third an open hand held up showing exactly three fingers; fourth the same pot with a flat lid on it and no wisps. The second pictogram's leaping surface is filled flat orange. Orange used only for the four numerals, their circles and that one filled surface. Generous cream margins, no background scenery.",
       "path": "illustrations/19-plate-02.png"
+    },
+    {
+      "id": "20-gag-01",
+      "class": "gag",
+      "chapter": "20",
+      "source": "20-teaching.md",
+      "caption": "Figure 20.1 — Explaining the cold box.",
+      "alt": "An older man holding up a drawing of a refrigerator for a girl in a too-large coat with a satchel of papers; the drawing is upside down and he has not noticed, and she is regarding it politely.",
+      "prompt": "An interior scene in flat black line art on cream, drawn as a pamphlet marginal sketch inside one thin rule border, with generous empty cream space around it. On the left, an older cartoonish bean-bodied man in a long tarp coat and a flat cap, seen in three-quarter view, holding up a large square sheet of cloth or paper at chest height in both hands, his posture eager and explanatory, his free elbow out. On the sheet, drawn in simple bold line, is a tall rectangular box with a door and a handle on its front and a small coil of pipework on its back — and the whole drawing on the sheet is plainly upside down, the handle low and the pipework coil at the bottom of the sheet. The man is looking at the girl and not at the sheet. On the right, a girl bean-bodied figure in a coat several sizes too large with the cuffs over her hands, a flat satchel of loose papers under one arm, standing square and still, head slightly tipped, regarding the sheet with a mild and entirely polite expression. The sheet she is being shown is the only orange element in the image. No background scenery beyond two long horizontal lines for the wall, no shading, no text anywhere.",
+      "path": "illustrations/20-gag-01.png"
+    },
+    {
+      "id": "20-gag-02",
+      "class": "gag",
+      "chapter": "20",
+      "source": "20-teaching.md",
+      "caption": "Figure 20.3 — The last page. The corner went to the water.",
+      "alt": "The final handwritten page of a manuscript lying flat, its lower right corner rotted away by water, the writing standing in for words rather than legible, with one short final line set apart near the bottom and a numeral beside it.",
+      "prompt": "A single sheet of handwritten paper lying flat and filling most of the frame, in flat black line art on cream, drawn as a pamphlet marginal figure inside one thin rule border with empty cream margin all round. The sheet is drawn in plain outline with a slightly buckled edge. Its surface carries fifteen or so even horizontal lines of neat small handwritten lettering that stands in for words and is legible as writing but not as any specific words, in two short paragraphs with a gap between them. The lower right corner of the sheet is gone — torn and eaten away in a soft irregular curve about a fifth of the way into the page, with the lines of writing breaking off raggedly where the paper ends, and a broad stain edge drawn as a single wavering contour spreading inward from that corner. Near the bottom of the page, clear of the damage and set apart by white space above and below it, sits one short line of the same handwriting, no more than a third the width of the page. Beside that one short line, in the left margin, is the numeral 80 in flat orange inside an orange circle. The stain contour is filled flat orange at its thinnest edge. Orange used only for that numeral, its circle and the stain edge. No figures, no background scenery, no other text or numerals anywhere in the image.",
+      "path": "illustrations/20-gag-02.png"
+    },
+    {
+      "id": "20-plate-01",
+      "class": "plate",
+      "chapter": "20",
+      "source": "20-teaching.md",
+      "caption": "Figure 20.2 — Handing a job over. 1 watch: they hold the light. 2 assist: fiddly half theirs, dangerous half yours. 3 lead: they do all of it, you say nothing. 4 teach: they hand it on.",
+      "alt": "Four numbered panels in a row showing the same two figures at a workbench — first the older man working while the girl holds a lamp, then both working together, then the girl working alone while the man stands with his hands in his pockets, and in the fourth panel the girl showing the job to a smaller third figure while the man is absent.",
+      "prompt": "Four equal rectangular panels in a single horizontal row, in flat black line art on cream, drawn as a 1950s government pamphlet plate inside one thin rule border, each panel separated by a thin black rule and carrying an orange callout numeral in an orange circle in its top left corner, 1 to 4 left to right. The same plain workbench with a simple pump body and two tools on it appears in every panel, drawn identically. Panel 1: an older cartoonish bean-bodied man in a long tarp coat and flat cap bent over the bench with both hands on the work, and a smaller bean-bodied girl figure in an oversized coat standing close beside him holding up a lamp, her face towards his hands. Panel 2: the two of them side by side at the bench, both with hands on the work, the man's hand over one part and the girl's hands on another. Panel 3: the girl alone at the bench with both hands on the work, and the man standing upright a pace behind her with both hands pushed into his coat pockets and his mouth a plain flat line. Panel 4: the girl at the bench with one hand on the work and the other pointing at it, showing it to a third, smaller bean-bodied figure who is holding the lamp; the man is not in this panel at all. The lamp, carried in panels 1 and 4, is the only orange element besides the four numerals and their circles. No background scenery beyond one long horizontal line for the wall in each panel, no shading, no lettering anywhere in the image.",
+      "path": "illustrations/20-plate-01.png"
     }
   ]
 }
