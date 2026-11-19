@@ -4,7 +4,7 @@
 
 In my eleventh year I carried a crate of lamp glass up to the store and was told to stop there in case anything else wanted shifting, so I stood at the back wall for four hours with the crate in my arms, there being nowhere to set it down that was not somebody's chair.
 
-Tobin Arr came in first, having the key. Then Lise Hadden, down off the second terrace, already annoyed about the barrels and saying so before she sat. Then the Bellwright, who asked for the door to be shut and then asked twice more, the latch being a thing I had been meaning to see to. Then Nessa Quill, last, charcoal to the elbow.
+Tobin Arr came in first, having the key. Then Lise Hadden, down off the second terrace, already annoyed about the barrels and saying so before she sat. Then the Bellwright, who asked for the door to be shut and then asked twice more, the latch being a thing I had been meaning to see to. Then Nessa Quill, last, charcoal to the elbow, from the foundry.
 
 The foundry was the business, and nobody would take it: two shifts and a banked fire fed in the night, cold work on your own in the dark with nothing to show in the morning but that the thing is still warm. Its rota had been written four times and had failed four times. Lise said two years of telling people it mattered was enough and could they try something else. Nessa said she was not doing a fifth winter of it on her own. By the second hour the crate had got heavier and I had it on my hip.
 
@@ -12,7 +12,7 @@ The story part I have put further down, it being a procedure. What came out of t
 
 Inside the month the foundry had nine people on it and an argument about who got the night ones, and it has not gone cold in the thirty years since, so the rota was well designed. The rest of this chapter is how they designed it; they said every bit of it out loud in front of me and I was holding a crate and listening.
 
-> **— T.** The ninth of the eighth month is her day. Every forge and kitchen between here and the water goes cold from dusk to dusk and is lit again at first light from one carried flame; the children sing the one about the hand in the fire, and its second verse is the cold country; and there is not a living soul in this country who doubts that she made the world, holds it together, and will let go of it if we stop feeding her. I am obliged to set down beside all of that the only account of her making that exists. It is the minute of a long meeting about a foundry rota, taken by a man holding a crate. Who was *holding a crate*. I have sat at this desk for— no. I do not know what to do with this page. I shall copy it exactly as he wrote it, because I am not qualified to do one other thing to it.
+> **— T.** The ninth of the eighth month is her day. Every forge and kitchen between here and the water goes cold from dusk to dusk and is lit again at first light from one carried flame; the children sing the one about the hand in the fire, and its second verse is the cold country; and there is not a living soul in this country who doubts that she made the world, holds it together, and will let go of it if we stop feeding her. I am obliged to set down beside all of that the only account of her making that exists. It is the minute of a long meeting about a foundry rota, taken by a man holding a crate. Who was *holding a crate*. I do not know what to do with this page. I shall copy it exactly as he wrote it, because I am not qualified to do one other thing to it.
 
 ## What A God Is For
 
@@ -49,8 +49,9 @@ prompt: A single printed form filling the frame, in flat black line art on
   an open flat hand pressed against a small hinged door. Field 4 has three
   tiny numbered boxes in a row. Field 5 is the largest and contains, drawn
   carefully and centred, a simple wheel: a round hub with six straight
-  spokes radiating to a plain outer rim, and set into the hub a small
-  rectangular hinged door with a latch. Orange used only for the five
+  spokes radiating to a plain outer rim, and set into the hub a bold
+  rectangular hinged door with a latch, the door filling most of the hub
+  face and reading as one solid dark rectangle at a glance. Orange used only for the five
   numerals. No legible text anywhere, generous cream margins, no
   background scenery.
 -->
@@ -99,8 +100,9 @@ prompt: One large emblem centred and filling most of the frame, in flat
   black line art on cream, inside one thin rule border, drawn with the
   formal symmetry of a devotional plate. The emblem is a wheel: a heavy
   round hub with six straight spokes radiating to a plain thick outer rim,
-  and set into the hub a small rectangular hinged door with a latch and
-  two visible hinges. Behind the wheel, short straight rays radiate
+  and set into the hub a bold rectangular hinged door with a latch and
+  two visible hinges, the door filling most of the hub face and reading as
+  one solid dark rectangle at a glance. Behind the wheel, short straight rays radiate
   outward in even spacing, and below it a plain ruled scroll banner left
   entirely blank with no lettering. The whole emblem is drawn with great
   care and perfect symmetry. Along the very bottom edge of the panel,
