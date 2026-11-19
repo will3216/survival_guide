@@ -132,7 +132,7 @@ prompt: A simple top-to-bottom flowchart drawn in flat black line art on
 
 Everybody plans for the engine and loses the vehicle to the tires, never the other way round.
 
-Rubber ages whether you drive on it or not. Oxygen, ozone and sunlight harden it from the outside until it loses its flex and cracks, and it does that standing in a barn as well as on the road, so the tread depth on a vehicle that has stood twenty years tells you nothing. Look at the sidewalls and the bottoms of the grooves for fine cracks that open when you flex the rubber hard; chapter 8 is the long version of that test. A tire that cracks when flexed is finished, whatever it looks like.
+Rubber ages whether you drive on it or not. Oxygen, ozone and sunlight harden it from the outside until it loses its flex and cracks, and it does that standing in a barn as well as on the road, so the tread depth on a vehicle that has stood twenty years tells you nothing. Look at the sidewalls and the bottoms of the grooves for fine cracks that open when you flex the rubber hard; chapter 8 is the long version of what air and light do to rubber. A tire that cracks when flexed is finished, whatever it looks like.
 
 Nobody you will ever meet can make one. That is the sentence. A tire is cured rubber over steel and fabric in a heated mould under pressure. There is no yard version of it, which is not true of a gasket. We kept two trucks running for the Bell Country out to the far side of the lake in my eleventh year, and what I remember is an afternoon with a sidewall gone on a slope and nothing to put in its place.
 
