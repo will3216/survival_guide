@@ -133,8 +133,26 @@ def check_illo_blocks(name: str, text: str) -> list[str]:
         if block.cls != token:
             errors.append(_err(name, "ILLO", f"{where} class '{block.cls}' disagrees with id token '{token}'"))
         expected = f"](../illustrations/{block.id}.png)"
-        if not any(l.startswith("![") and expected in l for l in block.following_lines):
+        link = next(
+            (l for l in block.following_lines if l.startswith("![") and expected in l),
+            None,
+        )
+        if link is None:
             errors.append(_err(name, "ILLO", f"{where} is not followed by its image link ending '{expected}'"))
+            continue
+        # The link text and the caption are one sentence written twice. A plate's
+        # legend is how its callout numerals reach a reader, so a link that
+        # paraphrases its own caption silently drops the legend.
+        link_text = link[2 : link.index(expected)]
+        if link_text != block.caption:
+            errors.append(
+                _err(
+                    name,
+                    "ILLO",
+                    f"{where} image link text does not match its caption: "
+                    f"link has {link_text!r}, caption has {block.caption!r}",
+                )
+            )
     return errors
 
 

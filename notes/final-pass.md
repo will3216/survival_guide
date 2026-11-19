@@ -355,3 +355,19 @@ book's remaining 1,888-word overrun is still the user's call.
 
 Tooling at the close of the second run: `55 passed`, `Manuscript clean.`
 (exit 0), `Wrote 61 slot(s)`, 61 of 61 image links matching their captions.
+## Guard added after the final pass
+
+`check_illo_blocks` now requires an image link's text to equal its block's
+`caption:` exactly, with two behavioural tests (57 in the suite, was 55).
+
+The two facts belong together. Until this pass the word budget counted the
+image link's text as prose, while already exempting the identical `caption:`
+inside the ILLO block — so every chapter was charged twice for the same
+sentence. Chapters 12 and 13 ran closest to the 3,200 ceiling, and five of
+their plates had quietly had the legend shortened *in the link only*, which is
+how a plate's callout numerals reach a reader. Nobody noticed for eight
+chapters, because nothing compared the two copies.
+
+Exempting link text removed the pressure; this rule removes the drift. The
+budget no longer pays for apparatus, and the apparatus can no longer disagree
+with itself.

@@ -305,3 +305,57 @@ def test_front_matter_is_exempt_from_the_chapter_shape_rules_too(tmp_path):
     (tmp_path / "notes" / "continuity.md").write_text("")
     (tmp_path / "manuscript" / "00-front-matter.md").write_text("# The Long After\n")
     assert lint.lint(tmp_path) == []
+
+
+def test_image_link_text_must_match_the_block_caption(monkeypatch):
+    # A plate's legend is how its callout numerals get explained to a reader.
+    # The link text and the block caption are the same sentence written twice,
+    # and nothing used to check they agreed — so when chapters 12 and 13 were
+    # pressed against the word ceiling, five legends were quietly shortened in
+    # the link while the block kept the real one. The word budget no longer
+    # counts link text, so the pressure is gone; this keeps the drift gone too.
+    import illo_blocks
+
+    block = illo_blocks.IlloBlock(
+        id="04-plate-01",
+        cls="plate",
+        caption="Figure 4.1 - The filter. 1 gravel. 2 sand. 3 charcoal.",
+        alt="A cutaway of a barrel filter.",
+        prompt="Cutaway diagram of a three-layer water filter.",
+        raw_keys={
+            "id": "04-plate-01",
+            "class": "plate",
+            "caption": "Figure 4.1 - The filter. 1 gravel. 2 sand. 3 charcoal.",
+            "alt": "A cutaway of a barrel filter.",
+            "prompt": "Cutaway diagram of a three-layer water filter.",
+        },
+        line=1,
+        following_lines=["![Figure 4.1 - The filter.](../illustrations/04-plate-01.png)"],
+    )
+    monkeypatch.setattr(lint, "parse_blocks", lambda text: [block])
+    errors = lint.check_illo_blocks("04-water.md", "irrelevant")
+    assert any("ILLO" in e and "caption" in e.lower() for e in errors), errors
+
+
+def test_image_link_text_matching_the_caption_is_clean(monkeypatch):
+    import illo_blocks
+
+    caption = "Figure 4.1 - The filter. 1 gravel. 2 sand. 3 charcoal."
+    block = illo_blocks.IlloBlock(
+        id="04-plate-01",
+        cls="plate",
+        caption=caption,
+        alt="A cutaway of a barrel filter.",
+        prompt="Cutaway diagram of a three-layer water filter.",
+        raw_keys={
+            "id": "04-plate-01",
+            "class": "plate",
+            "caption": caption,
+            "alt": "A cutaway of a barrel filter.",
+            "prompt": "Cutaway diagram of a three-layer water filter.",
+        },
+        line=1,
+        following_lines=[f"![{caption}](../illustrations/04-plate-01.png)"],
+    )
+    monkeypatch.setattr(lint, "parse_blocks", lambda text: [block])
+    assert lint.check_illo_blocks("04-water.md", "irrelevant") == []
